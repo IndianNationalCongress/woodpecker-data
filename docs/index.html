@@ -293,10 +293,13 @@
    ========================================================================== */
 
 // SUNSHINE: the one config constant — where the published archive lives.
-// BASE: jsDelivr's GitHub CDN serving the data repo's docs/ — CORS-safe, no R2, no
-// server, no setup. Switch to GitHub Pages or R2 later by changing this ONE line.
+// On GitHub Pages the data is CO-LOCATED (docs/), so read it same-origin → it's
+// FRESH on every push (no CDN cache lag). Anywhere else (local dev, another host)
+// fall back to jsDelivr's GitHub CDN (CORS-safe, ~12h cache).
 // Local dev: append ?data=http://127.0.0.1:8787 to read a local serve/ stand-in.
-const DATA = 'https://cdn.jsdelivr.net/gh/NakliTechie/sunshine-data-ledger@main/docs';
+const DATA = location.hostname.endsWith('github.io')
+  ? '.'
+  : 'https://cdn.jsdelivr.net/gh/NakliTechie/sunshine-data-ledger@main/docs';
 const RELAY_URL = ''; // sovereign zero-retention relay; empty => relay rung off (mock)
 
 // dev convenience only: ?data=<url> overrides DATA for local testing.
