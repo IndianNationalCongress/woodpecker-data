@@ -18,7 +18,7 @@
 -->
 <meta http-equiv="Content-Security-Policy" content="
   default-src 'self';
-  script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://cdn.jsdelivr.net;
+  script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' blob: https://cdn.jsdelivr.net;
   worker-src 'self' blob:;
   child-src 'self' blob:;
   style-src 'self' 'unsafe-inline';
@@ -652,9 +652,9 @@ function setupTextToggle(det){
    Neither ready -> a clearly-flagged MOCK template, so a summary always renders.
    Summaries cached in IndexedDB (keyed by ocid) -> re-open is instant.          */
 const MODELS = [
-  { key:'lfm2-8b-a1b',   id:'onnx-community/LFM2-8B-A1B-ONNX',       dtype:'q4f16', label:'LFM2 8B-A1B (MoE)',            size:'~4.8 GB', note:'8B total, ~1B active per token — strong, and browser-fast for its size; proven in-browser (symmetric QMoE).' },
-  { key:'gemma3-1b',     id:'onnx-community/gemma-3-1b-it-ONNX-GQA', dtype:'q4f16', label:'Gemma 3 1B (fast)',            size:'~760 MB', note:'Small and quick; lighter summaries.' },
-  { key:'lfm2.5-8b-a1b', id:'LiquidAI/LFM2.5-8B-A1B-ONNX',          dtype:'q4f16', label:'LFM2.5 8B-A1B (experimental)', size:'~4.8 GB', note:"Newest from Liquid AI. MAY FAIL/STALL — its ONNX is asymmetric QMoE, which onnxruntime-web's WebGPU can't run yet. If it sticks at ~57%, switch to LFM2 8B-A1B." },
+  { key:'lfm2-8b-a1b', id:'onnx-community/LFM2-8B-A1B-ONNX',       dtype:'q4f16', kind:'causal',     label:'LFM2 8B-A1B (MoE)', size:'~4.8 GB', note:'8B total / ~1B active per token (MoE) — strongest here; largest download. Proven in-browser.' },
+  { key:'gemma4-e2b',  id:'onnx-community/gemma-4-E2B-it-ONNX',    dtype:'q4f16', kind:'multimodal', label:'Gemma 4 E2B',       size:'~1.5 GB', note:'Google Gemma 4, effective-2B (multimodal) — good quality/size balance.' },
+  { key:'bonsai-4b',   id:'onnx-community/Ternary-Bonsai-4B-ONNX', dtype:'q2f16', kind:'causal',     label:'Ternary Bonsai 4B', size:'~1.1 GB', note:'4B (Qwen3-based) at 2-bit ternary — the smallest download here.' },
 ];
 const ai = { mode: localStorage.getItem(LS+'ai.mode')||'local', modelKey: localStorage.getItem(LS+'ai.model')||'lfm2-8b-a1b',
              worker:null, ready:false, loadedKey:null, loading:false, pct:0,
@@ -676,18 +676,36 @@ async function putSummary(key,val){ try{ const db=await idb(); db.transaction('s
    blob MIME application/javascript, and a worker 'error' listener (blob module
    workers fail SILENTLY without one). Weights stream from HuggingFace.          */
 const AI_WORKER_SRC = `
-import { env, AutoTokenizer, AutoModelForCausalLM, TextStreamer } from 'https://cdn.jsdelivr.net/npm/@huggingface/transformers@4/+esm';
-env.allowRemoteModels = true; env.fetch = self.fetch;
-let tok, model;
+let env, AutoTokenizer, AutoModelForCausalLM, AutoProcessor, Gemma4ForConditionalGeneration, TextStreamer, tok, proc, model;
+// A blob: module worker's STATIC top-level import of a cross-origin module fails
+// (opaque worker error, no CSP violation). The DYNAMIC import() form works — this is
+// SansadSaar's pattern. Assign the module exports, then await __ready before any use.
+const __ready = import('https://cdn.jsdelivr.net/npm/@huggingface/transformers@4/+esm').then(m => {
+  env=m.env; AutoTokenizer=m.AutoTokenizer; AutoModelForCausalLM=m.AutoModelForCausalLM;
+  AutoProcessor=m.AutoProcessor; Gemma4ForConditionalGeneration=m.Gemma4ForConditionalGeneration; TextStreamer=m.TextStreamer;
+  env.allowRemoteModels = true;   // do NOT reassign env.fetch — transformers.js already binds the
+  // worker's global fetch; reassigning it unbound throws "Illegal invocation" on first download.
+});
 self.onmessage = async ({data}) => { try {
+  await __ready;
   if (data.type === 'load') {
     const cb = p => self.postMessage({ type:'progress', data:p });
-    tok = await AutoTokenizer.from_pretrained(data.id, { progress_callback: cb });
-    model = await AutoModelForCausalLM.from_pretrained(data.id, { dtype:data.dtype, device:'webgpu', progress_callback: cb });
+    if (data.kind === 'multimodal') {
+      // Gemma 4 E2B etc. — needs the conditional-generation class + a processor
+      proc = await AutoProcessor.from_pretrained(data.id, { progress_callback: cb });
+      tok = proc.tokenizer;
+      model = await Gemma4ForConditionalGeneration.from_pretrained(data.id, { dtype:data.dtype, device:'webgpu', progress_callback: cb });
+    } else {
+      proc = null;
+      tok = await AutoTokenizer.from_pretrained(data.id, { progress_callback: cb });
+      model = await AutoModelForCausalLM.from_pretrained(data.id, { dtype:data.dtype, device:'webgpu', progress_callback: cb });
+    }
     await model.generate({ ...tok('a'), max_new_tokens:1 });   // warmup: compile shaders
     self.postMessage({ type:'ready' });
   } else if (data.type === 'gen') {
-    const inputs = tok.apply_chat_template(data.messages, { add_generation_prompt:true, return_dict:true });
+    let inputs;
+    if (proc) { const prompt = proc.apply_chat_template(data.messages, { add_generation_prompt:true }); inputs = await proc(prompt, null, null, { add_special_tokens:false }); }
+    else { inputs = tok.apply_chat_template(data.messages, { add_generation_prompt:true, return_dict:true }); }
     const streamer = new TextStreamer(tok, { skip_prompt:true, skip_special_tokens:true,
       callback_function: t => self.postMessage({ type:'token', id:data.id, token:t }) });
     await model.generate({ ...inputs, max_new_tokens:data.max||320, do_sample:true, temperature:0.3, top_p:0.9, streamer });
@@ -719,7 +737,7 @@ function aiLoadModel(){
   const mdl=aiModel();
   aiStartWorker(); ai.loading=true; ai.pct=0; ai.onstate();
   ai._loadPromise = new Promise((res,rej)=>{ ai._loadRes=res; ai._loadRej=rej; });
-  ai.worker.postMessage({type:'load', id:mdl.id, dtype:mdl.dtype});
+  ai.worker.postMessage({type:'load', id:mdl.id, dtype:mdl.dtype, kind:mdl.kind});
   return ai._loadPromise;
 }
 function aiGenLocal(messages, onToken, max){
