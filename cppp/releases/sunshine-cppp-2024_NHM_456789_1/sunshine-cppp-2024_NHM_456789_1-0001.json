@@ -1,0 +1,56 @@
+{
+  "ocid": "sunshine-cppp-2024_NHM_456789_1",
+  "id": "sunshine-cppp-2024_NHM_456789_1-0001",
+  "date": "2024-03-05T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "National Health Mission, Govt of Karnataka",
+    "id": "IN-ORG-national-health-mission-govt-of-karnatak"
+  },
+  "tender": {
+    "id": "2024_NHM_456789_1",
+    "title": "Construction of 30-bed Rural Health Centre at Tumakuru",
+    "status": "active",
+    "procuringEntity": {
+      "name": "National Health Mission, Govt of Karnataka",
+      "id": "IN-ORG-national-health-mission-govt-of-karnatak"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 48500000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2024-04-05T00:00:00Z"
+    }
+  },
+  "documents": [
+    {
+      "id": "sunshine-cppp-2024_NHM_456789_1-0001-1",
+      "documentType": "biddingDocuments",
+      "title": "Notice Inviting Tender & RFP",
+      "url": "/files/e5bd413d033091bc5097771ca7eda7b9ae98fe1a8b6c2277f353be44ac1b4c94.pdf",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app/DownloadFile?fileId=2024_NHM_456789_1-cppp_nhm_rfp.pdf",
+      "sourceAlive": true,
+      "sha256": "e5bd413d033091bc5097771ca7eda7b9ae98fe1a8b6c2277f353be44ac1b4c94",
+      "format": "application/pdf",
+      "textUrl": "/files/e5bd413d033091bc5097771ca7eda7b9ae98fe1a8b6c2277f353be44ac1b4c94.txt",
+      "extractionMethod": "pdftotext"
+    },
+    {
+      "id": "sunshine-cppp-2024_NHM_456789_1-0001-2",
+      "documentType": "technicalSpecifications",
+      "title": "Bill of Quantities (BOQ)",
+      "url": "/files/4263d84ca37811c408df4f4bfee456cb9b5803db82b82304e5b5e647b483531f.zip",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app/DownloadFile?fileId=2024_NHM_456789_1-cppp_nhm_boq_v1.zip",
+      "sourceAlive": true,
+      "sha256": "4263d84ca37811c408df4f4bfee456cb9b5803db82b82304e5b5e647b483531f",
+      "format": "application/zip",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
