@@ -1,0 +1,38 @@
+# Compile / build step — the ONE shared workflow (the build step, not a scraper;
+# it is allowed to read across sources). Triggered when any source commits new
+# releases or observations. Compiles records + monthly indices + manifest, then
+# publishes the serving layer to R2 (inert until R2_* secrets are set).
+name: compile
+on:
+  push:
+    paths:
+      - "*/releases/**"
+      - "*/observations/**"
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: compile
+  cancel-in-progress: true
+env:
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Compile records + indices + manifest (incl. observed timeline) -> ./serve
+        run: python3 compile/compile.py --data . --serve ./serve
+      - name: Publish serving layer to R2 (S3 API; NOT /files — scrapers own those)
+        if: ${{ env.R2_ACCESS_KEY_ID != '' }}
+        env:
+          R2_ACCESS_KEY_ID:     ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_S3_ENDPOINT:       ${{ secrets.R2_S3_ENDPOINT }}
+          R2_BUCKET:            ${{ secrets.R2_BUCKET }}
+        run: |
+          pip install awscli >/dev/null
+          aws s3 sync ./serve "s3://${R2_BUCKET}" --endpoint-url "$R2_S3_ENDPOINT" \
+            --exclude "files/*" --no-progress

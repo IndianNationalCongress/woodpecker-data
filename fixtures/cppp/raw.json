@@ -1,0 +1,155 @@
+{
+  "portal": "cppp",
+  "engine": "gepnic",
+  "portalBase": "https://eprocure.gov.in/eprocure/app",
+  "tenders": [
+    {
+      "tender_id": "2024_NHM_456789_1",
+      "org": "National Health Mission, Govt of Karnataka",
+      "events": [
+        {
+          "type": "published",
+          "date": "2024-03-05",
+          "title": "Construction of 30-bed Rural Health Centre at Tumakuru",
+          "value": 48500000,
+          "closing": "2024-04-05",
+          "status": "Live",
+          "category": "Works",
+          "docs": [
+            {"name": "Notice Inviting Tender & RFP", "file": "cppp_nhm_rfp.pdf", "type": "biddingDocuments", "alive": true},
+            {"name": "Bill of Quantities (BOQ)", "file": "cppp_nhm_boq_v1.zip", "type": "technicalSpecifications", "alive": true}
+          ]
+        },
+        {
+          "type": "corrigendum",
+          "seq": 1,
+          "date": "2024-03-18",
+          "summary": "Bid submission closing date extended from 05-Apr-2024 to 22-Apr-2024 following pre-bid vendor queries.",
+          "closing": "2024-04-22",
+          "docs": [
+            {"name": "Corrigendum-1 (Date Extension)", "file": "cppp_nhm_corr1.pdf", "type": "tenderNotice", "alive": true}
+          ]
+        },
+        {
+          "type": "corrigendum",
+          "seq": 2,
+          "date": "2024-04-02",
+          "summary": "Revised BOQ: item 14 (structural steel) corrected 12.5 MT to 18.2 MT; minimum-turnover eligibility reduced from INR 5 Cr to INR 2 Cr.",
+          "closing": "2024-04-22",
+          "docs": [
+            {"name": "Revised Bill of Quantities (BOQ)", "file": "cppp_nhm_boq_v2.zip", "type": "technicalSpecifications", "alive": true},
+            {"name": "Notice Inviting Tender & RFP", "file": "cppp_nhm_rfp.pdf", "type": "biddingDocuments", "alive": true}
+          ]
+        },
+        {
+          "type": "bidOpening",
+          "date": "2024-04-23",
+          "summary": "Technical bids opened. 6 bidders participated.",
+          "docs": [
+            {"name": "Technical Bid Opening Minutes", "file": "cppp_nhm_bidopen.pdf", "type": "tenderNotice", "alive": true}
+          ]
+        },
+        {
+          "type": "award",
+          "date": "2024-05-10",
+          "summary": "Contract awarded to Sri Venkateshwara Constructions Pvt Ltd at INR 4.62 Cr.",
+          "value": 46200000,
+          "supplier": "Sri Venkateshwara Constructions Pvt Ltd",
+          "docs": [
+            {"name": "Award of Contract (AOC)", "file": "cppp_nhm_aoc.pdf", "type": "awardNotice", "alive": true}
+          ]
+        }
+      ]
+    },
+    {
+      "tender_id": "2024_EDU_112233_1",
+      "org": "Dept of School Education, Govt of Karnataka",
+      "events": [
+        {
+          "type": "published",
+          "date": "2024-02-12",
+          "title": "Supply of 1,200 Laptops for Government Higher Secondary Schools",
+          "value": 60000000,
+          "closing": "2024-03-12",
+          "status": "Live",
+          "category": "Goods",
+          "docs": [
+            {"name": "Tender Document (scanned)", "file": "cppp_edu_rfp_scanned.pdf", "type": "biddingDocuments", "alive": true, "scanned": true}
+          ]
+        },
+        {
+          "type": "award",
+          "date": "2024-04-01",
+          "summary": "Awarded to Hindustan Computers Ltd.",
+          "value": 58400000,
+          "supplier": "Hindustan Computers Ltd",
+          "docs": [
+            {"name": "Award of Contract (AOC)", "file": "cppp_edu_aoc.pdf", "type": "awardNotice", "alive": true}
+          ]
+        }
+      ]
+    },
+    {
+      "tender_id": "2023_PWD_998877_1",
+      "org": "Public Works Dept, Govt of Karnataka",
+      "events": [
+        {
+          "type": "published",
+          "date": "2023-11-01",
+          "title": "Resurfacing of SH-33 Tumakuru-Sira Road (Km 12 to Km 28)",
+          "value": 92000000,
+          "closing": "2023-12-01",
+          "status": "Closed",
+          "category": "Works",
+          "docs": [
+            {"name": "Notice Inviting Tender & RFP", "file": "cppp_pwd_rfp.pdf", "type": "biddingDocuments", "alive": false}
+          ]
+        }
+      ]
+    },
+    {
+      "tender_id": "2024_WRD_334455_1",
+      "org": "Water Resources Dept, Govt of Karnataka",
+      "_fixture": "SILENTLY EDITED — re-poll finds the estimated value changed with no corrigendum; exercises undeclaredChange (v1.0 capture floor / v1.1 diff substrate).",
+      "events": [
+        {
+          "type": "published",
+          "date": "2024-03-01",
+          "title": "Lift Irrigation Scheme — Pump House Civil Works, Raichur",
+          "value": 35000000,
+          "closing": "2024-04-01",
+          "status": "Live",
+          "category": "Works",
+          "docs": [
+            {"name": "Notice Inviting Tender & RFP", "file": "cppp_wrd_rfp.pdf", "type": "biddingDocuments", "alive": true}
+          ]
+        }
+      ],
+      "observations": [
+        {"observedAt": "2024-03-21", "statePatch": {"value": {"amount": 52000000, "currency": "INR"}}, "note": "Estimated value silently raised from ₹3.5 Cr to ₹5.2 Cr — no corrigendum issued, no portal notice."}
+      ]
+    },
+    {
+      "tender_id": "2024_RTO_556677_1",
+      "org": "Transport Dept, Govt of Karnataka",
+      "_fixture": "PULLED — re-poll 404s/delists; exercises availability:removed (distinct from a dead document link).",
+      "events": [
+        {
+          "type": "published",
+          "date": "2024-03-10",
+          "title": "Supply & Installation of ANPR Cameras at 40 RTO Check-posts",
+          "value": 78000000,
+          "closing": "2024-04-10",
+          "status": "Live",
+          "category": "Goods",
+          "docs": [
+            {"name": "Notice Inviting Tender & RFP", "file": "cppp_rto_rfp.pdf", "type": "biddingDocuments", "alive": true}
+          ]
+        }
+      ],
+      "observations": [
+        {"observedAt": "2024-04-20", "removed": true, "note": "Tender delisted from the portal with no cancellation notice — a pull, not just a dead document link."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "portal": "rajasthan",
+  "engine": "gepnic",
+  "portalBase": "https://eproc.rajasthan.gov.in/nicgep/app",
+  "tenders": [
+    {
+      "tender_id": "RAJ_2024_PHED_77001",
+      "org": "Public Health Engineering Dept, Govt of Rajasthan",
+      "events": [
+        {
+          "type": "published",
+          "date": "2024-03-20",
+          "title": "Lining of Indira Gandhi Canal Distributary RD 145-168",
+          "value": 137000000,
+          "closing": "2024-04-20",
+          "status": "Live",
+          "category": "Works",
+          "docs": [
+            {"name": "Notice Inviting Bid & RFP", "file": "raj_phed_rfp.pdf", "type": "biddingDocuments", "alive": true}
+          ]
+        },
+        {
+          "type": "corrigendum",
+          "seq": 1,
+          "date": "2024-04-05",
+          "summary": "Pre-bid meeting outcome: clause 4.2 (EMD) revised to bank guarantee permitted; bid closing extended to 30-Apr-2024.",
+          "closing": "2024-04-30",
+          "docs": [
+            {"name": "Corrigendum-1 (Pre-bid)", "file": "raj_phed_corr1.pdf", "type": "tenderNotice", "alive": true}
+          ]
+        },
+        {
+          "type": "bidOpening",
+          "date": "2024-05-02",
+          "summary": "Financial bids opened. L1 bidder: Marudhara Infra Projects.",
+          "docs": [
+            {"name": "Financial Bid Opening Minutes", "file": "raj_phed_bidopen.pdf", "type": "tenderNotice", "alive": true}
+          ]
+        }
+      ]
+    }
+  ]
+}

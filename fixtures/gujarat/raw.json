@@ -1,0 +1,28 @@
+{
+  "portal": "gujarat",
+  "engine": "nprocure",
+  "portalBase": "https://www.nprocure.com",
+  "_note": "nProcure / (n)Code engine — deliberately DIFFERENT field shape from GePNIC, so gujarat/scraper/scrape.py must map its own raw model onto the OCDS subset. This proves the source-module abstraction across engines.",
+  "runError": "nProcure DSC/session handshake timed out (NIC-CA applet did not respond); new-tender discovery aborted for this run.",
+  "staleSince": "2026-05-29T02:14:00Z",
+  "tenderList": [
+    {
+      "nitId": "GUJ-GMC-2024-0457",
+      "department": "Surat Municipal Corporation, Govt of Gujarat",
+      "estimatedCost": 256000000,
+      "stages": [
+        {
+          "stage": "PUBLISHED",
+          "eventDate": "2024-03-28",
+          "tenderTitle": "Integrated Municipal Solid Waste Management & Processing Facility (DBOT, 10 years)",
+          "bidEndDate": "2024-05-02",
+          "tenderStatus": "Open",
+          "workCategory": "Services",
+          "attachments": [
+            {"label": "Tender Notice cum RFP Volume-I", "fileName": "guj_smc_rfp.pdf", "category": "biddingDocuments", "available": true}
+          ]
+        }
+      ]
+    }
+  ]
+}

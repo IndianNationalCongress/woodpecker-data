@@ -1,0 +1,11 @@
+# Sunshine data-pipeline deps — PINNED for byte-reproducible fixtures.
+#
+# Fixture generation must be deterministic: reportlab's invariant mode pins the
+# PDF /CreationDate + /ID, and Pillow's bundled font renders the scanned-PDF
+# fixture identically — but only if the library versions match. Pinning here keeps
+# a fresh clone and CI regenerating the same content-addressed shas, so the
+# committed ledger's /files/<sha> links always resolve.
+#
+# Everything else in the pipeline is stdlib + the poppler/tesseract CLIs.
+reportlab==4.5.1
+pillow==11.3.0
