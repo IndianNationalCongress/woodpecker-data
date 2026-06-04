@@ -253,6 +253,9 @@
       </select>
     </label>
     <div id="ai-local-box">
+      <label>Model
+        <select id="ai-model-pick"></select>
+      </label>
       <div class="rung" id="ai-model-info"></div>
       <div id="ai-load-wrap" style="display:none">
         <div class="progress"><div class="progress-bar" id="ai-load-bar"></div></div>
@@ -648,9 +651,15 @@ function setupTextToggle(det){
      • BYOK  — your Anthropic/OpenAI key, POSTed straight to the provider.
    Neither ready -> a clearly-flagged MOCK template, so a summary always renders.
    Summaries cached in IndexedDB (keyed by ocid) -> re-open is instant.          */
-const AI_MODEL = { id:'onnx-community/gemma-3-1b-it-ONNX-GQA', dtype:'q4f16', label:'Gemma 3 1B Instruct', size:'~760 MB' };
-const ai = { mode: localStorage.getItem(LS+'ai.mode')||'local', worker:null, ready:false, loading:false, pct:0,
+const MODELS = [
+  { key:'lfm2-8b-a1b',   id:'onnx-community/LFM2-8B-A1B-ONNX',       dtype:'q4f16', label:'LFM2 8B-A1B (MoE)',            size:'~4.8 GB', note:'8B total, ~1B active per token — strong, and browser-fast for its size; proven in-browser (symmetric QMoE).' },
+  { key:'gemma3-1b',     id:'onnx-community/gemma-3-1b-it-ONNX-GQA', dtype:'q4f16', label:'Gemma 3 1B (fast)',            size:'~760 MB', note:'Small and quick; lighter summaries.' },
+  { key:'lfm2.5-8b-a1b', id:'LiquidAI/LFM2.5-8B-A1B-ONNX',          dtype:'q4f16', label:'LFM2.5 8B-A1B (experimental)', size:'~4.8 GB', note:"Newest from Liquid AI. MAY FAIL/STALL — its ONNX is asymmetric QMoE, which onnxruntime-web's WebGPU can't run yet. If it sticks at ~57%, switch to LFM2 8B-A1B." },
+];
+const ai = { mode: localStorage.getItem(LS+'ai.mode')||'local', modelKey: localStorage.getItem(LS+'ai.model')||'lfm2-8b-a1b',
+             worker:null, ready:false, loadedKey:null, loading:false, pct:0,
              _gen:new Map(), _seq:0, _loadRes:null, _loadRej:null, _loadPromise:null, onstate:()=>{} };
+function aiModel(){ return MODELS.find(m=>m.key===ai.modelKey) || MODELS[0]; }
 function aiKey(){ return localStorage.getItem(LS+'aikey')||''; }
 function aiProvider(){ return localStorage.getItem(LS+'aiprov')||'anthropic'; }
 
@@ -693,7 +702,7 @@ function aiStartWorker(){
     if(ai._loadRej){ ai._loadRej(new Error('worker: '+((ev&&ev.message)||'failed to start'))); ai._loadRej=ai._loadRes=null; } });
   ai.worker.onmessage = ({data})=>{
     if(data.type==='progress'){ if(data.data&&data.data.total){ ai.pct=Math.round(100*data.data.loaded/data.data.total); ai.onstate(); } }
-    else if(data.type==='ready'){ ai.ready=true; ai.loading=false; ai.pct=100; ai.onstate(); if(ai._loadRes){ai._loadRes();ai._loadRes=ai._loadRej=null;} }
+    else if(data.type==='ready'){ ai.ready=true; ai.loading=false; ai.loadedKey=ai.modelKey; ai.pct=100; ai.onstate(); if(ai._loadRes){ai._loadRes();ai._loadRes=ai._loadRej=null;} }
     else if(data.type==='token'){ const g=ai._gen.get(data.id); if(g){ g.full+=data.token; g.onToken&&g.onToken(g.full); } }
     else if(data.type==='done'){ const g=ai._gen.get(data.id); if(g){ g.resolve(g.full); ai._gen.delete(data.id);} }
     else if(data.type==='error'){ const g=ai._gen.get(data.id);
@@ -702,12 +711,15 @@ function aiStartWorker(){
   };
 }
 function aiLoadModel(){
-  if(ai.ready) return Promise.resolve();
+  if(ai.ready && ai.loadedKey===ai.modelKey) return Promise.resolve();
   if(!navigator.gpu) return Promise.reject(new Error('WebGPU not available — switch to BYOK in AI settings, or use Chrome/Edge 113+ / Firefox 130+.'));
+  // switching models: drop the old worker so we load the newly-picked model fresh
+  if(ai.worker && ai.loadedKey && ai.loadedKey!==ai.modelKey){ try{ai.worker.terminate();}catch(e){} ai.worker=null; ai.ready=false; }
   if(ai.loading && ai._loadPromise) return ai._loadPromise;
+  const mdl=aiModel();
   aiStartWorker(); ai.loading=true; ai.pct=0; ai.onstate();
   ai._loadPromise = new Promise((res,rej)=>{ ai._loadRes=res; ai._loadRej=rej; });
-  ai.worker.postMessage({type:'load', id:AI_MODEL.id, dtype:AI_MODEL.dtype});
+  ai.worker.postMessage({type:'load', id:mdl.id, dtype:mdl.dtype});
   return ai._loadPromise;
 }
 function aiGenLocal(messages, onToken, max){
@@ -788,7 +800,7 @@ async function mountSummary(rec){
   const cached=await getSummary(rec.ocid);
   if(cached){ renderSummaryBox(box, rec, cached, false); return; }
   const modeNote = ai.mode==='local'
-    ? (navigator.gpu ? `on-device · downloads ${AI_MODEL.size} once, then cached` : 'on-device unavailable (no WebGPU) — set a key in AI settings')
+    ? (navigator.gpu ? `on-device · ${aiModel().label}, downloads ${aiModel().size} once then cached` : 'on-device unavailable (no WebGPU) — set a key in AI settings')
     : (aiKey() ? 'your API key' : 'no key set — shows a mock; configure in AI settings');
   box.innerHTML=`<div class="summary-cta">
     <div class="summary-h">${ICON.spark}<b>Summary</b></div>
@@ -832,17 +844,25 @@ function fingerprint(k){ if(!k) return ''; return k.slice(0,3)+'…'+k.slice(-4)
 function toggleAIBoxes(){ const m=$('#ai-mode').value;
   $('#ai-local-box').style.display = m==='local'?'block':'none';
   $('#ai-byok-box').style.display  = m==='byok'?'block':'none'; }
+function aiModelInfo(){ const mdl=aiModel(); const loaded=ai.ready&&ai.loadedKey===ai.modelKey;
+  return `${mdl.note} · ${mdl.size}. ${navigator.gpu?'WebGPU available.':'WebGPU NOT available here — use BYOK.'}${loaded?' · Loaded ✓':''}`; }
+function aiLoadBtnState(){ const b=$('#ai-load'); if(!b) return; const loaded=ai.ready&&ai.loadedKey===ai.modelKey;
+  b.textContent=loaded?'Model loaded ✓':(ai.loading?'Loading…':'Download & load model'); b.disabled=loaded||ai.loading||!navigator.gpu; }
 function openAIModal(){
   const m=$('#ai-modal');
   $('#ai-mode').value=ai.mode; $('#ai-provider').value=aiProvider(); $('#ai-key').value='';
-  $('#ai-model-info').textContent = `${AI_MODEL.label} · ${AI_MODEL.size}. ${navigator.gpu?'WebGPU available.':'WebGPU NOT available here — use BYOK.'}${ai.ready?' Loaded ✓':''}`;
+  $('#ai-model-pick').innerHTML = MODELS.map(x=>`<option value="${esc(x.key)}">${esc(x.label)} · ${esc(x.size)}</option>`).join('');
+  $('#ai-model-pick').value = ai.modelKey;
+  $('#ai-model-info').textContent = aiModelInfo();
   $('#ai-fp').textContent = aiKey()?('Stored key: '+fingerprint(aiKey())):'No key stored.';
-  const load=$('#ai-load'); load.textContent = ai.ready?'Model loaded ✓':'Download & load model'; load.disabled = ai.ready||ai.loading||!navigator.gpu;
+  aiLoadBtnState();
   toggleAIBoxes();
   if(typeof m.showModal==='function') m.showModal();
 }
 $('#ai-settings').onclick=openAIModal;
 $('#ai-mode').onchange=()=>{ ai.mode=$('#ai-mode').value; localStorage.setItem(LS+'ai.mode',ai.mode); toggleAIBoxes(); };
+$('#ai-model-pick').onchange=()=>{ ai.modelKey=$('#ai-model-pick').value; localStorage.setItem(LS+'ai.model',ai.modelKey);
+  $('#ai-model-info').textContent=aiModelInfo(); aiLoadBtnState(); };
 $('#ai-load').onclick=()=>{
   const wrap=$('#ai-load-wrap'), bar=$('#ai-load-bar'), txt=$('#ai-load-txt'); wrap.style.display='block';
   ai.onstate=()=>{ bar.style.width=ai.pct+'%'; txt.textContent=ai.loading?`Downloading & compiling… ${ai.pct}%`:(ai.ready?'Loaded ✓':''); const l=$('#ai-load'); if(l)l.disabled=ai.ready||ai.loading; };
