@@ -24,10 +24,12 @@ import json
 import os
 import re
 import sys
+import tempfile
 from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import ocds  # vendored helper
+import live  # GePNIC live fetcher (used only in --live mode)
 
 SOURCE = "cppp"
 LABEL = "Central (CPPP)"
@@ -170,33 +172,194 @@ def parse_tender(t, serve_files, base_url):
     return releases, observations
 
 
+# --------------------------------------------------------------------------- #
+# LIVE mode: a real GePNIC tender (from live.fetch_recent_tenders) -> the SAME
+# OCDS + observation contract as fixture mode. Only the SOURCE of the tender
+# differs (real portal vs raw.json); the mapping below mirrors parse_tender for
+# a single observed 'published' lifecycle point.
+# --------------------------------------------------------------------------- #
+_MONTHS = {m: i for i, m in enumerate(
+    ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+     "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], start=1)}
+
+
+def _live_date(s: str) -> str:
+    """GePNIC 'DD-Mon-YYYY HH:MM AM/PM' -> 'YYYY-MM-DD' (date only; ocds.iso adds T00:00:00Z)."""
+    if not s:
+        return ""
+    m = re.match(r"(\d{2})-([A-Za-z]{3})-(\d{4})", s)
+    if not m:
+        return ""
+    day, mon, year = m.group(1), m.group(2).title(), m.group(3)
+    if mon not in _MONTHS:
+        return ""
+    return f"{year}-{_MONTHS[mon]:02d}-{int(day):02d}"
+
+
+def _live_amount(s: str):
+    """'2,49,968' (Indian grouping) / '57,35,090.00' -> int rupees, or None."""
+    if not s:
+        return None
+    digits = re.sub(r"[^0-9.]", "", s)
+    if not digits:
+        return None
+    try:
+        return int(round(float(digits)))
+    except ValueError:
+        return None
+
+
+def parse_live_tender(lt, serve_files, base_url):
+    """One live GePNIC tender dict -> (ordered OCDS releases, observations).
+
+    We observe a single 'published' lifecycle point (these are active tenders).
+    DOCUMENT NOTE: the real PDF bytes on GePNIC are not GET-fetchable (a stateful
+    Tapestry listener, no per-file URL — see live.py). So the content-addressed
+    artifact we store is the real, publicly-fetched DETAIL-PAGE HTML; each portal
+    document is recorded with its real title + portal URL but sourceAlive=False
+    (binary gated). That keeps the capture greedy on what's public and honest
+    about what isn't.
+    """
+    f = lt.get("fields", {})
+    tid = (f.get("Tender ID") or lt.get("tender_id") or "").strip()
+    org = (f.get("Organisation Chain") or "Unknown Organisation").strip()
+    title = (f.get("Work Description") or f.get("Title") or lt.get("title") or tid).strip()
+    # GePNIC 'Tender Category' is Works/Goods/Services (OCDS mainProcurementCategory)
+    category = f.get("Tender Category") or f.get("Product Category") or ""
+    value = _live_amount(f.get("Tender Value in ₹") or f.get("Tender Value in ₹") or "")
+    closing = _live_date(f.get("Bid Submission End Date") or lt.get("closing") or "")
+    published = _live_date(f.get("Published Date") or lt.get("published") or "") or closing
+
+    ocid = ocds.ocid_for(SOURCE, tid)
+
+    # --- content-address the REAL detail-page HTML as this fetch's artifact ---
+    documents = []
+    detail_html = lt.get("detail_html") or ""
+    if detail_html:
+        with tempfile.NamedTemporaryFile(
+            "w", suffix=".txt", delete=False, encoding="utf-8"
+        ) as tmp:
+            # store as .txt so ocds.extract_text keeps the captured text verbatim
+            tmp.write(detail_html)
+            tmp_path = tmp.name
+        try:
+            doc = ocds.store_document(
+                serve_files,
+                src_path=tmp_path,
+                doc_id=f"{ocid}-0001-snapshot",
+                document_type="tenderNotice",
+                title=f"CPPP tender detail page (captured) — {tid}",
+                source_url=lt.get("detail_url", base_url),
+                source_alive=True,           # the detail PAGE is live + fetched
+            )
+            documents.append(doc)
+        finally:
+            os.unlink(tmp_path)
+
+    # --- record each portal-listed PDF (binary gated => sourceAlive False) ---
+    for i, name in enumerate(lt.get("documents", []), start=1):
+        documents.append({
+            "id": f"{ocid}-0001-doc-{i}",
+            "documentType": "biddingDocuments",
+            "title": name,
+            "url": None,                     # binary not retrievable by GET (gated)
+            "sourceUrl": lt.get("detail_url", base_url),
+            "sourceAlive": False,            # PDF is behind a stateful listener
+            "sha256": None,
+            "format": "application/pdf",
+            "textUrl": None,
+            "extractionMethod": "none",
+        })
+
+    cum_docs = [{"id": d["id"], "sha256": d["sha256"]}
+                for d in documents if d.get("sha256")]
+
+    tender = build_tender(tid, title, org, category, "active", value, closing)
+    tender["description"] = title
+
+    rel = ocds.build_release(
+        source=SOURCE, tender_id=tid, seq=1, event_type="published",
+        date=published, buyer={"name": org, "id": f"IN-ORG-{slug(org)[:40]}"},
+        tender=tender, documents=documents, amendment=None,
+    )
+
+    # one fetch -> one observation: declared True, availability present
+    fetches = [{
+        "observedAt": ocds.now_iso(), "declared": True,
+        "state": _observable(tender),
+        "doc_hashes": list(cum_docs),
+        "raw": {"event": "published", "source": "live", "tender": tender,
+                "portalTenderId": tid, "reference": f.get("Tender Reference Number", ""),
+                "documents": [{"id": d["id"], "title": d["title"],
+                               "sourceAlive": d["sourceAlive"]} for d in documents]},
+    }]
+    observations = ocds.build_observation_sequence(
+        source=SOURCE, ocid=ocid, fetches=fetches, serve_files_dir=serve_files)
+    return [rel], observations
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--raw", default=str(ROOT / "fixtures" / SOURCE / "raw.json"))
     ap.add_argument("--releases", default=str(SRC_DIR / "releases"))
     ap.add_argument("--observations", default=str(SRC_DIR / "observations"))
     ap.add_argument("--serve", default=str(ROOT / "serve"))
+    ap.add_argument("--live", action="store_true",
+                    help="Pull a small, bounded set of REAL recent tenders from the "
+                         "public CPPP/GePNIC browse-by-date listing (GET-only, no "
+                         "captcha, no POST). Default off = fixture mode.")
+    ap.add_argument("--max", type=int, default=3,
+                    help="Max tenders to pull in --live mode (default 3, hard cap 10).")
     args = ap.parse_args()
 
-    raw = json.load(open(args.raw, encoding="utf-8"))
-    base_url = raw.get("portalBase", "https://eprocure.gov.in/eprocure/app")
+    base_url = "https://eprocure.gov.in/eprocure/app"
     serve_files = os.path.join(args.serve, "files")
     serve_source = os.path.join(args.serve, SOURCE)
 
     written, obs_written, tenders = 0, 0, 0
     try:
-        for t in raw["tenders"]:
-            tenders += 1
-            releases, observations = parse_tender(t, serve_files, base_url)
-            for rel in releases:
-                _, did_write = ocds.write_release(args.releases, rel)
-                written += did_write
-            for obs in observations:
-                _, did_write = ocds.write_observation(args.observations, obs)
-                obs_written += did_write
+        if args.live:
+            # --- LIVE: real portal is the SOURCE; same OCDS/observation transform ---
+            try:
+                live_tenders = live.fetch_recent_tenders(args.max)
+            except live.LiveBlocked as blk:
+                # We hit a gate we won't circumvent. Leave fixture data intact,
+                # record the blocker, and exit cleanly (not a crash).
+                msg = f"live mode blocked (no circumvention attempted): {blk}"
+                print(f"[{SOURCE}] {msg}", file=sys.stderr)
+                ocds.write_status(serve_source, {
+                    "source": SOURCE, "label": LABEL, "engine": "gepnic",
+                    "ok": False, "mode": "live", "lastRun": ocds.now_iso(),
+                    "tendersCaptured": 0, "releasesWritten": 0,
+                    "observationsWritten": 0, "lastError": msg,
+                })
+                return
+            for lt in live_tenders:
+                tenders += 1
+                releases, observations = parse_live_tender(lt, serve_files, base_url)
+                for rel in releases:
+                    _, did_write = ocds.write_release(args.releases, rel)
+                    written += did_write
+                for obs in observations:
+                    _, did_write = ocds.write_observation(args.observations, obs)
+                    obs_written += did_write
+        else:
+            # --- FIXTURE (default, unchanged): raw.json is the SOURCE ---
+            raw = json.load(open(args.raw, encoding="utf-8"))
+            base_url = raw.get("portalBase", base_url)
+            for t in raw["tenders"]:
+                tenders += 1
+                releases, observations = parse_tender(t, serve_files, base_url)
+                for rel in releases:
+                    _, did_write = ocds.write_release(args.releases, rel)
+                    written += did_write
+                for obs in observations:
+                    _, did_write = ocds.write_observation(args.observations, obs)
+                    obs_written += did_write
         status = {
             "source": SOURCE, "label": LABEL, "engine": "gepnic",
-            "ok": True, "lastRun": ocds.now_iso(),
+            "ok": True, "mode": "live" if args.live else "fixture",
+            "lastRun": ocds.now_iso(),
             "tendersCaptured": tenders, "releasesWritten": written,
             "observationsWritten": obs_written,
             "lastError": None,
@@ -207,7 +370,8 @@ def main():
     except Exception as exc:  # noqa: BLE001 - a scraper crash must not be silent
         ocds.write_status(serve_source, {
             "source": SOURCE, "label": LABEL, "engine": "gepnic",
-            "ok": False, "lastRun": ocds.now_iso(),
+            "ok": False, "mode": "live" if args.live else "fixture",
+            "lastRun": ocds.now_iso(),
             "tendersCaptured": tenders, "releasesWritten": written,
             "observationsWritten": obs_written,
             "lastError": f"{type(exc).__name__}: {exc}",
