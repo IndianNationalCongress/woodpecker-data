@@ -149,7 +149,7 @@ def index_entry(source, record):
         "lastReleaseDate": releases[-1].get("date", ""),
         "releaseCount": len(releases),
         "corrigendumCount": corrigenda,
-        "hasDeadLink": any(d.get("sourceAlive") is False for d in all_docs),
+        "hasDeadLink": any(d.get("sourceAlive") is False and d.get("url") for d in all_docs),
         "hasOcr": any(d.get("extractionMethod") == "ocr" for d in all_docs),
         # observed-timeline flags -> list badges (the transparency signal)
         "hasUndeclaredChange": summary["undeclaredChangeCount"] > 0,

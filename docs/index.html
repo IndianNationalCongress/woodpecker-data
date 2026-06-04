@@ -28,13 +28,16 @@
 <style>
   /* ---- design tokens (sober public-record palette; one restrained accent) ---- */
   :root{
-    --bg:#f7f6f3; --surface:#ffffff; --surface-2:#f0eee9; --border:#dcd8cf;
-    --ink:#1c1a17; --ink-2:#55504a; --ink-3:#857f76;
-    --accent:#a8690b;            /* sober ochre — "sunshine", not a dashboard */
-    --accent-ink:#ffffff;
-    --ok:#2f7d4f; --warn:#9a5b00; --bad:#a32a25;
+    /* Sunshine — warm, bright, optimistic (light-first). Clean sunny whites,
+       a vivid amber accent, a fresh sky-blue secondary for links/lift. */
+    --bg:#fffaf2; --surface:#ffffff; --surface-2:#fff2da; --border:#f0e3c8;
+    --ink:#241f17; --ink-2:#5f5747; --ink-3:#988c77;
+    --accent:#ef8a17;            /* vivid sunny amber — the sunshine */
+    --accent-ink:#3a2400;        /* warm-dark ink ON the amber (high contrast, cheerful) */
+    --link:#1f7ab8;              /* fresh sky-blue for links/secondary, lifts the warmth */
+    --ok:#1a9d54; --warn:#c9760a; --bad:#e0413a;
     --radius:10px; --maxw:1080px;
-    --shadow:0 1px 2px rgba(0,0,0,.06),0 2px 8px rgba(0,0,0,.04);
+    --shadow:0 1px 2px rgba(150,100,0,.05),0 4px 16px rgba(150,100,0,.07);
     --font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,"Noto Sans",sans-serif;
     --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
   }
@@ -42,14 +45,14 @@
   @media (prefers-color-scheme:dark){ :root:not([data-theme="light"]){
       --bg:#16140f; --surface:#201d17; --surface-2:#272318; --border:#3a352b;
       --ink:#f3efe7; --ink-2:#c3bcae; --ink-3:#8c8576;
-      --accent:#e2a23c; --accent-ink:#1c1305;
+      --accent:#f0a93f; --accent-ink:#241400; --link:#6cc0f0;
       --ok:#5fbf85; --warn:#e0a64a; --bad:#e8736c;
       --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);
   }}
   :root[data-theme="dark"]{
       --bg:#16140f; --surface:#201d17; --surface-2:#272318; --border:#3a352b;
       --ink:#f3efe7; --ink-2:#c3bcae; --ink-3:#8c8576;
-      --accent:#e2a23c; --accent-ink:#1c1305;
+      --accent:#f0a93f; --accent-ink:#241400; --link:#6cc0f0;
       --ok:#5fbf85; --warn:#e0a64a; --bad:#e8736c;
       --shadow:0 1px 2px rgba(0,0,0,.4),0 4px 14px rgba(0,0,0,.3);
   }
@@ -58,7 +61,7 @@
   @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto} *{transition:none!important;animation:none!important}}
   body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font);line-height:1.5;
        -webkit-font-smoothing:antialiased}
-  a{color:var(--accent)}
+  a{color:var(--link)}
   button{font:inherit;cursor:pointer}
   .wrap{max-width:var(--maxw);margin:0 auto;padding:0 18px}
   :focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
@@ -73,14 +76,14 @@
   .grow{flex:1}
   .iconbtn{display:inline-flex;align-items:center;gap:7px;background:var(--surface-2);border:1px solid var(--border);
            color:var(--ink);padding:7px 11px;border-radius:8px}
-  .iconbtn:hover{border-color:var(--accent)}
+  .iconbtn:hover{border-color:var(--link)}
   svg{display:block}
 
   /* ---- source chips ---- */
   .chips{display:flex;gap:8px;flex-wrap:wrap;padding:10px 0 14px}
   .chip{display:inline-flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--border);
         color:var(--ink-2);padding:8px 13px;border-radius:999px;font-weight:600;font-size:14px}
-  .chip[aria-selected="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+  .chip[aria-selected="true"]{background:var(--accent);color:var(--accent-ink);border-color:var(--link)}
   .chip .hd{width:8px;height:8px;border-radius:50%;background:var(--ok)}
   .chip .hd.bad{background:var(--bad)}
   .chip .hd.warn{background:var(--warn)}
@@ -105,7 +108,7 @@
   .grid{display:grid;grid-template-columns:1fr;gap:12px;padding-bottom:40px}
   .card{text-align:left;width:100%;background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
         padding:15px 16px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:8px;transition:border-color .12s}
-  .card:hover{border-color:var(--accent)}
+  .card:hover{border-color:var(--link)}
   .card h3{margin:0;font-size:16px;line-height:1.35}
   .card .meta{color:var(--ink-2);font-size:13px;display:flex;flex-wrap:wrap;gap:4px 14px}
   .tags{display:flex;gap:6px;flex-wrap:wrap}
@@ -114,7 +117,7 @@
   .tag.status-active{color:var(--ok)} .tag.status-complete{color:var(--ink-2)}
   .tag.warnv{color:var(--warn);border-color:color-mix(in srgb,var(--warn) 40%,var(--border))}
   .tag.badv{color:var(--bad);border-color:color-mix(in srgb,var(--bad) 40%,var(--border))}
-  .tag.accent{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 45%,var(--border))}
+  .tag.accent{color:var(--link);border-color:color-mix(in srgb,var(--accent) 45%,var(--border))}
   .val{font-variant-numeric:tabular-nums;font-weight:600;color:var(--ink)}
   .empty{padding:48px 16px;text-align:center;color:var(--ink-3);border:1px dashed var(--border);border-radius:var(--radius)}
 
@@ -143,7 +146,7 @@
      Second, distinct timeline. Declared = issuer's word; observed = our witness.
      Neutral dots for routine captures; --warn for silent edits, --bad for pulls. */
   .obs-head{margin:30px 0 0;font-size:16px;font-weight:700;display:flex;align-items:center;gap:9px;flex-wrap:wrap}
-  .obs-head .ico{color:var(--accent);display:inline-flex}
+  .obs-head .ico{color:var(--link);display:inline-flex}
   .obs-why{color:var(--ink-2);font-size:13.5px;margin:5px 0 0;max-width:62ch}
   .timeline.observed{margin-top:14px}
   .timeline.observed::before{background:color-mix(in srgb,var(--accent) 30%,var(--border))}
@@ -163,15 +166,15 @@
   .doc .links{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
   .doc a.file{display:inline-flex;align-items:center;gap:7px;background:var(--surface-2);border:1px solid var(--border);
               padding:6px 10px;border-radius:8px;color:var(--ink);text-decoration:none;font-size:13px}
-  .doc a.file:hover{border-color:var(--accent)}
+  .doc a.file:hover{border-color:var(--link)}
   .dead{border-color:color-mix(in srgb,var(--bad) 45%,var(--border));background:color-mix(in srgb,var(--bad) 7%,var(--surface))}
   .dead .deadmsg{color:var(--bad);font-weight:600;font-size:13px;margin-top:6px;display:flex;gap:7px;align-items:center}
   .doc.pending{border-color:color-mix(in srgb,var(--warn) 30%,var(--border));background:color-mix(in srgb,var(--warn) 4%,var(--surface))}
   .doc .pendingmsg{color:var(--warn);font-size:12.5px;margin-top:6px;display:flex;gap:7px;align-items:flex-start}
   .deadurl{text-decoration:line-through;color:var(--ink-3);font-size:12.5px;word-break:break-all}
-  .preserved{color:var(--accent);font-weight:700}
+  .preserved{color:var(--link);font-weight:700}
   .txt{margin-top:9px}
-  .txt summary{cursor:pointer;color:var(--accent);font-size:13px;font-weight:600}
+  .txt summary{cursor:pointer;color:var(--link);font-size:13px;font-weight:600}
   .txt pre{white-space:pre-wrap;word-break:break-word;background:var(--surface-2);border:1px solid var(--border);
            border-radius:8px;padding:11px;max-height:320px;overflow:auto;font-size:12.5px;font-family:var(--mono);margin:8px 0 0}
 
@@ -914,7 +917,7 @@ function loadStatuses(){
 
 /* theme toggle — sets data-theme on <html>; CSS attribute blocks do the rest.
    No stored pref => follow prefers-color-scheme (respected by default). */
-(function(){const saved=localStorage.getItem(LS+'theme'); if(saved){document.documentElement.dataset.theme=saved; document.documentElement.style.colorScheme=saved;}})();
+(function(){const saved=localStorage.getItem(LS+'theme')||'light'; document.documentElement.dataset.theme=saved; document.documentElement.style.colorScheme=saved;})();
 $('#theme').onclick=()=>{
   const cur=document.documentElement.dataset.theme||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');
   const next=cur==='dark'?'light':'dark';
