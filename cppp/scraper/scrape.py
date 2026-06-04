@@ -209,6 +209,21 @@ def _live_amount(s: str):
         return None
 
 
+def _live_clean_text(lt):
+    """Readable plain text from the parsed detail fields + document list — the
+    'plain text we keep ourselves', clean (not raw HTML markup) and searchable."""
+    f = lt.get("fields", {})
+    lines = [(lt.get("title") or "").strip(), ""]
+    for cap, val in f.items():
+        if val:
+            lines.append(f"{cap}: {val}")
+    docs = lt.get("documents", [])
+    if docs:
+        lines += ["", "Documents listed on the portal:"]
+        lines += [f"  - {d}" for d in docs]
+    return "\n".join(l for l in lines if l is not None).strip() + "\n"
+
+
 def parse_live_tender(lt, serve_files, base_url):
     """One live GePNIC tender dict -> (ordered OCDS releases, observations).
 
@@ -232,26 +247,29 @@ def parse_live_tender(lt, serve_files, base_url):
 
     ocid = ocds.ocid_for(SOURCE, tid)
 
-    # --- content-address the REAL detail-page HTML as this fetch's artifact ---
+    # --- store the CLEAN extracted text (not raw HTML) as this fetch's artifact,
+    #     and best-effort seed a free Internet Archive snapshot of the page ---
     documents = []
-    detail_html = lt.get("detail_html") or ""
-    if detail_html:
+    clean_text = _live_clean_text(lt)
+    wayback = live.wayback_save(lt.get("detail_url", "")) if lt.get("detail_url") else None
+    if clean_text:
         with tempfile.NamedTemporaryFile(
             "w", suffix=".txt", delete=False, encoding="utf-8"
         ) as tmp:
-            # store as .txt so ocds.extract_text keeps the captured text verbatim
-            tmp.write(detail_html)
+            tmp.write(clean_text)
             tmp_path = tmp.name
         try:
             doc = ocds.store_document(
                 serve_files,
                 src_path=tmp_path,
-                doc_id=f"{ocid}-0001-snapshot",
+                doc_id=f"{ocid}-0001-record",
                 document_type="tenderNotice",
-                title=f"CPPP tender detail page (captured) — {tid}",
+                title=f"Captured tender record (text) — {tid}",
                 source_url=lt.get("detail_url", base_url),
                 source_alive=True,           # the detail PAGE is live + fetched
             )
+            if wayback:
+                doc["waybackUrl"] = wayback   # free Internet Archive snapshot of the page
             documents.append(doc)
         finally:
             os.unlink(tmp_path)

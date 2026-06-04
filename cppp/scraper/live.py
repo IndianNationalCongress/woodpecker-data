@@ -110,6 +110,40 @@ def _looks_blocked(html_text: str) -> str | None:
 
 
 # --------------------------------------------------------------------------- #
+# best-effort Internet Archive preservation (free, no infra of our own)
+# --------------------------------------------------------------------------- #
+WAYBACK_SAVE = "https://web.archive.org/save/"
+_wb_disabled = False   # circuit-breaker: after one miss (rate-limit/slow) skip the rest of the run
+
+
+def wayback_save(url: str, *, timeout: int = 10) -> str | None:
+    """Best-effort: ask the Internet Archive to snapshot `url`; return the snapshot
+    URL if we can determine it, else None. NEVER raises and is tightly timed out —
+    preservation is best-effort and must not slow or break the capture. This archives
+    the GET-able detail PAGE (so a third party also keeps a dated copy); CPPP's
+    stateful PDF-download anchors can't be archived this way (same GET wall we hit).
+    Self-limiting: one miss disables it for the rest of the run (Wayback rate-limits
+    SPN), so we never burn N timeouts when the Archive is busy."""
+    global _wb_disabled
+    if _wb_disabled or not url:
+        return None
+    try:
+        req = urllib.request.Request(
+            WAYBACK_SAVE + url, method="GET", headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            final = resp.geturl() or ""
+            cl = resp.headers.get("Content-Location", "") or ""
+        if "/web/" in final:
+            return final
+        if cl.startswith("/web/"):
+            return "https://web.archive.org" + cl
+    except Exception:
+        pass
+    _wb_disabled = True   # no snapshot -> Archive likely rate-limiting; stop trying this run
+    return None
+
+
+# --------------------------------------------------------------------------- #
 # listing parse
 # --------------------------------------------------------------------------- #
 _DATE_RE = r"[0-9]{2}-[A-Za-z]{3}-[0-9]{4}\s+[0-9:]{4,8}\s*[AP]M"
