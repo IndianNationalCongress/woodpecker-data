@@ -1,25 +1,25 @@
 {
-  "generated": "2026-06-05T08:31:36Z",
-  "totalTenders": 36960,
+  "generated": "2026-06-05T11:03:43Z",
+  "totalTenders": 37290,
   "dateRange": {
     "from": "2012-05-01T00:00:00Z",
-    "to": "2026-06-27T00:00:00Z"
+    "to": "2026-06-30T00:00:00Z"
   },
-  "totalValue": 1157368045424,
-  "withValue": 33834,
+  "totalValue": 1158845723287,
+  "withValue": 34110,
   "sources": 35,
   "byCategory": {
     "works": {
-      "count": 31644,
-      "value": 1009941894159
+      "count": 31908,
+      "value": 1011255734640
     },
     "services": {
-      "count": 1346,
-      "value": 54787775208
+      "count": 1366,
+      "value": 54815726774
     },
     "goods": {
-      "count": 3970,
-      "value": 92638376057
+      "count": 4016,
+      "value": 92774261873
     }
   },
   "bySource": [
@@ -36,34 +36,46 @@
       "value": 27014522282
     },
     {
-      "id": "westbengal",
-      "label": "West Bengal",
-      "count": 223,
-      "value": 222935371
+      "id": "uttarpradesh",
+      "label": "Uttar Pradesh",
+      "count": 271,
+      "value": 1613460298
     },
     {
       "id": "kerala",
       "label": "Kerala",
-      "count": 219,
-      "value": 316940384
+      "count": 261,
+      "value": 618024463
+    },
+    {
+      "id": "westbengal",
+      "label": "West Bengal",
+      "count": 253,
+      "value": 229484119
     },
     {
       "id": "defence",
       "label": "Defence (DefProc/MoD)",
-      "count": 215,
-      "value": 1553013597
+      "count": 249,
+      "value": 1673096697
     },
     {
       "id": "rajasthan",
       "label": "Rajasthan",
-      "count": 210,
-      "value": 2009673728
+      "count": 248,
+      "value": 2131049600
     },
     {
-      "id": "uttarpradesh",
-      "label": "Uttar Pradesh",
-      "count": 206,
-      "value": 1452270617
+      "id": "madhyapradesh",
+      "label": "Madhya Pradesh",
+      "count": 240,
+      "value": 4532792474
+    },
+    {
+      "id": "maharashtra",
+      "label": "Maharashtra",
+      "count": 223,
+      "value": 4781977225
     },
     {
       "id": "jammukashmir",
@@ -72,34 +84,22 @@
       "value": 428871773
     },
     {
-      "id": "maharashtra",
-      "label": "Maharashtra",
-      "count": 202,
-      "value": 4653352608
-    },
-    {
-      "id": "madhyapradesh",
-      "label": "Madhya Pradesh",
-      "count": 199,
-      "value": 4456874544
+      "id": "punjab",
+      "label": "Punjab",
+      "count": 176,
+      "value": 17816234061
     },
     {
       "id": "haryana",
       "label": "Haryana",
-      "count": 162,
-      "value": 1516382807
-    },
-    {
-      "id": "punjab",
-      "label": "Punjab",
-      "count": 161,
-      "value": 17785351061
+      "count": 170,
+      "value": 1750434768
     },
     {
       "id": "cppp",
       "label": "Central (CPPP)",
-      "count": 127,
-      "value": 1273255395
+      "count": 136,
+      "value": 1460628771
     },
     {
       "id": "tamilnadu",
@@ -110,8 +110,8 @@
     {
       "id": "odisha",
       "label": "Odisha",
-      "count": 94,
-      "value": 256689092
+      "count": 110,
+      "value": 349139234
     },
     {
       "id": "ntpc",
@@ -126,16 +126,16 @@
       "value": 345960482
     },
     {
-      "id": "jharkhand",
-      "label": "Jharkhand",
-      "count": 69,
-      "value": 1269374123
-    },
-    {
       "id": "uttarakhand",
       "label": "Uttarakhand",
-      "count": 68,
-      "value": 514063364
+      "count": 73,
+      "value": 520581364
+    },
+    {
+      "id": "jharkhand",
+      "label": "Jharkhand",
+      "count": 70,
+      "value": 1269374123
     },
     {
       "id": "bhel",
@@ -146,8 +146,8 @@
     {
       "id": "coalindia",
       "label": "Coal India",
-      "count": 53,
-      "value": 173696133
+      "count": 58,
+      "value": 185273490
     },
     {
       "id": "tripura",
@@ -235,15 +235,15 @@
     }
   ],
   "byValueBand": {
-    "lt1cr": 19540,
-    "1to10cr": 12689,
-    "gt10cr": 1605,
-    "none": 3126
+    "lt1cr": 19804,
+    "1to10cr": 12698,
+    "gt10cr": 1608,
+    "none": 3180
   },
   "byStatus": {
-    "active": 23126,
-    "cancelled": 4996,
+    "active": 23456,
     "completed": 8296,
+    "cancelled": 4996,
     "unsuccessful": 542
   },
   "byMonth": {
@@ -325,12 +325,12 @@
     "2025-10": 4,
     "2025-11": 1,
     "2025-12": 6,
-    "2026-01": 2,
+    "2026-01": 3,
     "2026-02": 20,
     "2026-03": 31,
-    "2026-04": 139,
-    "2026-05": 2571,
-    "2026-06": 102
+    "2026-04": 148,
+    "2026-05": 2879,
+    "2026-06": 114
   },
   "byYear": {
     "2012": 1,
@@ -344,7 +344,7 @@
     "2020": 6828,
     "2021": 2753,
     "2025": 12,
-    "2026": 2865
+    "2026": 3195
   },
   "yearBuckets": {
     "2012": {
@@ -660,27 +660,27 @@
       }
     },
     "2026": {
-      "count": 2865,
-      "value": 39668174799,
+      "count": 3195,
+      "value": 41145852662,
       "cat": {
         "works": [
-          2203,
-          20165013938
+          2467,
+          21478854419
         ],
         "services": [
-          270,
-          15571955160
+          290,
+          15599906726
         ],
         "goods": [
-          392,
-          3931205701
+          438,
+          4067091517
         ]
       },
       "band": {
-        "1to10cr": 204,
-        "lt1cr": 1935,
-        "gt10cr": 38,
-        "none": 688
+        "1to10cr": 213,
+        "lt1cr": 2199,
+        "gt10cr": 41,
+        "none": 742
       },
       "src": {
         "assam": [
@@ -696,20 +696,20 @@
           32846391
         ],
         "coalindia": [
-          53,
-          173696133
+          58,
+          185273490
         ],
         "cpcl": [
           3,
           38990487
         ],
         "cppp": [
-          127,
-          1273255395
+          136,
+          1460628771
         ],
         "defence": [
-          215,
-          1553013597
+          249,
+          1673096697
         ],
         "delhi": [
           86,
@@ -720,8 +720,8 @@
           17145200
         ],
         "haryana": [
-          162,
-          1516382807
+          170,
+          1750434768
         ],
         "himachal": [
           18,
@@ -736,20 +736,20 @@
           428871773
         ],
         "jharkhand": [
-          69,
+          70,
           1269374123
         ],
         "kerala": [
-          219,
-          316940384
+          261,
+          618024463
         ],
         "madhyapradesh": [
-          197,
-          4456874544
+          238,
+          4532792474
         ],
         "maharashtra": [
-          202,
-          4653352608
+          223,
+          4781977225
         ],
         "manipur": [
           2,
@@ -768,20 +768,20 @@
           0
         ],
         "odisha": [
-          94,
-          256689092
+          110,
+          349139234
         ],
         "puducherry": [
           1,
           0
         ],
         "punjab": [
-          151,
-          17507865007
+          166,
+          17538748007
         ],
         "rajasthan": [
-          210,
-          2009673728
+          248,
+          2131049600
         ],
         "tamilnadu": [
           116,
@@ -792,16 +792,16 @@
           788573523
         ],
         "uttarakhand": [
-          68,
-          514063364
+          73,
+          520581364
         ],
         "uttarpradesh": [
-          206,
-          1452270617
+          271,
+          1613460298
         ],
         "westbengal": [
-          223,
-          222935371
+          253,
+          229484119
         ]
       }
     }
