@@ -210,10 +210,19 @@ def main():
             "observationsWritten": obs_written, "lastError": err,
         })
 
+    # incremental: skip detail-fetching tenders already in the archive, so a full-listing
+    # walk only pays for NEW tenders (the daily cron can sweep the whole listing cheaply).
+    existing = set()
+    prefix = ocds.ocid_for(source, "")
+    if os.path.isdir(releases_dir):
+        for d in os.listdir(releases_dir):
+            if d.startswith(prefix):
+                existing.add(d[len(prefix):])
+
     tenders = written = obs_written = 0
     try:
         live_tenders = live.fetch_recent_tenders(
-            args.max, base_url, max_pages=args.max_pages, tag=source)
+            args.max, base_url, max_pages=args.max_pages, tag=source, skip_tids=existing)
     except live.LiveBlocked as blk:
         msg = f"live mode blocked (no circumvention attempted): {blk}"
         print(f"[{source}] {msg}", file=sys.stderr)

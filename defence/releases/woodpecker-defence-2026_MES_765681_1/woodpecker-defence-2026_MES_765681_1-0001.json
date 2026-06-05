@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_765681_1",
+  "id": "woodpecker-defence-2026_MES_765681_1-0001",
+  "date": "2026-05-15T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CESC AND CE (AF) BANGALORE - MES||CWE (AF) TRIVANDRUM - MES||AGE (I) SURYALANKA - MES",
+    "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+  },
+  "tender": {
+    "id": "2026_MES_765681_1",
+    "title": "AS PER BOQ AND TENDER DOCUMENT",
+    "status": "active",
+    "procuringEntity": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CESC AND CE (AF) BANGALORE - MES||CWE (AF) TRIVANDRUM - MES||AGE (I) SURYALANKA - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 900000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-06-05T00:00:00Z"
+    },
+    "description": "AS PER BOQ AND TENDER DOCUMENT"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-defence-2026_MES_765681_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_MES_765681_1",
+      "url": "/files/a702ce20dfc85817e91e4060627bbda2a29b4339037a8b51bb61cb0cad369e71.txt",
+      "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXLcC27csmJ%2BXK%2Bg8lIX8yA%3D%3D",
+      "sourceAlive": true,
+      "sha256": "a702ce20dfc85817e91e4060627bbda2a29b4339037a8b51bb61cb0cad369e71",
+      "format": "text/plain",
+      "textUrl": "/files/a702ce20dfc85817e91e4060627bbda2a29b4339037a8b51bb61cb0cad369e71.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-defence-2026_MES_765681_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXLcC27csmJ%2BXK%2Bg8lIX8yA%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108642_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108642_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108642_1-0001",
+      "date": "2026-05-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108642_1",
+        "title": "Procurement of Spares for Generator Brake Assy for NTPC KOLDAM",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-05T00:00:00Z"
+        },
+        "description": "Procurement of Spares for Generator Brake Assy for NTPC KOLDAM"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108642_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108642_1",
+          "url": "/files/b51c9ae69ccfc88eebd2e76462afb8576cdb5bc15127847de41f17dafe29d2fc.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0OFD5pNsHW0MST0MZvKTLQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b51c9ae69ccfc88eebd2e76462afb8576cdb5bc15127847de41f17dafe29d2fc",
+          "format": "text/plain",
+          "textUrl": "/files/b51c9ae69ccfc88eebd2e76462afb8576cdb5bc15127847de41f17dafe29d2fc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108642_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0OFD5pNsHW0MST0MZvKTLQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108642_1",
+    "tender": {
+      "id": "2026_NTPC_108642_1",
+      "title": "Procurement of Spares for Generator Brake Assy for NTPC KOLDAM",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-05T00:00:00Z"
+      },
+      "description": "Procurement of Spares for Generator Brake Assy for NTPC KOLDAM"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-05-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108642_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108642_1",
+        "url": "/files/b51c9ae69ccfc88eebd2e76462afb8576cdb5bc15127847de41f17dafe29d2fc.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0OFD5pNsHW0MST0MZvKTLQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b51c9ae69ccfc88eebd2e76462afb8576cdb5bc15127847de41f17dafe29d2fc",
+        "format": "text/plain",
+        "textUrl": "/files/b51c9ae69ccfc88eebd2e76462afb8576cdb5bc15127847de41f17dafe29d2fc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108642_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0OFD5pNsHW0MST0MZvKTLQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108642_1",
+      "observedAt": "2026-06-05T05:25:59Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "4eb10f5246324ea6ad63b6b8144dc3e89bc919b168bbb8fcce3812b8a0e07ec4",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108642_1-0001-record",
+          "sha256": "b51c9ae69ccfc88eebd2e76462afb8576cdb5bc15127847de41f17dafe29d2fc"
+        }
+      ],
+      "snapshotUrl": "/files/4cc486bd239641fa5924d3c896b850d2021ee45107f84a343790947b7490c0da.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-05T05:25:59Z",
+    "lastObserved": "2026-06-05T05:25:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

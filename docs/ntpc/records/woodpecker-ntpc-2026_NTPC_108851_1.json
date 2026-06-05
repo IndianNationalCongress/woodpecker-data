@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108851_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108851_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108851_1-0001",
+      "date": "2026-06-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108851_1",
+        "title": "Procurement of Goodwin Make Dewatering Pumps for NTPC BARH CHP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-05T00:00:00Z"
+        },
+        "description": "Procurement of Goodwin Make Dewatering Pumps for NTPC BARH CHP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108851_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108851_1",
+          "url": "/files/2a2df1d273ce615b81d4b9f55dd49398ac758cf82d6c0fce06c1023ce96542a7.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SahSpQOTumJ6YCkNpPP53dQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2a2df1d273ce615b81d4b9f55dd49398ac758cf82d6c0fce06c1023ce96542a7",
+          "format": "text/plain",
+          "textUrl": "/files/2a2df1d273ce615b81d4b9f55dd49398ac758cf82d6c0fce06c1023ce96542a7.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108851_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SahSpQOTumJ6YCkNpPP53dQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108851_1",
+    "tender": {
+      "id": "2026_NTPC_108851_1",
+      "title": "Procurement of Goodwin Make Dewatering Pumps for NTPC BARH CHP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-05T00:00:00Z"
+      },
+      "description": "Procurement of Goodwin Make Dewatering Pumps for NTPC BARH CHP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108851_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108851_1",
+        "url": "/files/2a2df1d273ce615b81d4b9f55dd49398ac758cf82d6c0fce06c1023ce96542a7.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SahSpQOTumJ6YCkNpPP53dQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2a2df1d273ce615b81d4b9f55dd49398ac758cf82d6c0fce06c1023ce96542a7",
+        "format": "text/plain",
+        "textUrl": "/files/2a2df1d273ce615b81d4b9f55dd49398ac758cf82d6c0fce06c1023ce96542a7.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108851_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SahSpQOTumJ6YCkNpPP53dQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108851_1",
+      "observedAt": "2026-06-05T05:25:59Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "82d73eb7cbeb9c945f794d4b8ee2c886efa21c28d453120a46dd4d53db146c27",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108851_1-0001-record",
+          "sha256": "2a2df1d273ce615b81d4b9f55dd49398ac758cf82d6c0fce06c1023ce96542a7"
+        }
+      ],
+      "snapshotUrl": "/files/74d7ce8c13226f45f03f78cb5209d8c5db1d77c81eb7ebab5e9b23eb626a4de1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-05T05:25:59Z",
+    "lastObserved": "2026-06-05T05:25:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

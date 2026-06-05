@@ -142,12 +142,27 @@
       ],
       "snapshotUrl": "/files/6827c172d4eaa48382a1e74768fb823184e3b530caa5e9a90121776fe97f88c3.json",
       "undeclaredChange": false
+    },
+    {
+      "ocid": "woodpecker-goa-2026_PWD_29537_1",
+      "observedAt": "2026-06-05T05:22:11Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "c30cd8cbbe8ab6f5dfe8f39506d19f4510ddde5bd775b1e3a1ea98999bfe85ee",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_PWD_29537_1-0001-record",
+          "sha256": "aa6c625a554483c87d3d3ec82e93e547af51889ab3e26b55236e69c19e0687dd"
+        }
+      ],
+      "snapshotUrl": "/files/6827c172d4eaa48382a1e74768fb823184e3b530caa5e9a90121776fe97f88c3.json",
+      "undeclaredChange": false
     }
   ],
   "observedSummary": {
-    "count": 1,
+    "count": 2,
     "firstObserved": "2026-06-05T04:17:28Z",
-    "lastObserved": "2026-06-05T04:17:28Z",
+    "lastObserved": "2026-06-05T05:22:11Z",
     "undeclaredChangeCount": 0,
     "pulled": false
   }

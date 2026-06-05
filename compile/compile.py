@@ -247,9 +247,12 @@ def build_stats(entries, manifest, generated):
         undeclared += 1 if e.get("hasUndeclaredChange") else 0
         pulled += 1 if e.get("pulled") else 0
         dead += 1 if e.get("hasDeadLink") else 0
+    pdates = sorted(d for d in (e.get("publishedDate") for e in entries) if d)
     return {
         "generated": generated,
         "totalTenders": len(entries),
+        "dateRange": {"from": pdates[0] if pdates else None,
+                      "to": pdates[-1] if pdates else None},
         "totalValue": total_value,
         "withValue": with_value,
         "sources": len(manifest),

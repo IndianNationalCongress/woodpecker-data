@@ -14,7 +14,10 @@ on:
         description: "Comma-separated source ids to run (blank = all in portals.json)"
         default: ""
       max:
-        description: "Max tenders per source this run (cppp always paginates to 40)"
+        description: "Max NEW tenders per source this run (already-archived ones are skipped cheaply)"
+        default: "120"
+      pages:
+        description: "Listing pages to walk per source (10 = daily sweep; 30 = deep backfill of the full listing)"
         default: "10"
   schedule:
     - cron: "23 6 * * *"     # once daily — deliberately gentle for an unattended live scrape
@@ -36,23 +39,25 @@ jobs:
       - name: Live scrape — every GePNIC source in the registry (sequential, independent)
         env:
           ONLY: ${{ github.event.inputs.sources }}
-          MAXN: ${{ github.event.inputs.max || '10' }}
+          MAXN: ${{ github.event.inputs.max || '120' }}
+          PAGES: ${{ github.event.inputs.pages || '10' }}
         run: |
           python3 - <<'PY'
           import json, os, subprocess
           reg = json.load(open('_gepnic/portals.json'))['sources']
           only = {s.strip() for s in os.environ.get('ONLY','').split(',') if s.strip()}
-          maxn = os.environ.get('MAXN','10')
+          maxn = os.environ.get('MAXN','120')
+          pages = os.environ.get('PAGES') or '10'
           for s in reg:
               if only and s['id'] not in only:
                   continue
-              mx = '40' if s['id'] == 'cppp' else maxn   # depth on cppp, width elsewhere
+              mx = maxn   # uniform; skip-existing makes a fuller daily sweep cheap (new details only)
               print(f"::group::{s['id']} (max {mx})")
               # engine exits 0 even on block/fail (Independence) -> can't abort siblings
               subprocess.run(
                   ['python3', '_gepnic/scrape.py', '--source', s['id'],
                    '--label', s['label'], '--base-url', s['base_url'],
-                   '--max', mx, '--max-pages', '6', '--serve', './docs'],
+                   '--max', mx, '--max-pages', pages, '--serve', './docs'],
                   check=False)
               print("::endgroup::")
           PY

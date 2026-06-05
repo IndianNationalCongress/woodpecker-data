@@ -122,12 +122,27 @@
       ],
       "snapshotUrl": "/files/afa3e5ac031278c9b8be86a17c31a2c1a993a32b69e0ceedac31b8af900494b8.json",
       "undeclaredChange": false
+    },
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_61635_1",
+      "observedAt": "2026-06-05T05:24:39Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "08fec4ca2f0018e890610af4f9fef187973ab9a7c305bd49133ddddd0ab23457",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_61635_1-0001-record",
+          "sha256": "03d3c2a97adbab4edda17391bbb7fc7860bac3ab7e809dc31000e05c80052f21"
+        }
+      ],
+      "snapshotUrl": "/files/afa3e5ac031278c9b8be86a17c31a2c1a993a32b69e0ceedac31b8af900494b8.json",
+      "undeclaredChange": false
     }
   ],
   "observedSummary": {
-    "count": 1,
+    "count": 2,
     "firstObserved": "2026-06-05T04:17:28Z",
-    "lastObserved": "2026-06-05T04:17:28Z",
+    "lastObserved": "2026-06-05T05:24:39Z",
     "undeclaredChangeCount": 0,
     "pulled": false
   }

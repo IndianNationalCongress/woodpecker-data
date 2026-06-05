@@ -1,173 +1,177 @@
 {
-  "generated": "2026-06-05T04:52:43Z",
-  "totalTenders": 291,
-  "totalValue": 2252555344,
-  "withValue": 194,
+  "generated": "2026-06-05T06:19:05Z",
+  "totalTenders": 2877,
+  "dateRange": {
+    "from": "2025-06-10T00:00:00Z",
+    "to": "2026-06-27T00:00:00Z"
+  },
+  "totalValue": 39945660853,
+  "withValue": 2187,
   "sources": 33,
   "byCategory": {
     "works": {
-      "count": 210,
-      "value": 2071607481
+      "count": 2212,
+      "value": 20442399992
     },
     "services": {
-      "count": 24,
-      "value": 108468113
+      "count": 271,
+      "value": 15572055160
     },
     "goods": {
-      "count": 57,
-      "value": 72479750
+      "count": 394,
+      "value": 3931205701
     }
   },
   "bySource": [
     {
-      "id": "cppp",
-      "label": "Central (CPPP)",
-      "count": 43,
-      "value": 478751342
-    },
-    {
-      "id": "assam",
-      "label": "Assam",
-      "count": 10,
-      "value": 326269549
-    },
-    {
-      "id": "bhel",
-      "label": "BHEL",
-      "count": 10,
-      "value": 0
-    },
-    {
-      "id": "bihar_pmgsy",
-      "label": "Bihar (PMGSY)",
-      "count": 10,
-      "value": 25404000
-    },
-    {
-      "id": "coalindia",
-      "label": "Coal India",
-      "count": 10,
-      "value": 20054614
-    },
-    {
-      "id": "defence",
-      "label": "Defence (DefProc)",
-      "count": 10,
-      "value": 13467178
-    },
-    {
-      "id": "delhi",
-      "label": "Delhi",
-      "count": 10,
-      "value": 19072560
-    },
-    {
-      "id": "goa",
-      "label": "Goa",
-      "count": 10,
-      "value": 11485497
-    },
-    {
-      "id": "haryana",
-      "label": "Haryana",
-      "count": 10,
-      "value": 3880851
-    },
-    {
-      "id": "himachal",
-      "label": "Himachal Pradesh",
-      "count": 10,
-      "value": 43803245
-    },
-    {
-      "id": "iocl",
-      "label": "Indian Oil (IOCL)",
-      "count": 10,
-      "value": 3009091
-    },
-    {
-      "id": "jammukashmir",
-      "label": "Jammu & Kashmir",
-      "count": 10,
-      "value": 820538
-    },
-    {
-      "id": "jharkhand",
-      "label": "Jharkhand",
-      "count": 10,
-      "value": 243615736
+      "id": "westbengal",
+      "label": "West Bengal",
+      "count": 223,
+      "value": 222935371
     },
     {
       "id": "kerala",
       "label": "Kerala",
-      "count": 10,
-      "value": 3809524
+      "count": 219,
+      "value": 316940384
     },
     {
-      "id": "madhyapradesh",
-      "label": "Madhya Pradesh",
-      "count": 10,
-      "value": 22709253
-    },
-    {
-      "id": "maharashtra",
-      "label": "Maharashtra",
-      "count": 10,
-      "value": 9260352
-    },
-    {
-      "id": "ntpc",
-      "label": "NTPC",
-      "count": 10,
-      "value": 0
-    },
-    {
-      "id": "odisha",
-      "label": "Odisha",
-      "count": 10,
-      "value": 14938468
-    },
-    {
-      "id": "punjab",
-      "label": "Punjab",
-      "count": 10,
-      "value": 34907738
+      "id": "defence",
+      "label": "Defence (DefProc/MoD)",
+      "count": 215,
+      "value": 1553013597
     },
     {
       "id": "rajasthan",
       "label": "Rajasthan",
-      "count": 10,
-      "value": 18000000
-    },
-    {
-      "id": "tamilnadu",
-      "label": "Tamil Nadu",
-      "count": 10,
-      "value": 6500000
-    },
-    {
-      "id": "tripura",
-      "label": "Tripura",
-      "count": 10,
-      "value": 708650878
-    },
-    {
-      "id": "uttarakhand",
-      "label": "Uttarakhand",
-      "count": 10,
-      "value": 0
+      "count": 210,
+      "value": 2009673728
     },
     {
       "id": "uttarpradesh",
       "label": "Uttar Pradesh",
-      "count": 10,
-      "value": 8356820
+      "count": 206,
+      "value": 1452270617
     },
     {
-      "id": "westbengal",
-      "label": "West Bengal",
-      "count": 10,
-      "value": 8618915
+      "id": "jammukashmir",
+      "label": "Jammu & Kashmir",
+      "count": 202,
+      "value": 428871773
+    },
+    {
+      "id": "maharashtra",
+      "label": "Maharashtra",
+      "count": 202,
+      "value": 4653352608
+    },
+    {
+      "id": "madhyapradesh",
+      "label": "Madhya Pradesh",
+      "count": 199,
+      "value": 4456874544
+    },
+    {
+      "id": "haryana",
+      "label": "Haryana",
+      "count": 162,
+      "value": 1516382807
+    },
+    {
+      "id": "punjab",
+      "label": "Punjab",
+      "count": 161,
+      "value": 17785351061
+    },
+    {
+      "id": "cppp",
+      "label": "Central (CPPP)",
+      "count": 127,
+      "value": 1273255395
+    },
+    {
+      "id": "tamilnadu",
+      "label": "Tamil Nadu",
+      "count": 116,
+      "value": 192260364
+    },
+    {
+      "id": "odisha",
+      "label": "Odisha",
+      "count": 94,
+      "value": 256689092
+    },
+    {
+      "id": "ntpc",
+      "label": "NTPC",
+      "count": 89,
+      "value": 0
+    },
+    {
+      "id": "delhi",
+      "label": "Delhi",
+      "count": 86,
+      "value": 345960482
+    },
+    {
+      "id": "jharkhand",
+      "label": "Jharkhand",
+      "count": 69,
+      "value": 1269374123
+    },
+    {
+      "id": "uttarakhand",
+      "label": "Uttarakhand",
+      "count": 68,
+      "value": 514063364
+    },
+    {
+      "id": "bhel",
+      "label": "BHEL",
+      "count": 65,
+      "value": 621554
+    },
+    {
+      "id": "coalindia",
+      "label": "Coal India",
+      "count": 53,
+      "value": 173696133
+    },
+    {
+      "id": "tripura",
+      "label": "Tripura",
+      "count": 31,
+      "value": 788573523
+    },
+    {
+      "id": "assam",
+      "label": "Assam",
+      "count": 18,
+      "value": 367809715
+    },
+    {
+      "id": "himachal",
+      "label": "Himachal Pradesh",
+      "count": 18,
+      "value": 87520741
+    },
+    {
+      "id": "goa",
+      "label": "Goa",
+      "count": 14,
+      "value": 17145200
+    },
+    {
+      "id": "bihar_pmgsy",
+      "label": "Bihar (PMGSY)",
+      "count": 11,
+      "value": 32846391
+    },
+    {
+      "id": "iocl",
+      "label": "Indian Oil (IOCL)",
+      "count": 11,
+      "value": 3009091
     },
     {
       "id": "cpcl",
@@ -219,20 +223,25 @@
     }
   ],
   "byValueBand": {
-    "lt1cr": 168,
-    "1to10cr": 21,
-    "gt10cr": 5,
-    "none": 97
+    "lt1cr": 1938,
+    "1to10cr": 211,
+    "gt10cr": 38,
+    "none": 690
   },
   "byStatus": {
-    "active": 291
+    "active": 2877
   },
   "byMonth": {
-    "2026-02": 2,
-    "2026-03": 7,
-    "2026-04": 13,
-    "2026-05": 256,
-    "2026-06": 13
+    "2025-06": 1,
+    "2025-10": 4,
+    "2025-11": 1,
+    "2025-12": 6,
+    "2026-01": 2,
+    "2026-02": 20,
+    "2026-03": 31,
+    "2026-04": 139,
+    "2026-05": 2571,
+    "2026-06": 102
   },
   "observed": {
     "undeclaredChanges": 0,

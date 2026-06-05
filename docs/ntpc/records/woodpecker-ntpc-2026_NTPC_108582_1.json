@@ -122,12 +122,27 @@
       ],
       "snapshotUrl": "/files/c6c68da81086492af776a751530ae58c5e5fb6a9e90d2a138dfc7fa48ed77a9e.json",
       "undeclaredChange": false
+    },
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108582_1",
+      "observedAt": "2026-06-05T05:25:59Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "1138ba25f198797647b220b43bcb53b4bd3d5f221fc0693841e74f347ea0ecb6",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108582_1-0001-record",
+          "sha256": "281f654877865978b2a6ad79e6a9c723fcf0a0cfca3ccb24da65a8c38833d25b"
+        }
+      ],
+      "snapshotUrl": "/files/c6c68da81086492af776a751530ae58c5e5fb6a9e90d2a138dfc7fa48ed77a9e.json",
+      "undeclaredChange": false
     }
   ],
   "observedSummary": {
-    "count": 1,
+    "count": 2,
     "firstObserved": "2026-06-05T04:17:27Z",
-    "lastObserved": "2026-06-05T04:17:27Z",
+    "lastObserved": "2026-06-05T05:25:59Z",
     "undeclaredChangeCount": 0,
     "pulled": false
   }

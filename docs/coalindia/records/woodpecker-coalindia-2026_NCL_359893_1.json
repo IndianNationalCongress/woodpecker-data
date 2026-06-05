@@ -130,12 +130,27 @@
       ],
       "snapshotUrl": "/files/abc2ff77fc38b9da04a3e132efe34e5ae1c7877483a9045a46369662649528af.json",
       "undeclaredChange": false
+    },
+    {
+      "ocid": "woodpecker-coalindia-2026_NCL_359893_1",
+      "observedAt": "2026-06-05T05:23:59Z",
+      "witness": "woodpecker:coalindia",
+      "availability": "present",
+      "stateHash": "d0499ceb26808727e5747d6efa16ed56a4fdcadfda28e817b15555f84a8c7878",
+      "documents": [
+        {
+          "id": "woodpecker-coalindia-2026_NCL_359893_1-0001-record",
+          "sha256": "c630d723881d0d52a0e7de780ffe3fc94f6685ea51b98392787f367dd0629d52"
+        }
+      ],
+      "snapshotUrl": "/files/abc2ff77fc38b9da04a3e132efe34e5ae1c7877483a9045a46369662649528af.json",
+      "undeclaredChange": false
     }
   ],
   "observedSummary": {
-    "count": 1,
+    "count": 2,
     "firstObserved": "2026-06-05T04:17:28Z",
-    "lastObserved": "2026-06-05T04:17:28Z",
+    "lastObserved": "2026-06-05T05:23:59Z",
     "undeclaredChangeCount": 0,
     "pulled": false
   }

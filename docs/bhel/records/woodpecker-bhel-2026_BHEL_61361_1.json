@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-bhel-2026_BHEL_61361_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_61361_1",
+      "id": "woodpecker-bhel-2026_BHEL_61361_1-0001",
+      "date": "2026-05-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SCPV",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "tender": {
+        "id": "2026_BHEL_61361_1",
+        "title": "Package A Works contract for Renovation of toilets located near Finance DTG building. Package B Works contract for Modification work at Finance office.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SCPV",
+          "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 621554,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-05T00:00:00Z"
+        },
+        "description": "Package A Works contract for Renovation of toilets located near Finance DTG building. Package B Works contract for Modification work at Finance office."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_61361_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BHEL_61361_1",
+          "url": "/files/824409bc25e78dddeb1bd39ecd2bdceba3cec37d1b8e8142d1f3f5fd9bf64194.txt",
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlgZq%2FfxC35rblTlVGPeBXQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "824409bc25e78dddeb1bd39ecd2bdceba3cec37d1b8e8142d1f3f5fd9bf64194",
+          "format": "text/plain",
+          "textUrl": "/files/824409bc25e78dddeb1bd39ecd2bdceba3cec37d1b8e8142d1f3f5fd9bf64194.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bhel-2026_BHEL_61361_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlgZq%2FfxC35rblTlVGPeBXQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bhel-2026_BHEL_61361_1",
+    "tender": {
+      "id": "2026_BHEL_61361_1",
+      "title": "Package A Works contract for Renovation of toilets located near Finance DTG building. Package B Works contract for Modification work at Finance office.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SCPV",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 621554,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-05T00:00:00Z"
+      },
+      "description": "Package A Works contract for Renovation of toilets located near Finance DTG building. Package B Works contract for Modification work at Finance office."
+    },
+    "buyer": {
+      "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SCPV",
+      "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+    },
+    "date": "2026-05-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bhel-2026_BHEL_61361_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BHEL_61361_1",
+        "url": "/files/824409bc25e78dddeb1bd39ecd2bdceba3cec37d1b8e8142d1f3f5fd9bf64194.txt",
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlgZq%2FfxC35rblTlVGPeBXQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "824409bc25e78dddeb1bd39ecd2bdceba3cec37d1b8e8142d1f3f5fd9bf64194",
+        "format": "text/plain",
+        "textUrl": "/files/824409bc25e78dddeb1bd39ecd2bdceba3cec37d1b8e8142d1f3f5fd9bf64194.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bhel-2026_BHEL_61361_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlgZq%2FfxC35rblTlVGPeBXQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_61361_1",
+      "observedAt": "2026-06-05T05:24:39Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "56594a1ee38e8e99b449721ebfad666c466544a60ed6c0ba5c4fc74dc8cbfb0e",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_61361_1-0001-record",
+          "sha256": "824409bc25e78dddeb1bd39ecd2bdceba3cec37d1b8e8142d1f3f5fd9bf64194"
+        }
+      ],
+      "snapshotUrl": "/files/02c924cc4e05fa9268c75e86388656c484f1931fa425180f2994efcab17d3791.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-05T05:24:39Z",
+    "lastObserved": "2026-06-05T05:24:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

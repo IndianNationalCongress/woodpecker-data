@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108517_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108517_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108517_1-0001",
+      "date": "2026-05-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108517_1",
+        "title": "Procurement of spares for XRP 803 Coal Mill of FSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-05T00:00:00Z"
+        },
+        "description": "Procurement of spares for XRP 803 Coal Mill of FSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108517_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108517_1",
+          "url": "/files/5933ffcf37c9bcee7be000463192700996dd07c434ed5ad33a22d650c6b8f14d.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7cnes85CCC67ms0AoVNFlw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5933ffcf37c9bcee7be000463192700996dd07c434ed5ad33a22d650c6b8f14d",
+          "format": "text/plain",
+          "textUrl": "/files/5933ffcf37c9bcee7be000463192700996dd07c434ed5ad33a22d650c6b8f14d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108517_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7cnes85CCC67ms0AoVNFlw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108517_1",
+    "tender": {
+      "id": "2026_NTPC_108517_1",
+      "title": "Procurement of spares for XRP 803 Coal Mill of FSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-05T00:00:00Z"
+      },
+      "description": "Procurement of spares for XRP 803 Coal Mill of FSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-05-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108517_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108517_1",
+        "url": "/files/5933ffcf37c9bcee7be000463192700996dd07c434ed5ad33a22d650c6b8f14d.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7cnes85CCC67ms0AoVNFlw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5933ffcf37c9bcee7be000463192700996dd07c434ed5ad33a22d650c6b8f14d",
+        "format": "text/plain",
+        "textUrl": "/files/5933ffcf37c9bcee7be000463192700996dd07c434ed5ad33a22d650c6b8f14d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108517_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7cnes85CCC67ms0AoVNFlw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108517_1",
+      "observedAt": "2026-06-05T05:25:59Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "c40302c4ca59149eccfb79a92943f628a1e4126247655273f35d39cb31149d53",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108517_1-0001-record",
+          "sha256": "5933ffcf37c9bcee7be000463192700996dd07c434ed5ad33a22d650c6b8f14d"
+        }
+      ],
+      "snapshotUrl": "/files/55e60fa6c18e8dcf38cea6082617dfe0ea8c217e74ebb6047cae390b98bbf7eb.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-05T05:25:59Z",
+    "lastObserved": "2026-06-05T05:25:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -122,12 +122,27 @@
       ],
       "snapshotUrl": "/files/611bb6cd064c79475a18fb38b36e5e9751e5ad26a7bbef0363786f98fc71caec.json",
       "undeclaredChange": false
+    },
+    {
+      "ocid": "woodpecker-puducherry-2026_DHTE_22238_1",
+      "observedAt": "2026-06-05T05:21:29Z",
+      "witness": "woodpecker:puducherry",
+      "availability": "present",
+      "stateHash": "b5a5e0f855277266bece03cfa8c10b11a33b3bb8893e10ac5e80f71ca0b35558",
+      "documents": [
+        {
+          "id": "woodpecker-puducherry-2026_DHTE_22238_1-0001-record",
+          "sha256": "c06df9e77c32e1a89944fab8a2cf3062706dd556ffface99d88be6cb6154bb51"
+        }
+      ],
+      "snapshotUrl": "/files/611bb6cd064c79475a18fb38b36e5e9751e5ad26a7bbef0363786f98fc71caec.json",
+      "undeclaredChange": false
     }
   ],
   "observedSummary": {
-    "count": 1,
+    "count": 2,
     "firstObserved": "2026-06-05T04:17:02Z",
-    "lastObserved": "2026-06-05T04:17:02Z",
+    "lastObserved": "2026-06-05T05:21:29Z",
     "undeclaredChangeCount": 0,
     "pulled": false
   }

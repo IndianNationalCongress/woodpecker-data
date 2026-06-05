@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_104813_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_104813_1",
+      "id": "woodpecker-ntpc-2026_NTPC_104813_1-0001",
+      "date": "2026-02-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_104813_1",
+        "title": "Procurement of Recirculation pump for Condenser Vacuum Pump installed atNTPC-Barauni 2x250 MW Units",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-05T00:00:00Z"
+        },
+        "description": "Procurement of Recirculation pump for Condenser Vacuum Pump installed atNTPC-Barauni 2x250 MW Units"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_104813_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_104813_1",
+          "url": "/files/0627df3b629554d32dffbdd712dcbd8cd340054a4886442745511e08e9ad9aaa.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaXch6GfC3CgLKM3kemFyUg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0627df3b629554d32dffbdd712dcbd8cd340054a4886442745511e08e9ad9aaa",
+          "format": "text/plain",
+          "textUrl": "/files/0627df3b629554d32dffbdd712dcbd8cd340054a4886442745511e08e9ad9aaa.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_104813_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaXch6GfC3CgLKM3kemFyUg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_104813_1",
+    "tender": {
+      "id": "2026_NTPC_104813_1",
+      "title": "Procurement of Recirculation pump for Condenser Vacuum Pump installed atNTPC-Barauni 2x250 MW Units",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-05T00:00:00Z"
+      },
+      "description": "Procurement of Recirculation pump for Condenser Vacuum Pump installed atNTPC-Barauni 2x250 MW Units"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-02-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_104813_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_104813_1",
+        "url": "/files/0627df3b629554d32dffbdd712dcbd8cd340054a4886442745511e08e9ad9aaa.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaXch6GfC3CgLKM3kemFyUg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0627df3b629554d32dffbdd712dcbd8cd340054a4886442745511e08e9ad9aaa",
+        "format": "text/plain",
+        "textUrl": "/files/0627df3b629554d32dffbdd712dcbd8cd340054a4886442745511e08e9ad9aaa.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_104813_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaXch6GfC3CgLKM3kemFyUg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_104813_1",
+      "observedAt": "2026-06-05T05:25:59Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5e511c68e1bbf6004018395fc9f7b538b799ad402e26e01f506dc19877401493",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_104813_1-0001-record",
+          "sha256": "0627df3b629554d32dffbdd712dcbd8cd340054a4886442745511e08e9ad9aaa"
+        }
+      ],
+      "snapshotUrl": "/files/ddfe1b7d940fe36d2ac0072c781dab5c3592d8361bd47397bcb4ab40b13c920a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-05T05:25:59Z",
+    "lastObserved": "2026-06-05T05:25:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

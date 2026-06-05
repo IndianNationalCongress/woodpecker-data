@@ -130,12 +130,27 @@
       ],
       "snapshotUrl": "/files/89ca55ed2717b887af69ec726962d6fb3fdbfef8554faadbdf5fcc8c6f7be98a.json",
       "undeclaredChange": false
+    },
+    {
+      "ocid": "woodpecker-cppp-2026_MoRTH_909762_1",
+      "observedAt": "2026-06-05T05:27:34Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "380329d6f673e4ca1f97c06270faa73ca59154decf9ecab097241a3cb72efe22",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_MoRTH_909762_1-0001-record",
+          "sha256": "752fa049922d7e8fa11604feaf25f4bd8e2ef76b43c9d49488236afb5b34278c"
+        }
+      ],
+      "snapshotUrl": "/files/89ca55ed2717b887af69ec726962d6fb3fdbfef8554faadbdf5fcc8c6f7be98a.json",
+      "undeclaredChange": false
     }
   ],
   "observedSummary": {
-    "count": 1,
+    "count": 2,
     "firstObserved": "2026-06-05T04:13:13Z",
-    "lastObserved": "2026-06-05T04:13:13Z",
+    "lastObserved": "2026-06-05T05:27:34Z",
     "undeclaredChangeCount": 0,
     "pulled": false
   }

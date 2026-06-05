@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_765326_1",
+  "id": "woodpecker-defence-2026_MES_765326_1-0001",
+  "date": "2026-05-14T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CESC AND CE (NAVY) KOCHI - MES||CWE EZHIMALA - MES||GE MAINT EZHIMALA - MES",
+    "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+  },
+  "tender": {
+    "id": "2026_MES_765326_1",
+    "title": "AS PER BOQ AND TENDER DOCUMENTS",
+    "status": "active",
+    "procuringEntity": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CESC AND CE (NAVY) KOCHI - MES||CWE EZHIMALA - MES||GE MAINT EZHIMALA - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 4200000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-06-05T00:00:00Z"
+    },
+    "description": "AS PER BOQ AND TENDER DOCUMENTS"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-defence-2026_MES_765326_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_MES_765326_1",
+      "url": "/files/5093048986658c056bfe12a8c4ef856baf7dfe4d33f0a309ee0dd26dbdd10759.txt",
+      "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE6rxBxN4ZeDR5xPimhGTTA%3D%3D",
+      "sourceAlive": true,
+      "sha256": "5093048986658c056bfe12a8c4ef856baf7dfe4d33f0a309ee0dd26dbdd10759",
+      "format": "text/plain",
+      "textUrl": "/files/5093048986658c056bfe12a8c4ef856baf7dfe4d33f0a309ee0dd26dbdd10759.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-defence-2026_MES_765326_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE6rxBxN4ZeDR5xPimhGTTA%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

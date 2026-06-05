@@ -130,12 +130,27 @@
       ],
       "snapshotUrl": "/files/340a2d7a9f5b99355d15805a278eb06bdc4d26c1c714d75cac989408154b922d.json",
       "undeclaredChange": false
+    },
+    {
+      "ocid": "woodpecker-cppp-2026_AUS_910767_1",
+      "observedAt": "2026-06-05T05:27:34Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "ff2a60b05c8a0a3f39b08d786591ae2f51d3cf88ca8de10cbcf57bedd4f9eff3",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_AUS_910767_1-0001-record",
+          "sha256": "45bae73ed3ba87b1bd563185c665201730de88cc299496ccefc0cfaf23694092"
+        }
+      ],
+      "snapshotUrl": "/files/340a2d7a9f5b99355d15805a278eb06bdc4d26c1c714d75cac989408154b922d.json",
+      "undeclaredChange": false
     }
   ],
   "observedSummary": {
-    "count": 1,
+    "count": 2,
     "firstObserved": "2026-06-05T04:13:13Z",
-    "lastObserved": "2026-06-05T04:13:13Z",
+    "lastObserved": "2026-06-05T05:27:34Z",
     "undeclaredChangeCount": 0,
     "pulled": false
   }

@@ -47,8 +47,8 @@ USER_AGENT = (
     "civic-tech tender preservation)"
 )
 
-HARD_MAX = 60           # absolute ceiling on tenders per --live run (depth, was 10)
-MAX_PAGES = 8           # absolute ceiling on listing pages walked per run
+HARD_MAX = 300          # absolute ceiling on tenders per run (daily cron stays low; backfill goes deep)
+MAX_PAGES = 40          # absolute ceiling on listing pages walked per run
 SLEEP_SECONDS = 2.5     # polite gap between requests
 TIMEOUT_SECONDS = 30    # per-request timeout
 
@@ -242,6 +242,7 @@ def fetch_recent_tenders(
     *,
     max_pages: int = MAX_PAGES,
     tag: str = "gepnic",
+    skip_tids=None,
     verbose: bool = True,
 ) -> list[dict]:
     """Return up to `max_n` real recent tenders from a GePNIC portal, walking the
@@ -272,28 +273,56 @@ def fetch_recent_tenders(
             "listing rendered no tender rows (browse-by-date appears captcha-gated)"
         )
 
-    # --- DEPTH: walk pagination links (session-carried) until we have enough rows ---
+    # --- DEPTH / BACKFILL: walk the listing's pagination (session-carried), DISCOVERING
+    #     deeper page windows as we go — sequentially from now backwards — until we have
+    #     enough rows or hit the page cap. GePNIC only shows a sliding window of page links
+    #     (e.g. page 1 -> [2-7,16], page 16 -> [10-15]); each fetched page reveals its own
+    #     window, so a frontier walk reaches the full listing. The daily cron passes a low
+    #     pages cap (recent tenders only); a backfill run passes a high one (whole listing). ---
     seen_ids = {r["tender_id"] for r in rows}
-    if len(rows) < n:
-        pages = page_links(listing_html, base_url)[: pages_cap - 1]
-        for pidx, purl in enumerate(pages, start=2):
-            if len(rows) >= n:
-                break
-            time.sleep(SLEEP_SECONDS)
+    seen_pages = {1}
+
+    def _numbered(html_t):
+        nums = []
+        for u in page_links(html_t, base_url):
+            m = re.findall(r"sp=(\d+)", u)
+            if m:
+                nums.append((int(m[-1]), u))
+        return nums
+
+    frontier = _numbered(listing_html)
+    while frontier and len(seen_pages) < pages_cap and len(rows) < n:
+        frontier.sort(key=lambda x: x[0])           # ascending page order = now -> backwards
+        pno, purl = frontier.pop(0)
+        if pno in seen_pages:
+            continue
+        seen_pages.add(pno)
+        time.sleep(SLEEP_SECONDS)
+        if verbose:
+            print(f"[{tag}:live] GET listing page {pno}")
+        try:
+            page_html, _ = _get(opener, purl)
+        except Exception as exc:  # noqa: BLE001 — one bad page must not abort the run
             if verbose:
-                print(f"[{tag}:live] GET listing page {pidx}")
-            try:
-                page_html, _ = _get(opener, purl)
-            except Exception as exc:  # noqa: BLE001 — one bad page must not abort the run
-                if verbose:
-                    print(f"[{tag}:live]   page {pidx} fetch failed ({exc}); stopping pagination")
-                break
-            for r in parse_listing(page_html):
-                if r["tender_id"] and r["detail_path"] and r["tender_id"] not in seen_ids:
-                    seen_ids.add(r["tender_id"])
-                    rows.append(r)
+                print(f"[{tag}:live]   page {pno} fetch failed ({exc}); skipping")
+            continue
+        for r in parse_listing(page_html):
+            if r["tender_id"] and r["detail_path"] and r["tender_id"] not in seen_ids:
+                seen_ids.add(r["tender_id"])
+                rows.append(r)
+        known = seen_pages | {f[0] for f in frontier}
+        for pn, u in _numbered(page_html):
+            if pn not in known:
+                frontier.append((pn, u))
 
     rows = rows[:n]
+    if skip_tids:
+        _before = len(rows)
+        rows = [r for r in rows if r["tender_id"] not in skip_tids]
+        if verbose and _before != len(rows):
+            print(f"[{tag}:live] {_before - len(rows)} already in the archive; {len(rows)} new to fetch")
+        if not rows:
+            return []        # nothing new in the listing this run — clean success
     if verbose:
         print(f"[{tag}:live] listing parsed: {len(rows)} tender(s) (cap {n})")
 

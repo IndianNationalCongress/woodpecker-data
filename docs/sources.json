@@ -5,7 +5,7 @@
       "label": "Arunachal Pradesh",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:52:43Z",
+      "lastRun": "2026-06-05T05:21:17Z",
       "tenders": 0,
       "observations": 0,
       "undeclaredChanges": 0,
@@ -17,9 +17,9 @@
       "label": "Assam",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:22:21Z",
+      "tenders": 18,
+      "observations": 28,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -32,9 +32,9 @@
       "label": "BHEL",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:24:39Z",
+      "tenders": 65,
+      "observations": 72,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -48,9 +48,9 @@
       "label": "Bihar (PMGSY)",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:21:47Z",
+      "tenders": 11,
+      "observations": 20,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -62,12 +62,13 @@
       "label": "Coal India",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:23:59Z",
+      "tenders": 53,
+      "observations": 59,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
+        "2026-06",
         "2026-05"
       ]
     },
@@ -76,9 +77,9 @@
       "label": "Chennai Petroleum (CPCL)",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:16:58Z",
+      "lastRun": "2026-06-05T05:21:27Z",
       "tenders": 3,
-      "observations": 3,
+      "observations": 6,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -90,29 +91,36 @@
       "label": "Central (CPPP)",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:13:13Z",
-      "tenders": 43,
-      "observations": 50,
+      "lastRun": "2026-06-05T05:27:34Z",
+      "tenders": 127,
+      "observations": 165,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
         "2026-06",
         "2026-05",
-        "2026-04"
+        "2026-04",
+        "2026-03",
+        "2026-01"
       ]
     },
     {
       "id": "defence",
-      "label": "Defence (DefProc)",
+      "label": "Defence (DefProc/MoD)",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:32:34Z",
+      "tenders": 215,
+      "observations": 215,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-06",
+        "2026-05",
+        "2026-04",
+        "2026-03",
+        "2026-02",
+        "2026-01"
       ]
     },
     {
@@ -120,13 +128,14 @@
       "label": "Delhi",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:26:13Z",
+      "tenders": 86,
+      "observations": 95,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-05",
+        "2026-04"
       ]
     },
     {
@@ -134,9 +143,9 @@
       "label": "Goa",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:22:11Z",
+      "tenders": 14,
+      "observations": 24,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -150,13 +159,15 @@
       "label": "Haryana",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:29:39Z",
+      "tenders": 162,
+      "observations": 162,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-05",
+        "2026-04",
+        "2026-02"
       ]
     },
     {
@@ -164,13 +175,15 @@
       "label": "Himachal Pradesh",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:22:18Z",
+      "tenders": 18,
+      "observations": 27,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-05",
+        "2026-04",
+        "2026-03"
       ]
     },
     {
@@ -178,9 +191,9 @@
       "label": "Indian Oil (IOCL)",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:21:52Z",
+      "tenders": 11,
+      "observations": 21,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -194,13 +207,15 @@
       "label": "Jammu & Kashmir",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:32:59Z",
+      "tenders": 202,
+      "observations": 212,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-06",
+        "2026-05",
+        "2026-04"
       ]
     },
     {
@@ -208,9 +223,9 @@
       "label": "Jharkhand",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:25:04Z",
+      "tenders": 69,
+      "observations": 79,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -222,14 +237,17 @@
       "label": "Kerala",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:34:03Z",
+      "tenders": 219,
+      "observations": 223,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
         "2026-06",
-        "2026-05"
+        "2026-05",
+        "2026-04",
+        "2026-03",
+        "2026-02"
       ]
     },
     {
@@ -237,15 +255,16 @@
       "label": "Madhya Pradesh",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:32:04Z",
+      "tenders": 199,
+      "observations": 206,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
         "2026-05",
         "2026-04",
-        "2026-03"
+        "2026-03",
+        "2025-12"
       ]
     },
     {
@@ -253,13 +272,16 @@
       "label": "Maharashtra",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:32:05Z",
+      "tenders": 202,
+      "observations": 208,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-06",
+        "2026-05",
+        "2026-04",
+        "2026-02"
       ]
     },
     {
@@ -267,9 +289,9 @@
       "label": "Manipur",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:16:56Z",
+      "lastRun": "2026-06-05T05:21:24Z",
       "tenders": 2,
-      "observations": 2,
+      "observations": 4,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -281,9 +303,9 @@
       "label": "Meghalaya",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:02Z",
+      "lastRun": "2026-06-05T05:21:30Z",
       "tenders": 1,
-      "observations": 1,
+      "observations": 2,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -295,7 +317,7 @@
       "label": "Mizoram",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:52:43Z",
+      "lastRun": "2026-06-05T05:21:17Z",
       "tenders": 0,
       "observations": 0,
       "undeclaredChanges": 0,
@@ -307,9 +329,9 @@
       "label": "Nagaland",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:02Z",
+      "lastRun": "2026-06-05T05:21:31Z",
       "tenders": 1,
-      "observations": 1,
+      "observations": 2,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -321,14 +343,17 @@
       "label": "NTPC",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:27Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:25:59Z",
+      "tenders": 89,
+      "observations": 96,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
         "2026-06",
-        "2026-05"
+        "2026-05",
+        "2026-04",
+        "2026-03",
+        "2026-02"
       ]
     },
     {
@@ -336,13 +361,14 @@
       "label": "Odisha",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:26:13Z",
+      "tenders": 94,
+      "observations": 99,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-05",
+        "2026-04"
       ]
     },
     {
@@ -350,9 +376,9 @@
       "label": "Puducherry",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:02Z",
+      "lastRun": "2026-06-05T05:21:29Z",
       "tenders": 1,
-      "observations": 1,
+      "observations": 2,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -364,16 +390,21 @@
       "label": "Punjab",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:29:37Z",
+      "tenders": 161,
+      "observations": 161,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
+        "2026-06",
         "2026-05",
         "2026-04",
         "2026-03",
-        "2026-02"
+        "2026-02",
+        "2025-12",
+        "2025-11",
+        "2025-10",
+        "2025-06"
       ]
     },
     {
@@ -381,13 +412,16 @@
       "label": "Rajasthan",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:38:45Z",
+      "tenders": 210,
+      "observations": 210,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-06",
+        "2026-05",
+        "2026-04",
+        "2026-03"
       ]
     },
     {
@@ -395,7 +429,7 @@
       "label": "Sikkim",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:52:43Z",
+      "lastRun": "2026-06-05T05:21:17Z",
       "tenders": 0,
       "observations": 0,
       "undeclaredChanges": 0,
@@ -407,14 +441,15 @@
       "label": "Tamil Nadu",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:27:55Z",
+      "tenders": 116,
+      "observations": 123,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
         "2026-06",
-        "2026-05"
+        "2026-05",
+        "2026-02"
       ]
     },
     {
@@ -422,9 +457,9 @@
       "label": "Tripura",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:22:55Z",
+      "tenders": 31,
+      "observations": 41,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
@@ -436,13 +471,14 @@
       "label": "Uttarakhand",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:24:59Z",
+      "tenders": 68,
+      "observations": 78,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-05",
+        "2026-04"
       ]
     },
     {
@@ -450,14 +486,16 @@
       "label": "Uttar Pradesh",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:17:28Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:32:06Z",
+      "tenders": 206,
+      "observations": 206,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
         "2026-06",
-        "2026-05"
+        "2026-05",
+        "2026-04",
+        "2026-03"
       ]
     },
     {
@@ -465,15 +503,17 @@
       "label": "West Bengal",
       "engine": "gepnic",
       "ok": true,
-      "lastRun": "2026-06-05T04:11:38Z",
-      "tenders": 10,
-      "observations": 10,
+      "lastRun": "2026-06-05T05:33:45Z",
+      "tenders": 223,
+      "observations": 229,
       "undeclaredChanges": 0,
       "pulled": 0,
       "months": [
-        "2026-05"
+        "2026-06",
+        "2026-05",
+        "2026-02"
       ]
     }
   ],
-  "generated": "2026-06-05T04:52:43Z"
+  "generated": "2026-06-05T06:19:05Z"
 }
