@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Tiny static server for the R2 stand-in (serve/), with permissive CORS so the app
-can fetch it cross-origin exactly as it will fetch data.sunshine.naklitechie.com.
+can fetch it cross-origin exactly as it will fetch data.woodpecker.naklitechie.com.
 
 This is the LOCAL substitute for R2. Tomorrow the app's single DATA constant flips
 from http://localhost:8787 to the R2 custom domain and this server goes away.

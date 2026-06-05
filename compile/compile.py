@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Sunshine compile / build step.
+Woodpecker compile / build step.
 
 Reads the append-only ledger (releases/ + observations/ per source) and compiles
 the serving layer into the R2 stand-in (serve/):
@@ -12,7 +12,7 @@ the serving layer into the R2 stand-in (serve/):
 
 A record carries TWO timelines:
   - the issuer's DECLARED timeline: ordered releases + a latest-wins compiledRelease;
-  - Sunshine's OBSERVED timeline: the ordered observations[] + an observedSummary
+  - Woodpecker's OBSERVED timeline: the ordered observations[] + an observedSummary
     (count, first/last seen, undeclared-change count, whether it was pulled).
 The gap between them — a stateHash that moved with no release (silent edit), a
 tender that 404'd (pull) — is surfaced as index flags for the app's list badges.

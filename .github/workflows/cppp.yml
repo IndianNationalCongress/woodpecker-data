@@ -35,7 +35,7 @@ jobs:
         run: python3 compile/compile.py --data . --serve ./docs
       - name: Commit ledger + published serving layer (docs/ -> GitHub Pages)
         run: |
-          git config user.name  "sunshine-bot"
+          git config user.name  "woodpecker-bot"
           git config user.email "bot@users.noreply.github.com"
           touch docs/.nojekyll          # serve files verbatim (no Jekyll processing)
           git add cppp/releases cppp/observations docs

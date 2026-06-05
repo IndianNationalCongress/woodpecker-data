@@ -1,11 +1,11 @@
-# sunshine-data — ledger + scrapers + compile
+# woodpecker-data — ledger + scrapers + compile
 
 The sovereign data pipeline. **Append-only**: corrections are *new releases*, never
 edits or deletes to committed release JSON. The git history is the audit trail and
 the fork point — anyone can clone this and rebuild the whole archive.
 
 ```
-sunshine-data/                 (= this data/ dir; becomes its own repo)
+woodpecker-data/                 (= this data/ dir; becomes its own repo)
 ├── cppp/                       central — eprocure.gov.in / GePNIC
 │   ├── scraper/                scrape.py + vendored ocds.py
 │   ├── releases/<ocid>/<release-id>.json    committed OCDS releases (the ledger)
@@ -25,7 +25,7 @@ sunshine-data/                 (= this data/ dir; becomes its own repo)
 
 We adopt [OCDS](https://standard.open-contracting.org/) and use a pragmatic subset.
 
-- **ocid**: `sunshine-<source>-<portalTenderId>` — self-prefixed; we are an
+- **ocid**: `woodpecker-<source>-<portalTenderId>` — self-prefixed; we are an
   unofficial mirror, not a registered publisher.
 - **release.tag**: `tender` (published) · `tenderAmendment` (corrigendum) ·
   `tenderUpdate` (bid opening) · `award`.
@@ -47,7 +47,7 @@ written to R2 as `/files/<sha256>.txt`. Escalation to a Cloudflare Container/Que
 
 ## How to add a source (the source-module contract)
 
-Sunshine is built to be forked and extended. Adding a portal is self-contained — you
+Woodpecker is built to be forked and extended. Adding a portal is self-contained — you
 never touch another source's code (Independence Principle).
 
 1. **`mkdir <source>/scraper`** and copy `cppp/scraper/ocds.py` into it (vendored —

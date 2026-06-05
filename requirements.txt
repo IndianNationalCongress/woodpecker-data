@@ -1,4 +1,4 @@
-# Sunshine data-pipeline deps — PINNED for byte-reproducible fixtures.
+# Woodpecker data-pipeline deps — PINNED for byte-reproducible fixtures.
 #
 # Fixture generation must be deterministic: reportlab's invariant mode pins the
 # PDF /CreationDate + /ID, and Pillow's bundled font renders the scanned-PDF

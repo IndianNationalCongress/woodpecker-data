@@ -1,13 +1,13 @@
 """
-Sunshine OCDS helper — vendored per-source (Independence Principle).
+Woodpecker OCDS helper — vendored per-source (Independence Principle).
 
 This module is COPIED into each source's scraper/ dir, not imported across
 sources. That is deliberate: one source must never be able to break another by
 changing shared code. Keep edits source-local; if you improve this, copy the
 improvement outward consciously.
 
-It implements the v1.0 OCDS *subset* described in sunshine-spec-001:
-  - ocid scheme:  sunshine-<source>-<portalTenderId>
+It implements the v1.0 OCDS *subset* described in woodpecker-spec-001:
+  - ocid scheme:  woodpecker-<source>-<portalTenderId>
   - releases tagged: tender / tenderAmendment / tenderUpdate / award
   - documents content-addressed by sha256, text extracted (pdftotext -> OCR)
 
@@ -24,7 +24,7 @@ import subprocess
 import tempfile
 from datetime import datetime, timezone
 
-SCHEME = "sunshine"
+SCHEME = "woodpecker"
 
 # Portal event -> OCDS release tag (spec table).
 TAG_FOR_EVENT = {
@@ -230,7 +230,7 @@ def write_status(serve_source_dir: str, status: dict) -> str:
 # --------------------------------------------------------------------------- #
 # observation layer — the OBSERVED timeline (v1.0 capture floor)
 #
-# OCDS releases above are the issuer's *declared* timeline. Sunshine adds an
+# OCDS releases above are the issuer's *declared* timeline. Woodpecker adds an
 # *observed* timeline: every fetch of a known ocid writes an observation +
 # a full content-addressed snapshot. The gap between the two timelines —
 # a stateHash that moved with no declared release (a silent edit), a tender
@@ -280,7 +280,7 @@ def build_observation(*, source, ocid, observed_at, availability, state_hash,
     return {
         "ocid": ocid,
         "observedAt": iso(observed_at),       # ISO timestamp of OUR fetch
-        "witness": f"sunshine:{source}",      # v1.0 = sunshine only; reserved for wayback/cdl/cag (v1.2)
+        "witness": f"woodpecker:{source}",      # v1.0 = woodpecker only; reserved for wayback/cdl/cag (v1.2)
         "availability": availability,         # 'present' | 'altered' | 'removed'
         "stateHash": state_hash,              # sha256 of canonicalised observable state
         "documents": doc_hashes,              # [{id, sha256}] visible this fetch

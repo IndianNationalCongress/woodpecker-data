@@ -17,7 +17,7 @@ ROOT="$(pwd)"
 PY="${PYTHON:-python3}"
 [ -x "$ROOT/.venv/bin/python3" ] && PY="$ROOT/.venv/bin/python3"
 
-echo "== Sunshine pipeline (fixtures) ==  [python: $PY]"
+echo "== Woodpecker pipeline (fixtures) ==  [python: $PY]"
 
 echo "-- 1/3  generating binary fixtures"
 "$PY" scripts/gen_fixtures.py

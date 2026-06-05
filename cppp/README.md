@@ -7,13 +7,13 @@
 - **Engine:** GePNIC (NIC)
 - **Cadence:** every 6h (`cron: 17 */6 * * *`)
 - **Start point:** extends [`switchr24/mcp-india-tenders`](https://github.com/switchr24/mcp-india-tenders) CPPP client.
-- **Status:** read live at `data.sunshine.naklitechie.com/cppp/status.json`.
+- **Status:** read live at `data.woodpecker.naklitechie.com/cppp/status.json`.
 
 ## OCDS mapping
 
 GePNIC tender lifecycle → OCDS subset (see [`../README.md`](../README.md)):
 `published→tender`, `corrigendum→tenderAmendment`, `bid opening→tenderUpdate`,
-`award→award`. `ocid = sunshine-cppp-<portalTenderId>`.
+`award→award`. `ocid = woodpecker-cppp-<portalTenderId>`.
 
 ## Run
 

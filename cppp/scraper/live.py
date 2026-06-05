@@ -48,8 +48,8 @@ PORTAL_BASE = "https://eprocure.gov.in/eprocure/app"
 LISTING_URL = f"{PORTAL_BASE}?page=FrontEndListTendersbyDate&service=page"
 
 USER_AGENT = (
-    "SunshineArchive/0.1 "
-    "(+https://github.com/NakliTechie/sunshine-data-ledger; "
+    "WoodpeckerArchive/0.1 "
+    "(+https://github.com/NakliTechie/woodpecker-data; "
     "civic-tech tender preservation)"
 )
 

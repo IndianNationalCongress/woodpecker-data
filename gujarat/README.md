@@ -7,7 +7,7 @@
 - **Engine:** **nProcure / (n)Code Solutions — NOT GePNIC.** No upstream OCDS client.
 - **Cadence:** every 8h (`cron: 57 */8 * * *`, longer — nProcure is rate-sensitive)
 - **Start point:** **net-new scraper.** This is the cross-engine portability test.
-- **Status:** `data.sunshine.naklitechie.com/gujarat/status.json`.
+- **Status:** `data.woodpecker.naklitechie.com/gujarat/status.json`.
 
 ## Why this source exists
 

@@ -7,11 +7,11 @@
 - **Engine:** GePNIC (NIC) — same family as CPPP; the cheap GePNIC start.
 - **Cadence:** every 6h (`cron: 37 */6 * * *`, offset from CPPP)
 - **Start point:** existing OCDS client for Rajasthan (GePNIC).
-- **Status:** `data.sunshine.naklitechie.com/rajasthan/status.json`.
+- **Status:** `data.woodpecker.naklitechie.com/rajasthan/status.json`.
 
 ## OCDS mapping
 
-Same GePNIC → OCDS subset as CPPP. `ocid = sunshine-rajasthan-<portalTenderId>`.
+Same GePNIC → OCDS subset as CPPP. `ocid = woodpecker-rajasthan-<portalTenderId>`.
 The scraper is an **independent copy** (Independence Principle) — it shares no
 runtime code with CPPP.
 
