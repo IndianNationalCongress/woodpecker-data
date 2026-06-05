@@ -28,6 +28,33 @@
       ]
     },
     {
+      "id": "assam_archive",
+      "label": "Assam · archive (2016–21)",
+      "engine": "import",
+      "ok": true,
+      "lastRun": "2026-06-05T07:13:06Z",
+      "tenders": 30292,
+      "observations": 0,
+      "undeclaredChanges": 0,
+      "pulled": 0,
+      "imported": true,
+      "provenance": {
+        "imported": true,
+        "source": "Assam Finance Dept OCDS export — data.gov.in / Open Contracting registry (CivicDataLab mirror)",
+        "sourcePortal": "assamtenders.gov.in (GePNIC)",
+        "license": "GODL-India (Government Open Data License – India)",
+        "note": "Declared official export — NOT observed by Woodpecker (no capture-floor snapshots)."
+      },
+      "months": [
+        "2021",
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ]
+    },
+    {
       "id": "bhel",
       "label": "BHEL",
       "engine": "gepnic",
@@ -515,5 +542,5 @@
       ]
     }
   ],
-  "generated": "2026-06-05T06:19:05Z"
+  "generated": "2026-06-05T07:14:40Z"
 }

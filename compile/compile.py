@@ -262,6 +262,11 @@ def build_stats(entries, manifest, generated):
         "byStatus": dict(status),
         "byMonth": dict(sorted(month.items())),
         "observed": {"undeclaredChanges": undeclared, "pulled": pulled, "deadLinks": dead},
+        "imported": {
+            "count": sum(m.get("tenders", 0) for m in manifest if m.get("imported")),
+            "sources": [{"id": m["id"], "label": m["label"], "tenders": m.get("tenders", 0)}
+                        for m in manifest if m.get("imported")],
+        },
     }
 
 
@@ -288,6 +293,25 @@ def main():
     manifest, all_entries = [], []
     print(f"Compiling {len(sources)} source(s): {', '.join(sources)}")
     for s in sources:
+        sp = os.path.join(args.serve, s, "status.json")
+        st = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else {}
+        if st.get("engine") == "import":
+            # Pre-built bulk import (e.g. Assam OCDS). DON'T recompile (would clobber it).
+            # Surface it as a source/pill, but keep it OUT of the live-observed stats —
+            # it's declared/imported data, browsable apart from our capture.
+            idx = os.path.join(args.serve, s, "index")
+            months = sorted((f[:-5] for f in os.listdir(idx)
+                             if f.endswith(".json") and f != "latest.json"), reverse=True) \
+                if os.path.isdir(idx) else []
+            manifest.append({
+                "id": s, "label": st.get("label", s), "engine": "import",
+                "ok": st.get("ok", True), "lastRun": st.get("lastRun"),
+                "tenders": st.get("tenders", 0), "observations": 0,
+                "undeclaredChanges": 0, "pulled": 0, "imported": True,
+                "provenance": st.get("provenance"), "months": months,
+            })
+            print(f"  [{s}] imported source: {st.get('tenders', 0)} tenders (not recompiled, not in live stats)")
+            continue
         me, ents = compile_source(s, args.data, args.serve)
         manifest.append(me)
         all_entries.extend(ents)
