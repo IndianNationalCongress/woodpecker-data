@@ -58,6 +58,13 @@ jobs:
           PY
       - name: Compile serving layer into docs/ (records + monthly indices + manifest)
         run: python3 compile/compile.py --data . --serve ./docs
+      - name: Setup Node (semantic-index embedder)
+        uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - name: Rebuild semantic search index (bge-small q8 int8 vectors, sharded < 20MB)
+        run: |
+          (cd _search && npm install --no-audit --no-fund --silent)
+          node _search/build_index.mjs
       - name: Commit ledger + published serving layer (docs/ -> GitHub Pages)
         run: |
           git config user.name  "woodpecker-bot"
