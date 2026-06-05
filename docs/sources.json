@@ -214,6 +214,36 @@
       ]
     },
     {
+      "id": "himachal_archive",
+      "label": "Himachal · archive (2017–20, health/PWD)",
+      "engine": "import",
+      "ok": true,
+      "lastRun": "2026-06-05T07:30:39Z",
+      "tenders": 3791,
+      "observations": 0,
+      "undeclaredChanges": 0,
+      "pulled": 0,
+      "imported": true,
+      "provenance": {
+        "imported": true,
+        "source": "Himachal Pradesh health/water procurement OCDS — CivicDataLab / Open Contracting registry (tenders from hptenders.gov.in + awards from CPPP)",
+        "sourcePortal": "hptenders.gov.in",
+        "license": "license unspecified by publisher (official govt procurement records)",
+        "note": "Declared official export — NOT observed by Woodpecker (no capture-floor snapshots)."
+      },
+      "months": [
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013",
+        "2012"
+      ]
+    },
+    {
       "id": "iocl",
       "label": "Indian Oil (IOCL)",
       "engine": "gepnic",
@@ -542,5 +572,5 @@
       ]
     }
   ],
-  "generated": "2026-06-05T07:14:40Z"
+  "generated": "2026-06-05T07:31:06Z"
 }

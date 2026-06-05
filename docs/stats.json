@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-05T07:14:40Z",
+  "generated": "2026-06-05T07:31:06Z",
   "totalTenders": 2877,
   "dateRange": {
     "from": "2025-06-10T00:00:00Z",
@@ -7,7 +7,7 @@
   },
   "totalValue": 39945660853,
   "withValue": 2187,
-  "sources": 34,
+  "sources": 35,
   "byCategory": {
     "works": {
       "count": 2212,
@@ -216,6 +216,12 @@
       "value": 0
     },
     {
+      "id": "himachal_archive",
+      "label": "Himachal · archive (2017–20, health/PWD)",
+      "count": 0,
+      "value": 0
+    },
+    {
       "id": "mizoram",
       "label": "Mizoram",
       "count": 0,
@@ -255,12 +261,17 @@
     "deadLinks": 0
   },
   "imported": {
-    "count": 30292,
+    "count": 34083,
     "sources": [
       {
         "id": "assam_archive",
         "label": "Assam · archive (2016–21)",
         "tenders": 30292
+      },
+      {
+        "id": "himachal_archive",
+        "label": "Himachal · archive (2017–20, health/PWD)",
+        "tenders": 3791
       }
     ]
   }
