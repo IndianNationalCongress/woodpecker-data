@@ -49,7 +49,7 @@ LISTING_URL = f"{PORTAL_BASE}?page=FrontEndListTendersbyDate&service=page"
 
 USER_AGENT = (
     "WoodpeckerArchive/0.1 "
-    "(+https://github.com/NakliTechie/woodpecker-data; "
+    "(+https://github.com/IndianNationalCongress/woodpecker-data; "
     "civic-tech tender preservation)"
 )
 

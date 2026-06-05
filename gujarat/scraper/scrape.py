@@ -46,7 +46,7 @@ LABEL = "Gujarat"
 # the dev monorepo (data/gujarat/...) and the deployed ledger repo (gujarat/... at
 # root). The <source>/ dir holds releases/ + observations/; ROOT (the dir with
 # fixtures/) holds fixtures/ + serve/. Resolving both relative to __file__ means
-# zero path edits when the data half splits into NakliTechie/woodpecker-data.
+# zero path edits when the data half splits into IndianNationalCongress/woodpecker-data.
 SRC_DIR = Path(__file__).resolve().parents[1]            # the <source>/ dir
 
 
