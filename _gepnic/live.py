@@ -261,6 +261,13 @@ def fetch_recent_tenders(
 
     rows = [r for r in parse_listing(listing_html) if r["tender_id"] and r["detail_path"]]
     if not rows:
+        # Distinguish a WORKING-but-empty portal (valid GePNIC page, "No Tenders found"
+        # on the current date) from a real gate. Empty is ok (the source is tracked,
+        # the daily cron picks up tenders when they appear); a gate is a hard stop.
+        if re.search(r"No\s+Tenders?\s+found", listing_html, re.I):
+            if verbose:
+                print(f"[{tag}:live] valid GePNIC page, no tenders on the current date — empty (ok)")
+            return []
         raise LiveBlocked(
             "listing rendered no tender rows (browse-by-date appears captcha-gated)"
         )

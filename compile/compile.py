@@ -273,10 +273,14 @@ def main():
     if args.sources:
         sources = args.sources
     else:
-        sources = sorted(
-            d for d in os.listdir(args.data)
-            if os.path.isdir(os.path.join(args.data, d, "releases"))
-        )
+        have = {d for d in os.listdir(args.data)
+                if os.path.isdir(os.path.join(args.data, d, "releases"))}
+        # also include WORKING-but-empty sources: they have a served status.json but no
+        # releases yet (so a pill still shows; they fill in as the daily cron captures).
+        if os.path.isdir(args.serve):
+            have |= {d for d in os.listdir(args.serve)
+                     if os.path.exists(os.path.join(args.serve, d, "status.json"))}
+        sources = sorted(have)
 
     manifest, all_entries = [], []
     print(f"Compiling {len(sources)} source(s): {', '.join(sources)}")
