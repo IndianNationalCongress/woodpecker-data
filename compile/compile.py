@@ -222,7 +222,7 @@ def build_stats(entries, manifest, generated):
     cat = defaultdict(lambda: {"count": 0, "value": 0})
     src = {m["id"]: {"id": m["id"], "label": m["label"], "count": 0, "value": 0} for m in manifest}
     band = {"lt1cr": 0, "1to10cr": 0, "gt10cr": 0, "none": 0}
-    status, month = defaultdict(int), defaultdict(int)
+    status, month, year = defaultdict(int), defaultdict(int), defaultdict(int)
     total_value = with_value = undeclared = pulled = dead = 0
     for e in entries:
         amt = (e.get("value") or {}).get("amount")
@@ -235,6 +235,7 @@ def build_stats(entries, manifest, generated):
         m = (e.get("publishedDate") or "")[:7]
         if len(m) == 7:
             month[m] += 1
+            year[m[:4]] += 1
         if amt:
             total_value += amt
             with_value += 1
@@ -261,6 +262,7 @@ def build_stats(entries, manifest, generated):
         "byValueBand": band,
         "byStatus": dict(status),
         "byMonth": dict(sorted(month.items())),
+        "byYear": dict(sorted(year.items())),
         "observed": {"undeclaredChanges": undeclared, "pulled": pulled, "deadLinks": dead},
         "imported": {
             "count": sum(m.get("tenders", 0) for m in manifest if m.get("imported")),
@@ -296,13 +298,18 @@ def main():
         sp = os.path.join(args.serve, s, "status.json")
         st = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else {}
         if st.get("engine") == "import":
-            # Pre-built bulk import (e.g. Assam OCDS). DON'T recompile (would clobber it).
-            # Surface it as a source/pill, but keep it OUT of the live-observed stats —
-            # it's declared/imported data, browsable apart from our capture.
+            # Pre-built bulk import (e.g. Assam/Himachal OCDS). DON'T recompile (would clobber it).
+            # Surface it as a source/pill AND fold its entries into the portal totals + stats
+            # (imports ARE counted) — but they stay marked declared/imported, NOT observed: they
+            # carry no capture-floor, so they add 0 to the silent-edit / pull tallies.
             idx = os.path.join(args.serve, s, "index")
-            months = sorted((f[:-5] for f in os.listdir(idx)
-                             if f.endswith(".json") and f != "latest.json"), reverse=True) \
-                if os.path.isdir(idx) else []
+            months, ents = [], []
+            if os.path.isdir(idx):
+                for fn in os.listdir(idx):
+                    if fn.endswith(".json") and fn != "latest.json":
+                        months.append(fn[:-5])
+                        ents.extend(json.load(open(os.path.join(idx, fn), encoding="utf-8")).get("tenders", []))
+            months.sort(reverse=True)
             manifest.append({
                 "id": s, "label": st.get("label", s), "engine": "import",
                 "ok": st.get("ok", True), "lastRun": st.get("lastRun"),
@@ -310,7 +317,8 @@ def main():
                 "undeclaredChanges": 0, "pulled": 0, "imported": True,
                 "provenance": st.get("provenance"), "months": months,
             })
-            print(f"  [{s}] imported source: {st.get('tenders', 0)} tenders (not recompiled, not in live stats)")
+            all_entries.extend(ents)
+            print(f"  [{s}] imported source: {st.get('tenders', 0)} tenders (folded into totals; declared, not observed)")
             continue
         me, ents = compile_source(s, args.data, args.serve)
         manifest.append(me)
