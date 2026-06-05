@@ -32,6 +32,7 @@ function meta(rec, source) {
     title: t.title || '', buyer: b.name || '',
     value: t.value || null, status: t.status || '',
     closing: (t.tenderPeriod || {}).endDate || '',
+    category: t.mainProcurementCategory || '',
   };
 }
 
