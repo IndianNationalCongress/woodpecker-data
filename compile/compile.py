@@ -224,6 +224,10 @@ def build_stats(entries, manifest, generated):
     band = {"lt1cr": 0, "1to10cr": 0, "gt10cr": 0, "none": 0}
     status, month, year = defaultdict(int), defaultdict(int), defaultdict(int)
     total_value = with_value = undeclared = pulled = dead = 0
+    # per-year buckets: count/value + breakdowns by category, value-band and source, so the
+    # app's Stats scrubber can re-aggregate ANY [from,to] window client-side from one stats.json
+    # (sum the selected years) — no need to load all tenders. cat/src carry [count, value].
+    ybk = {}
     for e in entries:
         amt = (e.get("value") or {}).get("amount")
         c = (e.get("category") or "").strip().lower() or "other"
@@ -233,18 +237,33 @@ def build_stats(entries, manifest, generated):
             s["count"] += 1
         status[(e.get("status") or "other")] += 1
         m = (e.get("publishedDate") or "")[:7]
-        if len(m) == 7:
+        yr = m[:4] if len(m) == 7 else None
+        if yr:
             month[m] += 1
-            year[m[:4]] += 1
+            year[yr] += 1
+        bandkey = ("none" if not amt
+                   else "lt1cr" if amt < 1e7
+                   else "1to10cr" if amt < 1e8 else "gt10cr")
         if amt:
             total_value += amt
             with_value += 1
             cat[c]["value"] += amt
             if s:
                 s["value"] += amt
-            band["lt1cr" if amt < 1e7 else "1to10cr" if amt < 1e8 else "gt10cr"] += 1
-        else:
-            band["none"] += 1
+        band[bandkey] += 1
+        if yr:
+            b = ybk.get(yr)
+            if b is None:
+                b = ybk[yr] = {"count": 0, "value": 0,
+                               "cat": defaultdict(lambda: [0, 0]),
+                               "band": defaultdict(int),
+                               "src": defaultdict(lambda: [0, 0])}
+            b["count"] += 1
+            b["band"][bandkey] += 1
+            bc = b["cat"][c]; bc[0] += 1
+            bs = b["src"][e["source"]]; bs[0] += 1
+            if amt:
+                b["value"] += amt; bc[1] += amt; bs[1] += amt
         undeclared += 1 if e.get("hasUndeclaredChange") else 0
         pulled += 1 if e.get("pulled") else 0
         dead += 1 if e.get("hasDeadLink") else 0
@@ -263,6 +282,13 @@ def build_stats(entries, manifest, generated):
         "byStatus": dict(status),
         "byMonth": dict(sorted(month.items())),
         "byYear": dict(sorted(year.items())),
+        "yearBuckets": {
+            y: {"count": b["count"], "value": b["value"],
+                "cat": {k: v for k, v in b["cat"].items()},
+                "band": dict(b["band"]),
+                "src": {k: v for k, v in b["src"].items()}}
+            for y, b in sorted(ybk.items())
+        },
         "observed": {"undeclaredChanges": undeclared, "pulled": pulled, "deadLinks": dead},
         "imported": {
             "count": sum(m.get("tenders", 0) for m in manifest if m.get("imported")),
