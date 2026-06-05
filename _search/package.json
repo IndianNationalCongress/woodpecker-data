@@ -1,0 +1,1 @@
+{"name":"woodpecker-search-index","private":true,"type":"module","description":"Offline embedder: builds the sharded semantic-search index (int8 vectors + meta) served at docs/search/. Same model the browser uses (bge-small-en-v1.5) so query/corpus vectors are comparable.","dependencies":{"@huggingface/transformers":"^4.2.0"}}
