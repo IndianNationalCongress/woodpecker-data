@@ -1,0 +1,84 @@
+# GePNIC LIVE — the archive engine. Loops the source registry (_gepnic/portals.json)
+# and pulls REAL tenders from every NIC GePNIC portal (CPPP + states + orgs), maps them
+# to OCDS + observations, and PUBLISHES the served layer to docs/ for GitHub Pages
+# (no R2, no server). GET-only, polite (2.5s/req), bounded (hard caps: 60 tenders, 8
+# pages/run), no captcha/login (a block -> stop-and-report for THAT source only).
+# Append-only. Independence: each source runs separately; one failing/blocked source
+# writes a failing status.json and NEVER aborts the others. Depth = CPPP paginates to
+# ~40; width = every other registry portal at 10. PDF bytes stay a later supervised tier.
+name: gepnic-live
+on:
+  workflow_dispatch:
+    inputs:
+      sources:
+        description: "Comma-separated source ids to run (blank = all in portals.json)"
+        default: ""
+      max:
+        description: "Max tenders per source this run (cppp always paginates to 40)"
+        default: "10"
+  schedule:
+    - cron: "23 6 * * *"     # once daily — deliberately gentle for an unattended live scrape
+permissions:
+  contents: write
+concurrency:
+  group: gepnic-live
+  cancel-in-progress: false
+env:
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      # stdlib-only (urllib); no pip deps, no OCR toolchain (no PDF bytes).
+      - name: Live scrape — every GePNIC source in the registry (sequential, independent)
+        env:
+          ONLY: ${{ github.event.inputs.sources }}
+          MAXN: ${{ github.event.inputs.max || '10' }}
+        run: |
+          python3 - <<'PY'
+          import json, os, subprocess
+          reg = json.load(open('_gepnic/portals.json'))['sources']
+          only = {s.strip() for s in os.environ.get('ONLY','').split(',') if s.strip()}
+          maxn = os.environ.get('MAXN','10')
+          for s in reg:
+              if only and s['id'] not in only:
+                  continue
+              mx = '40' if s['id'] == 'cppp' else maxn   # depth on cppp, width elsewhere
+              print(f"::group::{s['id']} (max {mx})")
+              # engine exits 0 even on block/fail (Independence) -> can't abort siblings
+              subprocess.run(
+                  ['python3', '_gepnic/scrape.py', '--source', s['id'],
+                   '--label', s['label'], '--base-url', s['base_url'],
+                   '--max', mx, '--max-pages', '6', '--serve', './docs'],
+                  check=False)
+              print("::endgroup::")
+          PY
+      - name: Compile serving layer into docs/ (records + monthly indices + manifest)
+        run: python3 compile/compile.py --data . --serve ./docs
+      - name: Commit ledger + published serving layer (docs/ -> GitHub Pages)
+        run: |
+          git config user.name  "woodpecker-bot"
+          git config user.email "bot@users.noreply.github.com"
+          touch docs/.nojekyll          # serve files verbatim (no Jekyll processing)
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no new tenders / no serving changes this run"
+          else
+            git commit -m "gepnic: LIVE multi-source capture + publish $(date -u +%FT%TZ)"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi
+      # When R2_* secrets are set, also mirror the served layer to R2 (optional, off by default).
+      - name: Mirror serving layer to R2 (S3 API)
+        if: ${{ env.R2_ACCESS_KEY_ID != '' }}
+        env:
+          R2_ACCESS_KEY_ID:     ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_S3_ENDPOINT:       ${{ secrets.R2_S3_ENDPOINT }}
+          R2_BUCKET:            ${{ secrets.R2_BUCKET }}
+        run: |
+          pip install awscli >/dev/null
+          aws s3 sync ./docs "s3://${R2_BUCKET}" --no-progress --endpoint-url "$R2_S3_ENDPOINT"
