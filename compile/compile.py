@@ -213,6 +213,52 @@ def compile_source(source, data_dir, serve_dir):
         "undeclaredChanges": undeclared,
         "pulled": pulled,
         "months": sorted(shards.keys(), reverse=True),
+    }, entries
+
+
+def build_stats(entries, manifest, generated):
+    """Corpus-wide aggregates for the app's stats dashboard — precomputed so the app
+    fetches ONE stats.json instead of all per-source indices. Scales with the corpus."""
+    cat = defaultdict(lambda: {"count": 0, "value": 0})
+    src = {m["id"]: {"id": m["id"], "label": m["label"], "count": 0, "value": 0} for m in manifest}
+    band = {"lt1cr": 0, "1to10cr": 0, "gt10cr": 0, "none": 0}
+    status, month = defaultdict(int), defaultdict(int)
+    total_value = with_value = undeclared = pulled = dead = 0
+    for e in entries:
+        amt = (e.get("value") or {}).get("amount")
+        c = (e.get("category") or "").strip().lower() or "other"
+        cat[c]["count"] += 1
+        s = src.get(e["source"])
+        if s:
+            s["count"] += 1
+        status[(e.get("status") or "other")] += 1
+        m = (e.get("publishedDate") or "")[:7]
+        if len(m) == 7:
+            month[m] += 1
+        if amt:
+            total_value += amt
+            with_value += 1
+            cat[c]["value"] += amt
+            if s:
+                s["value"] += amt
+            band["lt1cr" if amt < 1e7 else "1to10cr" if amt < 1e8 else "gt10cr"] += 1
+        else:
+            band["none"] += 1
+        undeclared += 1 if e.get("hasUndeclaredChange") else 0
+        pulled += 1 if e.get("pulled") else 0
+        dead += 1 if e.get("hasDeadLink") else 0
+    return {
+        "generated": generated,
+        "totalTenders": len(entries),
+        "totalValue": total_value,
+        "withValue": with_value,
+        "sources": len(manifest),
+        "byCategory": dict(cat),
+        "bySource": sorted(src.values(), key=lambda x: -x["count"]),
+        "byValueBand": band,
+        "byStatus": dict(status),
+        "byMonth": dict(sorted(month.items())),
+        "observed": {"undeclaredChanges": undeclared, "pulled": pulled, "deadLinks": dead},
     }
 
 
@@ -232,15 +278,19 @@ def main():
             if os.path.isdir(os.path.join(args.data, d, "releases"))
         )
 
-    manifest = []
+    manifest, all_entries = [], []
     print(f"Compiling {len(sources)} source(s): {', '.join(sources)}")
     for s in sources:
-        manifest.append(compile_source(s, args.data, args.serve))
+        me, ents = compile_source(s, args.data, args.serve)
+        manifest.append(me)
+        all_entries.extend(ents)
 
+    generated = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     write_json(os.path.join(args.serve, "sources.json"),
-               {"sources": manifest,
-                "generated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")})
-    print("Compile complete -> serve/")
+               {"sources": manifest, "generated": generated})
+    write_json(os.path.join(args.serve, "stats.json"),
+               build_stats(all_entries, manifest, generated))
+    print(f"Compile complete -> serve/  ({len(all_entries)} tenders; stats.json written)")
 
 
 if __name__ == "__main__":
