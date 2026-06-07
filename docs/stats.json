@@ -1,25 +1,25 @@
 {
-  "generated": "2026-06-07T08:27:51Z",
-  "totalTenders": 209453,
+  "generated": "2026-06-07T09:54:25Z",
+  "totalTenders": 209566,
   "dateRange": {
     "from": "2012-03-09T00:00:00Z",
     "to": "2026-06-30T00:00:00Z"
   },
-  "totalValue": 1158845723287,
-  "withValue": 34110,
-  "sources": 812,
+  "totalValue": 1159318815917,
+  "withValue": 34223,
+  "sources": 815,
   "byCategory": {
     "works": {
-      "count": 55691,
-      "value": 1011255734640
+      "count": 55792,
+      "value": 1011676573730
     },
     "services": {
-      "count": 4774,
-      "value": 54815726774
+      "count": 4778,
+      "value": 54830501414
     },
     "goods": {
-      "count": 17839,
-      "value": 92774261873
+      "count": 17847,
+      "value": 92811740773
     },
     "other": {
       "count": 131149,
@@ -36,8 +36,8 @@
     {
       "id": "mes",
       "label": "Military Engineer Services",
-      "count": 25668,
-      "value": 1603829519
+      "count": 25670,
+      "value": 1612679519
     },
     {
       "id": "railways",
@@ -48,8 +48,8 @@
     {
       "id": "coal-india",
       "label": "Coal India & subsidiaries",
-      "count": 13753,
-      "value": 168286875
+      "count": 13754,
+      "value": 171635940
     },
     {
       "id": "npcil",
@@ -472,14 +472,14 @@
       "value": 199675098
     },
     {
-      "id": "org-marketing-ho",
-      "label": "Marketing Ho",
+      "id": "org-guwahati-refinery",
+      "label": "Guwahati Refinery",
       "count": 171,
       "value": 0
     },
     {
-      "id": "org-guwahati-refinery",
-      "label": "Guwahati Refinery",
+      "id": "org-marketing-ho",
+      "label": "Marketing Ho",
       "count": 171,
       "value": 0
     },
@@ -526,14 +526,14 @@
       "value": 0
     },
     {
-      "id": "org-dir-gen-defence-estates",
-      "label": "Dir Gen Defence Estates",
+      "id": "org-wrpl-chaksu",
+      "label": "Wrpl Chaksu",
       "count": 146,
       "value": 0
     },
     {
-      "id": "org-wrpl-chaksu",
-      "label": "Wrpl Chaksu",
+      "id": "org-dir-gen-defence-estates",
+      "label": "Dir Gen Defence Estates",
       "count": 146,
       "value": 0
     },
@@ -574,6 +574,12 @@
       "value": 0
     },
     {
+      "id": "org-panchayati-raj-department",
+      "label": "Panchayati Raj Department",
+      "count": 131,
+      "value": 426597497
+    },
+    {
       "id": "org-animal-husbandry-veterinary-department",
       "label": "Animal Husbandry Veterinary Department",
       "count": 129,
@@ -586,16 +592,16 @@
       "value": 0
     },
     {
+      "id": "org-haryana-government",
+      "label": "Haryana Government",
+      "count": 129,
+      "value": 459575003
+    },
+    {
       "id": "org-north-east-integrated-state-office",
       "label": "North East Integrated State Office",
       "count": 126,
       "value": 0
-    },
-    {
-      "id": "org-haryana-government",
-      "label": "Haryana Government",
-      "count": 126,
-      "value": 400302975
     },
     {
       "id": "org-security-printing-minting",
@@ -682,14 +688,14 @@
       "value": 964541700
     },
     {
-      "id": "org-instrumentation",
-      "label": "Instrumentation",
+      "id": "org-panipat-naphtha-cracker",
+      "label": "Panipat Naphtha Cracker",
       "count": 108,
       "value": 0
     },
     {
-      "id": "org-panipat-naphtha-cracker",
-      "label": "Panipat Naphtha Cracker",
+      "id": "org-instrumentation",
+      "label": "Instrumentation",
       "count": 108,
       "value": 0
     },
@@ -766,12 +772,6 @@
       "value": 0
     },
     {
-      "id": "org-panchayati-raj-department",
-      "label": "Panchayati Raj Department",
-      "count": 92,
-      "value": 347887113
-    },
-    {
       "id": "org-pipelines-ho",
       "label": "Pipelines Ho",
       "count": 91,
@@ -808,14 +808,14 @@
       "value": 0
     },
     {
-      "id": "org-wrpl-viramgam",
-      "label": "Wrpl Viramgam",
+      "id": "org-uttar-pradesh-state-office-2",
+      "label": "Uttar Pradesh State Office 2",
       "count": 85,
       "value": 0
     },
     {
-      "id": "org-uttar-pradesh-state-office-2",
-      "label": "Uttar Pradesh State Office 2",
+      "id": "org-wrpl-viramgam",
+      "label": "Wrpl Viramgam",
       "count": 85,
       "value": 0
     },
@@ -838,14 +838,14 @@
       "value": 0
     },
     {
-      "id": "org-central-public-works-department",
-      "label": "Central Public Works Department",
+      "id": "org-gujarat-state-office",
+      "label": "Gujarat State Office",
       "count": 77,
       "value": 0
     },
     {
-      "id": "org-gujarat-state-office",
-      "label": "Gujarat State Office",
+      "id": "org-central-public-works-department",
+      "label": "Central Public Works Department",
       "count": 77,
       "value": 0
     },
@@ -886,14 +886,14 @@
       "value": 0
     },
     {
-      "id": "iocl",
-      "label": "Indian Oil (IOCL)",
+      "id": "org-kiocl",
+      "label": "Kiocl",
       "count": 70,
       "value": 0
     },
     {
-      "id": "org-kiocl",
-      "label": "Kiocl",
+      "id": "iocl",
+      "label": "Indian Oil (IOCL)",
       "count": 70,
       "value": 0
     },
@@ -910,6 +910,12 @@
       "value": 0
     },
     {
+      "id": "org-maharashtra-state-office",
+      "label": "Maharashtra State Office",
+      "count": 68,
+      "value": 0
+    },
+    {
       "id": "org-wrpl-koyali",
       "label": "Wrpl Koyali",
       "count": 68,
@@ -922,20 +928,20 @@
       "value": 0
     },
     {
-      "id": "org-maharashtra-state-office",
-      "label": "Maharashtra State Office",
-      "count": 68,
+      "id": "org-pwd-ce-as",
+      "label": "Pwd Ce As",
+      "count": 66,
+      "value": 183119570
+    },
+    {
+      "id": "org-container",
+      "label": "Container",
+      "count": 65,
       "value": 0
     },
     {
       "id": "org-inland-waterways-authority",
       "label": "Inland Waterways Authority",
-      "count": 65,
-      "value": 0
-    },
-    {
-      "id": "org-container",
-      "label": "Container",
       "count": 65,
       "value": 0
     },
@@ -964,8 +970,14 @@
       "value": 0
     },
     {
-      "id": "org-midhani",
-      "label": "Midhani",
+      "id": "org-hppwd",
+      "label": "Hppwd",
+      "count": 61,
+      "value": 0
+    },
+    {
+      "id": "org-western-region-office",
+      "label": "Western Region Office",
       "count": 61,
       "value": 0
     },
@@ -976,14 +988,8 @@
       "value": 0
     },
     {
-      "id": "org-hppwd",
-      "label": "Hppwd",
-      "count": 61,
-      "value": 0
-    },
-    {
-      "id": "org-western-region-office",
-      "label": "Western Region Office",
+      "id": "org-midhani",
+      "label": "Midhani",
       "count": 61,
       "value": 0
     },
@@ -1010,12 +1016,6 @@
       "label": "Indian Coast Guard",
       "count": 58,
       "value": 0
-    },
-    {
-      "id": "org-pwd-ce-as",
-      "label": "Pwd Ce As",
-      "count": 58,
-      "value": 102542776
     },
     {
       "id": "org-food-civil-supplies-consumer-affairs-department",
@@ -1090,14 +1090,14 @@
       "value": 0
     },
     {
-      "id": "org-bihar-state-office",
-      "label": "Bihar State Office",
+      "id": "org-ibp-kolkata",
+      "label": "Ibp Kolkata",
       "count": 48,
       "value": 0
     },
     {
-      "id": "org-ibp-kolkata",
-      "label": "Ibp Kolkata",
+      "id": "org-bihar-state-office",
+      "label": "Bihar State Office",
       "count": 48,
       "value": 0
     },
@@ -1168,14 +1168,14 @@
       "value": 0
     },
     {
-      "id": "org-ministry-mines",
-      "label": "Ministry Mines",
+      "id": "org-delhi-milk-scheme",
+      "label": "Delhi Milk Scheme",
       "count": 42,
       "value": 0
     },
     {
-      "id": "org-delhi-milk-scheme",
-      "label": "Delhi Milk Scheme",
+      "id": "org-ministry-mines",
+      "label": "Ministry Mines",
       "count": 42,
       "value": 0
     },
@@ -1198,16 +1198,16 @@
       "value": 987408965
     },
     {
-      "id": "org-finance-department-world-bank-tenders",
-      "label": "Finance Department World Bank Tenders",
-      "count": 40,
-      "value": 933755000
-    },
-    {
       "id": "org-skill-employment-entrepreneurship-department",
       "label": "Skill Employment Entrepreneurship Department",
       "count": 40,
       "value": 237699034
+    },
+    {
+      "id": "org-finance-department-world-bank-tenders",
+      "label": "Finance Department World Bank Tenders",
+      "count": 40,
+      "value": 933755000
     },
     {
       "id": "org-hscc",
@@ -1222,14 +1222,14 @@
       "value": 484285274
     },
     {
-      "id": "org-uttar-pradesh-state-office-1",
-      "label": "Uttar Pradesh State Office 1",
+      "id": "org-integrated-costal-marine-area-managment",
+      "label": "Integrated Costal Marine Area Managment",
       "count": 39,
       "value": 0
     },
     {
-      "id": "org-integrated-costal-marine-area-managment",
-      "label": "Integrated Costal Marine Area Managment",
+      "id": "org-uttar-pradesh-state-office-1",
+      "label": "Uttar Pradesh State Office 1",
       "count": 39,
       "value": 0
     },
@@ -1240,14 +1240,14 @@
       "value": 0
     },
     {
-      "id": "org-ne-ig-regional-instt-health-medical-science",
-      "label": "Ne Ig Regional Instt Health Medical Science",
+      "id": "org-rashtriya-ispat-nigam",
+      "label": "Rashtriya Ispat Nigam",
       "count": 39,
       "value": 0
     },
     {
-      "id": "org-rashtriya-ispat-nigam",
-      "label": "Rashtriya Ispat Nigam",
+      "id": "org-ne-ig-regional-instt-health-medical-science",
+      "label": "Ne Ig Regional Instt Health Medical Science",
       "count": 39,
       "value": 0
     },
@@ -1264,12 +1264,6 @@
       "value": 1999671
     },
     {
-      "id": "org-department-for-international-development",
-      "label": "Department For International Development",
-      "count": 38,
-      "value": 0
-    },
-    {
       "id": "org-national-centre-for-earth-science-studies",
       "label": "National Centre For Earth Science Studies",
       "count": 38,
@@ -1278,6 +1272,12 @@
     {
       "id": "org-heavy-vehicle-factory",
       "label": "Heavy Vehicle Factory",
+      "count": 38,
+      "value": 0
+    },
+    {
+      "id": "org-department-for-international-development",
+      "label": "Department For International Development",
       "count": 38,
       "value": 0
     },
@@ -1348,22 +1348,16 @@
       "value": 17315462144
     },
     {
-      "id": "org-special-protection-group",
-      "label": "Special Protection Group",
-      "count": 33,
-      "value": 0
-    },
-    {
       "id": "org-ordnance-equipment-factory-kanpur",
       "label": "Ordnance Equipment Factory Kanpur",
       "count": 33,
       "value": 0
     },
     {
-      "id": "org-assam-inland-water-transport-development-society",
-      "label": "Assam Inland Water Transport Development Society",
-      "count": 32,
-      "value": 3078089232
+      "id": "org-special-protection-group",
+      "label": "Special Protection Group",
+      "count": 33,
+      "value": 0
     },
     {
       "id": "org-assam-state-disaster-management-authority",
@@ -1372,14 +1366,20 @@
       "value": 7000
     },
     {
-      "id": "org-department-agriculture-cooperation",
-      "label": "Department Agriculture Cooperation",
+      "id": "org-assam-inland-water-transport-development-society",
+      "label": "Assam Inland Water Transport Development Society",
       "count": 32,
-      "value": 0
+      "value": 3078089232
     },
     {
       "id": "org-mahanagar-telephone-nigam",
       "label": "Mahanagar Telephone Nigam",
+      "count": 32,
+      "value": 0
+    },
+    {
+      "id": "org-department-agriculture-cooperation",
+      "label": "Department Agriculture Cooperation",
       "count": 32,
       "value": 0
     },
@@ -1438,6 +1438,12 @@
       "value": 242080001
     },
     {
+      "id": "org-dlb",
+      "label": "Dlb",
+      "count": 28,
+      "value": 491212000
+    },
+    {
       "id": "org-tea-tribes-welfare-department",
       "label": "Tea Tribes Welfare Department",
       "count": 27,
@@ -1460,12 +1466,6 @@
       "label": "Srpl Chennai",
       "count": 26,
       "value": 0
-    },
-    {
-      "id": "org-dlb",
-      "label": "Dlb",
-      "count": 26,
-      "value": 480737000
     },
     {
       "id": "org-indianoil",
@@ -1492,14 +1492,14 @@
       "value": 6177000
     },
     {
-      "id": "org-indian-council-agricultural-research",
-      "label": "Indian Council Agricultural Research",
+      "id": "org-ammunition-factory-kirkee",
+      "label": "Ammunition Factory Kirkee",
       "count": 24,
       "value": 0
     },
     {
-      "id": "org-ammunition-factory-kirkee",
-      "label": "Ammunition Factory Kirkee",
+      "id": "org-indian-council-agricultural-research",
+      "label": "Indian Council Agricultural Research",
       "count": 24,
       "value": 0
     },
@@ -1508,6 +1508,12 @@
       "label": "Maharashtra Industrial Development",
       "count": 24,
       "value": 47734571
+    },
+    {
+      "id": "org-municipal-bodies",
+      "label": "Municipal Bodies",
+      "count": 24,
+      "value": 9245894
     },
     {
       "id": "org-gspl-guwahati",
@@ -1528,12 +1534,6 @@
       "value": 0
     },
     {
-      "id": "org-border-security-force",
-      "label": "Border Security Force",
-      "count": 22,
-      "value": 0
-    },
-    {
       "id": "org-nic",
       "label": "Nic",
       "count": 22,
@@ -1542,6 +1542,12 @@
     {
       "id": "org-tariff-authority-for-major-ports",
       "label": "Tariff Authority For Major Ports",
+      "count": 22,
+      "value": 0
+    },
+    {
+      "id": "org-border-security-force",
+      "label": "Border Security Force",
       "count": 22,
       "value": 0
     },
@@ -1558,22 +1564,16 @@
       "value": 16000000
     },
     {
-      "id": "org-assam-power-distribution-externally-aided-project",
-      "label": "Assam Power Distribution Externally Aided Project",
-      "count": 20,
-      "value": 34235718000
-    },
-    {
       "id": "org-assam-electricity-grid-externally-funded-projects",
       "label": "Assam Electricity Grid Externally Funded Projects",
       "count": 20,
       "value": 24890000000
     },
     {
-      "id": "org-intelligence-bureau-new-delhi",
-      "label": "Intelligence Bureau New Delhi",
+      "id": "org-assam-power-distribution-externally-aided-project",
+      "label": "Assam Power Distribution Externally Aided Project",
       "count": 20,
-      "value": 0
+      "value": 34235718000
     },
     {
       "id": "org-odisha-state-office",
@@ -1582,16 +1582,22 @@
       "value": 0
     },
     {
-      "id": "org-dr-yashwant-singh-parmar-university-horticulture-forestry",
-      "label": "Dr Yashwant Singh Parmar University Horticulture Forestry",
+      "id": "org-intelligence-bureau-new-delhi",
+      "label": "Intelligence Bureau New Delhi",
       "count": 20,
-      "value": 36505185
+      "value": 0
     },
     {
       "id": "org-hp-agriculture-marketing-board",
       "label": "Hp Agriculture Marketing Board",
       "count": 20,
       "value": 78253666
+    },
+    {
+      "id": "org-dr-yashwant-singh-parmar-university-horticulture-forestry",
+      "label": "Dr Yashwant Singh Parmar University Horticulture Forestry",
+      "count": 20,
+      "value": 36505185
     },
     {
       "id": "org-himachal-pradesh-agriculture-development-society",
@@ -1642,14 +1648,14 @@
       "value": 0
     },
     {
-      "id": "org-department-disinvestment",
-      "label": "Department Disinvestment",
+      "id": "org-directorate-general-employment-training",
+      "label": "Directorate General Employment Training",
       "count": 18,
       "value": 0
     },
     {
-      "id": "org-directorate-general-employment-training",
-      "label": "Directorate General Employment Training",
+      "id": "org-department-disinvestment",
+      "label": "Department Disinvestment",
       "count": 18,
       "value": 0
     },
@@ -1672,8 +1678,8 @@
       "value": 392618266
     },
     {
-      "id": "org-department-telecommunications",
-      "label": "Department Telecommunications",
+      "id": "org-government-stationery-office",
+      "label": "Government Stationery Office",
       "count": 17,
       "value": 0
     },
@@ -1684,8 +1690,8 @@
       "value": 0
     },
     {
-      "id": "org-government-stationery-office",
-      "label": "Government Stationery Office",
+      "id": "org-department-telecommunications",
+      "label": "Department Telecommunications",
       "count": 17,
       "value": 0
     },
@@ -1702,16 +1708,16 @@
       "value": 714423475
     },
     {
-      "id": "org-mines-minerals-department",
-      "label": "Mines Minerals Department",
-      "count": 16,
-      "value": 72100000
-    },
-    {
       "id": "org-dibrugarh-university",
       "label": "Dibrugarh University",
       "count": 16,
       "value": 192580391
+    },
+    {
+      "id": "org-mines-minerals-department",
+      "label": "Mines Minerals Department",
+      "count": 16,
+      "value": 72100000
     },
     {
       "id": "org-hill-areas-department",
@@ -1720,8 +1726,20 @@
       "value": 18417279
     },
     {
-      "id": "org-indian-institute-science-education-research-kolkata",
-      "label": "Indian Institute Science Education Research Kolkata",
+      "id": "org-satish-dhawan-space-centre",
+      "label": "Satish Dhawan Space Centre",
+      "count": 16,
+      "value": 0
+    },
+    {
+      "id": "org-rural-electrification",
+      "label": "Rural Electrification",
+      "count": 16,
+      "value": 0
+    },
+    {
+      "id": "org-iipm",
+      "label": "Iipm",
       "count": 16,
       "value": 0
     },
@@ -1744,20 +1762,8 @@
       "value": 0
     },
     {
-      "id": "org-iipm",
-      "label": "Iipm",
-      "count": 16,
-      "value": 0
-    },
-    {
-      "id": "org-satish-dhawan-space-centre",
-      "label": "Satish Dhawan Space Centre",
-      "count": 16,
-      "value": 0
-    },
-    {
-      "id": "org-rural-electrification",
-      "label": "Rural Electrification",
+      "id": "org-indian-institute-science-education-research-kolkata",
+      "label": "Indian Institute Science Education Research Kolkata",
       "count": 16,
       "value": 0
     },
@@ -1780,16 +1786,16 @@
       "value": 569063000
     },
     {
-      "id": "org-president-secretariat",
-      "label": "President Secretariat",
-      "count": 15,
-      "value": 0
-    },
-    {
       "id": "org-department-animal-husbandry",
       "label": "Department Animal Husbandry",
       "count": 15,
       "value": 1422090
+    },
+    {
+      "id": "org-president-secretariat",
+      "label": "President Secretariat",
+      "count": 15,
+      "value": 0
     },
     {
       "id": "org-department-revenue",
@@ -1810,6 +1816,12 @@
       "value": 171894121
     },
     {
+      "id": "org-rdd-ceo-jalgaon",
+      "label": "Rdd Ceo Jalgaon",
+      "count": 15,
+      "value": 57205897
+    },
+    {
       "id": "org-irrigation-waterways-dept",
       "label": "Irrigation Waterways Dept",
       "count": 15,
@@ -1822,14 +1834,14 @@
       "value": 264120773
     },
     {
-      "id": "org-telangana-andhra-pradesh-state-office",
-      "label": "Telangana Andhra Pradesh State Office",
+      "id": "org-ministry-urban-development",
+      "label": "Ministry Urban Development",
       "count": 14,
       "value": 0
     },
     {
-      "id": "org-ministry-urban-development",
-      "label": "Ministry Urban Development",
+      "id": "org-telangana-andhra-pradesh-state-office",
+      "label": "Telangana Andhra Pradesh State Office",
       "count": 14,
       "value": 0
     },
@@ -1840,26 +1852,8 @@
       "value": 661700000
     },
     {
-      "id": "org-esso-incois",
-      "label": "Esso Incois",
-      "count": 13,
-      "value": 0
-    },
-    {
-      "id": "org-nepa",
-      "label": "Nepa",
-      "count": 13,
-      "value": 0
-    },
-    {
       "id": "org-pipeline-construction-office",
       "label": "Pipeline Construction Office",
-      "count": 13,
-      "value": 0
-    },
-    {
-      "id": "org-north-eastern-electric-power",
-      "label": "North Eastern Electric Power",
       "count": 13,
       "value": 0
     },
@@ -1870,8 +1864,26 @@
       "value": 0
     },
     {
+      "id": "org-nepa",
+      "label": "Nepa",
+      "count": 13,
+      "value": 0
+    },
+    {
+      "id": "org-esso-incois",
+      "label": "Esso Incois",
+      "count": 13,
+      "value": 0
+    },
+    {
       "id": "org-ce-rd-ar",
       "label": "Ce Rd Ar",
+      "count": 13,
+      "value": 0
+    },
+    {
+      "id": "org-north-eastern-electric-power",
+      "label": "North Eastern Electric Power",
       "count": 13,
       "value": 0
     },
@@ -1930,6 +1942,12 @@
       "value": 0
     },
     {
+      "id": "org-phed-chief-engineer",
+      "label": "Phed Chief Engineer",
+      "count": 12,
+      "value": 122941008
+    },
+    {
       "id": "org-rrvun-cmd",
       "label": "Rrvun Cmd",
       "count": 12,
@@ -1948,10 +1966,10 @@
       "value": 5052215
     },
     {
-      "id": "org-commissionerate-transport",
-      "label": "Commissionerate Transport",
+      "id": "org-department-science-technology",
+      "label": "Department Science Technology",
       "count": 11,
-      "value": 66514673
+      "value": 244770000
     },
     {
       "id": "org-pollution-control-board",
@@ -1960,20 +1978,20 @@
       "value": 0
     },
     {
-      "id": "org-department-science-technology",
-      "label": "Department Science Technology",
-      "count": 11,
-      "value": 244770000
-    },
-    {
       "id": "org-department-labour-welfare",
       "label": "Department Labour Welfare",
       "count": 11,
       "value": 8052048
     },
     {
-      "id": "org-aryabhatta-research-institute-observational-sciences",
-      "label": "Aryabhatta Research Institute Observational Sciences",
+      "id": "org-commissionerate-transport",
+      "label": "Commissionerate Transport",
+      "count": 11,
+      "value": 66514673
+    },
+    {
+      "id": "org-ircon-international",
+      "label": "Ircon International",
       "count": 11,
       "value": 0
     },
@@ -1984,14 +2002,14 @@
       "value": 0
     },
     {
-      "id": "org-rajasthan-electronics-instruments",
-      "label": "Rajasthan Electronics Instruments",
+      "id": "org-aryabhatta-research-institute-observational-sciences",
+      "label": "Aryabhatta Research Institute Observational Sciences",
       "count": 11,
       "value": 0
     },
     {
-      "id": "org-ircon-international",
-      "label": "Ircon International",
+      "id": "org-rajasthan-electronics-instruments",
+      "label": "Rajasthan Electronics Instruments",
       "count": 11,
       "value": 0
     },
@@ -2056,24 +2074,6 @@
       "value": 0
     },
     {
-      "id": "org-central-water-power-research-station",
-      "label": "Central Water Power Research Station",
-      "count": 10,
-      "value": 0
-    },
-    {
-      "id": "org-cpv-division",
-      "label": "Cpv Division",
-      "count": 10,
-      "value": 0
-    },
-    {
-      "id": "org-national-safai-karamcharis-finance-develp",
-      "label": "National Safai Karamcharis Finance Develp",
-      "count": 10,
-      "value": 0
-    },
-    {
       "id": "org-rajasthan-drugs-pharmaceuticals",
       "label": "Rajasthan Drugs Pharmaceuticals",
       "count": 10,
@@ -2086,16 +2086,34 @@
       "value": 0
     },
     {
+      "id": "org-national-safai-karamcharis-finance-develp",
+      "label": "National Safai Karamcharis Finance Develp",
+      "count": 10,
+      "value": 0
+    },
+    {
+      "id": "org-cpv-division",
+      "label": "Cpv Division",
+      "count": 10,
+      "value": 0
+    },
+    {
+      "id": "org-central-water-power-research-station",
+      "label": "Central Water Power Research Station",
+      "count": 10,
+      "value": 0
+    },
+    {
       "id": "org-rural-development-department",
       "label": "Rural Development Department",
       "count": 10,
       "value": 84315
     },
     {
-      "id": "org-assam-state-agricultural-marketing-board",
-      "label": "Assam State Agricultural Marketing Board",
-      "count": 9,
-      "value": 274440218
+      "id": "org-deptt-watershed-dev-soil-conservation",
+      "label": "Deptt Watershed Dev Soil Conservation",
+      "count": 10,
+      "value": 55944000
     },
     {
       "id": "org-assam-society-for-comprehensive-financial-management-system",
@@ -2104,14 +2122,14 @@
       "value": 43000200
     },
     {
-      "id": "org-projects-development",
-      "label": "Projects Development",
+      "id": "org-assam-state-agricultural-marketing-board",
+      "label": "Assam State Agricultural Marketing Board",
       "count": 9,
-      "value": 0
+      "value": 274440218
     },
     {
-      "id": "org-heavy-alloy-penetrator-project",
-      "label": "Heavy Alloy Penetrator Project",
+      "id": "org-department-chemicals-petrochemicals",
+      "label": "Department Chemicals Petrochemicals",
       "count": 9,
       "value": 0
     },
@@ -2122,20 +2140,8 @@
       "value": 0
     },
     {
-      "id": "org-department-chemicals-petrochemicals",
-      "label": "Department Chemicals Petrochemicals",
-      "count": 9,
-      "value": 0
-    },
-    {
-      "id": "org-department-industrial-policy-promotion",
-      "label": "Department Industrial Policy Promotion",
-      "count": 9,
-      "value": 0
-    },
-    {
-      "id": "org-cois-gurgaon",
-      "label": "Cois Gurgaon",
+      "id": "org-heavy-alloy-penetrator-project",
+      "label": "Heavy Alloy Penetrator Project",
       "count": 9,
       "value": 0
     },
@@ -2146,16 +2152,34 @@
       "value": 0
     },
     {
+      "id": "org-projects-development",
+      "label": "Projects Development",
+      "count": 9,
+      "value": 0
+    },
+    {
+      "id": "org-cois-gurgaon",
+      "label": "Cois Gurgaon",
+      "count": 9,
+      "value": 0
+    },
+    {
+      "id": "org-department-industrial-policy-promotion",
+      "label": "Department Industrial Policy Promotion",
+      "count": 9,
+      "value": 0
+    },
+    {
       "id": "org-maharashtra-state-road-transport",
       "label": "Maharashtra State Road Transport",
       "count": 9,
       "value": 2611392486
     },
     {
-      "id": "org-phed-chief-engineer",
-      "label": "Phed Chief Engineer",
+      "id": "org-forest-pccf",
+      "label": "Forest Pccf",
       "count": 9,
-      "value": 119331008
+      "value": 22893990
     },
     {
       "id": "org-paschimanchal-vidyut-vitran-nigam",
@@ -2170,28 +2194,22 @@
       "value": 561703250
     },
     {
-      "id": "org-taxation-department",
-      "label": "Taxation Department",
-      "count": 8,
-      "value": 1000
-    },
-    {
       "id": "org-assam-power-generation-apgcl-adb",
       "label": "Assam Power Generation Apgcl Adb",
       "count": 8,
       "value": 24494152
     },
     {
+      "id": "org-taxation-department",
+      "label": "Taxation Department",
+      "count": 8,
+      "value": 1000
+    },
+    {
       "id": "org-employees-state-insurance",
       "label": "Employees State Insurance",
       "count": 8,
       "value": 39178135
-    },
-    {
-      "id": "org-revenue-dept",
-      "label": "Revenue Dept",
-      "count": 8,
-      "value": 0
     },
     {
       "id": "org-small-industries-development-bank",
@@ -2206,14 +2224,8 @@
       "value": 0
     },
     {
-      "id": "org-nmdc",
-      "label": "Nmdc",
-      "count": 8,
-      "value": 0
-    },
-    {
-      "id": "org-madhya-pradesh-state-office",
-      "label": "Madhya Pradesh State Office",
+      "id": "org-gun-shell-factory-cossipore",
+      "label": "Gun Shell Factory Cossipore",
       "count": 8,
       "value": 0
     },
@@ -2224,14 +2236,26 @@
       "value": 0
     },
     {
-      "id": "org-gun-shell-factory-cossipore",
-      "label": "Gun Shell Factory Cossipore",
+      "id": "org-nic-test",
+      "label": "Nic Test",
       "count": 8,
       "value": 0
     },
     {
-      "id": "org-nic-test",
-      "label": "Nic Test",
+      "id": "org-madhya-pradesh-state-office",
+      "label": "Madhya Pradesh State Office",
+      "count": 8,
+      "value": 0
+    },
+    {
+      "id": "org-nmdc",
+      "label": "Nmdc",
+      "count": 8,
+      "value": 0
+    },
+    {
+      "id": "org-revenue-dept",
+      "label": "Revenue Dept",
       "count": 8,
       "value": 0
     },
@@ -2254,10 +2278,10 @@
       "value": 303626952
     },
     {
-      "id": "org-forest-pccf",
-      "label": "Forest Pccf",
+      "id": "org-rdd-ceo-hingoli",
+      "label": "Rdd Ceo Hingoli",
       "count": 8,
-      "value": 12893990
+      "value": 4689843
     },
     {
       "id": "org-medical-health",
@@ -2296,20 +2320,8 @@
       "value": 243287202
     },
     {
-      "id": "org-films-division-mib",
-      "label": "Films Division Mib",
-      "count": 7,
-      "value": 0
-    },
-    {
-      "id": "org-national-institute-for-mentally-handicapped",
-      "label": "National Institute For Mentally Handicapped",
-      "count": 7,
-      "value": 0
-    },
-    {
-      "id": "org-small-arms-factory-kanpur",
-      "label": "Small Arms Factory Kanpur",
+      "id": "org-rdso",
+      "label": "Rdso",
       "count": 7,
       "value": 0
     },
@@ -2320,26 +2332,38 @@
       "value": 0
     },
     {
-      "id": "org-indian-space-research-organisation",
-      "label": "Indian Space Research Organisation",
-      "count": 7,
-      "value": 0
-    },
-    {
       "id": "org-spices-board",
       "label": "Spices Board",
       "count": 7,
       "value": 0
     },
     {
-      "id": "org-rdso",
-      "label": "Rdso",
+      "id": "org-films-division-mib",
+      "label": "Films Division Mib",
+      "count": 7,
+      "value": 0
+    },
+    {
+      "id": "org-small-arms-factory-kanpur",
+      "label": "Small Arms Factory Kanpur",
       "count": 7,
       "value": 0
     },
     {
       "id": "org-north-eastern-space-applications-centre",
       "label": "North Eastern Space Applications Centre",
+      "count": 7,
+      "value": 0
+    },
+    {
+      "id": "org-indian-space-research-organisation",
+      "label": "Indian Space Research Organisation",
+      "count": 7,
+      "value": 0
+    },
+    {
+      "id": "org-national-institute-for-mentally-handicapped",
+      "label": "National Institute For Mentally Handicapped",
       "count": 7,
       "value": 0
     },
@@ -2422,8 +2446,44 @@
       "value": 8089479
     },
     {
-      "id": "org-central-ground-water-board",
-      "label": "Central Ground Water Board",
+      "id": "org-national-centre-for-antarctic-ocean-research",
+      "label": "National Centre For Antarctic Ocean Research",
+      "count": 6,
+      "value": 0
+    },
+    {
+      "id": "org-building-materials-technlogy-promotion-council",
+      "label": "Building Materials Technlogy Promotion Council",
+      "count": 6,
+      "value": 0
+    },
+    {
+      "id": "org-high-explosive-factory-kirkee",
+      "label": "High Explosive Factory Kirkee",
+      "count": 6,
+      "value": 0
+    },
+    {
+      "id": "org-housing-urban-development",
+      "label": "Housing Urban Development",
+      "count": 6,
+      "value": 0
+    },
+    {
+      "id": "org-bhakra-beas-management-board",
+      "label": "Bhakra Beas Management Board",
+      "count": 6,
+      "value": 0
+    },
+    {
+      "id": "org-air",
+      "label": "Air",
+      "count": 6,
+      "value": 0
+    },
+    {
+      "id": "org-nh",
+      "label": "Nh",
       "count": 6,
       "value": 0
     },
@@ -2440,44 +2500,8 @@
       "value": 0
     },
     {
-      "id": "org-nh",
-      "label": "Nh",
-      "count": 6,
-      "value": 0
-    },
-    {
-      "id": "org-building-materials-technlogy-promotion-council",
-      "label": "Building Materials Technlogy Promotion Council",
-      "count": 6,
-      "value": 0
-    },
-    {
-      "id": "org-national-centre-for-antarctic-ocean-research",
-      "label": "National Centre For Antarctic Ocean Research",
-      "count": 6,
-      "value": 0
-    },
-    {
-      "id": "org-high-explosive-factory-kirkee",
-      "label": "High Explosive Factory Kirkee",
-      "count": 6,
-      "value": 0
-    },
-    {
-      "id": "org-air",
-      "label": "Air",
-      "count": 6,
-      "value": 0
-    },
-    {
-      "id": "org-housing-urban-development",
-      "label": "Housing Urban Development",
-      "count": 6,
-      "value": 0
-    },
-    {
-      "id": "org-bhakra-beas-management-board",
-      "label": "Bhakra Beas Management Board",
+      "id": "org-central-ground-water-board",
+      "label": "Central Ground Water Board",
       "count": 6,
       "value": 0
     },
@@ -2530,20 +2554,8 @@
       "value": 120000000
     },
     {
-      "id": "org-film-television-institute",
-      "label": "Film Television Institute",
-      "count": 5,
-      "value": 0
-    },
-    {
-      "id": "org-national-atmospheric-research-laboratory",
-      "label": "National Atmospheric Research Laboratory",
-      "count": 5,
-      "value": 0
-    },
-    {
-      "id": "org-central-bureau-investigation-dopt",
-      "label": "Central Bureau Investigation Dopt",
+      "id": "org-central-electricity-authority",
+      "label": "Central Electricity Authority",
       "count": 5,
       "value": 0
     },
@@ -2554,32 +2566,14 @@
       "value": 0
     },
     {
-      "id": "org-biecco-lawrie",
-      "label": "Biecco Lawrie",
-      "count": 5,
-      "value": 0
-    },
-    {
-      "id": "org-ministry-culture",
-      "label": "Ministry Culture",
-      "count": 5,
-      "value": 0
-    },
-    {
-      "id": "org-department-financial-services",
-      "label": "Department Financial Services",
-      "count": 5,
-      "value": 0
-    },
-    {
       "id": "org-mjsj-coal",
       "label": "Mjsj Coal",
       "count": 5,
       "value": 0
     },
     {
-      "id": "org-central-electricity-authority",
-      "label": "Central Electricity Authority",
+      "id": "org-mumbai-port-trust",
+      "label": "Mumbai Port Trust",
       "count": 5,
       "value": 0
     },
@@ -2590,20 +2584,32 @@
       "value": 0
     },
     {
-      "id": "org-delhi-metro-rail",
-      "label": "Delhi Metro Rail",
+      "id": "org-ministry-culture",
+      "label": "Ministry Culture",
       "count": 5,
       "value": 0
     },
     {
-      "id": "org-integrated-defence-staff",
-      "label": "Integrated Defence Staff",
+      "id": "org-national-atmospheric-research-laboratory",
+      "label": "National Atmospheric Research Laboratory",
       "count": 5,
       "value": 0
     },
     {
-      "id": "org-mumbai-port-trust",
-      "label": "Mumbai Port Trust",
+      "id": "org-department-financial-services",
+      "label": "Department Financial Services",
+      "count": 5,
+      "value": 0
+    },
+    {
+      "id": "org-film-television-institute",
+      "label": "Film Television Institute",
+      "count": 5,
+      "value": 0
+    },
+    {
+      "id": "org-central-bureau-investigation-dopt",
+      "label": "Central Bureau Investigation Dopt",
       "count": 5,
       "value": 0
     },
@@ -2616,6 +2622,24 @@
     {
       "id": "org-trade-promotion-organisation",
       "label": "Trade Promotion Organisation",
+      "count": 5,
+      "value": 0
+    },
+    {
+      "id": "org-integrated-defence-staff",
+      "label": "Integrated Defence Staff",
+      "count": 5,
+      "value": 0
+    },
+    {
+      "id": "org-biecco-lawrie",
+      "label": "Biecco Lawrie",
+      "count": 5,
+      "value": 0
+    },
+    {
+      "id": "org-delhi-metro-rail",
+      "label": "Delhi Metro Rail",
       "count": 5,
       "value": 0
     },
@@ -2716,16 +2740,16 @@
       "value": 62704312
     },
     {
-      "id": "org-assam-home-guards-civil-defence-organization",
-      "label": "Assam Home Guards Civil Defence Organization",
-      "count": 4,
-      "value": 0
-    },
-    {
       "id": "org-water-resources-department-world-bank-tenders",
       "label": "Water Resources Department World Bank Tenders",
       "count": 4,
       "value": 124403039
+    },
+    {
+      "id": "org-assam-home-guards-civil-defence-organization",
+      "label": "Assam Home Guards Civil Defence Organization",
+      "count": 4,
+      "value": 0
     },
     {
       "id": "org-madhya-pradesh-rural-road-development-authority",
@@ -2752,44 +2776,14 @@
       "value": 422301379
     },
     {
-      "id": "org-cofmow",
-      "label": "Cofmow",
-      "count": 4,
-      "value": 0
-    },
-    {
-      "id": "org-national-institute-for-orthopaedically-handicapped",
-      "label": "National Institute For Orthopaedically Handicapped",
-      "count": 4,
-      "value": 0
-    },
-    {
       "id": "org-national-skill-development-agency",
       "label": "National Skill Development Agency",
       "count": 4,
       "value": 0
     },
     {
-      "id": "org-department-consumer-affairs",
-      "label": "Department Consumer Affairs",
-      "count": 4,
-      "value": 0
-    },
-    {
-      "id": "org-krcl",
-      "label": "Krcl",
-      "count": 4,
-      "value": 0
-    },
-    {
       "id": "org-central-industrial-security-force",
       "label": "Central Industrial Security Force",
-      "count": 4,
-      "value": 0
-    },
-    {
-      "id": "org-ministry-micro",
-      "label": "Ministry Micro",
       "count": 4,
       "value": 0
     },
@@ -2806,8 +2800,38 @@
       "value": 0
     },
     {
+      "id": "org-ministry-micro",
+      "label": "Ministry Micro",
+      "count": 4,
+      "value": 0
+    },
+    {
+      "id": "org-cofmow",
+      "label": "Cofmow",
+      "count": 4,
+      "value": 0
+    },
+    {
+      "id": "org-national-institute-for-orthopaedically-handicapped",
+      "label": "National Institute For Orthopaedically Handicapped",
+      "count": 4,
+      "value": 0
+    },
+    {
+      "id": "org-krcl",
+      "label": "Krcl",
+      "count": 4,
+      "value": 0
+    },
+    {
       "id": "org-national-institute-ocean-technology",
       "label": "National Institute Ocean Technology",
+      "count": 4,
+      "value": 0
+    },
+    {
+      "id": "org-department-consumer-affairs",
+      "label": "Department Consumer Affairs",
       "count": 4,
       "value": 0
     },
@@ -2836,16 +2860,16 @@
       "value": 3650000
     },
     {
-      "id": "org-high-court-himachal-pradesh",
-      "label": "High Court Himachal Pradesh",
-      "count": 4,
-      "value": 13003760
-    },
-    {
       "id": "org-directorate-rural-development-panchayati-ra",
       "label": "Directorate Rural Development Panchayati Ra",
       "count": 4,
       "value": 19438266
+    },
+    {
+      "id": "org-high-court-himachal-pradesh",
+      "label": "High Court Himachal Pradesh",
+      "count": 4,
+      "value": 13003760
     },
     {
       "id": "org-kerala-state-coir",
@@ -2968,6 +2992,12 @@
       "value": 13798640
     },
     {
+      "id": "org-border-protection-development-department",
+      "label": "Border Protection Development Department",
+      "count": 3,
+      "value": 13500000
+    },
+    {
       "id": "org-national-register-citizens-assam",
       "label": "National Register Citizens Assam",
       "count": 3,
@@ -2980,38 +3010,14 @@
       "value": 0
     },
     {
-      "id": "org-border-protection-development-department",
-      "label": "Border Protection Development Department",
-      "count": 3,
-      "value": 13500000
-    },
-    {
-      "id": "org-nic-organisation",
-      "label": "Nic Organisation",
+      "id": "org-national-archives",
+      "label": "National Archives",
       "count": 3,
       "value": 0
     },
     {
-      "id": "org-indian-institute-mass-communication",
-      "label": "Indian Institute Mass Communication",
-      "count": 3,
-      "value": 0
-    },
-    {
-      "id": "org-tata-institute-fundamental-research",
-      "label": "Tata Institute Fundamental Research",
-      "count": 3,
-      "value": 0
-    },
-    {
-      "id": "org-ordnance-equipement-factory-hazratpur",
-      "label": "Ordnance Equipement Factory Hazratpur",
-      "count": 3,
-      "value": 0
-    },
-    {
-      "id": "org-department-administrative-reforms-public-gr",
-      "label": "Department Administrative Reforms Public Gr",
+      "id": "org-directorate-general-ndrf",
+      "label": "Directorate General Ndrf",
       "count": 3,
       "value": 0
     },
@@ -3022,14 +3028,26 @@
       "value": 0
     },
     {
-      "id": "org-national-institute-biologicals",
-      "label": "National Institute Biologicals",
+      "id": "org-foreign-commonwealth-office",
+      "label": "Foreign Commonwealth Office",
       "count": 3,
       "value": 0
     },
     {
-      "id": "org-national-archives",
-      "label": "National Archives",
+      "id": "org-department-defence-research-development",
+      "label": "Department Defence Research Development",
+      "count": 3,
+      "value": 0
+    },
+    {
+      "id": "org-tata-institute-fundamental-research",
+      "label": "Tata Institute Fundamental Research",
+      "count": 3,
+      "value": 0
+    },
+    {
+      "id": "org-nh-tamilnadu",
+      "label": "Nh Tamilnadu",
       "count": 3,
       "value": 0
     },
@@ -3046,32 +3064,26 @@
       "value": 0
     },
     {
-      "id": "org-bharat-petroresources",
-      "label": "Bharat Petroresources",
+      "id": "org-ordnance-equipement-factory-hazratpur",
+      "label": "Ordnance Equipement Factory Hazratpur",
       "count": 3,
       "value": 0
     },
     {
-      "id": "org-foreign-commonwealth-office",
-      "label": "Foreign Commonwealth Office",
+      "id": "org-department-administrative-reforms-public-gr",
+      "label": "Department Administrative Reforms Public Gr",
       "count": 3,
       "value": 0
     },
     {
-      "id": "org-directorate-general-ndrf",
-      "label": "Directorate General Ndrf",
+      "id": "org-nic-organisation",
+      "label": "Nic Organisation",
       "count": 3,
       "value": 0
     },
     {
-      "id": "org-nh-tamilnadu",
-      "label": "Nh Tamilnadu",
-      "count": 3,
-      "value": 0
-    },
-    {
-      "id": "org-deptt-electronics-information-technology",
-      "label": "Deptt Electronics Information Technology",
+      "id": "org-indian-institute-mass-communication",
+      "label": "Indian Institute Mass Communication",
       "count": 3,
       "value": 0
     },
@@ -3082,8 +3094,20 @@
       "value": 0
     },
     {
-      "id": "org-department-defence-research-development",
-      "label": "Department Defence Research Development",
+      "id": "org-deptt-electronics-information-technology",
+      "label": "Deptt Electronics Information Technology",
+      "count": 3,
+      "value": 0
+    },
+    {
+      "id": "org-national-institute-biologicals",
+      "label": "National Institute Biologicals",
+      "count": 3,
+      "value": 0
+    },
+    {
+      "id": "org-bharat-petroresources",
+      "label": "Bharat Petroresources",
       "count": 3,
       "value": 0
     },
@@ -3182,12 +3206,6 @@
       "label": "Orissa Bridge Construction",
       "count": 3,
       "value": 0
-    },
-    {
-      "id": "org-municipal-bodies",
-      "label": "Municipal Bodies",
-      "count": 3,
-      "value": 1694460
     },
     {
       "id": "org-panchayati-raj-drinking-water-department-odisha",
@@ -3316,8 +3334,62 @@
       "value": 0
     },
     {
-      "id": "org-central-university-tamil-nadu",
-      "label": "Central University Tamil Nadu",
+      "id": "org-ministry-steel",
+      "label": "Ministry Steel",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-nhai",
+      "label": "Nhai",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-department-economic-affairs",
+      "label": "Department Economic Affairs",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-rail-vikas-nigam",
+      "label": "Rail Vikas Nigam",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-m-s-t-c",
+      "label": "M S T C",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-india",
+      "label": "India",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-central-soil-materials-research-station",
+      "label": "Central Soil Materials Research Station",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-indira-gandhi-rashtriya-uran-academy",
+      "label": "Indira Gandhi Rashtriya Uran Academy",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-dredging",
+      "label": "Dredging",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-tourism-development",
+      "label": "Tourism Development",
       "count": 2,
       "value": 0
     },
@@ -3340,50 +3412,20 @@
       "value": 0
     },
     {
-      "id": "org-cochin-port-trust",
-      "label": "Cochin Port Trust",
+      "id": "org-pt-deendayal-upadhyaya-institute-for-physically-handicapped",
+      "label": "Pt Deendayal Upadhyaya Institute For Physically Handicapped",
       "count": 2,
       "value": 0
     },
     {
-      "id": "org-police-modernisation",
-      "label": "Police Modernisation",
+      "id": "org-sports-authority",
+      "label": "Sports Authority",
       "count": 2,
       "value": 0
     },
     {
-      "id": "org-indira-gandhi-rashtriya-uran-academy",
-      "label": "Indira Gandhi Rashtriya Uran Academy",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-india",
-      "label": "India",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-central-soil-materials-research-station",
-      "label": "Central Soil Materials Research Station",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-dredging",
-      "label": "Dredging",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-tourism-development",
-      "label": "Tourism Development",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-nhai",
-      "label": "Nhai",
+      "id": "org-central-university-tamil-nadu",
+      "label": "Central University Tamil Nadu",
       "count": 2,
       "value": 0
     },
@@ -3394,8 +3436,26 @@
       "value": 0
     },
     {
-      "id": "org-rail-vikas-nigam",
-      "label": "Rail Vikas Nigam",
+      "id": "org-mormugoa-port-trust",
+      "label": "Mormugoa Port Trust",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-national-informatics-centre-services-inc",
+      "label": "National Informatics Centre Services Inc",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-office-pr-cca-mha",
+      "label": "Office Pr Cca Mha",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-bureau-civil-aviation-security",
+      "label": "Bureau Civil Aviation Security",
       "count": 2,
       "value": 0
     },
@@ -3418,68 +3478,26 @@
       "value": 0
     },
     {
-      "id": "org-office-pr-cca-mha",
-      "label": "Office Pr Cca Mha",
-      "count": 2,
-      "value": 0
-    },
-    {
       "id": "org-ministry-statistics-programme-implementation",
       "label": "Ministry Statistics Programme Implementation",
       "count": 2,
       "value": 0
     },
     {
-      "id": "org-m-s-t-c",
-      "label": "M S T C",
+      "id": "org-cochin-port-trust",
+      "label": "Cochin Port Trust",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-police-modernisation",
+      "label": "Police Modernisation",
       "count": 2,
       "value": 0
     },
     {
       "id": "org-ministry-drinking-water-sanitation",
       "label": "Ministry Drinking Water Sanitation",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-bureau-civil-aviation-security",
-      "label": "Bureau Civil Aviation Security",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-mormugoa-port-trust",
-      "label": "Mormugoa Port Trust",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-national-informatics-centre-services-inc",
-      "label": "National Informatics Centre Services Inc",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-department-economic-affairs",
-      "label": "Department Economic Affairs",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-ministry-steel",
-      "label": "Ministry Steel",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-pt-deendayal-upadhyaya-institute-for-physically-handicapped",
-      "label": "Pt Deendayal Upadhyaya Institute For Physically Handicapped",
-      "count": 2,
-      "value": 0
-    },
-    {
-      "id": "org-sports-authority",
-      "label": "Sports Authority",
       "count": 2,
       "value": 0
     },
@@ -3496,16 +3514,16 @@
       "value": 50000000
     },
     {
-      "id": "org-himachal-pradesh-forest-department",
-      "label": "Himachal Pradesh Forest Department",
-      "count": 2,
-      "value": 12285705
-    },
-    {
       "id": "org-directorate-horticulture",
       "label": "Directorate Horticulture",
       "count": 2,
       "value": 2500000
+    },
+    {
+      "id": "org-himachal-pradesh-forest-department",
+      "label": "Himachal Pradesh Forest Department",
+      "count": 2,
+      "value": 12285705
     },
     {
       "id": "org-jkspdc",
@@ -3832,14 +3850,86 @@
       "value": 0
     },
     {
-      "id": "org-hemisphere-properties",
-      "label": "Hemisphere Properties",
+      "id": "org-satluj-jal-vidyut-nigam",
+      "label": "Satluj Jal Vidyut Nigam",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-prime-ministers-office",
-      "label": "Prime Ministers Office",
+      "id": "org-supreme-court-admin-material",
+      "label": "Supreme Court Admin Material",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-ministry-panchayati-raj",
+      "label": "Ministry Panchayati Raj",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-ministry-power",
+      "label": "Ministry Power",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-national-backward-classes-finance-devpmt-corpn",
+      "label": "National Backward Classes Finance Devpmt Corpn",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-united-nations-development-programme-division",
+      "label": "United Nations Development Programme Division",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-jsrrda-ce",
+      "label": "Jsrrda Ce",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-jute",
+      "label": "Jute",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-indian-bureau-mines",
+      "label": "Indian Bureau Mines",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-registrar-general",
+      "label": "Registrar General",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-s-n-bose-national-centre-for-basic-sciences",
+      "label": "S N Bose National Centre For Basic Sciences",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-european-external-action-service",
+      "label": "European External Action Service",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-department-health-research",
+      "label": "Department Health Research",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-cheif-controller-accounts",
+      "label": "Cheif Controller Accounts",
       "count": 1,
       "value": 0
     },
@@ -3868,74 +3958,92 @@
       "value": 0
     },
     {
-      "id": "org-chenab-valley-power-projects",
-      "label": "Chenab Valley Power Projects",
+      "id": "org-directorate-coordination-police-wireless",
+      "label": "Directorate Coordination Police Wireless",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-translational-health-sci-tech-inst-dobt",
-      "label": "Translational Health Sci Tech Inst Dobt",
+      "id": "org-directorate-estates",
+      "label": "Directorate Estates",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-department-health-research",
-      "label": "Department Health Research",
+      "id": "org-test-department",
+      "label": "Test Department",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-national-institute-rural-development-mord",
-      "label": "National Institute Rural Development Mord",
+      "id": "org-wildlife-institute",
+      "label": "Wildlife Institute",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-org-for-epublishing",
-      "label": "Org For Epublishing",
+      "id": "org-ali-yavar-jung-national-institute-for-hearing-handicapped-mumbai",
+      "label": "Ali Yavar Jung National Institute For Hearing Handicapped Mu",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-corporate-office",
-      "label": "Corporate Office",
+      "id": "org-central-board-excise-customs",
+      "label": "Central Board Excise Customs",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-registrar-general",
-      "label": "Registrar General",
+      "id": "org-central-electricity-authority-cea",
+      "label": "Central Electricity Authority Cea",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-s-n-bose-national-centre-for-basic-sciences",
-      "label": "S N Bose National Centre For Basic Sciences",
+      "id": "org-department-land-resources",
+      "label": "Department Land Resources",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-handicrafts-n-handlooms-exports",
-      "label": "Handicrafts N Handlooms Exports",
+      "id": "org-central-potato-research-institute",
+      "label": "Central Potato Research Institute",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-vmmc-safdarjang-hospital",
-      "label": "Vmmc Safdarjang Hospital",
+      "id": "org-null",
+      "label": "Null",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-saha-institute-nuclear-physics",
-      "label": "Saha Institute Nuclear Physics",
+      "id": "org-directorate-field-publicity",
+      "label": "Directorate Field Publicity",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-satluj-jal-vidyut-nigam",
-      "label": "Satluj Jal Vidyut Nigam",
+      "id": "org-remarks",
+      "label": "Remarks",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-embassy-switzerland-in-new-delhi",
+      "label": "Embassy Switzerland In New Delhi",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-office-controller-accounts",
+      "label": "Office Controller Accounts",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-siddharth-dasgupta",
+      "label": "Siddharth Dasgupta",
       "count": 1,
       "value": 0
     },
@@ -3964,92 +4072,68 @@
       "value": 0
     },
     {
-      "id": "org-department-land-resources",
-      "label": "Department Land Resources",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-central-potato-research-institute",
-      "label": "Central Potato Research Institute",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-null",
-      "label": "Null",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-cheif-controller-accounts",
-      "label": "Cheif Controller Accounts",
-      "count": 1,
-      "value": 0
-    },
-    {
       "id": "org-british-council-division",
       "label": "British Council Division",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-jsrrda-ce",
-      "label": "Jsrrda Ce",
+      "id": "org-national-institute-rural-development-mord",
+      "label": "National Institute Rural Development Mord",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-jute",
-      "label": "Jute",
+      "id": "org-org-for-epublishing",
+      "label": "Org For Epublishing",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-indian-bureau-mines",
-      "label": "Indian Bureau Mines",
+      "id": "org-corporate-office",
+      "label": "Corporate Office",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-supreme-court-admin-material",
-      "label": "Supreme Court Admin Material",
+      "id": "org-hemisphere-properties",
+      "label": "Hemisphere Properties",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-bharat-bhari-udyog-nigam",
-      "label": "Bharat Bhari Udyog Nigam",
+      "id": "org-prime-ministers-office",
+      "label": "Prime Ministers Office",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-siddharth-dasgupta",
-      "label": "Siddharth Dasgupta",
+      "id": "org-handicrafts-n-handlooms-exports",
+      "label": "Handicrafts N Handlooms Exports",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-national-backward-classes-finance-devpmt-corpn",
-      "label": "National Backward Classes Finance Devpmt Corpn",
+      "id": "org-vmmc-safdarjang-hospital",
+      "label": "Vmmc Safdarjang Hospital",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-ali-yavar-jung-national-institute-for-hearing-handicapped-mumbai",
-      "label": "Ali Yavar Jung National Institute For Hearing Handicapped Mu",
+      "id": "org-saha-institute-nuclear-physics",
+      "label": "Saha Institute Nuclear Physics",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-united-nations-development-programme-division",
-      "label": "United Nations Development Programme Division",
+      "id": "org-chenab-valley-power-projects",
+      "label": "Chenab Valley Power Projects",
       "count": 1,
       "value": 0
     },
     {
-      "id": "org-embassy-switzerland-in-new-delhi",
-      "label": "Embassy Switzerland In New Delhi",
+      "id": "org-translational-health-sci-tech-inst-dobt",
+      "label": "Translational Health Sci Tech Inst Dobt",
       "count": 1,
       "value": 0
     },
@@ -4066,74 +4150,8 @@
       "value": 0
     },
     {
-      "id": "org-office-controller-accounts",
-      "label": "Office Controller Accounts",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-directorate-coordination-police-wireless",
-      "label": "Directorate Coordination Police Wireless",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-directorate-estates",
-      "label": "Directorate Estates",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-test-department",
-      "label": "Test Department",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-wildlife-institute",
-      "label": "Wildlife Institute",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-directorate-field-publicity",
-      "label": "Directorate Field Publicity",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-remarks",
-      "label": "Remarks",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-ministry-panchayati-raj",
-      "label": "Ministry Panchayati Raj",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-ministry-power",
-      "label": "Ministry Power",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-european-external-action-service",
-      "label": "European External Action Service",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-central-board-excise-customs",
-      "label": "Central Board Excise Customs",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-central-electricity-authority-cea",
-      "label": "Central Electricity Authority Cea",
+      "id": "org-bharat-bhari-udyog-nigam",
+      "label": "Bharat Bhari Udyog Nigam",
       "count": 1,
       "value": 0
     },
@@ -4192,6 +4210,12 @@
       "value": 40582146
     },
     {
+      "id": "org-directorate-forensics-services-himachal-pradesh",
+      "label": "Directorate Forensics Services Himachal Pradesh",
+      "count": 1,
+      "value": 1
+    },
+    {
       "id": "org-himachal-pradesh-tourism-development-board",
       "label": "Himachal Pradesh Tourism Development Board",
       "count": 1,
@@ -4202,12 +4226,6 @@
       "label": "Himachal Pradesh School Education Society",
       "count": 1,
       "value": 1000000
-    },
-    {
-      "id": "org-directorate-forensics-services-himachal-pradesh",
-      "label": "Directorate Forensics Services Himachal Pradesh",
-      "count": 1,
-      "value": 1
     },
     {
       "id": "org-deputy-commissioner-una",
@@ -4552,6 +4570,12 @@
       "value": 0
     },
     {
+      "id": "org-rdd-ceo-latur",
+      "label": "Rdd Ceo Latur",
+      "count": 1,
+      "value": 95986185
+    },
+    {
       "id": "org-maharashtra-energy-development-agency-pune",
       "label": "Maharashtra Energy Development Agency Pune",
       "count": 1,
@@ -4732,12 +4756,6 @@
       "value": 2200000
     },
     {
-      "id": "org-deptt-watershed-dev-soil-conservation",
-      "label": "Deptt Watershed Dev Soil Conservation",
-      "count": 1,
-      "value": 3128000
-    },
-    {
       "id": "org-tamilnadu-op-milk-producers-federation",
       "label": "Tamilnadu Op Milk Producers Federation",
       "count": 1,
@@ -4901,15 +4919,15 @@
     }
   ],
   "byValueBand": {
-    "lt1cr": 19804,
-    "1to10cr": 12698,
+    "lt1cr": 19907,
+    "1to10cr": 12708,
     "gt10cr": 1608,
     "none": 175343
   },
   "byStatus": {
-    "active": 23456,
-    "cancelled": 4996,
+    "active": 23569,
     "completed": 8296,
+    "cancelled": 4996,
     "unsuccessful": 542,
     "complete": 172163
   },
@@ -5022,9 +5040,9 @@
     "2026-01": 3,
     "2026-02": 20,
     "2026-03": 31,
-    "2026-04": 148,
-    "2026-05": 2879,
-    "2026-06": 114
+    "2026-04": 161,
+    "2026-05": 2972,
+    "2026-06": 121
   },
   "byYear": {
     "2012": 15,
@@ -5038,7 +5056,7 @@
     "2020": 6828,
     "2021": 2753,
     "2025": 12,
-    "2026": 3195
+    "2026": 3308
   },
   "yearBuckets": {
     "2012": {
@@ -5064,12 +5082,12 @@
         "lt1cr": 1
       },
       "src": {
-        "org-department-for-international-development": [
-          9,
-          0
-        ],
         "org-dfid": [
           4,
+          0
+        ],
+        "org-department-for-international-development": [
+          9,
           0
         ],
         "org-british-council-division": [
@@ -5095,13 +5113,13 @@
           88,
           0
         ],
-        "services": [
-          33,
-          0
-        ],
         "works": [
           70,
           43745326
+        ],
+        "services": [
+          33,
+          0
         ]
       },
       "band": {
@@ -5110,8 +5128,32 @@
         "1to10cr": 1
       },
       "src": {
+        "org-rashtriya-ispat-nigam": [
+          31,
+          0
+        ],
+        "rcf": [
+          758,
+          0
+        ],
+        "bhel": [
+          2678,
+          0
+        ],
+        "npcil": [
+          4745,
+          0
+        ],
         "railways": [
           8927,
+          0
+        ],
+        "org-security-printing-minting": [
+          52,
+          0
+        ],
+        "bro": [
+          459,
           0
         ],
         "coal-india": [
@@ -5122,335 +5164,263 @@
           925,
           0
         ],
-        "org-gujarat-refinery": [
-          158,
+        "nrrda": [
+          523,
           0
         ],
-        "org-mmtc": [
-          25,
-          0
-        ],
-        "npcil": [
-          4745,
-          0
-        ],
-        "org-dgm": [
-          195,
-          0
-        ],
-        "org-department-pharmaceuticals": [
-          88,
-          0
-        ],
-        "org-srpl-chennai": [
-          5,
-          0
-        ],
-        "org-department-health": [
-          12,
-          0
-        ],
-        "bhel": [
-          2678,
-          0
-        ],
-        "bro": [
-          459,
-          0
-        ],
-        "org-mathura-refinery": [
-          130,
-          0
-        ],
-        "org-department-revenue": [
+        "org-rural-electrification": [
           6,
+          0
+        ],
+        "org-dg-central-industrial-security-force": [
+          20,
           0
         ],
         "nalco": [
           1151,
           0
         ],
-        "hpcl": [
-          588,
-          0
-        ],
-        "org-wrpl-viramgam": [
-          16,
-          0
-        ],
-        "org-hindustan-shipyard": [
-          56,
-          0
-        ],
-        "mod": [
-          140,
-          0
-        ],
-        "org-andhra-pradesh-state-office": [
-          50,
-          0
-        ],
-        "hscl": [
-          198,
-          0
-        ],
-        "org-guwahati-refinery": [
-          93,
-          0
-        ],
-        "org-department-space": [
-          21,
-          0
-        ],
-        "org-nhdc": [
-          128,
-          0
-        ],
-        "org-department-electronics-information-technology": [
-          131,
-          0
-        ],
-        "org-braithwaite": [
-          182,
-          0
-        ],
-        "org-army": [
-          25,
-          0
-        ],
-        "rcf": [
-          758,
-          0
-        ],
-        "org-wrpl-rajkot": [
-          39,
-          0
-        ],
-        "org-bihar-state-office": [
-          20,
-          0
-        ],
-        "org-bongaigaon-refinery": [
-          37,
-          0
-        ],
-        "org-aod-digboi": [
-          189,
-          0
-        ],
-        "org-visakhapatnam-port-trust": [
-          64,
-          0
-        ],
-        "nrrda": [
-          523,
-          0
-        ],
-        "org-odisha-state-office": [
-          9,
-          0
-        ],
-        "thdc": [
-          287,
-          0
-        ],
-        "iit": [
-          188,
-          0
-        ],
-        "org-hindustan-paper": [
-          51,
-          0
-        ],
-        "org-container": [
-          29,
-          0
-        ],
-        "org-cpv-division": [
-          8,
-          0
-        ],
-        "org-barauni-refinery": [
-          260,
-          0
-        ],
-        "org-central-govt-employees-welfare-housing-orgn": [
-          11,
-          0
-        ],
-        "org-engineering-projects": [
-          15,
-          0
-        ],
-        "org-northern-region-office": [
-          11,
-          0
-        ],
-        "org-hll-lifecare": [
-          31,
-          0
-        ],
-        "org-pipelines-ho": [
-          2,
-          0
-        ],
-        "org-punjab-state-office": [
-          47,
-          0
-        ],
-        "org-goa-shipyard": [
-          59,
-          0
-        ],
-        "org-engineers": [
-          254,
-          0
-        ],
-        "org-phbpl-paradip": [
-          26,
-          0
-        ],
-        "org-panipat-refinery": [
-          151,
-          0
-        ],
-        "org-panipat-naphtha-cracker": [
-          39,
-          0
-        ],
-        "org-kolkata-port-trust": [
-          5,
-          0
-        ],
-        "org-marketing-ho": [
-          33,
-          0
-        ],
-        "org-tata-institute-fundamental-research": [
-          3,
-          0
-        ],
-        "org-telecommunications-consultants": [
-          7,
-          0
-        ],
-        "org-dg": [
-          147,
-          0
-        ],
-        "org-north-east-integrated-state-office": [
-          66,
-          0
-        ],
-        "org-department-commerce": [
-          7,
-          0
-        ],
-        "org-department-agricultural-research-education": [
-          11,
-          0
-        ],
-        "org-gujarat-state-office": [
-          16,
-          0
-        ],
-        "org-heavy-alloy-penetrator-project": [
-          6,
-          0
-        ],
         "org-national-buildings-construction": [
           98,
           0
         ],
-        "org-refineries-hq": [
-          28,
-          0
-        ],
-        "nhpc": [
-          167,
-          0
-        ],
-        "org-employees-state-insurance": [
-          3,
-          0
-        ],
-        "org-department-higher-education": [
-          10,
+        "org-mecon": [
+          17,
           0
         ],
         "org-instrumentation": [
           62,
           0
         ],
+        "org-braithwaite": [
+          182,
+          0
+        ],
+        "iit": [
+          188,
+          0
+        ],
+        "org-mathura-refinery": [
+          130,
+          0
+        ],
         "org-department-posts": [
           213,
           0
         ],
-        "org-bkpl-barauni": [
-          12,
+        "org-department-electronics-information-technology": [
+          131,
           0
         ],
-        "org-eastern-region-office": [
-          2,
-          0
-        ],
-        "org-rcf": [
-          148,
-          0
-        ],
-        "org-rajasthan-state-office": [
-          14,
-          0
-        ],
-        "org-ministry-culture": [
-          4,
-          0
-        ],
-        "org-bharatiya-nabhikiya-vidyut-nigam": [
-          72,
-          0
-        ],
-        "org-pwd": [
-          8,
-          0
-        ],
-        "org-central-silk-board": [
-          6,
-          0
-        ],
-        "org-delhi-haryana-state-office": [
-          41,
-          0
-        ],
-        "org-wrpl-mundra": [
-          42,
-          0
-        ],
-        "org-department-animal-husbandry": [
-          8,
-          0
-        ],
-        "org-ne-ig-regional-instt-health-medical-science": [
-          19,
-          0
-        ],
-        "org-cordite-factory-aravankadu": [
-          16,
-          0
-        ],
-        "org-erpl-kolkata": [
+        "org-opo-electronic-factory-dehradun": [
           7,
           0
         ],
-        "org-western-region-office": [
-          16,
+        "thdc": [
+          287,
+          0
+        ],
+        "org-machine-tool-prototype-factory-ambarnath": [
+          78,
+          0
+        ],
+        "org-phbpl-haldia": [
+          20,
+          0
+        ],
+        "hscl": [
+          198,
+          0
+        ],
+        "org-ministry-shipping": [
+          22,
+          0
+        ],
+        "org-dg": [
+          147,
+          0
+        ],
+        "org-nhdc": [
+          128,
           0
         ],
         "org-sjvn": [
           60,
           0
         ],
+        "org-container": [
+          29,
+          0
+        ],
         "org-wrpl-chaksu": [
+          33,
+          0
+        ],
+        "org-engineers": [
+          254,
+          0
+        ],
+        "org-mjsj-coal": [
+          1,
+          0
+        ],
+        "hpcl": [
+          588,
+          0
+        ],
+        "org-haldia-refinery": [
+          36,
+          0
+        ],
+        "org-visakhapatnam-port-trust": [
+          64,
+          0
+        ],
+        "org-mangalore-refinery-petrochemicals": [
+          1,
+          0
+        ],
+        "org-aod-digboi": [
+          189,
+          0
+        ],
+        "org-erpl-kolkata": [
+          7,
+          0
+        ],
+        "org-dgm": [
+          195,
+          0
+        ],
+        "org-bongaigaon-refinery": [
+          37,
+          0
+        ],
+        "org-panipat-refinery": [
+          151,
+          0
+        ],
+        "org-central-mine-planning-design-institute": [
+          13,
+          0
+        ],
+        "org-goa-shipyard": [
+          59,
+          0
+        ],
+        "org-ksrrda": [
+          36,
+          0
+        ],
+        "org-delhi-haryana-state-office": [
+          41,
+          0
+        ],
+        "org-research-development": [
+          17,
+          0
+        ],
+        "org-department-sports": [
+          41,
+          0
+        ],
+        "org-hindustan-shipyard": [
+          56,
+          0
+        ],
+        "org-army": [
+          25,
+          0
+        ],
+        "mod": [
+          140,
+          0
+        ],
+        "org-hll-lifecare": [
+          31,
+          0
+        ],
+        "org-barauni-refinery": [
+          260,
+          0
+        ],
+        "org-southern-region-tamilnadu-state-office": [
+          30,
+          0
+        ],
+        "org-delhi-milk-scheme": [
+          14,
+          0
+        ],
+        "org-food": [
+          50,
+          0
+        ],
+        "org-karnataka-state-office": [
+          21,
+          0
+        ],
+        "nhpc": [
+          167,
+          0
+        ],
+        "org-maharashtra-state-office": [
+          17,
+          0
+        ],
+        "org-north-east-integrated-state-office": [
+          66,
+          0
+        ],
+        "org-guwahati-refinery": [
+          93,
+          0
+        ],
+        "org-nic-test": [
+          1,
+          0
+        ],
+        "org-mazagon-dock": [
+          6,
+          0
+        ],
+        "org-nic": [
+          7,
+          0
+        ],
+        "org-ce-mrrda": [
+          36,
+          0
+        ],
+        "org-mahanagar-telephone-nigam": [
+          7,
+          0
+        ],
+        "org-wrpl-vadinar": [
+          9,
+          0
+        ],
+        "org-phbpl-paradip": [
+          26,
+          0
+        ],
+        "org-heavy-alloy-penetrator-project": [
+          6,
+          0
+        ],
+        "org-hindustan-paper": [
+          51,
+          0
+        ],
+        "org-se": [
+          24,
+          0
+        ],
+        "iocl": [
+          7,
+          0
+        ],
+        "org-indian-coast-guard": [
           33,
           0
         ],
@@ -5458,527 +5428,159 @@
           14,
           0
         ],
-        "org-haldia-refinery": [
-          36,
+        "org-punjab-state-office": [
+          47,
           0
         ],
-        "org-southern-region-tamilnadu-state-office": [
-          30,
-          0
-        ],
-        "org-national-atmospheric-research-laboratory": [
-          3,
-          0
-        ],
-        "org-machine-tool-prototype-factory-ambarnath": [
-          78,
-          0
-        ],
-        "org-prrpl": [
-          20,
-          0
-        ],
-        "org-hindustan-copper": [
-          61,
-          0
-        ],
-        "org-president-secretariat": [
-          4,
-          0
-        ],
-        "ntpc": [
-          80,
-          0
-        ],
-        "org-nic": [
-          7,
-          0
-        ],
-        "org-brahmaputra-valley-fertilizer": [
-          20,
-          0
-        ],
-        "org-nh": [
-          6,
-          0
-        ],
-        "org-security-printing-minting": [
-          52,
-          0
-        ],
-        "org-wrpl-koyali": [
-          21,
-          0
-        ],
-        "org-inland-waterways-authority": [
-          12,
-          0
-        ],
-        "org-wrpl-sendra": [
-          35,
-          0
-        ],
-        "org-hscc": [
-          18,
-          0
-        ],
-        "org-department-biotechnology": [
-          52,
-          0
-        ],
-        "org-rashtriya-ispat-nigam": [
-          31,
-          0
-        ],
-        "org-indian-air-force": [
-          8,
-          0
-        ],
-        "org-uttar-pradesh-state-office-2": [
-          8,
-          0
-        ],
-        "org-department-defence-production": [
-          17,
-          0
-        ],
-        "org-ordnance-equipement-factory-hazratpur": [
-          2,
-          0
-        ],
-        "org-india": [
-          2,
-          0
-        ],
-        "org-north-eastern-electric-power": [
-          4,
-          0
-        ],
-        "org-rifle-factory": [
-          20,
-          0
-        ],
-        "org-department-disinvestment": [
-          8,
-          0
-        ],
-        "org-indian-space-research-organisation": [
-          5,
-          0
-        ],
-        "org-department-agriculture-cooperation": [
-          3,
-          0
-        ],
-        "org-ce-mrrda": [
-          36,
-          0
-        ],
-        "org-karnataka-state-office": [
-          21,
-          0
-        ],
-        "org-department-health-research": [
-          1,
-          0
-        ],
-        "org-department-for-international-development": [
-          11,
-          0
-        ],
-        "org-phbpl-haldia": [
-          20,
-          0
-        ],
-        "org-department-financial-services": [
-          4,
-          0
-        ],
-        "org-department-administrative-reforms-public-gr": [
-          3,
-          0
-        ],
-        "org-bharat-sanchar-nigam": [
-          12,
-          0
-        ],
-        "org-mahanagar-telephone-nigam": [
-          7,
-          0
-        ],
-        "org-west-bengal-state-office": [
-          14,
-          0
-        ],
-        "org-directorate-general-employment-training": [
-          12,
-          0
-        ],
-        "org-tariff-authority-for-major-ports": [
-          14,
-          0
-        ],
-        "org-department-school-education-literacy": [
-          5,
-          0
-        ],
-        "org-north-eastern-space-applications-centre": [
-          5,
-          0
-        ],
-        "org-research-development": [
-          17,
-          0
-        ],
-        "org-andaman-lakshadweep-harbour-works": [
-          1,
-          0
-        ],
-        "org-nepa": [
-          10,
-          0
-        ],
-        "org-ministry-urban-development": [
-          7,
-          0
-        ],
-        "org-department-sports": [
-          41,
-          0
-        ],
-        "org-nrpl-panipat": [
-          41,
-          0
-        ],
-        "org-mazagon-dock": [
-          6,
-          0
-        ],
-        "org-projects-development": [
-          5,
-          0
-        ],
-        "org-business-development": [
-          15,
-          0
-        ],
-        "org-ministry-external-affairs": [
-          5,
-          0
-        ],
-        "org-nmdc": [
-          4,
-          0
-        ],
-        "org-town-country-planning-organisation": [
-          1,
-          0
-        ],
-        "org-revenue-dept": [
-          4,
-          0
-        ],
-        "org-maharashtra-state-office": [
-          17,
-          0
-        ],
-        "org-mecon": [
-          17,
-          0
-        ],
-        "org-special-protection-group": [
-          12,
-          0
-        ],
-        "org-nrpl-bijwasan": [
-          36,
-          0
-        ],
-        "org-wrpl-vadinar": [
-          9,
-          0
-        ],
-        "org-bharat-petroresources": [
-          2,
-          0
-        ],
-        "org-rail-vikas-nigam": [
-          2,
-          0
-        ],
-        "org-handicrafts-n-handlooms-exports": [
-          1,
-          0
-        ],
-        "org-building-materials-technlogy-promotion-council": [
-          2,
-          0
-        ],
-        "org-directorate-general-health-services": [
-          1,
-          0
-        ],
-        "org-vmmc-safdarjang-hospital": [
-          1,
-          0
-        ],
-        "org-department-chemicals-petrochemicals": [
-          6,
-          0
-        ],
-        "org-small-industries-development-bank": [
-          4,
-          0
-        ],
-        "org-saha-institute-nuclear-physics": [
-          1,
-          0
-        ],
-        "org-heavy-vehicle-factory": [
-          8,
-          0
-        ],
-        "org-kiocl": [
-          14,
-          0
-        ],
-        "org-banaras-hindu-university": [
-          8,
-          0
-        ],
-        "org-er-in-chief": [
-          32,
-          0
-        ],
-        "org-bhavini": [
-          46,
-          0
-        ],
-        "org-food": [
-          50,
-          0
-        ],
-        "org-ministry-shipping": [
-          22,
-          0
-        ],
-        "org-indian-coast-guard": [
-          33,
-          0
-        ],
-        "org-dg-sashastra-seema-bal": [
-          5,
-          0
-        ],
-        "org-ordnance-equipment-factory-kanpur": [
-          23,
-          0
-        ],
-        "org-uttar-pradesh-state-office-1": [
-          17,
-          0
-        ],
-        "org-central-mine-planning-design-institute": [
-          13,
-          0
-        ],
-        "org-paradip-refinery": [
-          26,
-          0
-        ],
-        "org-mangalore-refinary-petrochemicals": [
-          2,
-          0
-        ],
-        "org-metal-steel-factory": [
-          16,
-          0
-        ],
-        "org-cois-gurgaon": [
-          3,
-          0
-        ],
-        "org-delhi-milk-scheme": [
-          14,
-          0
-        ],
-        "org-state-trading": [
-          1,
-          0
-        ],
-        "org-integrated-costal-marine-area-managment": [
-          7,
-          0
-        ],
-        "org-brahmaputra-cracker-polymer": [
-          2,
-          0
-        ],
-        "org-central-industrial-security-force": [
-          1,
-          0
-        ],
-        "sail": [
-          3,
-          0
-        ],
-        "org-ksrrda": [
-          36,
-          0
-        ],
-        "org-spices-board": [
-          2,
-          0
-        ],
-        "org-government-stationery-office": [
-          6,
-          0
-        ],
-        "org-ministry-micro": [
-          4,
-          0
-        ],
-        "org-national-safai-karamcharis-finance-develp": [
-          8,
-          0
-        ],
-        "mes": [
-          3,
-          0
-        ],
-        "org-madhya-pradesh-state-office": [
-          3,
-          0
-        ],
-        "org-high-explosive-factory-kirkee": [
-          4,
-          0
-        ],
-        "org-chennai-port-trust": [
-          11,
-          0
-        ],
-        "org-m-s-t-c": [
-          2,
-          0
-        ],
-        "org-unknown": [
-          3,
-          0
-        ],
-        "org-cheif-controller-accounts": [
-          1,
-          0
-        ],
-        "org-nh-tamilnadu": [
-          3,
-          0
-        ],
-        "iocl": [
-          7,
-          0
-        ],
-        "org-hppwd": [
-          7,
-          0
-        ],
-        "org-hmrbpl-mourigram": [
-          8,
-          0
-        ],
-        "org-state-quality-coordinator-empowered-officer": [
-          20,
-          0
-        ],
-        "org-ircon-international": [
-          10,
-          0
-        ],
-        "org-se": [
-          24,
-          0
-        ],
-        "org-ce-meghalaya": [
-          36,
-          0
-        ],
-        "org-jsrrda-ce": [
-          1,
-          0
-        ],
-        "org-ce-rd-ar": [
-          13,
-          0
-        ],
-        "org-dg-central-industrial-security-force": [
-          20,
-          0
-        ],
-        "org-jute": [
-          1,
-          0
-        ],
-        "org-indian-bureau-mines": [
-          1,
-          0
-        ],
-        "org-central-soil-materials-research-station": [
-          1,
-          0
-        ],
-        "org-rural-electrification": [
-          6,
-          0
-        ],
-        "org-opo-electronic-factory-dehradun": [
-          7,
-          0
-        ],
-        "org-mjsj-coal": [
-          1,
-          0
-        ],
-        "org-mangalore-refinery-petrochemicals": [
-          1,
-          0
-        ],
-        "org-nic-test": [
-          1,
+        "org-panipat-naphtha-cracker": [
+          39,
           0
         ],
         "org-housing-urban-development": [
           5,
           0
         ],
+        "org-paradip-refinery": [
+          26,
+          0
+        ],
+        "ntpc": [
+          80,
+          0
+        ],
+        "org-gujarat-refinery": [
+          158,
+          0
+        ],
+        "org-andhra-pradesh-state-office": [
+          50,
+          0
+        ],
+        "org-rcf": [
+          148,
+          0
+        ],
+        "org-integrated-costal-marine-area-managment": [
+          7,
+          0
+        ],
+        "org-bharatiya-nabhikiya-vidyut-nigam": [
+          72,
+          0
+        ],
+        "org-metal-steel-factory": [
+          16,
+          0
+        ],
+        "org-bhavini": [
+          46,
+          0
+        ],
+        "org-gujarat-state-office": [
+          16,
+          0
+        ],
+        "org-wrpl-rajkot": [
+          39,
+          0
+        ],
+        "org-mmtc": [
+          25,
+          0
+        ],
+        "org-wrpl-mundra": [
+          42,
+          0
+        ],
+        "org-west-bengal-state-office": [
+          14,
+          0
+        ],
+        "org-nrpl-bijwasan": [
+          36,
+          0
+        ],
+        "org-wrpl-viramgam": [
+          16,
+          0
+        ],
+        "org-marketing-ho": [
+          33,
+          0
+        ],
+        "org-uttar-pradesh-state-office-1": [
+          17,
+          0
+        ],
+        "org-ce-meghalaya": [
+          36,
+          0
+        ],
+        "org-western-region-office": [
+          16,
+          0
+        ],
+        "org-bkpl-barauni": [
+          12,
+          0
+        ],
+        "org-cordite-factory-aravankadu": [
+          16,
+          0
+        ],
         "org-nhai": [
           1,
           0
         ],
+        "org-prrpl": [
+          20,
+          0
+        ],
+        "org-heavy-vehicle-factory": [
+          8,
+          0
+        ],
+        "org-hscc": [
+          18,
+          0
+        ],
+        "org-nrpl-panipat": [
+          41,
+          0
+        ],
+        "org-department-space": [
+          21,
+          0
+        ],
+        "org-nepa": [
+          10,
+          0
+        ],
+        "org-wrpl-sendra": [
+          35,
+          0
+        ],
+        "org-special-protection-group": [
+          12,
+          0
+        ],
+        "org-wrpl-koyali": [
+          21,
+          0
+        ],
+        "org-department-chemicals-petrochemicals": [
+          6,
+          0
+        ],
+        "org-department-biotechnology": [
+          52,
+          0
+        ],
+        "org-bihar-state-office": [
+          20,
+          0
+        ],
         "org-supreme-court-admin-material": [
-          1,
-          0
-        ],
-        "org-agriculture": [
-          5,
-          0
-        ],
-        "org-deptt-electronics-information-technology": [
-          3,
-          0
-        ],
-        "org-ecor": [
-          4,
-          0
-        ],
-        "org-council-scientific-industrial-research": [
-          1,
-          0
-        ],
-        "org-national-institute-biologicals": [
-          1,
-          0
-        ],
-        "org-central-electricity-authority": [
           1,
           0
         ],
@@ -5990,6 +5592,18 @@
           5,
           0
         ],
+        "org-department-pharmaceuticals": [
+          88,
+          0
+        ],
+        "org-tariff-authority-for-major-ports": [
+          14,
+          0
+        ],
+        "org-hindustan-copper": [
+          61,
+          0
+        ],
         "org-central-water-commission": [
           3,
           0
@@ -5998,32 +5612,448 @@
           2,
           0
         ],
+        "org-inland-waterways-authority": [
+          12,
+          0
+        ],
         "org-dfid": [
           2,
+          0
+        ],
+        "org-kiocl": [
+          14,
+          0
+        ],
+        "org-department-agricultural-research-education": [
+          11,
+          0
+        ],
+        "org-refineries-hq": [
+          28,
+          0
+        ],
+        "org-hppwd": [
+          7,
+          0
+        ],
+        "org-rifle-factory": [
+          20,
+          0
+        ],
+        "org-national-safai-karamcharis-finance-develp": [
+          8,
+          0
+        ],
+        "org-department-revenue": [
+          6,
+          0
+        ],
+        "org-president-secretariat": [
+          4,
+          0
+        ],
+        "org-bharat-sanchar-nigam": [
+          12,
           0
         ],
         "org-mumbai-port-trust": [
           1,
           0
         ],
+        "org-department-higher-education": [
+          10,
+          0
+        ],
+        "org-engineering-projects": [
+          15,
+          0
+        ],
+        "org-ordnance-equipment-factory-kanpur": [
+          23,
+          0
+        ],
+        "org-department-health": [
+          12,
+          0
+        ],
         "org-national-backward-classes-finance-devpmt-corpn": [
           1,
+          0
+        ],
+        "org-central-govt-employees-welfare-housing-orgn": [
+          11,
+          0
+        ],
+        "org-northern-region-office": [
+          11,
+          0
+        ],
+        "org-department-defence-production": [
+          17,
+          0
+        ],
+        "org-rajasthan-state-office": [
+          14,
+          0
+        ],
+        "org-dg-sashastra-seema-bal": [
+          5,
+          0
+        ],
+        "org-srpl-chennai": [
+          5,
+          0
+        ],
+        "org-chennai-port-trust": [
+          11,
+          0
+        ],
+        "org-hmrbpl-mourigram": [
+          8,
+          0
+        ],
+        "org-iipm": [
+          1,
+          0
+        ],
+        "org-uttar-pradesh-state-office-2": [
+          8,
+          0
+        ],
+        "org-odisha-state-office": [
+          9,
+          0
+        ],
+        "org-department-economic-affairs": [
+          2,
+          0
+        ],
+        "org-department-school-education-literacy": [
+          5,
+          0
+        ],
+        "org-ecor": [
+          4,
+          0
+        ],
+        "org-department-for-international-development": [
+          11,
+          0
+        ],
+        "org-rail-vikas-nigam": [
+          2,
+          0
+        ],
+        "org-air": [
+          2,
+          0
+        ],
+        "org-projects-development": [
+          5,
+          0
+        ],
+        "org-ne-ig-regional-instt-health-medical-science": [
+          19,
+          0
+        ],
+        "org-directorate-general-employment-training": [
+          12,
+          0
+        ],
+        "org-government-stationery-office": [
+          6,
+          0
+        ],
+        "org-ministry-urban-development": [
+          7,
+          0
+        ],
+        "org-tata-institute-fundamental-research": [
+          3,
+          0
+        ],
+        "org-ce-rd-ar": [
+          13,
+          0
+        ],
+        "org-telecommunications-consultants": [
+          7,
+          0
+        ],
+        "org-nh-tamilnadu": [
+          3,
+          0
+        ],
+        "org-m-s-t-c": [
+          2,
+          0
+        ],
+        "org-india": [
+          2,
+          0
+        ],
+        "org-state-quality-coordinator-empowered-officer": [
+          20,
+          0
+        ],
+        "org-pipelines-ho": [
+          2,
+          0
+        ],
+        "org-brahmaputra-valley-fertilizer": [
+          20,
+          0
+        ],
+        "org-ircon-international": [
+          10,
+          0
+        ],
+        "mes": [
+          3,
+          0
+        ],
+        "org-nh": [
+          6,
+          0
+        ],
+        "org-jsrrda-ce": [
+          1,
+          0
+        ],
+        "org-jute": [
+          1,
+          0
+        ],
+        "org-department-animal-husbandry": [
+          8,
+          0
+        ],
+        "org-indian-bureau-mines": [
+          1,
+          0
+        ],
+        "org-north-eastern-electric-power": [
+          4,
+          0
+        ],
+        "org-cois-gurgaon": [
+          3,
+          0
+        ],
+        "org-central-soil-materials-research-station": [
+          1,
+          0
+        ],
+        "org-ministry-culture": [
+          4,
+          0
+        ],
+        "sail": [
+          3,
           0
         ],
         "org-small-arms-factory-kanpur": [
           2,
           0
         ],
+        "org-department-commerce": [
+          7,
+          0
+        ],
         "org-pipeline-construction-office": [
           3,
+          0
+        ],
+        "org-department-disinvestment": [
+          8,
+          0
+        ],
+        "org-madhya-pradesh-state-office": [
+          3,
+          0
+        ],
+        "org-banaras-hindu-university": [
+          8,
           0
         ],
         "org-national-highways-authority": [
           4,
           0
         ],
+        "org-north-eastern-space-applications-centre": [
+          5,
+          0
+        ],
+        "org-ministry-micro": [
+          4,
+          0
+        ],
+        "org-business-development": [
+          15,
+          0
+        ],
+        "org-mangalore-refinary-petrochemicals": [
+          2,
+          0
+        ],
         "org-satish-dhawan-space-centre": [
           2,
+          0
+        ],
+        "org-cpv-division": [
+          8,
+          0
+        ],
+        "org-kolkata-port-trust": [
+          5,
+          0
+        ],
+        "org-employees-state-insurance": [
+          3,
+          0
+        ],
+        "org-eastern-region-office": [
+          2,
+          0
+        ],
+        "org-pwd": [
+          8,
+          0
+        ],
+        "org-central-silk-board": [
+          6,
+          0
+        ],
+        "org-national-atmospheric-research-laboratory": [
+          3,
+          0
+        ],
+        "org-indian-air-force": [
+          8,
+          0
+        ],
+        "org-ordnance-equipement-factory-hazratpur": [
+          2,
+          0
+        ],
+        "org-indian-space-research-organisation": [
+          5,
+          0
+        ],
+        "org-department-agriculture-cooperation": [
+          3,
+          0
+        ],
+        "org-department-health-research": [
+          1,
+          0
+        ],
+        "org-department-financial-services": [
+          4,
+          0
+        ],
+        "org-department-administrative-reforms-public-gr": [
+          3,
+          0
+        ],
+        "org-high-explosive-factory-kirkee": [
+          4,
+          0
+        ],
+        "org-nmdc": [
+          4,
+          0
+        ],
+        "org-ministry-external-affairs": [
+          5,
+          0
+        ],
+        "org-unknown": [
+          3,
+          0
+        ],
+        "org-revenue-dept": [
+          4,
+          0
+        ],
+        "org-small-industries-development-bank": [
+          4,
+          0
+        ],
+        "org-cheif-controller-accounts": [
+          1,
+          0
+        ],
+        "org-agriculture": [
+          5,
+          0
+        ],
+        "org-deptt-electronics-information-technology": [
+          3,
+          0
+        ],
+        "org-council-scientific-industrial-research": [
+          1,
+          0
+        ],
+        "org-building-materials-technlogy-promotion-council": [
+          2,
+          0
+        ],
+        "org-national-institute-biologicals": [
+          1,
+          0
+        ],
+        "org-central-electricity-authority": [
+          1,
+          0
+        ],
+        "org-er-in-chief": [
+          32,
+          0
+        ],
+        "org-state-trading": [
+          1,
+          0
+        ],
+        "org-brahmaputra-cracker-polymer": [
+          2,
+          0
+        ],
+        "org-central-industrial-security-force": [
+          1,
+          0
+        ],
+        "org-bharat-petroresources": [
+          2,
+          0
+        ],
+        "org-spices-board": [
+          2,
+          0
+        ],
+        "org-andaman-lakshadweep-harbour-works": [
+          1,
+          0
+        ],
+        "org-town-country-planning-organisation": [
+          1,
+          0
+        ],
+        "org-handicrafts-n-handlooms-exports": [
+          1,
+          0
+        ],
+        "org-directorate-general-health-services": [
+          1,
+          0
+        ],
+        "org-vmmc-safdarjang-hospital": [
+          1,
+          0
+        ],
+        "org-saha-institute-nuclear-physics": [
+          1,
           0
         ],
         "nlc": [
@@ -6046,18 +6076,6 @@
           1,
           0
         ],
-        "org-iipm": [
-          1,
-          0
-        ],
-        "org-department-economic-affairs": [
-          2,
-          0
-        ],
-        "org-air": [
-          2,
-          0
-        ],
         "org-development-commissioner-msme": [
           1,
           0
@@ -6073,13 +6091,13 @@
       "value": 15590846,
       "archive": 53081,
       "cat": {
-        "other": [
-          51003,
-          0
-        ],
         "works": [
           833,
           15590846
+        ],
+        "other": [
+          51003,
+          0
         ],
         "goods": [
           1129,
@@ -6095,236 +6113,196 @@
         "lt1cr": 5
       },
       "src": {
-        "bhel": [
-          13329,
-          0
-        ],
-        "ntpc": [
-          1336,
-          0
-        ],
         "mes": [
           6771,
-          0
-        ],
-        "nlc": [
-          1562,
-          0
-        ],
-        "railways": [
-          8987,
-          0
-        ],
-        "org-state-quality-coordinator-empowered-officer": [
-          14,
           0
         ],
         "org-bharatiya-nabhikiya-vidyut-nigam": [
           294,
           0
         ],
-        "hpcl": [
-          1618,
+        "ntpc": [
+          1336,
           0
         ],
-        "org-ecor": [
-          148,
-          0
-        ],
-        "coal-india": [
-          3756,
-          0
-        ],
-        "nalco": [
-          925,
-          0
-        ],
-        "iit": [
-          171,
-          0
-        ],
-        "org-dg-sashastra-seema-bal": [
-          22,
-          0
-        ],
-        "org-engineers": [
-          585,
-          0
-        ],
-        "org-wrpl-mundra": [
-          37,
-          0
-        ],
-        "rcf": [
-          1098,
-          0
-        ],
-        "npcil": [
-          3777,
-          0
-        ],
-        "org-gujarat-refinery": [
-          205,
+        "bhel": [
+          13329,
           0
         ],
         "org-food": [
           259,
           0
         ],
-        "org-mangalore-refinary-petrochemicals": [
-          95,
+        "rcf": [
+          1098,
           0
         ],
-        "org-department-posts": [
-          237,
+        "railways": [
+          8987,
           0
         ],
-        "bpcl": [
-          493,
+        "nalco": [
+          925,
           0
         ],
-        "org-national-centre-for-earth-science-studies": [
-          7,
+        "hpcl": [
+          1618,
           0
         ],
-        "org-gspl-guwahati": [
-          9,
+        "coal-india": [
+          3756,
           0
         ],
-        "hscl": [
-          106,
+        "npcil": [
+          3777,
           0
         ],
-        "mod": [
-          383,
-          0
-        ],
-        "org-delhi-haryana-state-office": [
-          50,
-          0
-        ],
-        "org-rcf": [
-          158,
-          0
-        ],
-        "org-department-atomic-energy": [
-          5,
-          0
-        ],
-        "org-department-biotechnology": [
-          32,
-          0
-        ],
-        "org-mathura-refinery": [
-          134,
-          0
-        ],
-        "bro": [
-          454,
-          0
-        ],
-        "org-bharat-sanchar-nigam": [
-          113,
-          0
-        ],
-        "org-wrpl-sendra": [
-          42,
-          0
-        ],
-        "org-aod-digboi": [
-          192,
-          0
-        ],
-        "org-unknown": [
-          341,
-          0
-        ],
-        "org-research-development": [
-          44,
-          0
-        ],
-        "org-balmer-lawrie": [
-          140,
-          0
-        ],
-        "org-northern-region-office": [
-          4,
-          0
-        ],
-        "org-inland-waterways-authority": [
-          20,
-          0
-        ],
-        "org-prrpl": [
-          23,
+        "nlc": [
+          1562,
           0
         ],
         "org-bongaigaon-refinery": [
           65,
           0
         ],
-        "org-delhi-development-authority": [
-          182,
+        "org-barauni-refinery": [
+          169,
           0
         ],
-        "org-pipeline-construction-office": [
-          5,
+        "org-gujarat-refinery": [
+          205,
           0
         ],
-        "org-nrpl-bijwasan": [
-          52,
+        "org-wrpl-sendra": [
+          42,
           0
         ],
-        "org-nhdc": [
-          36,
+        "org-ministry-shipping": [
+          59,
+          0
+        ],
+        "org-aod-digboi": [
+          192,
+          0
+        ],
+        "org-bharat-sanchar-nigam": [
+          113,
+          0
+        ],
+        "org-bridge-roof": [
+          8,
+          0
+        ],
+        "org-refineries-hq": [
+          79,
+          0
+        ],
+        "org-haldia-refinery": [
+          121,
+          0
+        ],
+        "org-balmer-lawrie": [
+          140,
+          0
+        ],
+        "bro": [
+          454,
+          0
+        ],
+        "org-maharashtra-state-office": [
+          26,
+          0
+        ],
+        "org-wrpl-vadinar": [
+          28,
+          0
+        ],
+        "nhpc": [
+          246,
+          0
+        ],
+        "mod": [
+          383,
           0
         ],
         "org-goa-shipyard": [
           46,
           0
         ],
-        "thdc": [
-          264,
+        "org-national-centre-for-antarctic-ocean-research": [
+          5,
           0
         ],
-        "org-bihar-state-office": [
-          15,
+        "org-hppwd": [
+          44,
           0
         ],
-        "org-chenab-valley-power-projects": [
-          1,
+        "org-ecor": [
+          148,
           0
         ],
-        "org-southern-region-tamilnadu-state-office": [
-          30,
+        "org-nrpl-bijwasan": [
+          52,
           0
         ],
-        "org-cpcl": [
-          84,
+        "org-department-posts": [
+          237,
           0
         ],
-        "org-chennai-port-trust": [
-          15,
-          0
-        ],
-        "org-barauni-refinery": [
-          169,
-          0
-        ],
-        "org-instrumentation": [
-          43,
+        "org-mathura-refinery": [
+          134,
           0
         ],
         "org-panipat-refinery": [
           184,
           0
         ],
+        "org-delhi-haryana-state-office": [
+          50,
+          0
+        ],
+        "org-north-east-integrated-state-office": [
+          29,
+          0
+        ],
         "org-karnataka-state-office": [
           18,
           0
         ],
-        "org-banaras-hindu-university": [
-          33,
+        "org-cpcl": [
+          84,
+          0
+        ],
+        "org-mmtc": [
+          35,
+          0
+        ],
+        "org-panipat-naphtha-cracker": [
+          65,
+          0
+        ],
+        "org-dg": [
+          207,
+          0
+        ],
+        "org-engineering-projects": [
+          7,
+          0
+        ],
+        "org-engineers": [
+          585,
+          0
+        ],
+        "org-integrated-costal-marine-area-managment": [
+          25,
+          0
+        ],
+        "org-dg-sashastra-seema-bal": [
+          22,
+          0
+        ],
+        "org-satluj-jal-vidyut-nigam": [
+          1,
           0
         ],
         "org-guwahati-refinery": [
@@ -6335,283 +6313,267 @@
           18,
           0
         ],
-        "org-dg": [
-          207,
+        "org-delhi-development-authority": [
+          182,
           0
         ],
-        "org-punjab-state-office": [
-          24,
+        "org-unknown": [
+          341,
           0
         ],
-        "org-mazagon-dock": [
-          17,
+        "hscl": [
+          106,
           0
         ],
-        "org-uttar-pradesh-state-office-2": [
-          26,
-          0
-        ],
-        "org-directorate-general-health-services": [
-          9,
-          0
-        ],
-        "org-department-commerce": [
-          20,
-          0
-        ],
-        "nhpc": [
-          246,
-          0
-        ],
-        "org-ministry-mines": [
-          5,
-          0
-        ],
-        "org-bkpl-barauni": [
-          17,
-          0
-        ],
-        "org-madras-fertilizers": [
-          10,
-          0
-        ],
-        "org-ministry-external-affairs": [
-          7,
-          0
-        ],
-        "org-phbpl-paradip": [
-          20,
-          0
-        ],
-        "nrrda": [
-          221,
-          0
-        ],
-        "org-sjvn": [
-          40,
-          0
-        ],
-        "org-haldia-refinery": [
-          121,
-          0
-        ],
-        "org-singareni-collieries": [
-          53,
-          0
-        ],
-        "org-panipat-naphtha-cracker": [
-          65,
-          0
-        ],
-        "org-north-east-integrated-state-office": [
-          29,
-          0
-        ],
-        "org-western-region-office": [
-          10,
-          0
-        ],
-        "org-assam-rifles-mha": [
-          17,
-          0
-        ],
-        "org-pipelines-ho": [
-          15,
-          0
-        ],
-        "org-central-bureau-investigation-dopt": [
-          1,
-          0
-        ],
-        "org-national-buildings-construction": [
-          48,
-          0
-        ],
-        "org-ministry-shipping": [
-          59,
-          0
-        ],
-        "org-refineries-hq": [
-          79,
-          0
-        ],
-        "org-refineries-liaison-office-mumbai": [
-          4,
-          0
-        ],
-        "org-west-bengal-state-office": [
-          31,
-          0
-        ],
-        "org-mmtc": [
-          35,
-          0
-        ],
-        "org-biecco-lawrie": [
-          2,
-          0
-        ],
-        "org-tariff-authority-for-major-ports": [
-          8,
-          0
-        ],
-        "org-paradip-refinery": [
-          50,
-          0
-        ],
-        "org-rajasthan-electronics-instruments": [
-          11,
-          0
-        ],
-        "org-department-heavy-industry": [
-          2,
-          0
-        ],
-        "org-phbpl-haldia": [
-          25,
-          0
-        ],
-        "org-department-sports": [
-          22,
-          0
-        ],
-        "org-indian-council-agricultural-research": [
-          6,
-          0
-        ],
-        "org-erpl-kolkata": [
-          7,
-          0
-        ],
-        "org-integrated-costal-marine-area-managment": [
-          25,
-          0
-        ],
-        "org-satish-dhawan-space-centre": [
-          14,
-          0
-        ],
-        "org-wrpl-koyali": [
-          16,
-          0
-        ],
-        "org-wrpl-rajkot": [
-          68,
-          0
-        ],
-        "org-indian-air-force": [
-          40,
-          0
-        ],
-        "org-ce-meghalaya": [
-          108,
-          0
-        ],
-        "org-hmrbpl-mourigram": [
-          19,
+        "bpcl": [
+          493,
           0
         ],
         "org-gujarat-state-office": [
           27,
           0
         ],
-        "org-projects-development": [
+        "iit": [
+          171,
+          0
+        ],
+        "org-mangalore-refinary-petrochemicals": [
+          95,
+          0
+        ],
+        "org-refineries-liaison-office-kolkata": [
           3,
-          0
-        ],
-        "org-marketing-ho": [
-          61,
-          0
-        ],
-        "org-wrpl-chaksu": [
-          50,
-          0
-        ],
-        "org-department-electronics-information-technology": [
-          79,
-          0
-        ],
-        "org-wrpl-viramgam": [
-          36,
           0
         ],
         "org-ibp-nashik": [
           9,
           0
         ],
-        "org-cochin-port-trust": [
-          2,
+        "org-uttar-pradesh-state-office-2": [
+          26,
           0
         ],
-        "org-security-printing-minting": [
-          71,
+        "org-wrpl-viramgam": [
+          36,
           0
         ],
-        "org-business-development": [
+        "org-visakhapatnam-port-trust": [
+          41,
+          0
+        ],
+        "org-wrpl-rajkot": [
+          68,
+          0
+        ],
+        "org-phbpl-haldia": [
+          25,
+          0
+        ],
+        "org-gspl-guwahati": [
           9,
           0
         ],
-        "org-braithwaite": [
-          105,
+        "org-marketing-ho": [
+          61,
           0
         ],
-        "org-police-modernisation": [
-          1,
-          0
-        ],
-        "org-hindustan-shipyard": [
-          26,
-          0
-        ],
-        "org-central-mine-planning-design-institute": [
+        "org-bkpl-barauni": [
           17,
           0
         ],
-        "org-hppwd": [
-          44,
+        "org-odisha-state-office": [
+          6,
           0
         ],
-        "org-translational-health-sci-tech-inst-dobt": [
-          1,
+        "org-pipeline-construction-office": [
+          5,
           0
         ],
-        "org-moil": [
-          13,
+        "org-small-industries-development-bank": [
+          2,
           0
         ],
-        "org-department-health": [
-          26,
+        "org-rcf": [
+          158,
+          0
+        ],
+        "org-hmrbpl-mourigram": [
+          19,
+          0
+        ],
+        "org-mangalore-refinery-petrochemicals": [
+          12,
+          0
+        ],
+        "thdc": [
+          264,
+          0
+        ],
+        "gail": [
+          183,
+          0
+        ],
+        "org-eastern-region-office": [
+          3,
+          0
+        ],
+        "org-prrpl": [
+          23,
+          0
+        ],
+        "org-uttar-pradesh-state-office-1": [
+          14,
+          0
+        ],
+        "org-assam-rifles-mha": [
+          17,
           0
         ],
         "org-container": [
           13,
           0
         ],
-        "org-indira-gandhi-rashtriya-uran-academy": [
-          2,
+        "org-paradip-refinery": [
+          50,
           0
         ],
-        "org-brahmaputra-valley-fertilizer": [
-          19,
+        "org-central-electricity-authority": [
+          4,
           0
         ],
-        "org-heavy-vehicle-factory": [
+        "org-inland-waterways-authority": [
           20,
           0
         ],
-        "org-cordite-factory-aravankadu": [
-          19,
+        "org-department-chemicals-petrochemicals": [
+          3,
           0
         ],
-        "org-nrpl-panipat": [
-          29,
+        "org-research-development": [
+          44,
           0
         ],
-        "org-rashtriya-ispat-nigam": [
-          8,
+        "org-sjvn": [
+          40,
+          0
+        ],
+        "org-government-stationery-office": [
+          7,
+          0
+        ],
+        "org-ce-mrrda": [
+          52,
+          0
+        ],
+        "org-andhra-pradesh-state-office": [
+          28,
+          0
+        ],
+        "org-pipelines-ho": [
+          15,
+          0
+        ],
+        "org-department-electronics-information-technology": [
+          79,
+          0
+        ],
+        "org-madras-fertilizers": [
+          10,
+          0
+        ],
+        "org-instrumentation": [
+          43,
+          0
+        ],
+        "org-nhdc": [
+          36,
+          0
+        ],
+        "org-national-centre-for-earth-science-studies": [
+          7,
+          0
+        ],
+        "org-national-buildings-construction": [
+          48,
+          0
+        ],
+        "org-department-commerce": [
+          20,
+          0
+        ],
+        "org-singareni-collieries": [
+          53,
+          0
+        ],
+        "org-hindustan-shipyard": [
+          26,
+          0
+        ],
+        "org-brahmaputra-cracker-polymer": [
+          26,
+          0
+        ],
+        "org-department-heavy-industry": [
+          2,
+          0
+        ],
+        "org-refineries-liaison-office-mumbai": [
+          4,
+          0
+        ],
+        "org-wrpl-mundra": [
+          37,
+          0
+        ],
+        "org-braithwaite": [
+          105,
+          0
+        ],
+        "org-wrpl-koyali": [
+          16,
           0
         ],
         "org-ibp-kolkata": [
+          15,
+          0
+        ],
+        "org-rajasthan-state-office": [
+          2,
+          0
+        ],
+        "org-national-skill-development-agency": [
+          4,
+          0
+        ],
+        "org-western-region-office": [
+          10,
+          0
+        ],
+        "org-northern-region-office": [
+          4,
+          0
+        ],
+        "org-mazagon-dock": [
+          17,
+          0
+        ],
+        "org-west-bengal-state-office": [
+          31,
+          0
+        ],
+        "org-central-mine-planning-design-institute": [
+          17,
+          0
+        ],
+        "org-wrpl-chaksu": [
+          50,
+          0
+        ],
+        "org-building-materials-technlogy-promotion-council": [
+          3,
+          0
+        ],
+        "org-department-space": [
           15,
           0
         ],
@@ -6619,211 +6581,163 @@
           103,
           0
         ],
-        "org-nmdc": [
-          1,
+        "org-power-system-operation": [
+          5,
           0
         ],
-        "org-visakhapatnam-port-trust": [
-          41,
-          0
-        ],
-        "org-wrpl-vadinar": [
-          28,
-          0
-        ],
-        "org-ce-mrrda": [
-          52,
-          0
-        ],
-        "org-rajasthan-state-office": [
-          2,
-          0
-        ],
-        "org-metal-steel-factory": [
-          18,
-          0
-        ],
-        "org-hindustan-copper": [
-          32,
+        "org-ordnance-equipment-factory-kanpur": [
+          8,
           0
         ],
         "org-rifle-factory": [
           13,
           0
         ],
-        "org-brahmaputra-cracker-polymer": [
-          26,
+        "org-southern-region-tamilnadu-state-office": [
+          30,
           0
         ],
-        "org-mecon": [
+        "org-rajasthan-drugs-pharmaceuticals": [
+          10,
+          0
+        ],
+        "org-erpl-kolkata": [
+          7,
+          0
+        ],
+        "org-metal-steel-factory": [
           18,
           0
         ],
-        "org-kiocl": [
-          41,
+        "org-heavy-vehicle-factory": [
+          20,
           0
         ],
-        "org-uttar-pradesh-state-office-1": [
-          14,
+        "org-rashtriya-ispat-nigam": [
+          8,
           0
         ],
-        "org-directorate-general-employment-training": [
-          4,
+        "org-ministry-urban-development": [
+          7,
           0
         ],
-        "org-central-soil-materials-research-station": [
-          1,
+        "org-hindustan-copper": [
+          32,
           0
         ],
-        "org-building-materials-technlogy-promotion-council": [
-          3,
+        "nrrda": [
+          221,
           0
         ],
-        "org-hll-lifecare": [
-          40,
-          0
-        ],
-        "org-indian-coast-guard": [
-          25,
-          0
-        ],
-        "org-ne-ig-regional-instt-health-medical-science": [
-          16,
-          0
-        ],
-        "org-department-disinvestment": [
-          10,
+        "org-nrpl-panipat": [
+          29,
           0
         ],
         "org-department-pharmaceuticals": [
           8,
           0
         ],
-        "org-mjsj-coal": [
-          4,
+        "org-department-defence-production": [
+          9,
           0
         ],
-        "org-mangalore-refinery-petrochemicals": [
-          12,
-          0
-        ],
-        "org-spices-board": [
-          5,
-          0
-        ],
-        "org-archaeological-survey": [
+        "org-ministry-steel": [
           2,
           0
         ],
-        "org-state-trading": [
-          5,
-          0
-        ],
-        "org-directorate-general-foreign-trade": [
-          2,
-          0
-        ],
-        "org-cofmow": [
+        "org-high-explosive-factory-kirkee": [
           1,
           0
         ],
-        "org-madhya-pradesh-state-office": [
-          1,
+        "org-department-sports": [
+          22,
           0
         ],
-        "org-national-institute-rural-development-mord": [
-          1,
+        "org-security-printing-minting": [
+          71,
           0
         ],
-        "org-department-agriculture-cooperation": [
+        "org-banaras-hindu-university": [
+          33,
+          0
+        ],
+        "org-gun-shell-factory-cossipore": [
           8,
           0
         ],
-        "org-central-public-works-department": [
-          1,
+        "org-delhi-milk-scheme": [
+          22,
+          0
+        ],
+        "org-central-silk-board": [
+          3,
+          0
+        ],
+        "org-department-atomic-energy": [
+          5,
+          0
+        ],
+        "org-hll-lifecare": [
+          40,
+          0
+        ],
+        "org-special-protection-group": [
+          11,
+          0
+        ],
+        "org-kiocl": [
+          41,
           0
         ],
         "org-mahanagar-telephone-nigam": [
           2,
           0
         ],
-        "org-national-institute-biologicals": [
-          2,
-          0
-        ],
-        "org-machine-tool-prototype-factory-ambarnath": [
-          50,
-          0
-        ],
-        "org-rural-electrification": [
+        "org-business-development": [
           9,
           0
         ],
-        "org-org-for-epublishing": [
-          1,
+        "org-department-biotechnology": [
+          32,
           0
         ],
-        "org-nic": [
-          7,
+        "org-brahmaputra-valley-fertilizer": [
+          19,
           0
         ],
-        "org-andhra-pradesh-state-office": [
-          28,
+        "org-state-quality-coordinator-empowered-officer": [
+          14,
           0
         ],
-        "sail": [
-          3,
+        "org-central-industrial-security-force": [
+          2,
           0
         ],
-        "org-maharashtra-state-office": [
+        "org-department-health": [
           26,
           0
         ],
-        "org-north-eastern-electric-power": [
-          3,
+        "org-satish-dhawan-space-centre": [
+          14,
           0
         ],
-        "org-srpl-chennai": [
-          10,
+        "org-ne-ig-regional-instt-health-medical-science": [
+          16,
           0
         ],
-        "org-hscc": [
-          9,
-          0
-        ],
-        "org-ircon-international": [
-          1,
-          0
-        ],
-        "org-central-electricity-authority": [
-          4,
-          0
-        ],
-        "org-corporate-office": [
-          1,
-          0
-        ],
-        "org-cpv-division": [
+        "org-department-agricultural-research-education": [
           2,
           0
         ],
-        "org-registrar-general": [
-          1,
+        "org-punjab-state-office": [
+          24,
+          0
+        ],
+        "org-engine-factory-avadi": [
+          8,
           0
         ],
         "org-national-archives": [
-          2,
-          0
-        ],
-        "org-test": [
-          3,
-          0
-        ],
-        "org-department-chemicals-petrochemicals": [
-          3,
-          0
-        ],
-        "org-department-industrial-policy-promotion": [
           2,
           0
         ],
@@ -6831,8 +6745,92 @@
           4,
           0
         ],
-        "org-engine-factory-avadi": [
+        "iocl": [
+          3,
+          0
+        ],
+        "org-department-telecommunications": [
+          1,
+          0
+        ],
+        "org-ammunition-factory-kirkee": [
+          17,
+          0
+        ],
+        "org-ce-meghalaya": [
+          108,
+          0
+        ],
+        "org-department-animal-husbandry": [
+          4,
+          0
+        ],
+        "org-department-for-international-development": [
           8,
+          0
+        ],
+        "org-machine-tool-prototype-factory-ambarnath": [
+          50,
+          0
+        ],
+        "org-bihar-state-office": [
+          15,
+          0
+        ],
+        "org-srpl-chennai": [
+          10,
+          0
+        ],
+        "org-cordite-factory-aravankadu": [
+          19,
+          0
+        ],
+        "org-indira-gandhi-rashtriya-uran-academy": [
+          2,
+          0
+        ],
+        "org-directorate-general-employment-training": [
+          4,
+          0
+        ],
+        "org-indian-coast-guard": [
+          25,
+          0
+        ],
+        "org-rural-electrification": [
+          9,
+          0
+        ],
+        "org-department-agriculture-cooperation": [
+          8,
+          0
+        ],
+        "org-moil": [
+          13,
+          0
+        ],
+        "org-registrar-general": [
+          1,
+          0
+        ],
+        "org-test": [
+          3,
+          0
+        ],
+        "org-department-industrial-policy-promotion": [
+          2,
+          0
+        ],
+        "org-spices-board": [
+          5,
+          0
+        ],
+        "org-directorate-general-health-services": [
+          9,
+          0
+        ],
+        "org-indian-air-force": [
+          40,
           0
         ],
         "org-national-capital-region-planning-board": [
@@ -6841,6 +6839,10 @@
         ],
         "org-dredging": [
           2,
+          0
+        ],
+        "org-indian-council-agricultural-research": [
+          6,
           0
         ],
         "org-films-division-mib": [
@@ -6863,208 +6865,68 @@
           2,
           0
         ],
-        "org-odisha-state-office": [
-          6,
-          0
-        ],
-        "org-gun-shell-factory-cossipore": [
-          8,
-          0
-        ],
         "org-ksrrda": [
           1,
-          0
-        ],
-        "org-special-protection-group": [
-          11,
           0
         ],
         "org-tourism-development": [
           2,
           0
         ],
+        "org-department-disinvestment": [
+          10,
+          0
+        ],
         "org-nhai": [
           1,
           0
         ],
-        "org-bridge-roof": [
-          8,
+        "org-rajasthan-electronics-instruments": [
+          11,
           0
         ],
-        "org-national-centre-for-antarctic-ocean-research": [
-          5,
-          0
-        ],
-        "org-engineering-projects": [
-          7,
-          0
-        ],
-        "org-satluj-jal-vidyut-nigam": [
-          1,
-          0
-        ],
-        "org-refineries-liaison-office-kolkata": [
-          3,
-          0
-        ],
-        "org-small-industries-development-bank": [
+        "org-org-without-dsc": [
           2,
           0
         ],
-        "gail": [
-          183,
-          0
-        ],
-        "org-eastern-region-office": [
+        "sail": [
           3,
           0
         ],
-        "org-government-stationery-office": [
-          7,
-          0
-        ],
-        "org-national-skill-development-agency": [
-          4,
-          0
-        ],
-        "org-department-space": [
-          15,
+        "org-town-country-planning-organisation": [
+          1,
           0
         ],
         "org-hindustan-paper": [
           8,
           0
         ],
-        "org-nic-test": [
+        "org-cois-gurgaon": [
+          4,
+          0
+        ],
+        "org-nic": [
           7,
           0
         ],
-        "org-delhi-milk-scheme": [
-          22,
+        "org-chennai-port-trust": [
+          15,
           0
         ],
-        "org-central-silk-board": [
-          3,
-          0
-        ],
-        "org-bharat-bhari-udyog-nigam": [
-          1,
-          0
-        ],
-        "org-bhavini": [
-          24,
-          0
-        ],
-        "org-rajasthan-drugs-pharmaceuticals": [
-          10,
-          0
-        ],
-        "org-er-in-chief": [
-          17,
-          0
-        ],
-        "org-central-industrial-security-force": [
-          2,
-          0
-        ],
-        "org-ordnance-equipment-factory-kanpur": [
-          8,
+        "org-mjsj-coal": [
+          4,
           0
         ],
         "org-kolkata-port-trust": [
           7,
           0
         ],
-        "org-ministry-drinking-water-sanitation": [
-          2,
-          0
-        ],
-        "org-opo-electronic-factory-dehradun": [
-          2,
-          0
-        ],
-        "iocl": [
-          3,
-          0
-        ],
-        "org-agriculture": [
-          5,
-          0
-        ],
-        "org-cois-gurgaon": [
-          4,
-          0
-        ],
-        "org-department-consumer-affairs": [
-          2,
-          0
-        ],
-        "org-department-defence-production": [
-          9,
-          0
-        ],
-        "org-department-for-international-development": [
-          8,
-          0
-        ],
-        "org-housing-urban-development": [
+        "org-krcl": [
           1,
           0
         ],
-        "org-siddharth-dasgupta": [
-          1,
-          0
-        ],
-        "org-national-safai-karamcharis-finance-develp": [
-          2,
-          0
-        ],
-        "org-nepa": [
-          2,
-          0
-        ],
-        "org-ministry-urban-development": [
-          7,
-          0
-        ],
-        "org-bureau-civil-aviation-security": [
-          1,
-          0
-        ],
-        "org-department-agricultural-research-education": [
-          2,
-          0
-        ],
-        "org-department-financial-services": [
-          1,
-          0
-        ],
-        "org-president-secretariat": [
-          1,
-          0
-        ],
-        "org-power-system-operation": [
-          5,
-          0
-        ],
-        "org-ministry-steel": [
-          2,
-          0
-        ],
-        "org-high-explosive-factory-kirkee": [
-          1,
-          0
-        ],
-        "org-department-telecommunications": [
-          1,
-          0
-        ],
-        "org-ammunition-factory-kirkee": [
-          17,
-          0
-        ],
-        "org-department-animal-husbandry": [
-          4,
+        "org-mecon": [
+          18,
           0
         ],
         "org-central-water-commission": [
@@ -7073,6 +6935,10 @@
         ],
         "org-north-eastern-space-applications-centre": [
           2,
+          0
+        ],
+        "org-phbpl-paradip": [
+          20,
           0
         ],
         "org-national-institute-for-mentally-handicapped": [
@@ -7103,20 +6969,40 @@
           2,
           0
         ],
-        "org-org-without-dsc": [
-          2,
+        "org-north-eastern-electric-power": [
+          3,
           0
         ],
-        "org-town-country-planning-organisation": [
+        "org-ministry-mines": [
+          5,
+          0
+        ],
+        "org-directorate-general-lighthouses-lightships": [
           1,
           0
         ],
-        "org-krcl": [
+        "org-state-trading": [
+          5,
+          0
+        ],
+        "org-air": [
           1,
+          0
+        ],
+        "org-hscc": [
+          9,
           0
         ],
         "org-office-controller-accounts": [
           1,
+          0
+        ],
+        "org-nepa": [
+          2,
+          0
+        ],
+        "org-ministry-external-affairs": [
+          7,
           0
         ],
         "org-kerala-state-office": [
@@ -7127,12 +7013,144 @@
           1,
           0
         ],
-        "org-directorate-general-lighthouses-lightships": [
+        "org-archaeological-survey": [
+          2,
+          0
+        ],
+        "org-directorate-general-foreign-trade": [
+          2,
+          0
+        ],
+        "org-housing-urban-development": [
           1,
           0
         ],
-        "org-air": [
+        "org-opo-electronic-factory-dehradun": [
+          2,
+          0
+        ],
+        "org-siddharth-dasgupta": [
           1,
+          0
+        ],
+        "org-national-safai-karamcharis-finance-develp": [
+          2,
+          0
+        ],
+        "org-bureau-civil-aviation-security": [
+          1,
+          0
+        ],
+        "org-department-consumer-affairs": [
+          2,
+          0
+        ],
+        "org-cpv-division": [
+          2,
+          0
+        ],
+        "org-department-financial-services": [
+          1,
+          0
+        ],
+        "org-president-secretariat": [
+          1,
+          0
+        ],
+        "org-nic-test": [
+          7,
+          0
+        ],
+        "org-nmdc": [
+          1,
+          0
+        ],
+        "org-central-soil-materials-research-station": [
+          1,
+          0
+        ],
+        "org-cofmow": [
+          1,
+          0
+        ],
+        "org-madhya-pradesh-state-office": [
+          1,
+          0
+        ],
+        "org-national-institute-rural-development-mord": [
+          1,
+          0
+        ],
+        "org-central-public-works-department": [
+          1,
+          0
+        ],
+        "org-national-institute-biologicals": [
+          2,
+          0
+        ],
+        "org-org-for-epublishing": [
+          1,
+          0
+        ],
+        "org-ircon-international": [
+          1,
+          0
+        ],
+        "org-corporate-office": [
+          1,
+          0
+        ],
+        "org-chenab-valley-power-projects": [
+          1,
+          0
+        ],
+        "org-central-bureau-investigation-dopt": [
+          1,
+          0
+        ],
+        "org-biecco-lawrie": [
+          2,
+          0
+        ],
+        "org-tariff-authority-for-major-ports": [
+          8,
+          0
+        ],
+        "org-projects-development": [
+          3,
+          0
+        ],
+        "org-cochin-port-trust": [
+          2,
+          0
+        ],
+        "org-police-modernisation": [
+          1,
+          0
+        ],
+        "org-translational-health-sci-tech-inst-dobt": [
+          1,
+          0
+        ],
+        "org-bharat-bhari-udyog-nigam": [
+          1,
+          0
+        ],
+        "org-bhavini": [
+          24,
+          0
+        ],
+        "org-er-in-chief": [
+          17,
+          0
+        ],
+        "org-ministry-drinking-water-sanitation": [
+          2,
+          0
+        ],
+        "org-agriculture": [
+          5,
           0
         ],
         "org-pwd": [
@@ -7158,16 +7176,16 @@
           33644,
           0
         ],
-        "services": [
-          1345,
-          0
-        ],
         "works": [
           11193,
           336872301
         ],
         "goods": [
           5409,
+          0
+        ],
+        "services": [
+          1345,
           0
         ]
       },
@@ -7178,88 +7196,92 @@
         "gt10cr": 1
       },
       "src": {
-        "ntpc": [
-          4104,
+        "gail": [
+          74,
           0
         ],
-        "npcil": [
-          2477,
-          0
-        ],
-        "org-mangalore-refinary-petrochemicals": [
-          114,
-          0
-        ],
-        "bpcl": [
-          187,
-          0
-        ],
-        "coal-india": [
-          4531,
+        "org-dg": [
+          151,
           0
         ],
         "mes": [
           11143,
           0
         ],
-        "mod": [
-          1338,
-          0
-        ],
-        "org-food": [
-          136,
-          0
-        ],
-        "org-ibp-nashik": [
-          36,
-          0
-        ],
-        "org-department-posts": [
-          102,
-          0
-        ],
         "bhel": [
           12773,
           0
         ],
-        "org-bongaigaon-refinery": [
-          99,
+        "org-bharatiya-nabhikiya-vidyut-nigam": [
+          243,
           0
         ],
-        "rcf": [
-          919,
-          0
-        ],
-        "org-wrpl-mundra": [
-          24,
+        "org-directorate-general-ndrf": [
+          1,
           0
         ],
         "org-singareni-collieries": [
           80,
           0
         ],
-        "org-central-public-works-department": [
-          13,
-          0
-        ],
         "railways": [
           6013,
           0
         ],
-        "hpcl": [
-          854,
+        "npcil": [
+          2477,
+          0
+        ],
+        "ntpc": [
+          4104,
+          0
+        ],
+        "org-midhani": [
+          57,
+          0
+        ],
+        "bpcl": [
+          187,
           0
         ],
         "nlc": [
           1823,
           0
         ],
-        "org-moil": [
-          62,
+        "org-maharashtra-state-office": [
+          10,
           0
         ],
-        "org-balmer-lawrie": [
-          89,
+        "nhpc": [
+          159,
+          0
+        ],
+        "rcf": [
+          919,
+          0
+        ],
+        "org-engineers": [
+          167,
+          0
+        ],
+        "coal-india": [
+          4531,
+          0
+        ],
+        "org-marketing-ho": [
+          53,
+          0
+        ],
+        "org-nhdc": [
+          24,
+          0
+        ],
+        "hpcl": [
+          854,
+          0
+        ],
+        "mod": [
+          1338,
           0
         ],
         "hscl": [
@@ -7270,616 +7292,68 @@
           114,
           0
         ],
-        "org-panipat-refinery": [
-          258,
-          0
-        ],
-        "org-gujarat-refinery": [
-          97,
-          0
-        ],
-        "nalco": [
-          235,
-          0
-        ],
-        "iit": [
-          109,
-          0
-        ],
-        "org-dg": [
-          151,
-          0
-        ],
-        "org-dir-gen-defence-estates": [
-          111,
-          0
-        ],
-        "org-wrpl-koyali": [
-          13,
-          0
-        ],
-        "bro": [
-          253,
-          0
-        ],
-        "thdc": [
-          105,
-          0
-        ],
-        "org-marketing-ho": [
-          53,
-          0
-        ],
-        "org-nrpl-bijwasan": [
-          20,
-          0
-        ],
         "org-hmrbpl-mourigram": [
           15,
-          0
-        ],
-        "org-engineers": [
-          167,
-          0
-        ],
-        "org-midhani": [
-          57,
-          0
-        ],
-        "org-sjvn": [
-          46,
-          0
-        ],
-        "nhpc": [
-          159,
-          0
-        ],
-        "org-southern-region-tamilnadu-state-office": [
-          27,
-          0
-        ],
-        "org-barauni-refinery": [
-          164,
-          0
-        ],
-        "org-border-security-force": [
-          22,
-          0
-        ],
-        "org-cpcl": [
-          56,
-          0
-        ],
-        "org-eastern-region-office": [
-          7,
-          0
-        ],
-        "org-hemisphere-properties": [
-          1,
-          0
-        ],
-        "org-engineering-projects": [
-          18,
           0
         ],
         "org-visakhapatnam-port-trust": [
           73,
           0
         ],
-        "org-nhdc": [
-          24,
-          0
-        ],
-        "org-mmtc": [
-          28,
-          0
-        ],
-        "org-aod-digboi": [
-          131,
-          0
-        ],
-        "org-mathura-refinery": [
-          116,
-          0
-        ],
-        "org-brahmaputra-valley-fertilizer": [
-          13,
-          0
-        ],
-        "org-refineries-hq": [
-          112,
-          0
-        ],
-        "org-west-bengal-state-office": [
-          12,
-          0
-        ],
-        "org-mangalore-refinery-petrochemicals": [
-          23,
-          0
-        ],
-        "org-indian-institute-science-education-research-kolkata": [
-          3,
-          0
-        ],
-        "org-braithwaite": [
-          20,
-          0
-        ],
-        "org-dg-sashastra-seema-bal": [
-          19,
-          0
-        ],
-        "org-srpl-chennai": [
-          4,
-          0
-        ],
-        "org-central-university-tamil-nadu": [
-          1,
-          0
-        ],
-        "org-assam-rifles-mha": [
-          17,
-          0
-        ],
-        "org-department-agriculture-cooperation": [
-          9,
-          0
-        ],
-        "org-indianoil": [
-          6,
-          0
-        ],
-        "org-films-division-mib": [
-          3,
-          0
-        ],
-        "org-directorate-general-lighthouses-lightships": [
-          25,
-          0
-        ],
-        "org-northern-region-office": [
-          10,
-          0
-        ],
-        "org-wrpl-sendra": [
-          33,
-          0
-        ],
-        "org-wrpl-chaksu": [
-          36,
-          0
-        ],
-        "org-department-electronics-information-technology": [
-          21,
-          0
-        ],
-        "org-department-biotechnology": [
-          6,
-          0
-        ],
-        "org-banaras-hindu-university": [
-          5,
-          0
-        ],
-        "org-wrpl-vadinar": [
-          27,
-          0
-        ],
-        "org-pipelines-ho": [
-          13,
-          0
-        ],
-        "org-research-development": [
-          54,
-          0
-        ],
-        "iocl": [
-          21,
-          0
-        ],
-        "org-esso-incois": [
-          5,
-          0
-        ],
-        "org-department-health": [
-          19,
-          0
-        ],
-        "org-ministry-shipping": [
-          24,
-          0
-        ],
-        "org-gujarat-state-office": [
-          19,
-          0
-        ],
-        "org-national-centre-for-earth-science-studies": [
-          11,
-          0
-        ],
-        "nrrda": [
-          20,
-          0
-        ],
-        "org-hppwd": [
-          8,
-          0
-        ],
-        "org-kolkata-port-trust": [
-          6,
-          0
-        ],
-        "org-delhi-haryana-state-office": [
-          19,
-          0
-        ],
-        "org-dg-central-industrial-security-force": [
-          4,
-          0
-        ],
-        "org-ministry-mines": [
-          20,
-          0
-        ],
-        "org-bharatiya-nabhikiya-vidyut-nigam": [
-          243,
-          0
-        ],
-        "org-prime-ministers-office": [
-          1,
-          0
-        ],
-        "org-inland-waterways-authority": [
-          14,
-          0
-        ],
-        "org-department-pharmaceuticals": [
-          6,
-          0
-        ],
-        "org-paradip-refinery": [
-          21,
-          0
-        ],
-        "org-special-protection-group": [
-          3,
-          0
-        ],
-        "org-mazagon-dock": [
-          49,
+        "nalco": [
+          235,
           0
         ],
         "org-ecor": [
           114,
           0
         ],
-        "org-central-ground-water-board": [
+        "org-building-materials-technlogy-promotion-council": [
           1,
           0
         ],
-        "org-western-region-office": [
-          5,
-          0
-        ],
-        "org-aryabhatta-research-institute-observational-sciences": [
-          9,
-          0
-        ],
-        "org-bkpl-barauni": [
-          20,
-          0
-        ],
-        "org-geological-survey": [
-          7,
-          0
-        ],
-        "org-wrpl-rajkot": [
-          28,
-          0
-        ],
-        "org-goa-shipyard": [
-          6,
-          0
-        ],
-        "org-indo-tibetan-border-police": [
-          9,
-          0
-        ],
-        "org-intelligence-bureau-new-delhi": [
-          10,
-          0
-        ],
-        "org-refineries-liaison-office-kolkata": [
-          3,
-          0
-        ],
-        "org-delhi-development-authority": [
-          149,
-          0
-        ],
-        "org-wrpl-viramgam": [
-          14,
-          0
-        ],
-        "org-madras-fertilizers": [
-          28,
-          0
-        ],
-        "org-cofmow": [
-          2,
-          0
-        ],
-        "org-bridge-roof": [
-          15,
-          0
-        ],
-        "org-national-institute-for-mentally-handicapped": [
-          6,
-          0
-        ],
-        "org-president-secretariat": [
-          6,
-          0
-        ],
-        "org-meteorological-department-imd": [
-          5,
-          0
-        ],
-        "org-container": [
-          9,
-          0
-        ],
-        "org-punjab-state-office": [
-          10,
-          0
-        ],
-        "sail": [
-          7,
-          0
-        ],
-        "org-indian-council-agricultural-research": [
+        "org-hppwd": [
           8,
           0
         ],
-        "org-prrpl": [
-          22,
+        "org-bongaigaon-refinery": [
+          99,
           0
         ],
-        "org-ministry-external-affairs": [
-          4,
-          0
-        ],
-        "org-uttar-pradesh-state-office-1": [
-          5,
-          0
-        ],
-        "org-mahanagar-telephone-nigam": [
-          16,
-          0
-        ],
-        "org-business-development": [
-          11,
-          0
-        ],
-        "org-central-water-power-research-station": [
-          4,
-          0
-        ],
-        "org-integrated-costal-marine-area-managment": [
-          2,
-          0
-        ],
-        "org-instrumentation": [
-          3,
-          0
-        ],
-        "org-national-institute-for-orthopaedically-handicapped": [
-          1,
-          0
-        ],
-        "org-telangana-andhra-pradesh-state-office": [
-          4,
-          0
-        ],
-        "org-department-for-international-development": [
-          6,
-          0
-        ],
-        "org-rajasthan-state-office": [
-          7,
-          0
-        ],
-        "org-unknown": [
-          5,
-          0
-        ],
-        "org-department-space": [
-          4,
-          0
-        ],
-        "org-government-stationery-office": [
-          4,
-          0
-        ],
-        "org-maharashtra-state-office": [
-          10,
-          0
-        ],
-        "org-erpl-kolkata": [
-          10,
-          0
-        ],
-        "org-department-sports": [
-          6,
-          0
-        ],
-        "org-north-east-integrated-state-office": [
-          12,
-          0
-        ],
-        "org-ibp-kolkata": [
-          12,
-          0
-        ],
-        "org-kiocl": [
-          11,
-          0
-        ],
-        "org-indian-renewable-energy-development-agency": [
-          3,
-          0
-        ],
-        "org-biecco-lawrie": [
-          3,
-          0
-        ],
-        "org-uttar-pradesh-state-office-2": [
-          35,
-          0
-        ],
-        "org-department-industrial-policy-promotion": [
-          6,
+        "org-aod-digboi": [
+          131,
           0
         ],
         "org-chennai-port-trust": [
           15,
           0
         ],
-        "org-central-mine-planning-design-institute": [
+        "iit": [
+          109,
+          0
+        ],
+        "org-mathura-refinery": [
+          116,
+          0
+        ],
+        "org-mahanagar-telephone-nigam": [
           16,
           0
         ],
-        "org-air": [
-          2,
+        "org-refineries-hq": [
+          112,
           0
         ],
-        "org-bihar-state-office": [
-          6,
+        "org-dir-gen-defence-estates": [
+          111,
           0
         ],
-        "org-nic": [
-          1,
+        "org-wrpl-viramgam": [
+          14,
           0
         ],
-        "org-department-land-resources": [
-          1,
-          0
-        ],
-        "org-revenue-dept": [
-          1,
-          0
-        ],
-        "org-rdso": [
-          5,
-          0
-        ],
-        "org-nmdc": [
-          1,
-          0
-        ],
-        "org-national-atmospheric-research-laboratory": [
-          1,
-          0
-        ],
-        "org-office-pr-cca-mha": [
-          2,
-          0
-        ],
-        "org-nrpl-panipat": [
-          2,
-          0
-        ],
-        "org-small-industries-development-bank": [
-          1,
-          0
-        ],
-        "org-bharat-sanchar-nigam": [
-          45,
-          0
-        ],
-        "org-department-revenue": [
-          1,
-          0
-        ],
-        "org-central-potato-research-institute": [
-          1,
-          0
-        ],
-        "org-krcl": [
-          3,
-          0
-        ],
-        "gail": [
-          74,
-          0
-        ],
-        "org-dfid": [
-          2,
-          0
-        ],
-        "org-department-defence-production": [
-          3,
-          0
-        ],
-        "org-null": [
-          1,
-          0
-        ],
-        "org-guwahati-refinery": [
-          8,
-          0
-        ],
-        "org-hindustan-shipyard": [
-          4,
-          0
-        ],
-        "org-police-modernisation": [
-          1,
-          0
-        ],
-        "org-panipat-naphtha-cracker": [
-          4,
-          0
-        ],
-        "org-iipm": [
-          8,
-          0
-        ],
-        "org-refineries-liaison-office-mumbai": [
-          3,
-          0
-        ],
-        "org-ministry-statistics-programme-implementation": [
-          2,
-          0
-        ],
-        "org-central-bureau-investigation-dopt": [
-          1,
-          0
-        ],
-        "org-karnataka-state-office": [
-          4,
-          0
-        ],
-        "org-ce-mrrda": [
-          6,
-          0
-        ],
-        "org-pipeline-construction-office": [
-          3,
-          0
-        ],
-        "org-mormugoa-port-trust": [
-          2,
-          0
-        ],
-        "org-odisha-state-office": [
-          2,
-          0
-        ],
-        "org-ce-meghalaya": [
-          3,
+        "org-barauni-refinery": [
+          164,
           0
         ],
         "org-bhakra-beas-management-board": [
@@ -7890,8 +7364,372 @@
           3,
           0
         ],
+        "org-department-space": [
+          4,
+          0
+        ],
+        "org-mangalore-refinary-petrochemicals": [
+          114,
+          0
+        ],
+        "bro": [
+          253,
+          0
+        ],
+        "org-wrpl-vadinar": [
+          27,
+          0
+        ],
+        "org-food": [
+          136,
+          0
+        ],
+        "org-research-development": [
+          54,
+          0
+        ],
+        "org-delhi-milk-scheme": [
+          6,
+          0
+        ],
+        "org-bharat-sanchar-nigam": [
+          45,
+          0
+        ],
+        "org-gujarat-state-office": [
+          19,
+          0
+        ],
+        "org-northern-region-office": [
+          10,
+          0
+        ],
+        "org-panipat-refinery": [
+          258,
+          0
+        ],
+        "org-directorate-general-foreign-trade": [
+          1,
+          0
+        ],
+        "org-foreign-commonwealth-office": [
+          1,
+          0
+        ],
+        "org-refineries-liaison-office-kolkata": [
+          3,
+          0
+        ],
+        "org-moil": [
+          62,
+          0
+        ],
+        "org-president-secretariat": [
+          6,
+          0
+        ],
+        "org-balmer-lawrie": [
+          89,
+          0
+        ],
+        "org-department-sports": [
+          6,
+          0
+        ],
+        "org-prrpl": [
+          22,
+          0
+        ],
+        "org-braithwaite": [
+          20,
+          0
+        ],
+        "org-gujarat-refinery": [
+          97,
+          0
+        ],
+        "org-mazagon-dock": [
+          49,
+          0
+        ],
+        "org-wrpl-sendra": [
+          33,
+          0
+        ],
+        "org-north-east-integrated-state-office": [
+          12,
+          0
+        ],
+        "org-guwahati-refinery": [
+          8,
+          0
+        ],
+        "org-cpcl": [
+          56,
+          0
+        ],
+        "org-national-centre-for-earth-science-studies": [
+          11,
+          0
+        ],
+        "org-nrpl-bijwasan": [
+          20,
+          0
+        ],
+        "org-wrpl-chaksu": [
+          36,
+          0
+        ],
+        "org-department-defence-production": [
+          3,
+          0
+        ],
+        "thdc": [
+          105,
+          0
+        ],
+        "org-wrpl-koyali": [
+          13,
+          0
+        ],
+        "org-esso-incois": [
+          5,
+          0
+        ],
+        "org-department-posts": [
+          102,
+          0
+        ],
+        "org-ministry-shipping": [
+          24,
+          0
+        ],
+        "org-delhi-haryana-state-office": [
+          19,
+          0
+        ],
+        "org-assam-rifles-mha": [
+          17,
+          0
+        ],
+        "org-iipm": [
+          8,
+          0
+        ],
+        "org-sjvn": [
+          46,
+          0
+        ],
+        "org-indo-tibetan-border-police": [
+          9,
+          0
+        ],
+        "org-central-mine-planning-design-institute": [
+          16,
+          0
+        ],
+        "org-ibp-nashik": [
+          36,
+          0
+        ],
+        "org-delhi-development-authority": [
+          149,
+          0
+        ],
+        "org-central-industrial-security-force": [
+          1,
+          0
+        ],
+        "org-dg-central-industrial-security-force": [
+          4,
+          0
+        ],
+        "nrrda": [
+          20,
+          0
+        ],
+        "org-bridge-roof": [
+          15,
+          0
+        ],
+        "org-engineering-projects": [
+          18,
+          0
+        ],
+        "org-west-bengal-state-office": [
+          12,
+          0
+        ],
+        "org-wrpl-rajkot": [
+          28,
+          0
+        ],
+        "org-bkpl-barauni": [
+          20,
+          0
+        ],
+        "org-directorate-general-lighthouses-lightships": [
+          25,
+          0
+        ],
+        "org-department-electronics-information-technology": [
+          21,
+          0
+        ],
+        "org-department-for-international-development": [
+          6,
+          0
+        ],
+        "org-inland-waterways-authority": [
+          14,
+          0
+        ],
+        "org-mmtc": [
+          28,
+          0
+        ],
+        "org-pipelines-ho": [
+          13,
+          0
+        ],
+        "org-uttar-pradesh-state-office-2": [
+          35,
+          0
+        ],
+        "org-ministry-panchayati-raj": [
+          1,
+          0
+        ],
+        "org-erpl-kolkata": [
+          10,
+          0
+        ],
+        "org-container": [
+          9,
+          0
+        ],
+        "org-rural-electrification": [
+          1,
+          0
+        ],
+        "org-madras-fertilizers": [
+          28,
+          0
+        ],
+        "org-wrpl-mundra": [
+          24,
+          0
+        ],
+        "org-mangalore-refinery-petrochemicals": [
+          23,
+          0
+        ],
+        "org-department-science-technology": [
+          1,
+          0
+        ],
+        "org-intelligence-bureau-new-delhi": [
+          10,
+          0
+        ],
+        "org-karnataka-state-office": [
+          4,
+          0
+        ],
+        "org-paradip-refinery": [
+          21,
+          0
+        ],
+        "org-madhya-pradesh-state-office": [
+          1,
+          0
+        ],
+        "org-ministry-power": [
+          1,
+          0
+        ],
+        "sail": [
+          7,
+          0
+        ],
+        "org-brahmaputra-valley-fertilizer": [
+          13,
+          0
+        ],
+        "org-bihar-state-office": [
+          6,
+          0
+        ],
+        "iocl": [
+          21,
+          0
+        ],
+        "org-banaras-hindu-university": [
+          5,
+          0
+        ],
+        "org-ne-ig-regional-instt-health-medical-science": [
+          4,
+          0
+        ],
+        "org-rdso": [
+          5,
+          0
+        ],
+        "org-european-external-action-service": [
+          1,
+          0
+        ],
+        "org-department-health": [
+          19,
+          0
+        ],
+        "org-kiocl": [
+          11,
+          0
+        ],
+        "org-pipeline-construction-office": [
+          3,
+          0
+        ],
+        "org-mormugoa-port-trust": [
+          2,
+          0
+        ],
+        "org-dg-sashastra-seema-bal": [
+          19,
+          0
+        ],
+        "org-odisha-state-office": [
+          2,
+          0
+        ],
+        "org-ce-mrrda": [
+          6,
+          0
+        ],
+        "org-ministry-mines": [
+          20,
+          0
+        ],
+        "org-western-region-office": [
+          5,
+          0
+        ],
+        "org-kolkata-port-trust": [
+          6,
+          0
+        ],
+        "org-ce-meghalaya": [
+          3,
+          0
+        ],
         "org-national-institute-ocean-technology": [
           4,
+          0
+        ],
+        "org-indian-renewable-energy-development-agency": [
+          3,
           0
         ],
         "org-state-quality-coordinator-empowered-officer": [
@@ -7906,40 +7744,184 @@
           1,
           0
         ],
-        "org-gspl-guwahati": [
-          3,
-          0
-        ],
-        "org-ne-ig-regional-instt-health-medical-science": [
+        "org-hindustan-shipyard": [
           4,
           0
         ],
-        "org-national-archives": [
-          1,
+        "org-ibp-kolkata": [
+          12,
           0
         ],
-        "org-hscc": [
-          1,
+        "org-rajasthan-state-office": [
+          7,
           0
         ],
-        "org-delhi-milk-scheme": [
+        "org-indian-council-agricultural-research": [
+          8,
+          0
+        ],
+        "org-films-division-mib": [
+          3,
+          0
+        ],
+        "org-punjab-state-office": [
+          10,
+          0
+        ],
+        "org-telangana-andhra-pradesh-state-office": [
+          4,
+          0
+        ],
+        "org-national-institute-for-mentally-handicapped": [
           6,
           0
         ],
-        "org-andhra-pradesh-state-office": [
-          1,
+        "org-business-development": [
+          11,
           0
         ],
-        "org-national-informatics-centre-services-inc": [
-          1,
+        "org-cofmow": [
+          2,
           0
         ],
-        "org-power-system-operation": [
+        "org-department-pharmaceuticals": [
+          6,
+          0
+        ],
+        "org-department-biotechnology": [
+          6,
+          0
+        ],
+        "org-integrated-costal-marine-area-managment": [
+          2,
+          0
+        ],
+        "org-department-agriculture-cooperation": [
+          9,
+          0
+        ],
+        "org-indianoil": [
+          6,
+          0
+        ],
+        "org-unknown": [
           5,
+          0
+        ],
+        "org-government-stationery-office": [
+          4,
+          0
+        ],
+        "org-southern-region-tamilnadu-state-office": [
+          27,
+          0
+        ],
+        "org-indian-institute-science-education-research-kolkata": [
+          3,
+          0
+        ],
+        "org-border-security-force": [
+          22,
+          0
+        ],
+        "org-goa-shipyard": [
+          6,
+          0
+        ],
+        "org-biecco-lawrie": [
+          3,
+          0
+        ],
+        "org-ministry-external-affairs": [
+          4,
+          0
+        ],
+        "org-central-public-works-department": [
+          13,
+          0
+        ],
+        "org-department-industrial-policy-promotion": [
+          6,
+          0
+        ],
+        "org-air": [
+          2,
+          0
+        ],
+        "org-nic": [
+          1,
+          0
+        ],
+        "org-department-land-resources": [
+          1,
+          0
+        ],
+        "org-revenue-dept": [
+          1,
+          0
+        ],
+        "org-nmdc": [
+          1,
+          0
+        ],
+        "org-srpl-chennai": [
+          4,
+          0
+        ],
+        "org-aryabhatta-research-institute-observational-sciences": [
+          9,
+          0
+        ],
+        "org-national-atmospheric-research-laboratory": [
+          1,
+          0
+        ],
+        "org-office-pr-cca-mha": [
+          2,
+          0
+        ],
+        "org-central-water-power-research-station": [
+          4,
+          0
+        ],
+        "org-nrpl-panipat": [
+          2,
+          0
+        ],
+        "org-small-industries-development-bank": [
+          1,
+          0
+        ],
+        "org-department-revenue": [
+          1,
+          0
+        ],
+        "org-central-potato-research-institute": [
+          1,
+          0
+        ],
+        "org-krcl": [
+          3,
+          0
+        ],
+        "org-dfid": [
+          2,
+          0
+        ],
+        "org-null": [
+          1,
+          0
+        ],
+        "org-eastern-region-office": [
+          7,
           0
         ],
         "org-ministry-water-resources": [
           3,
+          0
+        ],
+        "org-power-system-operation": [
+          5,
           0
         ],
         "org-central-govt-employees-welfare-housing-orgn": [
@@ -7962,6 +7944,18 @@
           1,
           0
         ],
+        "org-gspl-guwahati": [
+          3,
+          0
+        ],
+        "org-uttar-pradesh-state-office-1": [
+          5,
+          0
+        ],
+        "org-meteorological-department-imd": [
+          5,
+          0
+        ],
         "org-remarks": [
           1,
           0
@@ -7982,47 +7976,71 @@
           1,
           0
         ],
-        "org-directorate-general-ndrf": [
+        "org-panipat-naphtha-cracker": [
+          4,
+          0
+        ],
+        "org-instrumentation": [
+          3,
+          0
+        ],
+        "org-ministry-statistics-programme-implementation": [
+          2,
+          0
+        ],
+        "org-national-archives": [
           1,
           0
         ],
-        "org-building-materials-technlogy-promotion-council": [
+        "org-hscc": [
           1,
           0
         ],
-        "org-directorate-general-foreign-trade": [
+        "org-andhra-pradesh-state-office": [
           1,
           0
         ],
-        "org-foreign-commonwealth-office": [
+        "org-national-informatics-centre-services-inc": [
           1,
           0
         ],
-        "org-central-industrial-security-force": [
+        "org-hemisphere-properties": [
           1,
           0
         ],
-        "org-ministry-panchayati-raj": [
+        "org-central-university-tamil-nadu": [
           1,
           0
         ],
-        "org-rural-electrification": [
+        "org-prime-ministers-office": [
           1,
           0
         ],
-        "org-department-science-technology": [
+        "org-special-protection-group": [
+          3,
+          0
+        ],
+        "org-central-ground-water-board": [
           1,
           0
         ],
-        "org-madhya-pradesh-state-office": [
+        "org-geological-survey": [
+          7,
+          0
+        ],
+        "org-national-institute-for-orthopaedically-handicapped": [
           1,
           0
         ],
-        "org-ministry-power": [
+        "org-police-modernisation": [
           1,
           0
         ],
-        "org-european-external-action-service": [
+        "org-refineries-liaison-office-mumbai": [
+          3,
+          0
+        ],
+        "org-central-bureau-investigation-dopt": [
           1,
           0
         ],
@@ -8841,30 +8859,6 @@
           3,
           0
         ],
-        "org-dfid": [
-          1,
-          0
-        ],
-        "org-foreign-commonwealth-office": [
-          1,
-          0
-        ],
-        "org-department-for-international-development": [
-          1,
-          0
-        ],
-        "org-punjab-state-office": [
-          3,
-          0
-        ],
-        "org-integrated-defence-staff": [
-          2,
-          0
-        ],
-        "org-trade-promotion-organisation": [
-          4,
-          0
-        ],
         "org-state-trading": [
           7,
           0
@@ -8925,6 +8919,10 @@
           4,
           0
         ],
+        "org-trade-promotion-organisation": [
+          4,
+          0
+        ],
         "org-pipeline-construction-office": [
           2,
           0
@@ -8949,6 +8947,10 @@
           7,
           0
         ],
+        "org-integrated-defence-staff": [
+          2,
+          0
+        ],
         "org-mangalore-refinery-petrochemicals": [
           6,
           0
@@ -8963,6 +8965,10 @@
         ],
         "org-directorate-general-health-services": [
           1,
+          0
+        ],
+        "org-punjab-state-office": [
+          3,
           0
         ],
         "org-council-scientific-industrial-research": [
@@ -9038,6 +9044,18 @@
           0
         ],
         "org-cois-gurgaon": [
+          1,
+          0
+        ],
+        "org-department-for-international-development": [
+          1,
+          0
+        ],
+        "org-dfid": [
+          1,
+          0
+        ],
+        "org-foreign-commonwealth-office": [
           1,
           0
         ],
@@ -9356,12 +9374,20 @@
           1,
           100000000
         ],
-        "org-foreign-commonwealth-office": [
+        "org-united-nations-development-programme-division": [
           1,
           0
         ],
         "org-department-for-international-development": [
           3,
+          0
+        ],
+        "org-embassy-switzerland-in-new-delhi": [
+          1,
+          0
+        ],
+        "org-foreign-commonwealth-office": [
+          1,
           0
         ],
         "mod": [
@@ -9937,14 +9963,6 @@
           0
         ],
         "org-state-trading": [
-          1,
-          0
-        ],
-        "org-united-nations-development-programme-division": [
-          1,
-          0
-        ],
-        "org-embassy-switzerland-in-new-delhi": [
           1,
           0
         ],
@@ -11517,26 +11535,26 @@
       }
     },
     "2026": {
-      "count": 3195,
-      "value": 41145852662,
+      "count": 3308,
+      "value": 41618945292,
       "archive": 0,
       "cat": {
         "works": [
-          2467,
-          21478854419
+          2568,
+          21899693509
         ],
         "services": [
-          290,
-          15599906726
+          294,
+          15614681366
         ],
         "goods": [
-          438,
-          4067091517
+          446,
+          4104570417
         ]
       },
       "band": {
-        "1to10cr": 213,
-        "lt1cr": 2199,
+        "1to10cr": 223,
+        "lt1cr": 2302,
         "gt10cr": 41,
         "none": 742
       },
@@ -11618,8 +11636,8 @@
           32920000
         ],
         "coal-india": [
-          57,
-          168286875
+          58,
+          171635940
         ],
         "org-central-mine-planning-design-institute": [
           1,
@@ -11854,8 +11872,8 @@
           0
         ],
         "mes": [
-          222,
-          1603829519
+          224,
+          1612679519
         ],
         "org-delhi-agricultural-marketing-board": [
           1,
@@ -11914,8 +11932,8 @@
           803745
         ],
         "org-haryana-government": [
-          126,
-          400302975
+          129,
+          459575003
         ],
         "org-haryana-board": [
           44,
@@ -12361,6 +12379,14 @@
           2,
           7188093
         ],
+        "org-rdd-ceo-hingoli": [
+          8,
+          4689843
+        ],
+        "org-rdd-ceo-jalgaon": [
+          15,
+          57205897
+        ],
         "org-rdd-ceo-jalna": [
           7,
           673625
@@ -12368,6 +12394,10 @@
         "org-rdd-ceo-kolhapur": [
           4,
           3999996
+        ],
+        "org-rdd-ceo-latur": [
+          1,
+          95986185
         ],
         "org-municipal-greater-mumbai": [
           30,
@@ -12534,8 +12564,8 @@
           4500000
         ],
         "org-municipal-bodies": [
-          3,
-          1694460
+          24,
+          9245894
         ],
         "org-orissa-state-road-transport": [
           1,
@@ -12610,20 +12640,20 @@
           902886
         ],
         "org-pwd-ce-as": [
-          58,
-          102542776
+          66,
+          183119570
         ],
         "org-dlb": [
-          26,
-          480737000
+          28,
+          491212000
         ],
         "org-department-college-education": [
           1,
           2000000
         ],
         "org-forest-pccf": [
-          8,
-          12893990
+          9,
+          22893990
         ],
         "org-icds-director": [
           3,
@@ -12646,16 +12676,16 @@
           550000
         ],
         "org-phed-chief-engineer": [
-          9,
-          119331008
+          12,
+          122941008
         ],
         "org-phed-c-e": [
           8,
           11375703
         ],
         "org-panchayati-raj-department": [
-          92,
-          347887113
+          131,
+          426597497
         ],
         "org-rajasthan-state-operative-bank": [
           1,
@@ -12706,8 +12736,8 @@
           2200000
         ],
         "org-deptt-watershed-dev-soil-conservation": [
-          1,
-          3128000
+          10,
+          55944000
         ],
         "org-women-empowerment": [
           2,
