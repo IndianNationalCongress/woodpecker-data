@@ -1,40 +1,36 @@
 #!/usr/bin/env bash
 #
-# G1 — the whole pipeline, end-to-end, on fixtures, with zero network.
+# Rebuild the served layer (docs/) for woodpecker-data, end-to-end:
 #
-#   gen fixtures (PDFs/zips) -> per-source scrapers (OCDS releases + OCR -> serve/)
-#   -> compile (records + monthly indices + status + manifest)
+#   1. bulk archives  (_import/*/import.py)              -> docs/<archive>/index
+#   2. compile        (live sources + FOLD archives + RE-KEY everything by procuring
+#                      entity, provenance per record)    -> docs/<entity>/ + sources.json + stats.json
+#   3. semantic index (embed the whole entity corpus)    -> docs/search/
 #
-# Idempotent: the ledger is append-only, so re-running adds nothing new and just
-# recompiles. Safe to run as many times as you like.
-#
+# Per-source GePNIC scrapers run separately (GitHub Actions cron) and commit releases/;
+# this script rebuilds the served layer from the committed ledger + the bulk archives.
+# Idempotent: re-running just recompiles.
 set -euo pipefail
 cd "$(dirname "$0")/.."
-ROOT="$(pwd)"
 
-# Prefer the pinned venv (deterministic fixtures: reportlab invariant + pinned
-# reportlab/pillow). Falls back to bare python3. Override with PYTHON=/path/to/python.
 PY="${PYTHON:-python3}"
-[ -x "$ROOT/.venv/bin/python3" ] && PY="$ROOT/.venv/bin/python3"
+# the search step needs an embedding model (fastembed); point at a python env that has it
+SEARCH_PY="${SEARCH_PYTHON:-$PY}"
 
-echo "== Woodpecker pipeline (fixtures) ==  [python: $PY]"
-
-echo "-- 1/3  generating binary fixtures"
-"$PY" scripts/gen_fixtures.py
-
-echo "-- 2/3  running source-module scrapers (independent)"
-for src in cppp rajasthan gujarat; do
-  # Independence Principle: one source failing must not stop the others.
-  if "$PY" "data/$src/scraper/scrape.py"; then
-    :
-  else
-    echo "   !! $src scraper exited non-zero (continuing — other sources unaffected)"
-  fi
+echo "-- 1/3  importing bulk archives (declared OCDS exports: Assam / Himachal / CPPP)"
+for imp in _import/*/import.py; do
+  [ -f "$imp" ] || continue
+  echo "   $imp"; "$PY" "$imp"
 done
 
-echo "-- 3/3  compiling serving layer"
-"$PY" data/compile/compile.py
+echo "-- 2/3  compiling docs/  (live sources + fold archives + re-key by procuring entity)"
+"$PY" compile/compile.py --serve docs
 
-echo "== done =="
-echo "Ledger:   data/<source>/{releases,observations}/"
-echo "Serving:  serve/    (R2 stand-in; serve with: $PY scripts/serve.py)"
+echo "-- 3/3  building the semantic index over the entity corpus"
+if "$SEARCH_PY" -c "import fastembed" 2>/dev/null; then
+  "$SEARCH_PY" _search/build_index.py
+else
+  echo "   !! skipped: '$SEARCH_PY' has no fastembed — set SEARCH_PYTHON to a venv that does"
+fi
+
+echo "== done -> docs/ =="

@@ -1,0 +1,201 @@
+{
+  "_about": {
+    "title": "Woodpecker backfill schema — everything our DB stores/reads",
+    "purpose": "The canonical field set required to backfill a tender into Woodpecker's serving layer, grounded in what compile.py emits and the app/search/stats actually read. Organised by SERVING ARTIFACT (index entry, record, release, observation, status, stats), not by source. RTI is one sourceRoute among several (live | ocp-bulk | rti | attended-capture); the RTI-askable subset + legal notes live in `_import/rti_application.md` and the `sourceRoutes`/`contestability` blocks here.",
+    "version": "0.2",
+    "supersedes": "rti_fields.json (RTI-only scope)",
+    "groundedIn": ["compile/compile.py", "_gepnic/ocds.py", "_gepnic/scrape.py", "_import/ocds_bulk.py", "_search/build_index.mjs"],
+    "fillLegend": {
+      "source": "mapped from the source data (RTI reply / OCDS export / portal) by the importer/scraper",
+      "derived": "computed by compile.py (or the bulk importer) from other fields — do not supply by hand",
+      "observed-only": "produced ONLY by Woodpecker's live fetch (witness: woodpecker). Declared/imported backfills CANNOT fill it — default it (false / 0 / null).",
+      "constant": "fixed for an import (e.g. imported:true, currency INR)"
+    },
+    "statusLegend": {
+      "have": "populated today by some route",
+      "partial": "partially populated (e.g. a count, not the records)",
+      "reserved-empty": "schema slot/tag exists, nothing fills it",
+      "new": "not captured by any route, and/or needs a code change to carry"
+    }
+  },
+
+  "backfillPaths": {
+    "perTenderReleases": {
+      "how": "Write OCDS releases[] (+ observations[]) to the ledger; compile.py derives the record, compiledRelease, index entry and stats automatically.",
+      "writes": ["release", "observation(optional)", "status"],
+      "derives": ["record", "indexEntry", "stats"],
+      "usedBy": ["live GePNIC scrapers", "any per-tender enrichment incl. attended AOC capture"]
+    },
+    "bulkImport": {
+      "how": "Write the index shards + status.json DIRECTLY (engine:import). compile.py detects engine==import and does NOT recompile (it would clobber). No per-tender record/release/observation files are produced.",
+      "writes": ["indexEntry (in year/month shards)", "status (engine:import + provenance)"],
+      "derives": ["stats (entries are folded into corpus totals — declared, add 0 to silent-edit/pull tallies)"],
+      "usedBy": ["assam_archive", "himachal_archive", "an RTI import"],
+      "appNote": "For imported sources the app renders the detail view straight from the index entry — there is no record file. So for the bulk path the index entry IS the whole backfilled record; anything the detail view should show must be in it."
+    }
+  },
+
+  "servingArtifacts": {
+
+    "indexEntry": {
+      "_note": "The DB ROW. Read by the list view, stats, and search-meta. For the bulk path the importer writes this directly; for the per-tender path compile.py derives it. Fields below marked fill:observed-only are defaulted (false/0) for declared imports.",
+      "writtenTo": "<source>/index/<YYYY>.json (bulk) | <source>/index/<YYYY-MM>.json + latest.json (compiled)",
+      "fields": [
+        { "name": "ocid", "type": "string", "path": "woodpecker-<source>-<tenderId>", "fill": "source", "required": true, "status": "have", "consumedBy": ["list", "detail", "search"], "sourceRoutes": ["live", "ocp-bulk", "rti", "attended-capture"], "note": "Primary key. Stable across the tender's life." },
+        { "name": "source", "type": "string", "fill": "constant", "required": true, "status": "have", "consumedBy": ["list", "stats", "search"], "note": "The source id (e.g. rti_<dept>)." },
+        { "name": "title", "type": "string", "path": "tender.title", "fill": "source", "required": true, "status": "have", "consumedBy": ["list", "search"], "sourceRoutes": ["live", "ocp-bulk", "rti", "attended-capture"] },
+        { "name": "buyer", "type": "string", "path": "buyer.name (string, not object, in the index)", "fill": "source", "required": true, "status": "have", "consumedBy": ["list", "stats", "search"], "sourceRoutes": ["live", "ocp-bulk", "rti", "attended-capture"], "note": "Organisation chain, flattened to a string here." },
+        { "name": "category", "type": "string", "path": "tender.mainProcurementCategory", "fill": "source", "required": false, "status": "have", "consumedBy": ["list", "stats", "search"], "sourceRoutes": ["live", "ocp-bulk", "rti"], "note": "works | goods | services (lowercase)." },
+        { "name": "value", "type": "object {amount:int, currency:'INR'}", "path": "tender.value", "fill": "source", "required": false, "status": "have", "consumedBy": ["list", "stats", "search"], "sourceRoutes": ["live", "ocp-bulk", "rti"], "note": "ESTIMATE / put-to-tender value. Drives value-band stats. {} if unknown." },
+        { "name": "status", "type": "string", "path": "tender.status", "fill": "source", "required": false, "status": "have", "consumedBy": ["list", "stats"], "sourceRoutes": ["live", "ocp-bulk", "rti"], "note": "active | complete | cancelled | ... default 'active'." },
+        { "name": "publishedDate", "type": "string ISO", "path": "first 'tender'-tagged release date", "fill": "source", "required": true, "status": "have", "consumedBy": ["list", "stats(month/year buckets)"], "sourceRoutes": ["live", "ocp-bulk", "rti"], "note": "Year/month shard key. Needed for the Stats scrubber." },
+        { "name": "closingDate", "type": "string ISO", "path": "tender.tenderPeriod.endDate", "fill": "source", "required": false, "status": "have", "consumedBy": ["list"], "sourceRoutes": ["live", "ocp-bulk", "rti"] },
+        { "name": "latestTag", "type": "string", "path": "last release tag", "fill": "derived", "required": false, "status": "have", "consumedBy": ["list(badge)"], "note": "tender | tenderAmendment | tenderUpdate | award. For bulk imports set to the latest stage you actually have." },
+        { "name": "lastReleaseDate", "type": "string ISO", "fill": "derived", "required": false, "status": "have", "consumedBy": ["list(sort)"], "note": "Sort key; = publishedDate for a single-release import." },
+        { "name": "releaseCount", "type": "int", "fill": "derived", "required": false, "status": "have", "consumedBy": ["detail"], "note": "len(releases). 1 for a single-snapshot import." },
+        { "name": "corrigendumCount", "type": "int", "fill": "derived", "required": false, "status": "partial", "consumedBy": ["list(badge)"], "sourceRoutes": ["rti", "attended-capture"], "note": "Count of tenderAmendment releases. Today only a count is carried, not the amendment content." },
+        { "name": "hasDeadLink", "type": "bool", "fill": "derived", "required": false, "status": "have", "consumedBy": ["list(badge)"], "note": "A document with sourceAlive:false but a stored url. false for a fresh import." },
+        { "name": "hasOcr", "type": "bool", "fill": "derived", "required": false, "status": "have", "consumedBy": ["list(badge)"], "note": "Any document extracted via OCR. false unless you OCR RTI PDFs." },
+        { "name": "hasUndeclaredChange", "type": "bool", "fill": "observed-only", "required": false, "status": "have", "consumedBy": ["list(badge)", "stats(observed)"], "note": "Silent-edit flag. Declared imports default FALSE (no capture-floor)." },
+        { "name": "pulled", "type": "bool", "fill": "observed-only", "required": false, "status": "have", "consumedBy": ["list(badge)", "stats(observed)"], "note": "Tender 404'd/delisted. Declared imports default FALSE." },
+        { "name": "observationCount", "type": "int", "fill": "observed-only", "required": false, "status": "have", "consumedBy": ["detail"], "note": "Declared imports default 0." },
+        { "name": "imported", "type": "bool", "fill": "constant", "required": false, "status": "have", "consumedBy": ["list(provenance pill)"], "note": "true for any declared/bulk/RTI source." },
+        { "name": "fiscalYear", "type": "string", "fill": "source", "required": false, "status": "have", "consumedBy": ["list"], "sourceRoutes": ["ocp-bulk", "rti"], "note": "Indian FY label (e.g. 2016-17). Import-only field." },
+        { "name": "reference", "type": "string", "path": "tender.externalReference", "fill": "source", "required": false, "status": "have", "consumedBy": ["list", "search"], "sourceRoutes": ["live", "ocp-bulk", "rti"], "note": "NIT / reference number. Import-only field." },
+        { "name": "procurementMethod", "type": "string", "fill": "source", "required": false, "status": "partial", "consumedBy": ["list"], "sourceRoutes": ["ocp-bulk", "rti"], "note": "open | limited | EOI | single | global. Assam import carried it; live does not." }
+      ],
+      "awardFieldsToAdd": {
+        "_note": "NET-NEW index fields required to SURFACE award data in the list/stats. compile.py index_entry() does NOT carry these today — adding them is a code change in index_entry() + the bulk importer + the app's list/detail render + (optionally) build_stats. Without these, RTI award data lives only in the release objects and never shows in the DB views.",
+        "fields": [
+          { "name": "awardStatus", "type": "string", "path": "awards[].status", "fill": "source", "status": "new", "consumedBy": ["list(badge)"], "sourceRoutes": ["rti", "attended-capture"] },
+          { "name": "supplierName", "type": "string", "path": "awards[].suppliers[].name", "fill": "source", "status": "new", "consumedBy": ["list", "detail", "search"], "sourceRoutes": ["rti", "attended-capture"], "note": "The winner. Settled-disclosable for a concluded contract." },
+          { "name": "supplierId", "type": "string", "path": "awards[].suppliers[].id", "fill": "source", "status": "new", "consumedBy": ["detail"], "sourceRoutes": ["rti", "attended-capture"], "note": "Vendor/GST id -> supplier graph." },
+          { "name": "awardedValue", "type": "object {amount:int, currency:'INR'}", "path": "awards[].value", "fill": "source", "status": "new", "consumedBy": ["list", "stats", "detail"], "sourceRoutes": ["rti", "attended-capture"], "note": "Compare vs value (estimate) = the estimate->award delta; the headline metric." },
+          { "name": "awardDate", "type": "string ISO", "path": "awards[].date", "fill": "source", "status": "new", "consumedBy": ["list", "detail"], "sourceRoutes": ["rti", "attended-capture"] },
+          { "name": "numberOfTenderers", "type": "int", "path": "tender.numberOfTenderers", "fill": "source", "status": "new", "consumedBy": ["list(badge)", "stats"], "sourceRoutes": ["rti", "attended-capture"], "note": "Bid count. 1 = the red-flag signal. Highest-value single new field." }
+        ]
+      }
+    },
+
+    "release": {
+      "_note": "OCDS release for the per-tender path (compile.py folds these into the record + derives the index entry). Shape from ocds.build_release + build_tender.",
+      "writtenTo": "<source>/releases/<ocid>/<release-id>.json",
+      "fields": [
+        { "name": "ocid", "type": "string", "fill": "source", "required": true, "status": "have" },
+        { "name": "id", "type": "string", "path": "<ocid>-<seq:04d>", "fill": "derived", "required": true, "status": "have" },
+        { "name": "date", "type": "string ISO", "fill": "source", "required": true, "status": "have" },
+        { "name": "tag", "type": "string[]", "fill": "source", "required": true, "status": "have", "note": "tender | tenderAmendment | tenderUpdate | award" },
+        { "name": "initiationType", "type": "string", "fill": "constant", "required": false, "status": "have", "note": "'tender'" },
+        { "name": "buyer", "type": "object {name, id}", "fill": "source", "required": true, "status": "have" },
+        { "name": "tender", "type": "object", "fill": "source", "required": true, "status": "have", "subfields": [
+          { "name": "id", "type": "string" }, { "name": "title", "type": "string" }, { "name": "description", "type": "string" },
+          { "name": "status", "type": "string" }, { "name": "procuringEntity", "type": "object {name,id}" },
+          { "name": "mainProcurementCategory", "type": "string" }, { "name": "value", "type": "object {amount,currency}" },
+          { "name": "tenderPeriod", "type": "object {startDate?, endDate}" },
+          { "name": "procurementMethod", "type": "string", "status": "new" },
+          { "name": "numberOfTenderers", "type": "int", "status": "new", "note": "bid count" },
+          { "name": "tenderers", "type": "array {name,id}", "status": "new", "note": "participating bidders (contestable)" }
+        ]},
+        { "name": "documents", "type": "array", "fill": "source", "required": false, "status": "have", "subfields": [
+          { "name": "id" }, { "name": "documentType" }, { "name": "title" }, { "name": "url", "note": "R2-relative /files/<sha>.<ext>" },
+          { "name": "sourceUrl", "note": "original portal url; retained even after it 404s" }, { "name": "sourceAlive", "type": "bool" },
+          { "name": "sha256" }, { "name": "format" }, { "name": "textUrl", "note": "/files/<sha>.txt" }, { "name": "extractionMethod", "note": "pdftotext|ocr|raw|none" },
+          { "name": "waybackUrl", "type": "string", "status": "new", "note": "optional" }
+        ]},
+        { "name": "amendments", "type": "array", "fill": "source", "required": false, "status": "reserved-empty", "note": "build_release accepts amendment objects; nothing fills them. subfields: date, description, rationale, changes[]" },
+        { "name": "awards", "type": "array", "fill": "source", "required": false, "status": "reserved-empty", "note": "THE GAP. subfields: id, date, status, value{amount,currency}, suppliers[]{name,id}, rationale", "sourceRoutes": ["rti", "attended-capture"] },
+        { "name": "contracts", "type": "array", "fill": "source", "required": false, "status": "new", "note": "extension beyond v0.1 subset. subfields: id, dateSigned, value{amount,currency}, period{startDate,endDate,durationInDays}, status, implementation{transactions[], milestones[]}", "sourceRoutes": ["rti"] }
+      ]
+    },
+
+    "record": {
+      "_note": "compile.py output read by the detail/lifecycle view (per-tender path only; imports have no record). All DERIVED — listed so you know the read shape, not to backfill by hand.",
+      "writtenTo": "<source>/records/<ocid>.json",
+      "fields": [
+        { "name": "ocid", "fill": "derived" },
+        { "name": "releases", "type": "array", "fill": "derived", "note": "ordered declared timeline" },
+        { "name": "compiledRelease", "type": "object", "fill": "derived", "note": "latest-wins snapshot: {ocid,date,buyer,tender,tag:['compiled'],documents[],amendments[]}" },
+        { "name": "amendments", "type": "array", "fill": "derived" },
+        { "name": "observations", "type": "array", "fill": "derived", "note": "observed timeline (ascending)" },
+        { "name": "observedSummary", "type": "object", "fill": "derived", "note": "{count, firstObserved, lastObserved, undeclaredChangeCount, pulled}" }
+      ]
+    },
+
+    "observation": {
+      "_note": "NOT BACKFILLABLE from declared sources. Produced only by Woodpecker's own live fetch. RTI/exports leave this empty; their index rows default the observed-only fields. (An RTI figure may appear as a witness:'rti' corroboration record in v1.2 — that is NOT a backfill of this timeline.)",
+      "writtenTo": "<source>/observations/<ocid>/<observedAt>.json",
+      "fill": "observed-only",
+      "fields": [
+        { "name": "ocid" }, { "name": "observedAt" }, { "name": "witness", "note": "woodpecker:<source> | wayback | cdl | cag | (rti, v1.2)" },
+        { "name": "availability", "note": "present | altered | removed" }, { "name": "stateHash" },
+        { "name": "documents", "type": "array {id,sha256}" }, { "name": "snapshotUrl" }, { "name": "undeclaredChange", "type": "bool" }
+      ]
+    },
+
+    "status": {
+      "_note": "Source-level health + provenance. REQUIRED for every source (a pill renders from it; compile folds engine:import sources via it).",
+      "writtenTo": "<source>/status.json",
+      "fields": [
+        { "name": "source", "fill": "constant", "required": true },
+        { "name": "label", "fill": "constant", "required": true, "note": "human label e.g. 'RTI · Assam PWD (2016-21)'" },
+        { "name": "engine", "fill": "constant", "required": true, "note": "'import' for RTI/bulk (so compile won't recompile); 'gepnic' for live" },
+        { "name": "ok", "type": "bool", "fill": "constant", "required": true },
+        { "name": "mode", "fill": "constant", "note": "'import' | 'live'" },
+        { "name": "lastRun", "fill": "source", "required": true },
+        { "name": "importedAt", "fill": "source", "note": "import path" },
+        { "name": "tenders", "type": "int", "fill": "derived", "required": true, "note": "folded into corpus totals" },
+        { "name": "tendersCaptured", "type": "int", "fill": "derived" },
+        { "name": "provenance", "type": "object", "fill": "source", "required": true, "note": "see provenanceRecord below — the honesty contract" },
+        { "name": "lastError", "fill": "source", "note": "null on success" }
+      ]
+    },
+
+    "stats": {
+      "_note": "Corpus aggregates (build_stats). Fully DERIVED from the index entries above — listed so you know which entry fields drive which aggregate; nothing to backfill directly. Adding award fields to indexEntry means extending build_stats to aggregate them (e.g. award-value totals, estimate->award delta, bid-count bands).",
+      "drivenBy": {
+        "byCategory": "category + value.amount",
+        "byValueBand": "value.amount (<1cr | 1-10cr | >10cr | none)",
+        "byStatus": "status",
+        "byMonth / byYear / yearBuckets": "publishedDate",
+        "bySource": "source + value.amount",
+        "observed": "hasUndeclaredChange | pulled | hasDeadLink (all 0 for imports)",
+        "imported": "manifest entries where imported:true"
+      }
+    }
+  },
+
+  "provenanceRecord": {
+    "_note": "Stamp onto an RTI/bulk source's status.json. Mirrors assam_archive PROVENANCE. Keeps declared data honestly separated from observed capture.",
+    "imported": true,
+    "source": "RTI disclosure — <department>, reply dated <YYYY-MM-DD>, RTI ref <no.>",
+    "sourcePortal": "<portal the dept operates, e.g. assamtenders.gov.in (GePNIC)>",
+    "license": "<as stated in the reply; often none>",
+    "note": "Declared official disclosure — NOT observed by Woodpecker (no capture-floor snapshots)."
+  },
+
+  "witness": {
+    "_note": "Optional v1.2 role: an RTI figure that DISAGREES with the portal's declared figure is a cross-witness contradiction. Add 'rti' to the enum. Distinct from backfill — this corroborates, it does not fill the observation timeline.",
+    "value": "rti",
+    "enumToExtend": ["woodpecker", "wayback", "cdl", "cag", "rti"]
+  },
+
+  "sourceRoutes": {
+    "live": { "engine": "gepnic", "kind": "observed", "covers": "notice-stage, forward-only; re-polls known tenders -> observations. No bulk history; AOC only per-tender via attended capture.", "path": "perTenderReleases" },
+    "ocp-bulk": { "engine": "import", "kind": "declared", "covers": "notice-stage bulk from data.gov.in / OCP registry. EXHAUSTED at Assam + Himachal.", "path": "bulkImport" },
+    "rti": { "engine": "import", "kind": "declared", "covers": "notice backfill for the ~31 non-OCP states + the BULK award/contract stage + RTI-obtained PDFs. The only bulk route to the award tag.", "path": "bulkImport", "askTemplate": "_import/rti_application.md" },
+    "attended-capture": { "engine": "gepnic", "kind": "observed", "covers": "specific completed/awarded tenders by id/keyword past the CAPTCHA. Per-tender enrichment incl. AOC outcomes; NOT bulk.", "path": "perTenderReleases" }
+  },
+
+  "contestability": {
+    "_note": "RTI-route legal notes (apply when sourceRoute=rti).",
+    "disclosable": {
+      "fields": ["awards[].suppliers[].name", "awards[].value.amount", "awards[].date", "tender.numberOfTenderers", "contracts[].dateSigned", "contracts[].value.amount"],
+      "basis": "Winner, awarded/contract value, bid count and dates of a CONCLUDED public contract are routinely held disclosable in the public interest."
+    },
+    "contestable": {
+      "fields": ["tender.tenderers[].name", "bids.details[].value", "bids.details[].status"],
+      "exemptionsLikely": ["Section 8(1)(d) — commercial confidence", "Section 11 — third-party procedure"],
+      "strategy": "Ask non-contestable award/contract/count fields first; bidder-level financials in a separable paragraph, so a Section 10 severance still yields the core."
+    }
+  }
+}

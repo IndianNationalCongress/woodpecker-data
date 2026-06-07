@@ -31,6 +31,8 @@ from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
+from entities import entity_of, portal_state  # sibling module (compile/ on sys.path[0] as a script)
+
 # Layout-agnostic: compile lives at <data-dir>/compile/compile.py in BOTH the dev
 # monorepo (data/compile/...) and the deployed ledger repo (compile/... at root).
 # parents[1] is the dir that holds the source dirs; ROOT (with fixtures/) holds serve/.
@@ -216,14 +218,14 @@ def compile_source(source, data_dir, serve_dir):
     }, entries
 
 
-def build_stats(entries, manifest, generated):
+def build_stats(entries, manifest, generated, imp_portals=()):
     """Corpus-wide aggregates for the app's stats dashboard — precomputed so the app
     fetches ONE stats.json instead of all per-source indices. Scales with the corpus."""
     cat = defaultdict(lambda: {"count": 0, "value": 0})
     src = {m["id"]: {"id": m["id"], "label": m["label"], "count": 0, "value": 0} for m in manifest}
     band = {"lt1cr": 0, "1to10cr": 0, "gt10cr": 0, "none": 0}
     status, month, year = defaultdict(int), defaultdict(int), defaultdict(int)
-    total_value = with_value = undeclared = pulled = dead = 0
+    total_value = with_value = undeclared = pulled = dead = archive_n = 0
     # per-year buckets: count/value + breakdowns by category, value-band and source, so the
     # app's Stats scrubber can re-aggregate ANY [from,to] window client-side from one stats.json
     # (sum the selected years) — no need to load all tenders. cat/src carry [count, value].
@@ -254,11 +256,13 @@ def build_stats(entries, manifest, generated):
         if yr:
             b = ybk.get(yr)
             if b is None:
-                b = ybk[yr] = {"count": 0, "value": 0,
+                b = ybk[yr] = {"count": 0, "value": 0, "archive": 0,
                                "cat": defaultdict(lambda: [0, 0]),
                                "band": defaultdict(int),
                                "src": defaultdict(lambda: [0, 0])}
             b["count"] += 1
+            if e.get("provenance") == "archive":
+                b["archive"] += 1
             b["band"][bandkey] += 1
             bc = b["cat"][c]; bc[0] += 1
             bs = b["src"][e["source"]]; bs[0] += 1
@@ -267,6 +271,7 @@ def build_stats(entries, manifest, generated):
         undeclared += 1 if e.get("hasUndeclaredChange") else 0
         pulled += 1 if e.get("pulled") else 0
         dead += 1 if e.get("hasDeadLink") else 0
+        archive_n += 1 if e.get("provenance") == "archive" else 0
     pdates = sorted(d for d in (e.get("publishedDate") for e in entries) if d)
     return {
         "generated": generated,
@@ -283,7 +288,7 @@ def build_stats(entries, manifest, generated):
         "byMonth": dict(sorted(month.items())),
         "byYear": dict(sorted(year.items())),
         "yearBuckets": {
-            y: {"count": b["count"], "value": b["value"],
+            y: {"count": b["count"], "value": b["value"], "archive": b["archive"],
                 "cat": {k: v for k, v in b["cat"].items()},
                 "band": dict(b["band"]),
                 "src": {k: v for k, v in b["src"].items()}}
@@ -291,11 +296,69 @@ def build_stats(entries, manifest, generated):
         },
         "observed": {"undeclaredChanges": undeclared, "pulled": pulled, "deadLinks": dead},
         "imported": {
-            "count": sum(m.get("tenders", 0) for m in manifest if m.get("imported")),
+            "count": archive_n,
             "sources": [{"id": m["id"], "label": m["label"], "tenders": m.get("tenders", 0)}
-                        for m in manifest if m.get("imported")],
+                        for m in imp_portals],
         },
     }
+
+
+def build_entity_sources(all_entries, portals, serve_dir):
+    """Re-key the WHOLE corpus by procuring ENTITY. Every record — live scrapers AND imported
+    archives (Assam/HP/CPPP) — is grouped by entities.entity_of(buyer); the portal it came from
+    and observed-vs-archive become a per-record provenance tag. So one 'bhel' source holds BHEL's
+    live + archive records together. Returns (entity manifest sorted by volume, re-keyed entries)."""
+    imp_ids = {m["id"] for m in portals if m.get("imported")}
+    recs, meta, out = defaultdict(list), {}, []
+    for t in all_entries:
+        e = entity_of(t.get("buyer", ""))
+        meta.setdefault(e["id"], e)
+        portal = t.get("source")
+        entry = dict(t)
+        entry["originPortal"] = portal
+        entry["provenance"] = "archive" if portal in imp_ids else "observed"
+        entry["source"] = e["id"]
+        if entry["provenance"] == "archive":
+            entry["imported"] = True
+        recs[e["id"]].append(entry)
+        out.append(entry)
+
+    def w(path, obj):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(obj, f, ensure_ascii=False, separators=(",", ":")); f.write("\n")
+
+    manifest = []
+    for eid, items in recs.items():
+        edir = os.path.join(serve_dir, eid, "index")
+        if os.path.isdir(edir):  # clear stale shards from a prior run
+            for fn in os.listdir(edir):
+                if fn.endswith(".json"):
+                    os.remove(os.path.join(edir, fn))
+        shards = defaultdict(list)
+        for r in items:
+            shards[(r.get("publishedDate") or "0000")[:4]].append(r)   # year shards (each well <20MB)
+        for yr, rows in shards.items():
+            rows.sort(key=lambda r: r.get("publishedDate", ""), reverse=True)
+            w(os.path.join(edir, f"{yr}.json"), {"source": eid, "month": yr, "count": len(rows), "tenders": rows})
+        months = sorted(shards.keys(), reverse=True)
+        latest = sorted(items, key=lambda r: r.get("publishedDate", ""), reverse=True)[:LATEST_LIMIT]
+        w(os.path.join(edir, "latest.json"), {"source": eid, "month": "latest", "count": len(latest), "months": months, "tenders": latest})
+        m = meta[eid]
+        st = m["state"]
+        if not st:  # buyer didn't name a state -> fall back to the dominant source portal's state
+            ps = {}
+            for r in items:
+                s = portal_state(r.get("originPortal"))
+                if s:
+                    ps[s] = ps.get(s, 0) + 1
+            if ps:
+                st = max(ps, key=ps.get)
+        arch = sum(1 for r in items if r["provenance"] == "archive")
+        manifest.append({"id": eid, "label": m["label"], "central": st is None, "state": st,
+                         "tenders": len(items), "archive": arch, "observed": len(items) - arch, "months": months})
+    manifest.sort(key=lambda e: -e["tenders"])
+    return manifest, out
 
 
 def main():
@@ -351,11 +414,15 @@ def main():
         all_entries.extend(ents)
 
     generated = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    # re-key the whole corpus by procuring entity; that becomes the app's source list
+    entity_manifest, entity_entries = build_entity_sources(all_entries, manifest, args.serve)
     write_json(os.path.join(args.serve, "sources.json"),
-               {"sources": manifest, "generated": generated})
+               {"sources": entity_manifest, "generated": generated})
+    imp_portals = [p for p in manifest if p.get("imported")]
     write_json(os.path.join(args.serve, "stats.json"),
-               build_stats(all_entries, manifest, generated))
-    print(f"Compile complete -> serve/  ({len(all_entries)} tenders; stats.json written)")
+               build_stats(entity_entries, entity_manifest, generated, imp_portals))
+    print(f"Compile complete -> serve/  ({len(manifest)} portals -> {len(entity_manifest)} entities, "
+          f"{len(entity_entries)} tenders; stats.json written)")
 
 
 if __name__ == "__main__":
