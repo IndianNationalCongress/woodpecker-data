@@ -63,13 +63,13 @@ jobs:
           PY
       - name: Compile serving layer into docs/ (records + monthly indices + manifest)
         run: python3 compile/compile.py --data . --serve ./docs
-      - name: Setup Node (semantic-index embedder)
-        uses: actions/setup-node@v4
-        with: { node-version: "20" }
-      - name: Rebuild semantic search index (bge-small q8 int8 vectors, sharded < 20MB)
+      - name: Rebuild semantic search index over the ENTITY corpus (bge-small int8, shards <20MB)
+        # entity-aware builder: embeds every entity shard incl. the imported archives, with
+        # provenance/originPortal in the meta. (Supersedes _search/build_index.mjs, which scanned
+        # only per-portal records/ and skipped archives -> would clobber the entity index.)
         run: |
-          (cd _search && npm install --no-audit --no-fund --silent)
-          node _search/build_index.mjs
+          pip install --quiet fastembed numpy
+          python3 _search/build_index.py
       - name: Commit ledger + published serving layer (docs/ -> GitHub Pages)
         run: |
           git config user.name  "woodpecker-bot"
