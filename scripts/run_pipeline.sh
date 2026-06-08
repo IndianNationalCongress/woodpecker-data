@@ -26,9 +26,10 @@ done
 echo "-- 2/3  compiling docs/  (live sources + fold archives + re-key by procuring entity)"
 "$PY" compile/compile.py --serve docs
 
-echo "-- 3/3  building the semantic index over the entity corpus"
+echo "-- 3/3  building the semantic index over the entity corpus (FULL rebuild — this is the"
+echo "        from-scratch tool; the daily cron re-embeds incrementally instead)"
 if "$SEARCH_PY" -c "import fastembed" 2>/dev/null; then
-  "$SEARCH_PY" _search/build_index.py
+  "$SEARCH_PY" _search/build_index.py --full
 else
   echo "   !! skipped: '$SEARCH_PY' has no fastembed — set SEARCH_PYTHON to a venv that does"
 fi

@@ -19,8 +19,13 @@ on:
       pages:
         description: "Listing pages to walk per source (10 = daily sweep; 30 = deep backfill of the full listing)"
         default: "10"
+      full_reembed:
+        description: "Force a FULL re-embed this run (default: incremental; auto-full on the 1st of the month)"
+        default: "false"
   schedule:
-    - cron: "23 6 * * *"     # once daily — deliberately gentle for an unattended live scrape
+    # 23:30 UTC = 05:00 IST. GitHub delays scheduled runs (seen ~2–3h here), so the run lands
+    # in the early IST morning. Once daily — deliberately gentle for an unattended live scrape.
+    - cron: "30 23 * * *"
 permissions:
   contents: write
 concurrency:
@@ -63,13 +68,24 @@ jobs:
           PY
       - name: Compile serving layer into docs/ (records + monthly indices + manifest)
         run: python3 compile/compile.py --data . --serve ./docs
-      - name: Rebuild semantic search index over the ENTITY corpus (bge-small int8, shards <20MB)
-        # entity-aware builder: embeds every entity shard incl. the imported archives, with
-        # provenance/originPortal in the meta. (Supersedes _search/build_index.mjs, which scanned
-        # only per-portal records/ and skipped archives -> would clobber the entity index.)
+      - name: Refresh semantic search index — incremental append (full rebuild monthly / on demand)
+        # _search/build_index.py is INCREMENTAL by default: it embeds ONLY tenders whose ocid isn't
+        # already indexed and appends them, leaving existing shards byte-for-byte untouched — so a
+        # daily run takes seconds (not ~1h40m) and re-commits at most one ~15 MB shard (not the whole
+        # ~140 MB index). A FULL rebuild (the 1st of the month, the `full_reembed` input, or an
+        # auto-detected model/format change) re-packs shards + purges any removed/changed records.
+        # Entity-aware: embeds every entity shard incl. the imported archives, provenance in meta.
+        # (Supersedes _search/build_index.mjs, which scanned only per-portal records/ + skipped archives.)
+        env:
+          FORCE_FULL: ${{ github.event.inputs.full_reembed }}
         run: |
           pip install --quiet fastembed numpy
-          python3 _search/build_index.py
+          if [ "$FORCE_FULL" = "true" ] || [ "$(date -u +%d)" = "01" ]; then
+            echo "FULL re-embed (re-pack + refresh)"
+            python3 _search/build_index.py --full
+          else
+            python3 _search/build_index.py
+          fi
       - name: Commit ledger + published serving layer (docs/ -> GitHub Pages)
         run: |
           git config user.name  "woodpecker-bot"
