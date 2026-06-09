@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_107281_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107281_1",
+      "id": "woodpecker-ntpc-2026_NTPC_107281_1-0001",
+      "date": "2026-04-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_107281_1",
+        "title": "Service Contract for Deployment of BHEL Expert for Investigation andRectification of Hammering Issue in 500 MW LP Heater 2 NTPC Kaniha StageII",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-06-09T00:00:00Z"
+        },
+        "description": "Service Contract for Deployment of BHEL Expert for Investigation andRectification of Hammering Issue in 500 MW LP Heater 2 NTPC Kaniha StageII"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107281_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_107281_1",
+          "url": "/files/4c2faa382628b984078791bbc1a77ebb5a67636a8a04e2d3489a207c594a527e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrN%2FsZ%2BP9f4p%2FsYNUr1k5og%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4c2faa382628b984078791bbc1a77ebb5a67636a8a04e2d3489a207c594a527e",
+          "format": "text/plain",
+          "textUrl": "/files/4c2faa382628b984078791bbc1a77ebb5a67636a8a04e2d3489a207c594a527e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107281_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrN%2FsZ%2BP9f4p%2FsYNUr1k5og%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_107281_1",
+    "tender": {
+      "id": "2026_NTPC_107281_1",
+      "title": "Service Contract for Deployment of BHEL Expert for Investigation andRectification of Hammering Issue in 500 MW LP Heater 2 NTPC Kaniha StageII",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-06-09T00:00:00Z"
+      },
+      "description": "Service Contract for Deployment of BHEL Expert for Investigation andRectification of Hammering Issue in 500 MW LP Heater 2 NTPC Kaniha StageII"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-04-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107281_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_107281_1",
+        "url": "/files/4c2faa382628b984078791bbc1a77ebb5a67636a8a04e2d3489a207c594a527e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrN%2FsZ%2BP9f4p%2FsYNUr1k5og%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4c2faa382628b984078791bbc1a77ebb5a67636a8a04e2d3489a207c594a527e",
+        "format": "text/plain",
+        "textUrl": "/files/4c2faa382628b984078791bbc1a77ebb5a67636a8a04e2d3489a207c594a527e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107281_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrN%2FsZ%2BP9f4p%2FsYNUr1k5og%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107281_1",
+      "observedAt": "2026-06-09T03:20:45Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "111cb1aa65076733db4e00f83a1990e80762005cc3afe8a9e264770821b6a240",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107281_1-0001-record",
+          "sha256": "4c2faa382628b984078791bbc1a77ebb5a67636a8a04e2d3489a207c594a527e"
+        }
+      ],
+      "snapshotUrl": "/files/f8034b5eb5f5f8bc2fff6bfe0fde77c9f9a6d1f5de49cc1848e2e392b01e6849.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-09T03:20:45Z",
+    "lastObserved": "2026-06-09T03:20:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108612_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108612_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108612_1-0001",
+      "date": "2026-05-26T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108612_1",
+        "title": "Procurement of Ms HBL Make Scharger spares for NTPC Telanagan",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-09T00:00:00Z"
+        },
+        "description": "Procurement of Ms HBL Make Scharger spares for NTPC Telanagan"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108612_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108612_1",
+          "url": "/files/e365f9de5be75edbd7c2d92d4f53751028694895f174f4c3092416e10330475a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfE0cnWYsSULWG0hum4ZKnA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e365f9de5be75edbd7c2d92d4f53751028694895f174f4c3092416e10330475a",
+          "format": "text/plain",
+          "textUrl": "/files/e365f9de5be75edbd7c2d92d4f53751028694895f174f4c3092416e10330475a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108612_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfE0cnWYsSULWG0hum4ZKnA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108612_1",
+    "tender": {
+      "id": "2026_NTPC_108612_1",
+      "title": "Procurement of Ms HBL Make Scharger spares for NTPC Telanagan",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-09T00:00:00Z"
+      },
+      "description": "Procurement of Ms HBL Make Scharger spares for NTPC Telanagan"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-05-26T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108612_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108612_1",
+        "url": "/files/e365f9de5be75edbd7c2d92d4f53751028694895f174f4c3092416e10330475a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfE0cnWYsSULWG0hum4ZKnA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e365f9de5be75edbd7c2d92d4f53751028694895f174f4c3092416e10330475a",
+        "format": "text/plain",
+        "textUrl": "/files/e365f9de5be75edbd7c2d92d4f53751028694895f174f4c3092416e10330475a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108612_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfE0cnWYsSULWG0hum4ZKnA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108612_1",
+      "observedAt": "2026-06-09T03:20:45Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "3066a94d6044d2236a55f1376d30b1f3f589925b0bcda3c9627490e1057fb3ae",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108612_1-0001-record",
+          "sha256": "e365f9de5be75edbd7c2d92d4f53751028694895f174f4c3092416e10330475a"
+        }
+      ],
+      "snapshotUrl": "/files/7c00b9930b91c5a14917ebafaaab4b8ed4c3ff35f9d338f351e48dc3e3298371.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-09T03:20:45Z",
+    "lastObserved": "2026-06-09T03:20:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

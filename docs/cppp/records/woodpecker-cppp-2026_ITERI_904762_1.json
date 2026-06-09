@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_ITERI_904762_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_ITERI_904762_1",
+      "id": "woodpecker-cppp-2026_ITERI_904762_1-0001",
+      "date": "2026-05-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "ITER-India",
+        "id": "IN-ORG-iter-india"
+      },
+      "tender": {
+        "id": "2026_ITERI_904762_1",
+        "title": "Supply of Flange mounted multi pin feedthrough for INTF",
+        "status": "active",
+        "procuringEntity": {
+          "name": "ITER-India",
+          "id": "IN-ORG-iter-india"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-09T00:00:00Z"
+        },
+        "description": "Supply of Flange mounted multi pin feedthrough for INTF"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ITERI_904762_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ITERI_904762_1",
+          "url": "/files/09341ba9e1b650e6e2a67fab7cec14a0a0f88044b1f4c85036320365aeb38103.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmcM5Pw2fEHGezM%2BlL27PoQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "09341ba9e1b650e6e2a67fab7cec14a0a0f88044b1f4c85036320365aeb38103",
+          "format": "text/plain",
+          "textUrl": "/files/09341ba9e1b650e6e2a67fab7cec14a0a0f88044b1f4c85036320365aeb38103.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_ITERI_904762_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmcM5Pw2fEHGezM%2BlL27PoQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_ITERI_904762_1",
+    "tender": {
+      "id": "2026_ITERI_904762_1",
+      "title": "Supply of Flange mounted multi pin feedthrough for INTF",
+      "status": "active",
+      "procuringEntity": {
+        "name": "ITER-India",
+        "id": "IN-ORG-iter-india"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-09T00:00:00Z"
+      },
+      "description": "Supply of Flange mounted multi pin feedthrough for INTF"
+    },
+    "buyer": {
+      "name": "ITER-India",
+      "id": "IN-ORG-iter-india"
+    },
+    "date": "2026-05-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_ITERI_904762_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ITERI_904762_1",
+        "url": "/files/09341ba9e1b650e6e2a67fab7cec14a0a0f88044b1f4c85036320365aeb38103.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmcM5Pw2fEHGezM%2BlL27PoQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "09341ba9e1b650e6e2a67fab7cec14a0a0f88044b1f4c85036320365aeb38103",
+        "format": "text/plain",
+        "textUrl": "/files/09341ba9e1b650e6e2a67fab7cec14a0a0f88044b1f4c85036320365aeb38103.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_ITERI_904762_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmcM5Pw2fEHGezM%2BlL27PoQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_ITERI_904762_1",
+      "observedAt": "2026-06-09T01:33:33Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "7eb92beeba029f8dba9d9bfeb6a8c04dc21edfe4e3466a8a0dc901bea69a4a31",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ITERI_904762_1-0001-record",
+          "sha256": "09341ba9e1b650e6e2a67fab7cec14a0a0f88044b1f4c85036320365aeb38103"
+        }
+      ],
+      "snapshotUrl": "/files/e3c4731e0ee2bfab941a346dd6a342c7829e45206fec4d4b0ce3404246615619.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-09T01:33:33Z",
+    "lastObserved": "2026-06-09T01:33:33Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

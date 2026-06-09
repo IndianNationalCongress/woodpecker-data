@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-himachal-2026_HPDMC_135295_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_HPDMC_135295_1",
+      "id": "woodpecker-himachal-2026_HPDMC_135295_1-0001",
+      "date": "2026-05-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Disaster Management Cell",
+        "id": "IN-ORG-disaster-management-cell"
+      },
+      "tender": {
+        "id": "2026_HPDMC_135295_1",
+        "title": "RFP for PFM",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Disaster Management Cell",
+          "id": "IN-ORG-disaster-management-cell"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-06-09T00:00:00Z"
+        },
+        "description": "RFP for PFM"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_HPDMC_135295_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HPDMC_135295_1",
+          "url": "/files/fb078e25ebe321e21df3e6cb1248e567d43e8e442615b0ac606b00c2216d4c11.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZIs%2Bu4kAMkxqfY3CdzELuw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "fb078e25ebe321e21df3e6cb1248e567d43e8e442615b0ac606b00c2216d4c11",
+          "format": "text/plain",
+          "textUrl": "/files/fb078e25ebe321e21df3e6cb1248e567d43e8e442615b0ac606b00c2216d4c11.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_HPDMC_135295_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZIs%2Bu4kAMkxqfY3CdzELuw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_HPDMC_135295_1",
+    "tender": {
+      "id": "2026_HPDMC_135295_1",
+      "title": "RFP for PFM",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Disaster Management Cell",
+        "id": "IN-ORG-disaster-management-cell"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-06-09T00:00:00Z"
+      },
+      "description": "RFP for PFM"
+    },
+    "buyer": {
+      "name": "Disaster Management Cell",
+      "id": "IN-ORG-disaster-management-cell"
+    },
+    "date": "2026-05-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_HPDMC_135295_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HPDMC_135295_1",
+        "url": "/files/fb078e25ebe321e21df3e6cb1248e567d43e8e442615b0ac606b00c2216d4c11.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZIs%2Bu4kAMkxqfY3CdzELuw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "fb078e25ebe321e21df3e6cb1248e567d43e8e442615b0ac606b00c2216d4c11",
+        "format": "text/plain",
+        "textUrl": "/files/fb078e25ebe321e21df3e6cb1248e567d43e8e442615b0ac606b00c2216d4c11.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_HPDMC_135295_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZIs%2Bu4kAMkxqfY3CdzELuw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_HPDMC_135295_1",
+      "observedAt": "2026-06-09T02:22:19Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "2f2e745e2636f6711da9ed0aeffb6bb519e337df1035fe875e0eb61bc77a0d1e",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_HPDMC_135295_1-0001-record",
+          "sha256": "fb078e25ebe321e21df3e6cb1248e567d43e8e442615b0ac606b00c2216d4c11"
+        }
+      ],
+      "snapshotUrl": "/files/ce04ca36cb0ba07d136b97b4182008a842529c927cf26dfbcb8dbbb5f51e7407.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-09T02:22:19Z",
+    "lastObserved": "2026-06-09T02:22:19Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

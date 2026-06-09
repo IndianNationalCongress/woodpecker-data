@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_107886_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107886_1",
+      "id": "woodpecker-ntpc-2026_NTPC_107886_1-0001",
+      "date": "2026-05-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||Corporate Materials",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+      },
+      "tender": {
+        "id": "2026_NTPC_107886_1",
+        "title": "Procurement of Endpoint Detection and Response (EDR) Services",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||Corporate Materials",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-06-09T00:00:00Z"
+        },
+        "description": "Procurement of Endpoint Detection and Response (EDR) Services"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107886_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_107886_1",
+          "url": "/files/1697c5f4fc959c0a878eda6a695357506b60ef9f24af7e9cd65f34a1eb2c83dc.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsfvYVGdM11bDAd8st5dVqA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1697c5f4fc959c0a878eda6a695357506b60ef9f24af7e9cd65f34a1eb2c83dc",
+          "format": "text/plain",
+          "textUrl": "/files/1697c5f4fc959c0a878eda6a695357506b60ef9f24af7e9cd65f34a1eb2c83dc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107886_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsfvYVGdM11bDAd8st5dVqA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_107886_1",
+    "tender": {
+      "id": "2026_NTPC_107886_1",
+      "title": "Procurement of Endpoint Detection and Response (EDR) Services",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||Corporate Materials",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-06-09T00:00:00Z"
+      },
+      "description": "Procurement of Endpoint Detection and Response (EDR) Services"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||Corporate Materials",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+    },
+    "date": "2026-05-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107886_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_107886_1",
+        "url": "/files/1697c5f4fc959c0a878eda6a695357506b60ef9f24af7e9cd65f34a1eb2c83dc.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsfvYVGdM11bDAd8st5dVqA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1697c5f4fc959c0a878eda6a695357506b60ef9f24af7e9cd65f34a1eb2c83dc",
+        "format": "text/plain",
+        "textUrl": "/files/1697c5f4fc959c0a878eda6a695357506b60ef9f24af7e9cd65f34a1eb2c83dc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107886_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsfvYVGdM11bDAd8st5dVqA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107886_1",
+      "observedAt": "2026-06-09T03:20:45Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "ec612f1ee97fcae6d26dadf81f43437c6feb8249ea693d5fbe499417d0440467",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107886_1-0001-record",
+          "sha256": "1697c5f4fc959c0a878eda6a695357506b60ef9f24af7e9cd65f34a1eb2c83dc"
+        }
+      ],
+      "snapshotUrl": "/files/e2c42e3aa0dcc4cecaf49998d609228ce1c0f61e339892009693ea5e680056a9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-09T03:20:45Z",
+    "lastObserved": "2026-06-09T03:20:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

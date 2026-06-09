@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_765046_1",
+  "id": "woodpecker-defence-2026_MES_765046_1-0001",
+  "date": "2026-05-13T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC AND CE PATHANKOT ZONE - MES||CWE MAMUN - MES||GE(SOUTH) MAMUN - MES",
+    "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+  },
+  "tender": {
+    "id": "2026_MES_765046_1",
+    "title": "As specified in BOQ and Tender Documents",
+    "status": "active",
+    "procuringEntity": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC AND CE PATHANKOT ZONE - MES||CWE MAMUN - MES||GE(SOUTH) MAMUN - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 2000000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-06-09T00:00:00Z"
+    },
+    "description": "As specified in BOQ and Tender Documents"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-defence-2026_MES_765046_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_MES_765046_1",
+      "url": "/files/022b692d398b4627acd91baf572f7f8b1fba7d072f3aa9fa5fe3eca8b60a0821.txt",
+      "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sucuv3t8c2glYqrOMebae8Q%3D%3D",
+      "sourceAlive": true,
+      "sha256": "022b692d398b4627acd91baf572f7f8b1fba7d072f3aa9fa5fe3eca8b60a0821",
+      "format": "text/plain",
+      "textUrl": "/files/022b692d398b4627acd91baf572f7f8b1fba7d072f3aa9fa5fe3eca8b60a0821.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-defence-2026_MES_765046_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sucuv3t8c2glYqrOMebae8Q%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

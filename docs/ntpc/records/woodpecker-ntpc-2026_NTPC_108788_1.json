@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108788_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108788_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108788_1-0001",
+      "date": "2026-06-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108788_1",
+        "title": "PROCUREMENT OF BHEL TRICHY SPARES",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-09T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF BHEL TRICHY SPARES"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108788_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108788_1",
+          "url": "/files/e1e9b5e0eaed5322055bdd09694d273c9f0833ae31dba7f0bb4fd0467e5e15db.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoKsZF%2Bu4ns%2FjrjqBTNpLNA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e1e9b5e0eaed5322055bdd09694d273c9f0833ae31dba7f0bb4fd0467e5e15db",
+          "format": "text/plain",
+          "textUrl": "/files/e1e9b5e0eaed5322055bdd09694d273c9f0833ae31dba7f0bb4fd0467e5e15db.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108788_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoKsZF%2Bu4ns%2FjrjqBTNpLNA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108788_1",
+    "tender": {
+      "id": "2026_NTPC_108788_1",
+      "title": "PROCUREMENT OF BHEL TRICHY SPARES",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-09T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF BHEL TRICHY SPARES"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108788_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108788_1",
+        "url": "/files/e1e9b5e0eaed5322055bdd09694d273c9f0833ae31dba7f0bb4fd0467e5e15db.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoKsZF%2Bu4ns%2FjrjqBTNpLNA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e1e9b5e0eaed5322055bdd09694d273c9f0833ae31dba7f0bb4fd0467e5e15db",
+        "format": "text/plain",
+        "textUrl": "/files/e1e9b5e0eaed5322055bdd09694d273c9f0833ae31dba7f0bb4fd0467e5e15db.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108788_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoKsZF%2Bu4ns%2FjrjqBTNpLNA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108788_1",
+      "observedAt": "2026-06-09T03:20:45Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9556350c5f508f08a42a6595763efeb4ad13a92c11a2bc00cbd9459c97269065",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108788_1-0001-record",
+          "sha256": "e1e9b5e0eaed5322055bdd09694d273c9f0833ae31dba7f0bb4fd0467e5e15db"
+        }
+      ],
+      "snapshotUrl": "/files/5fa7cd98764758011016a77178a892a120a1db2490b454dedcf7989b6420f832.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-09T03:20:45Z",
+    "lastObserved": "2026-06-09T03:20:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
