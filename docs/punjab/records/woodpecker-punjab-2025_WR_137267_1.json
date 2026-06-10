@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-punjab-2025_WR_137267_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2025_WR_137267_1",
+      "id": "woodpecker-punjab-2025_WR_137267_1-0001",
+      "date": "2025-03-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2025_WR_137267_1",
+        "title": "Leasing out Samalsar Rest House, VPO.Samalsar, Distt. Moga (Non-Functional)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Leasing out Samalsar Rest House, VPO.Samalsar, Distt. Moga (Non-Functional)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2025_WR_137267_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2025_WR_137267_1",
+          "url": "/files/c01ba907adcc8963802c022f17f0763078bc786bb68b4d2e50416dcb6104f843.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S35rVcYv1fuLyzwOareVHxA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c01ba907adcc8963802c022f17f0763078bc786bb68b4d2e50416dcb6104f843",
+          "format": "text/plain",
+          "textUrl": "/files/c01ba907adcc8963802c022f17f0763078bc786bb68b4d2e50416dcb6104f843.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2025_WR_137267_1",
+    "tender": {
+      "id": "2025_WR_137267_1",
+      "title": "Leasing out Samalsar Rest House, VPO.Samalsar, Distt. Moga (Non-Functional)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Leasing out Samalsar Rest House, VPO.Samalsar, Distt. Moga (Non-Functional)"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2025-03-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2025_WR_137267_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2025_WR_137267_1",
+        "url": "/files/c01ba907adcc8963802c022f17f0763078bc786bb68b4d2e50416dcb6104f843.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S35rVcYv1fuLyzwOareVHxA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c01ba907adcc8963802c022f17f0763078bc786bb68b4d2e50416dcb6104f843",
+        "format": "text/plain",
+        "textUrl": "/files/c01ba907adcc8963802c022f17f0763078bc786bb68b4d2e50416dcb6104f843.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2025_WR_137267_1",
+      "observedAt": "2026-06-10T02:49:11Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "359cbd6a38d04a889b6a8efd78c06bc0265e049bb7162b9db05803d7bf42e620",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2025_WR_137267_1-0001-record",
+          "sha256": "c01ba907adcc8963802c022f17f0763078bc786bb68b4d2e50416dcb6104f843"
+        }
+      ],
+      "snapshotUrl": "/files/caebd2d012b5234efc90525a3c3c4ab3d7222408d74152eea6ccda1d64cd35bf.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:49:11Z",
+    "lastObserved": "2026-06-10T02:49:11Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

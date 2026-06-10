@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_135848_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_135848_2",
+      "id": "woodpecker-himachal-2026_PWD_135848_2-0001",
+      "date": "2026-06-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_135848_2",
+        "title": "Construction of randum rubble masonary B Wall",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 348169,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Construction of randum rubble masonary B Wall"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_135848_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_135848_2",
+          "url": "/files/db92ffebce9df407512fb8215af1fb954e8603777a9a62e1373bf9e9668e7d48.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfsCzm5NDvCiFRMDOKyNyoA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "db92ffebce9df407512fb8215af1fb954e8603777a9a62e1373bf9e9668e7d48",
+          "format": "text/plain",
+          "textUrl": "/files/db92ffebce9df407512fb8215af1fb954e8603777a9a62e1373bf9e9668e7d48.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_135848_2-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfsCzm5NDvCiFRMDOKyNyoA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_135848_2",
+    "tender": {
+      "id": "2026_PWD_135848_2",
+      "title": "Construction of randum rubble masonary B Wall",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 348169,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Construction of randum rubble masonary B Wall"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-06-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_135848_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_135848_2",
+        "url": "/files/db92ffebce9df407512fb8215af1fb954e8603777a9a62e1373bf9e9668e7d48.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfsCzm5NDvCiFRMDOKyNyoA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "db92ffebce9df407512fb8215af1fb954e8603777a9a62e1373bf9e9668e7d48",
+        "format": "text/plain",
+        "textUrl": "/files/db92ffebce9df407512fb8215af1fb954e8603777a9a62e1373bf9e9668e7d48.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_135848_2-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfsCzm5NDvCiFRMDOKyNyoA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_135848_2",
+      "observedAt": "2026-06-10T02:31:10Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "983540a8fb2cfa0eb1555ecfce22e481ac8e0cd556de342ffbd2847714f9a2ae",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_135848_2-0001-record",
+          "sha256": "db92ffebce9df407512fb8215af1fb954e8603777a9a62e1373bf9e9668e7d48"
+        }
+      ],
+      "snapshotUrl": "/files/6eed675ee18fcf159e83d0fcd30d1f29ce06e7e0e0bde805bf37a66f9b9bc29c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:31:10Z",
+    "lastObserved": "2026-06-10T02:31:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

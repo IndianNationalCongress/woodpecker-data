@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-punjab-2025_WR_137266_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2025_WR_137266_1",
+      "id": "woodpecker-punjab-2025_WR_137266_1-0001",
+      "date": "2025-03-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2025_WR_137266_1",
+        "title": "Leasing out Dhapai Rest House, VPO.Dhapai, Distt. Faridkot (Non-Functional)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Leasing out Dhapai Rest House, VPO.Dhapai, Distt. Faridkot (Non-Functional)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2025_WR_137266_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2025_WR_137266_1",
+          "url": "/files/f6813f35658d3a7751d55bacc3d040c5dab1fefa110faf55b51474b708118cac.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJ2y%2FIsAm50IM0eXiNfBxNA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f6813f35658d3a7751d55bacc3d040c5dab1fefa110faf55b51474b708118cac",
+          "format": "text/plain",
+          "textUrl": "/files/f6813f35658d3a7751d55bacc3d040c5dab1fefa110faf55b51474b708118cac.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2025_WR_137266_1",
+    "tender": {
+      "id": "2025_WR_137266_1",
+      "title": "Leasing out Dhapai Rest House, VPO.Dhapai, Distt. Faridkot (Non-Functional)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Leasing out Dhapai Rest House, VPO.Dhapai, Distt. Faridkot (Non-Functional)"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2025-03-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2025_WR_137266_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2025_WR_137266_1",
+        "url": "/files/f6813f35658d3a7751d55bacc3d040c5dab1fefa110faf55b51474b708118cac.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJ2y%2FIsAm50IM0eXiNfBxNA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f6813f35658d3a7751d55bacc3d040c5dab1fefa110faf55b51474b708118cac",
+        "format": "text/plain",
+        "textUrl": "/files/f6813f35658d3a7751d55bacc3d040c5dab1fefa110faf55b51474b708118cac.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2025_WR_137266_1",
+      "observedAt": "2026-06-10T02:49:11Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "f862ff8984c1282e11b081ea8fc5d20f712e6725b011ba33f4ad5e8cdf133831",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2025_WR_137266_1-0001-record",
+          "sha256": "f6813f35658d3a7751d55bacc3d040c5dab1fefa110faf55b51474b708118cac"
+        }
+      ],
+      "snapshotUrl": "/files/28f4a6fc744c3bcaeca5cd0ac6cb581651af28b5f9bed6da66d7f64a0e3bfaaf.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:49:11Z",
+    "lastObserved": "2026-06-10T02:49:11Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108892_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108892_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108892_1-0001",
+      "date": "2026-06-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108892_1",
+        "title": "Procurement of hydraulic turning motor complete assembly for unit 1",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Procurement of hydraulic turning motor complete assembly for unit 1"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108892_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108892_1",
+          "url": "/files/7a0efdd24714908e7e433aa5d43463486c3b09e120286ec301a606e9baeb7cd1.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Spe9kP5VCVAEXgpxnrD6zhA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7a0efdd24714908e7e433aa5d43463486c3b09e120286ec301a606e9baeb7cd1",
+          "format": "text/plain",
+          "textUrl": "/files/7a0efdd24714908e7e433aa5d43463486c3b09e120286ec301a606e9baeb7cd1.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108892_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Spe9kP5VCVAEXgpxnrD6zhA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108892_1",
+    "tender": {
+      "id": "2026_NTPC_108892_1",
+      "title": "Procurement of hydraulic turning motor complete assembly for unit 1",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Procurement of hydraulic turning motor complete assembly for unit 1"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108892_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108892_1",
+        "url": "/files/7a0efdd24714908e7e433aa5d43463486c3b09e120286ec301a606e9baeb7cd1.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Spe9kP5VCVAEXgpxnrD6zhA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7a0efdd24714908e7e433aa5d43463486c3b09e120286ec301a606e9baeb7cd1",
+        "format": "text/plain",
+        "textUrl": "/files/7a0efdd24714908e7e433aa5d43463486c3b09e120286ec301a606e9baeb7cd1.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108892_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Spe9kP5VCVAEXgpxnrD6zhA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108892_1",
+      "observedAt": "2026-06-10T03:27:46Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "77929ff4cdb5eedc63cdbd52143a706aee8c46be395e9496c53ff2b3657edf3b",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108892_1-0001-record",
+          "sha256": "7a0efdd24714908e7e433aa5d43463486c3b09e120286ec301a606e9baeb7cd1"
+        }
+      ],
+      "snapshotUrl": "/files/9d624aa8d9033e3c048452287f493eafc50a03451afc42a17d3665399fdce698.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T03:27:46Z",
+    "lastObserved": "2026-06-10T03:27:46Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

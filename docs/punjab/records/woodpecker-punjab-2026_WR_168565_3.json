@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-punjab-2026_WR_168565_3",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_168565_3",
+      "id": "woodpecker-punjab-2026_WR_168565_3-0001",
+      "date": "2026-05-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_WR_168565_3",
+        "title": "Estimate for Reconstruction/Remodeling of Watercourse outlet RD 15310/L of Midda Minor",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Estimate for Reconstruction/Remodeling of Watercourse outlet RD 15310/L of Midda Minor"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_168565_3-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WR_168565_3",
+          "url": "/files/4f93d9652560de80177a3ce833ee7aabdb5d88eea39c3d8ec5284a6fff5de11f.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSpPzFTB4Qk%2BFt8tMsM9Crg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4f93d9652560de80177a3ce833ee7aabdb5d88eea39c3d8ec5284a6fff5de11f",
+          "format": "text/plain",
+          "textUrl": "/files/4f93d9652560de80177a3ce833ee7aabdb5d88eea39c3d8ec5284a6fff5de11f.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2026_WR_168565_3",
+    "tender": {
+      "id": "2026_WR_168565_3",
+      "title": "Estimate for Reconstruction/Remodeling of Watercourse outlet RD 15310/L of Midda Minor",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Estimate for Reconstruction/Remodeling of Watercourse outlet RD 15310/L of Midda Minor"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-05-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2026_WR_168565_3-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WR_168565_3",
+        "url": "/files/4f93d9652560de80177a3ce833ee7aabdb5d88eea39c3d8ec5284a6fff5de11f.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSpPzFTB4Qk%2BFt8tMsM9Crg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4f93d9652560de80177a3ce833ee7aabdb5d88eea39c3d8ec5284a6fff5de11f",
+        "format": "text/plain",
+        "textUrl": "/files/4f93d9652560de80177a3ce833ee7aabdb5d88eea39c3d8ec5284a6fff5de11f.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_168565_3",
+      "observedAt": "2026-06-10T02:49:11Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "dbd6ff63ab5a5536a7fe6b5f1449a0891cd31537f5eeb0543fe954daf1b1243a",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_168565_3-0001-record",
+          "sha256": "4f93d9652560de80177a3ce833ee7aabdb5d88eea39c3d8ec5284a6fff5de11f"
+        }
+      ],
+      "snapshotUrl": "/files/f29d83266689f3c4d7dfea5e301d7e1219c6da6105b6ed5304663e6d68191548.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:49:11Z",
+    "lastObserved": "2026-06-10T02:49:11Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

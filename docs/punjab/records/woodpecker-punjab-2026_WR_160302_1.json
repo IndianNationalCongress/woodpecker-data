@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-punjab-2026_WR_160302_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_160302_1",
+      "id": "woodpecker-punjab-2026_WR_160302_1-0001",
+      "date": "2026-02-14T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_WR_160302_1",
+        "title": "Estimate for Lining/Relining of watercourses of outlet RD 15270/R of Kotkapura disty",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Estimate for Lining/Relining of watercourses of outlet RD 15270/R of Kotkapura disty"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_160302_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WR_160302_1",
+          "url": "/files/d1992c961cb57664d4ce2068261dd4228ea557870fef609dd2cce1cd85ece83c.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjEoNHHBJ80i1eyLGbS3itA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d1992c961cb57664d4ce2068261dd4228ea557870fef609dd2cce1cd85ece83c",
+          "format": "text/plain",
+          "textUrl": "/files/d1992c961cb57664d4ce2068261dd4228ea557870fef609dd2cce1cd85ece83c.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2026_WR_160302_1",
+    "tender": {
+      "id": "2026_WR_160302_1",
+      "title": "Estimate for Lining/Relining of watercourses of outlet RD 15270/R of Kotkapura disty",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Estimate for Lining/Relining of watercourses of outlet RD 15270/R of Kotkapura disty"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-02-14T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2026_WR_160302_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WR_160302_1",
+        "url": "/files/d1992c961cb57664d4ce2068261dd4228ea557870fef609dd2cce1cd85ece83c.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjEoNHHBJ80i1eyLGbS3itA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d1992c961cb57664d4ce2068261dd4228ea557870fef609dd2cce1cd85ece83c",
+        "format": "text/plain",
+        "textUrl": "/files/d1992c961cb57664d4ce2068261dd4228ea557870fef609dd2cce1cd85ece83c.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_160302_1",
+      "observedAt": "2026-06-10T02:49:11Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "2cb00d8ee1064dd423070c72467d434f917742f3a897c779d38a20805c008c3b",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_160302_1-0001-record",
+          "sha256": "d1992c961cb57664d4ce2068261dd4228ea557870fef609dd2cce1cd85ece83c"
+        }
+      ],
+      "snapshotUrl": "/files/e9ab6a780f9b6422d6d16f8ed76762814dff55293a602bbad79d28faa1fefd4d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:49:11Z",
+    "lastObserved": "2026-06-10T02:49:11Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

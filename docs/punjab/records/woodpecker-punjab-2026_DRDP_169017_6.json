@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-punjab-2026_DRDP_169017_6",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2026_DRDP_169017_6",
+      "id": "woodpecker-punjab-2026_DRDP_169017_6-0001",
+      "date": "2026-05-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_DRDP_169017_6",
+        "title": "Construction of Play Grounds at Villages Udoke Kalan Block Tarsikka",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Construction of Play Grounds at Villages Udoke Kalan Block Tarsikka"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_DRDP_169017_6-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DRDP_169017_6",
+          "url": "/files/0a8c0f51e3867288b5c5fbcd53540bb3de81fc1356379086b184c1f85bae41fb.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHUezXajKpa%2F7V7bv8lxL0A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0a8c0f51e3867288b5c5fbcd53540bb3de81fc1356379086b184c1f85bae41fb",
+          "format": "text/plain",
+          "textUrl": "/files/0a8c0f51e3867288b5c5fbcd53540bb3de81fc1356379086b184c1f85bae41fb.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2026_DRDP_169017_6",
+    "tender": {
+      "id": "2026_DRDP_169017_6",
+      "title": "Construction of Play Grounds at Villages Udoke Kalan Block Tarsikka",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Construction of Play Grounds at Villages Udoke Kalan Block Tarsikka"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-05-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2026_DRDP_169017_6-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DRDP_169017_6",
+        "url": "/files/0a8c0f51e3867288b5c5fbcd53540bb3de81fc1356379086b184c1f85bae41fb.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHUezXajKpa%2F7V7bv8lxL0A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0a8c0f51e3867288b5c5fbcd53540bb3de81fc1356379086b184c1f85bae41fb",
+        "format": "text/plain",
+        "textUrl": "/files/0a8c0f51e3867288b5c5fbcd53540bb3de81fc1356379086b184c1f85bae41fb.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2026_DRDP_169017_6",
+      "observedAt": "2026-06-10T02:49:11Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "58d6f89e1cace115d694ab0e5bd637dd2d84fc1e418512fc27e71545bf332898",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_DRDP_169017_6-0001-record",
+          "sha256": "0a8c0f51e3867288b5c5fbcd53540bb3de81fc1356379086b184c1f85bae41fb"
+        }
+      ],
+      "snapshotUrl": "/files/dfa51a6dbd7c874840e45f5b9db586fe8aba398db41d18907662501fcdb7ef69.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:49:11Z",
+    "lastObserved": "2026-06-10T02:49:11Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

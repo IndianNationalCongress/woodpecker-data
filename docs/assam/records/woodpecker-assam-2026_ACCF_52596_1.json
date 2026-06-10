@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-assam-2026_ACCF_52596_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-assam-2026_ACCF_52596_1",
+      "id": "woodpecker-assam-2026_ACCF_52596_1-0001",
+      "date": "2026-06-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "ASSAM CANCER CARE FOUNDATION",
+        "id": "IN-ORG-assam-cancer-care-foundation"
+      },
+      "tender": {
+        "id": "2026_ACCF_52596_1",
+        "title": "PROCUREMENT OF IT SOFTWARE",
+        "status": "active",
+        "procuringEntity": {
+          "name": "ASSAM CANCER CARE FOUNDATION",
+          "id": "IN-ORG-assam-cancer-care-foundation"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF IT SOFTWARE"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_ACCF_52596_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ACCF_52596_1",
+          "url": "/files/78ae857842ba5e8842e2790d99cc5baad97651283e7efe55c7a8bac969fd69c8.txt",
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss0Dm%2FTzLaQWO4964GVtDtQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "78ae857842ba5e8842e2790d99cc5baad97651283e7efe55c7a8bac969fd69c8",
+          "format": "text/plain",
+          "textUrl": "/files/78ae857842ba5e8842e2790d99cc5baad97651283e7efe55c7a8bac969fd69c8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-assam-2026_ACCF_52596_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss0Dm%2FTzLaQWO4964GVtDtQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-assam-2026_ACCF_52596_1",
+    "tender": {
+      "id": "2026_ACCF_52596_1",
+      "title": "PROCUREMENT OF IT SOFTWARE",
+      "status": "active",
+      "procuringEntity": {
+        "name": "ASSAM CANCER CARE FOUNDATION",
+        "id": "IN-ORG-assam-cancer-care-foundation"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF IT SOFTWARE"
+    },
+    "buyer": {
+      "name": "ASSAM CANCER CARE FOUNDATION",
+      "id": "IN-ORG-assam-cancer-care-foundation"
+    },
+    "date": "2026-06-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-assam-2026_ACCF_52596_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ACCF_52596_1",
+        "url": "/files/78ae857842ba5e8842e2790d99cc5baad97651283e7efe55c7a8bac969fd69c8.txt",
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss0Dm%2FTzLaQWO4964GVtDtQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "78ae857842ba5e8842e2790d99cc5baad97651283e7efe55c7a8bac969fd69c8",
+        "format": "text/plain",
+        "textUrl": "/files/78ae857842ba5e8842e2790d99cc5baad97651283e7efe55c7a8bac969fd69c8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-assam-2026_ACCF_52596_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss0Dm%2FTzLaQWO4964GVtDtQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-assam-2026_ACCF_52596_1",
+      "observedAt": "2026-06-10T02:32:37Z",
+      "witness": "woodpecker:assam",
+      "availability": "present",
+      "stateHash": "b1d35f0235be5bee10e3a91aa657904e9da02f031cd67f55daab6203fc209b56",
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_ACCF_52596_1-0001-record",
+          "sha256": "78ae857842ba5e8842e2790d99cc5baad97651283e7efe55c7a8bac969fd69c8"
+        }
+      ],
+      "snapshotUrl": "/files/7cf75b246db9cbff7a3da1fe186558c2c6a75daae6a010848830a1df262a5e85.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:32:37Z",
+    "lastObserved": "2026-06-10T02:32:37Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

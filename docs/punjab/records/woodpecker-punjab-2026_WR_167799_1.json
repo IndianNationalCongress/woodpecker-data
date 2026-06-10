@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-punjab-2026_WR_167799_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_167799_1",
+      "id": "woodpecker-punjab-2026_WR_167799_1-0001",
+      "date": "2026-05-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_WR_167799_1",
+        "title": "ESTIMATE FOR REHABILITATION, RENOVATION AND MODERNIZATION OF BUNDALA MINOR FROM 0-7650",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "ESTIMATE FOR REHABILITATION, RENOVATION AND MODERNIZATION OF BUNDALA MINOR FROM 0-7650"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_167799_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WR_167799_1",
+          "url": "/files/a6d3f012bab919706bbe2a9caa48bcc8c6767d24f9d9dbc4da6800ea2f114549.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4ATlDCd0RoBcS1J5pASIbg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a6d3f012bab919706bbe2a9caa48bcc8c6767d24f9d9dbc4da6800ea2f114549",
+          "format": "text/plain",
+          "textUrl": "/files/a6d3f012bab919706bbe2a9caa48bcc8c6767d24f9d9dbc4da6800ea2f114549.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2026_WR_167799_1",
+    "tender": {
+      "id": "2026_WR_167799_1",
+      "title": "ESTIMATE FOR REHABILITATION, RENOVATION AND MODERNIZATION OF BUNDALA MINOR FROM 0-7650",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "ESTIMATE FOR REHABILITATION, RENOVATION AND MODERNIZATION OF BUNDALA MINOR FROM 0-7650"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-05-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2026_WR_167799_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WR_167799_1",
+        "url": "/files/a6d3f012bab919706bbe2a9caa48bcc8c6767d24f9d9dbc4da6800ea2f114549.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4ATlDCd0RoBcS1J5pASIbg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a6d3f012bab919706bbe2a9caa48bcc8c6767d24f9d9dbc4da6800ea2f114549",
+        "format": "text/plain",
+        "textUrl": "/files/a6d3f012bab919706bbe2a9caa48bcc8c6767d24f9d9dbc4da6800ea2f114549.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_167799_1",
+      "observedAt": "2026-06-10T02:49:11Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "08fe37cf6db5f29c7f5871d3322aaa178bb4b9ffb3d874ee4a84c70cc08e4a32",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_167799_1-0001-record",
+          "sha256": "a6d3f012bab919706bbe2a9caa48bcc8c6767d24f9d9dbc4da6800ea2f114549"
+        }
+      ],
+      "snapshotUrl": "/files/acf5532504ab06631551be98417255f369c89229979c2d1b79a719ced7ea6608.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:49:11Z",
+    "lastObserved": "2026-06-10T02:49:11Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

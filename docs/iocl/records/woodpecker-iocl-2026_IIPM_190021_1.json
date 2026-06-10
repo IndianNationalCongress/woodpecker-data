@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_IIPM_190021_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_IIPM_190021_1",
+      "id": "woodpecker-iocl-2026_IIPM_190021_1-0001",
+      "date": "2026-05-27T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||IIPM",
+        "id": "IN-ORG-indianoil-refineries-iipm"
+      },
+      "tender": {
+        "id": "2026_IIPM_190021_1",
+        "title": "Procurement of Back Pack for various training programs at IiPM, Gurugram",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||IIPM",
+          "id": "IN-ORG-indianoil-refineries-iipm"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Procurement of Back Pack for various training programs at IiPM, Gurugram"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_IIPM_190021_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IIPM_190021_1",
+          "url": "/files/df646d7d46ceffc75c53be8e2b0669e087c0d99c3ce785e95268f19053b30d4f.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sc3nav26cDsJmQrkMA3a6RQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "df646d7d46ceffc75c53be8e2b0669e087c0d99c3ce785e95268f19053b30d4f",
+          "format": "text/plain",
+          "textUrl": "/files/df646d7d46ceffc75c53be8e2b0669e087c0d99c3ce785e95268f19053b30d4f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_IIPM_190021_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sc3nav26cDsJmQrkMA3a6RQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_IIPM_190021_1",
+    "tender": {
+      "id": "2026_IIPM_190021_1",
+      "title": "Procurement of Back Pack for various training programs at IiPM, Gurugram",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||IIPM",
+        "id": "IN-ORG-indianoil-refineries-iipm"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Procurement of Back Pack for various training programs at IiPM, Gurugram"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||IIPM",
+      "id": "IN-ORG-indianoil-refineries-iipm"
+    },
+    "date": "2026-05-27T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_IIPM_190021_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IIPM_190021_1",
+        "url": "/files/df646d7d46ceffc75c53be8e2b0669e087c0d99c3ce785e95268f19053b30d4f.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sc3nav26cDsJmQrkMA3a6RQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "df646d7d46ceffc75c53be8e2b0669e087c0d99c3ce785e95268f19053b30d4f",
+        "format": "text/plain",
+        "textUrl": "/files/df646d7d46ceffc75c53be8e2b0669e087c0d99c3ce785e95268f19053b30d4f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_IIPM_190021_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sc3nav26cDsJmQrkMA3a6RQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_IIPM_190021_1",
+      "observedAt": "2026-06-10T03:37:13Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "e964d35c62d9b17286b7f2dc527f008014041875798d64f6d14b79e986d9e0b8",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_IIPM_190021_1-0001-record",
+          "sha256": "df646d7d46ceffc75c53be8e2b0669e087c0d99c3ce785e95268f19053b30d4f"
+        }
+      ],
+      "snapshotUrl": "/files/b435a09cc932ffa00bdc459c98b782723211ac2d53173ba706cbcdfefbd9a977.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T03:37:13Z",
+    "lastObserved": "2026-06-10T03:37:13Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

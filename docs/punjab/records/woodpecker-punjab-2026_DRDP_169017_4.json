@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-punjab-2026_DRDP_169017_4",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2026_DRDP_169017_4",
+      "id": "woodpecker-punjab-2026_DRDP_169017_4-0001",
+      "date": "2026-05-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_DRDP_169017_4",
+        "title": "Construction of Play Grounds at Villages Baserkee Gillan Block Attari",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Construction of Play Grounds at Villages Baserkee Gillan Block Attari"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_DRDP_169017_4-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DRDP_169017_4",
+          "url": "/files/9573a05127f18104a149afec80bbe58e184dc97c6f1f187a8a6302dc736dc408.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSwPb%2BPI%2F7O1clN5LR9Z4kQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9573a05127f18104a149afec80bbe58e184dc97c6f1f187a8a6302dc736dc408",
+          "format": "text/plain",
+          "textUrl": "/files/9573a05127f18104a149afec80bbe58e184dc97c6f1f187a8a6302dc736dc408.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2026_DRDP_169017_4",
+    "tender": {
+      "id": "2026_DRDP_169017_4",
+      "title": "Construction of Play Grounds at Villages Baserkee Gillan Block Attari",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Construction of Play Grounds at Villages Baserkee Gillan Block Attari"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-05-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2026_DRDP_169017_4-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DRDP_169017_4",
+        "url": "/files/9573a05127f18104a149afec80bbe58e184dc97c6f1f187a8a6302dc736dc408.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSwPb%2BPI%2F7O1clN5LR9Z4kQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9573a05127f18104a149afec80bbe58e184dc97c6f1f187a8a6302dc736dc408",
+        "format": "text/plain",
+        "textUrl": "/files/9573a05127f18104a149afec80bbe58e184dc97c6f1f187a8a6302dc736dc408.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2026_DRDP_169017_4",
+      "observedAt": "2026-06-10T02:49:11Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "5ce8d76664395eaf186cda3e0182689223015f445780c71677e57ff03a7dcabf",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_DRDP_169017_4-0001-record",
+          "sha256": "9573a05127f18104a149afec80bbe58e184dc97c6f1f187a8a6302dc736dc408"
+        }
+      ],
+      "snapshotUrl": "/files/f06111b292ce512e2d5914f68c7abde70b08c9ae08f6e1b1ecc8af761b4b818f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:49:11Z",
+    "lastObserved": "2026-06-10T02:49:11Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

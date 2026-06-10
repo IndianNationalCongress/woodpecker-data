@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108901_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108901_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108901_1-0001",
+      "date": "2026-06-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108901_1",
+        "title": "Procurenment of Bucket Elevator spares for FGD system installed at NTPC Lara",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Procurenment of Bucket Elevator spares for FGD system installed at NTPC Lara"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108901_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108901_1",
+          "url": "/files/e0fa07a81ed371eea0844ecc7ae228cdc2ab5c558f03e52fdd0b7cf0d838bc76.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SicI%2F5AqoDjmi5ymTcMn9MQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e0fa07a81ed371eea0844ecc7ae228cdc2ab5c558f03e52fdd0b7cf0d838bc76",
+          "format": "text/plain",
+          "textUrl": "/files/e0fa07a81ed371eea0844ecc7ae228cdc2ab5c558f03e52fdd0b7cf0d838bc76.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108901_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SicI%2F5AqoDjmi5ymTcMn9MQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108901_1",
+    "tender": {
+      "id": "2026_NTPC_108901_1",
+      "title": "Procurenment of Bucket Elevator spares for FGD system installed at NTPC Lara",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Procurenment of Bucket Elevator spares for FGD system installed at NTPC Lara"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108901_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108901_1",
+        "url": "/files/e0fa07a81ed371eea0844ecc7ae228cdc2ab5c558f03e52fdd0b7cf0d838bc76.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SicI%2F5AqoDjmi5ymTcMn9MQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e0fa07a81ed371eea0844ecc7ae228cdc2ab5c558f03e52fdd0b7cf0d838bc76",
+        "format": "text/plain",
+        "textUrl": "/files/e0fa07a81ed371eea0844ecc7ae228cdc2ab5c558f03e52fdd0b7cf0d838bc76.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108901_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SicI%2F5AqoDjmi5ymTcMn9MQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108901_1",
+      "observedAt": "2026-06-10T03:27:46Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "6fb2ad901cbc201ffc32fa17cb0b66e7fb0617eed2dfbd8f4c8efc64b456c26c",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108901_1-0001-record",
+          "sha256": "e0fa07a81ed371eea0844ecc7ae228cdc2ab5c558f03e52fdd0b7cf0d838bc76"
+        }
+      ],
+      "snapshotUrl": "/files/b79aa505138a57e03278021a3deb7baa5e072754a2a5272135fe5483101cc34a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T03:27:46Z",
+    "lastObserved": "2026-06-10T03:27:46Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

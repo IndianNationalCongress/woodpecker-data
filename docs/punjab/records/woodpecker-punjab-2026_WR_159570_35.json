@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-punjab-2026_WR_159570_35",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_159570_35",
+      "id": "woodpecker-punjab-2026_WR_159570_35-0001",
+      "date": "2026-02-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_WR_159570_35",
+        "title": "Re-lining and Lining of watercourse by brick masonary of Outlet RD 29320-R of Mehraj Minor of Phul disty",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-10T00:00:00Z"
+        },
+        "description": "Re-lining and Lining of watercourse by brick masonary of Outlet RD 29320-R of Mehraj Minor of Phul disty"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_159570_35-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WR_159570_35",
+          "url": "/files/555dd0969b1aa10175ce623cdab377cea803d19effa5f64f1cc3686278be87ad.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCCPcWqtAQe%2BqqFmrxKG6sw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "555dd0969b1aa10175ce623cdab377cea803d19effa5f64f1cc3686278be87ad",
+          "format": "text/plain",
+          "textUrl": "/files/555dd0969b1aa10175ce623cdab377cea803d19effa5f64f1cc3686278be87ad.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2026_WR_159570_35",
+    "tender": {
+      "id": "2026_WR_159570_35",
+      "title": "Re-lining and Lining of watercourse by brick masonary of Outlet RD 29320-R of Mehraj Minor of Phul disty",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-10T00:00:00Z"
+      },
+      "description": "Re-lining and Lining of watercourse by brick masonary of Outlet RD 29320-R of Mehraj Minor of Phul disty"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-02-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2026_WR_159570_35-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WR_159570_35",
+        "url": "/files/555dd0969b1aa10175ce623cdab377cea803d19effa5f64f1cc3686278be87ad.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCCPcWqtAQe%2BqqFmrxKG6sw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "555dd0969b1aa10175ce623cdab377cea803d19effa5f64f1cc3686278be87ad",
+        "format": "text/plain",
+        "textUrl": "/files/555dd0969b1aa10175ce623cdab377cea803d19effa5f64f1cc3686278be87ad.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_159570_35",
+      "observedAt": "2026-06-10T02:49:11Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "9f82f861cb562cf680a769c0394275d449759ee97e14fe659ca0cf7301776f88",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_159570_35-0001-record",
+          "sha256": "555dd0969b1aa10175ce623cdab377cea803d19effa5f64f1cc3686278be87ad"
+        }
+      ],
+      "snapshotUrl": "/files/9b731a8811f1ab95db35cf79d8c9ab60c8bc56a1893bdf16881882dda4a6e22e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-10T02:49:11Z",
+    "lastObserved": "2026-06-10T02:49:11Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
