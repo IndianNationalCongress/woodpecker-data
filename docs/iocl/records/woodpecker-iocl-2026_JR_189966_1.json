@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_JR_189966_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_JR_189966_1",
+      "id": "woodpecker-iocl-2026_JR_189966_1-0001",
+      "date": "2026-05-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_JR_189966_1",
+        "title": "STI make positioners",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-11T00:00:00Z"
+        },
+        "description": "STI make positioners"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_JR_189966_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_JR_189966_1",
+          "url": "/files/a0ab6ba81f7f65369b9b28aa47df645086d4c221af5920126b26cb9373c44961.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLEBdPAlxPFJT4wjcE%2FJiNw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a0ab6ba81f7f65369b9b28aa47df645086d4c221af5920126b26cb9373c44961",
+          "format": "text/plain",
+          "textUrl": "/files/a0ab6ba81f7f65369b9b28aa47df645086d4c221af5920126b26cb9373c44961.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_JR_189966_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLEBdPAlxPFJT4wjcE%2FJiNw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_JR_189966_1",
+    "tender": {
+      "id": "2026_JR_189966_1",
+      "title": "STI make positioners",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-11T00:00:00Z"
+      },
+      "description": "STI make positioners"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+    },
+    "date": "2026-05-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_JR_189966_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_JR_189966_1",
+        "url": "/files/a0ab6ba81f7f65369b9b28aa47df645086d4c221af5920126b26cb9373c44961.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLEBdPAlxPFJT4wjcE%2FJiNw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a0ab6ba81f7f65369b9b28aa47df645086d4c221af5920126b26cb9373c44961",
+        "format": "text/plain",
+        "textUrl": "/files/a0ab6ba81f7f65369b9b28aa47df645086d4c221af5920126b26cb9373c44961.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_JR_189966_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLEBdPAlxPFJT4wjcE%2FJiNw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_JR_189966_1",
+      "observedAt": "2026-06-11T04:00:47Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "48948f0305c922dbb4a84c0c340a2394e40ad29a2b234350e3954d8806011e93",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_JR_189966_1-0001-record",
+          "sha256": "a0ab6ba81f7f65369b9b28aa47df645086d4c221af5920126b26cb9373c44961"
+        }
+      ],
+      "snapshotUrl": "/files/5b19264508a140b272f068e3c03bc9057301892d6d993ec426dac4278b272c4d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-11T04:00:47Z",
+    "lastObserved": "2026-06-11T04:00:47Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

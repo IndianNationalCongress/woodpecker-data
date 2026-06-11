@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108740_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108740_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108740_1-0001",
+      "date": "2026-06-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "tender": {
+        "id": "2026_NTPC_108740_1",
+        "title": "Deployment of Safety stewards at NTPC kanti",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 7845439,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-11T00:00:00Z"
+        },
+        "description": "Deployment of Safety stewards at NTPC kanti"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108740_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108740_1",
+          "url": "/files/c9d1c44f8ce363b3730101c2c8bc04389f76b59161be72f600c999c4659cc7ef.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqYAxsMctCWMCfArkiA7bQA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c9d1c44f8ce363b3730101c2c8bc04389f76b59161be72f600c999c4659cc7ef",
+          "format": "text/plain",
+          "textUrl": "/files/c9d1c44f8ce363b3730101c2c8bc04389f76b59161be72f600c999c4659cc7ef.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108740_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqYAxsMctCWMCfArkiA7bQA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108740_1",
+    "tender": {
+      "id": "2026_NTPC_108740_1",
+      "title": "Deployment of Safety stewards at NTPC kanti",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 7845439,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-11T00:00:00Z"
+      },
+      "description": "Deployment of Safety stewards at NTPC kanti"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+    },
+    "date": "2026-06-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108740_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108740_1",
+        "url": "/files/c9d1c44f8ce363b3730101c2c8bc04389f76b59161be72f600c999c4659cc7ef.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqYAxsMctCWMCfArkiA7bQA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c9d1c44f8ce363b3730101c2c8bc04389f76b59161be72f600c999c4659cc7ef",
+        "format": "text/plain",
+        "textUrl": "/files/c9d1c44f8ce363b3730101c2c8bc04389f76b59161be72f600c999c4659cc7ef.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108740_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqYAxsMctCWMCfArkiA7bQA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108740_1",
+      "observedAt": "2026-06-11T03:52:22Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "4805a841f4c807a2ac7f9e1d43fd792aeb2bb551ecfc937258a1a65e92171da0",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108740_1-0001-record",
+          "sha256": "c9d1c44f8ce363b3730101c2c8bc04389f76b59161be72f600c999c4659cc7ef"
+        }
+      ],
+      "snapshotUrl": "/files/1efa967af200b8d30518efd743a98a8f8d2be485ccec17e89e4d9f610412837c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-11T03:52:22Z",
+    "lastObserved": "2026-06-11T03:52:22Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108016_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108016_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108016_1-0001",
+      "date": "2026-05-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_108016_1",
+        "title": "PROCUREMENT OF GRINDING ROLL",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-11T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF GRINDING ROLL"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108016_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108016_1",
+          "url": "/files/dd8ef661685071d0abd9b3e18de74f54241d07e02e129b88e98e3ef6364ca604.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU%2Fd0iKW7Qu4V31FqsqN%2FvA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "dd8ef661685071d0abd9b3e18de74f54241d07e02e129b88e98e3ef6364ca604",
+          "format": "text/plain",
+          "textUrl": "/files/dd8ef661685071d0abd9b3e18de74f54241d07e02e129b88e98e3ef6364ca604.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108016_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU%2Fd0iKW7Qu4V31FqsqN%2FvA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108016_1",
+    "tender": {
+      "id": "2026_NTPC_108016_1",
+      "title": "PROCUREMENT OF GRINDING ROLL",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-11T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF GRINDING ROLL"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-05-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108016_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108016_1",
+        "url": "/files/dd8ef661685071d0abd9b3e18de74f54241d07e02e129b88e98e3ef6364ca604.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU%2Fd0iKW7Qu4V31FqsqN%2FvA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "dd8ef661685071d0abd9b3e18de74f54241d07e02e129b88e98e3ef6364ca604",
+        "format": "text/plain",
+        "textUrl": "/files/dd8ef661685071d0abd9b3e18de74f54241d07e02e129b88e98e3ef6364ca604.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108016_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU%2Fd0iKW7Qu4V31FqsqN%2FvA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108016_1",
+      "observedAt": "2026-06-11T03:52:22Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "27f3d8474539a6afac0b53cafefbfdf598dea2e8a81b7b8ff302e34f7e4f2925",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108016_1-0001-record",
+          "sha256": "dd8ef661685071d0abd9b3e18de74f54241d07e02e129b88e98e3ef6364ca604"
+        }
+      ],
+      "snapshotUrl": "/files/72455ab9b27960351c78143adf9cde5fe1814771626ab25cd6da9187c3e73ded.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-11T03:52:22Z",
+    "lastObserved": "2026-06-11T03:52:22Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

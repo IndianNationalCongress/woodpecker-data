@@ -5,9 +5,9 @@
       "label": "Bharat Heavy Electricals (BHEL)",
       "central": true,
       "state": null,
-      "tenders": 38237,
+      "tenders": 38284,
       "archive": 38065,
-      "observed": 172,
+      "observed": 219,
       "months": [
         "2026",
         "2017",
@@ -22,9 +22,9 @@
       "label": "Military Engineer Services",
       "central": true,
       "state": null,
-      "tenders": 25735,
+      "tenders": 25797,
       "archive": 25446,
-      "observed": 289,
+      "observed": 351,
       "months": [
         "2026",
         "2017",
@@ -55,9 +55,9 @@
       "label": "Coal India & subsidiaries",
       "central": true,
       "state": null,
-      "tenders": 13844,
+      "tenders": 13883,
       "archive": 13696,
-      "observed": 148,
+      "observed": 187,
       "months": [
         "2026",
         "2017",
@@ -105,9 +105,9 @@
       "label": "NTPC",
       "central": true,
       "state": null,
-      "tenders": 7880,
+      "tenders": 7943,
       "archive": 7676,
-      "observed": 204,
+      "observed": 267,
       "months": [
         "2026",
         "2025",
@@ -123,9 +123,9 @@
       "label": "Ministry of Defence",
       "central": true,
       "state": null,
-      "tenders": 5097,
+      "tenders": 5112,
       "archive": 5026,
-      "observed": 71,
+      "observed": 86,
       "months": [
         "2026",
         "2017",
@@ -188,9 +188,9 @@
       "label": "Bodoland Territorial Council Pwd",
       "central": false,
       "state": "Assam",
-      "tenders": 2954,
+      "tenders": 2955,
       "archive": 2952,
-      "observed": 2,
+      "observed": 3,
       "months": [
         "2026",
         "2021",
@@ -221,10 +221,10 @@
       "id": "org-pwd",
       "label": "Pwd",
       "central": false,
-      "state": "Mizoram",
-      "tenders": 2313,
+      "state": "Himachal Pradesh",
+      "tenders": 2365,
       "archive": 2068,
-      "observed": 245,
+      "observed": 297,
       "months": [
         "2026",
         "2020",
@@ -242,9 +242,9 @@
       "label": "Department Water Resources",
       "central": false,
       "state": "Assam",
-      "tenders": 2286,
+      "tenders": 2326,
       "archive": 2128,
-      "observed": 158,
+      "observed": 198,
       "months": [
         "2026",
         "2025",
@@ -277,9 +277,9 @@
       "label": "Public Works Building Nh Department",
       "central": false,
       "state": "Assam",
-      "tenders": 2081,
+      "tenders": 2082,
       "archive": 2074,
-      "observed": 7,
+      "observed": 8,
       "months": [
         "2026",
         "2021",
@@ -333,9 +333,9 @@
       "label": "Hp Irrigation Public Health",
       "central": false,
       "state": "Himachal Pradesh",
-      "tenders": 1153,
+      "tenders": 1162,
       "archive": 1135,
-      "observed": 18,
+      "observed": 27,
       "months": [
         "2026",
         "2020",
@@ -418,6 +418,23 @@
       ]
     },
     {
+      "id": "nrrda",
+      "label": "Rural Roads (NRRDA / PMGSY)",
+      "central": false,
+      "state": "Bihar",
+      "tenders": 804,
+      "archive": 784,
+      "observed": 20,
+      "months": [
+        "2026",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
       "id": "org-department-posts",
       "label": "Department Posts",
       "central": false,
@@ -435,30 +452,13 @@
       ]
     },
     {
-      "id": "nrrda",
-      "label": "Rural Roads (NRRDA / PMGSY)",
-      "central": false,
-      "state": "Bihar",
-      "tenders": 794,
-      "archive": 784,
-      "observed": 10,
-      "months": [
-        "2026",
-        "2017",
-        "2016",
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
       "id": "thdc",
       "label": "THDC India",
       "central": false,
       "state": "Uttarakhand",
-      "tenders": 783,
+      "tenders": 784,
       "archive": 772,
-      "observed": 11,
+      "observed": 12,
       "months": [
         "2026",
         "2017",
@@ -623,10 +623,11 @@
       "label": "Public Health Engineering Department",
       "central": false,
       "state": "Assam",
-      "tenders": 567,
+      "tenders": 568,
       "archive": 567,
-      "observed": 0,
+      "observed": 1,
       "months": [
+        "2026",
         "2021",
         "2020",
         "2019",
@@ -742,9 +743,9 @@
       "label": "Irrigation Department",
       "central": false,
       "state": "Assam",
-      "tenders": 472,
+      "tenders": 475,
       "archive": 443,
-      "observed": 29,
+      "observed": 32,
       "months": [
         "2026",
         "2021",
@@ -791,9 +792,9 @@
       "label": "Urban Development Department",
       "central": false,
       "state": "Assam",
-      "tenders": 430,
+      "tenders": 444,
       "archive": 425,
-      "observed": 5,
+      "observed": 19,
       "months": [
         "2026",
         "2021",
@@ -975,6 +976,18 @@
       ]
     },
     {
+      "id": "org-haryana-government",
+      "label": "Haryana Government",
+      "central": false,
+      "state": "Haryana",
+      "tenders": 282,
+      "archive": 0,
+      "observed": 282,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-department-electronics-information-technology",
       "label": "Department Electronics Information Technology",
       "central": true,
@@ -1072,6 +1085,23 @@
       ]
     },
     {
+      "id": "org-assam-electricity-grid",
+      "label": "Assam Electricity Grid",
+      "central": false,
+      "state": "Assam",
+      "tenders": 253,
+      "archive": 248,
+      "observed": 5,
+      "months": [
+        "2026",
+        "2021",
+        "2020",
+        "2019",
+        "2018",
+        "2017"
+      ]
+    },
+    {
       "id": "org-balmer-lawrie",
       "label": "Balmer Lawrie",
       "central": true,
@@ -1087,42 +1117,25 @@
       ]
     },
     {
-      "id": "org-assam-electricity-grid",
-      "label": "Assam Electricity Grid",
-      "central": false,
-      "state": "Assam",
-      "tenders": 252,
-      "archive": 248,
-      "observed": 4,
-      "months": [
-        "2026",
-        "2021",
-        "2020",
-        "2019",
-        "2018",
-        "2017"
-      ]
-    },
-    {
       "id": "org-panchayati-raj-department",
       "label": "Panchayati Raj Department",
       "central": false,
       "state": "Rajasthan",
-      "tenders": 230,
+      "tenders": 248,
       "archive": 0,
-      "observed": 230,
+      "observed": 248,
       "months": [
         "2026"
       ]
     },
     {
-      "id": "org-haryana-government",
-      "label": "Haryana Government",
+      "id": "org-zilla-parishad",
+      "label": "Zilla Parishad",
       "central": false,
-      "state": "Haryana",
-      "tenders": 225,
+      "state": "West Bengal",
+      "tenders": 223,
       "archive": 0,
-      "observed": 225,
+      "observed": 223,
       "months": [
         "2026"
       ]
@@ -1242,13 +1255,13 @@
       ]
     },
     {
-      "id": "org-zilla-parishad",
-      "label": "Zilla Parishad",
+      "id": "org-delhi-jal-board",
+      "label": "Delhi Jal Board",
       "central": false,
-      "state": "West Bengal",
-      "tenders": 182,
+      "state": "Delhi",
+      "tenders": 184,
       "archive": 0,
-      "observed": 182,
+      "observed": 184,
       "months": [
         "2026"
       ]
@@ -1271,6 +1284,22 @@
       ]
     },
     {
+      "id": "org-marketing-ho",
+      "label": "Marketing Ho",
+      "central": true,
+      "state": null,
+      "tenders": 171,
+      "archive": 171,
+      "observed": 0,
+      "months": [
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
       "id": "org-guwahati-refinery",
       "label": "Guwahati Refinery",
       "central": true,
@@ -1287,19 +1316,27 @@
       ]
     },
     {
-      "id": "org-marketing-ho",
-      "label": "Marketing Ho",
-      "central": true,
-      "state": null,
-      "tenders": 171,
-      "archive": 171,
-      "observed": 0,
+      "id": "org-local-self-government-department",
+      "label": "Local Self Government Department",
+      "central": false,
+      "state": "Kerala",
+      "tenders": 170,
+      "archive": 0,
+      "observed": 170,
       "months": [
-        "2017",
-        "2016",
-        "2015",
-        "2014",
-        "2013"
+        "2026"
+      ]
+    },
+    {
+      "id": "org-directorate-urban-administration-development",
+      "label": "Directorate Urban Administration Development",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 170,
+      "archive": 0,
+      "observed": 170,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -1380,18 +1417,6 @@
       ]
     },
     {
-      "id": "org-local-self-government-department",
-      "label": "Local Self Government Department",
-      "central": false,
-      "state": "Kerala",
-      "tenders": 151,
-      "archive": 0,
-      "observed": 151,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-national-buildings-construction",
       "label": "National Buildings Construction",
       "central": true,
@@ -1420,6 +1445,20 @@
       ]
     },
     {
+      "id": "org-dir-gen-defence-estates",
+      "label": "Dir Gen Defence Estates",
+      "central": true,
+      "state": null,
+      "tenders": 146,
+      "archive": 146,
+      "observed": 0,
+      "months": [
+        "2017",
+        "2016",
+        "2015"
+      ]
+    },
+    {
       "id": "org-wrpl-chaksu",
       "label": "Wrpl Chaksu",
       "central": true,
@@ -1433,20 +1472,6 @@
         "2015",
         "2014",
         "2013"
-      ]
-    },
-    {
-      "id": "org-dir-gen-defence-estates",
-      "label": "Dir Gen Defence Estates",
-      "central": true,
-      "state": null,
-      "tenders": 146,
-      "archive": 146,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
-        "2015"
       ]
     },
     {
@@ -1467,34 +1492,6 @@
       ]
     },
     {
-      "id": "org-directorate-urban-administration-development",
-      "label": "Directorate Urban Administration Development",
-      "central": false,
-      "state": "Madhya Pradesh",
-      "tenders": 143,
-      "archive": 0,
-      "observed": 143,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-wrpl-sendra",
-      "label": "Wrpl Sendra",
-      "central": true,
-      "state": null,
-      "tenders": 136,
-      "archive": 136,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
       "id": "org-paradip-refinery",
       "label": "Paradip Refinery",
       "central": true,
@@ -1511,15 +1508,19 @@
       ]
     },
     {
-      "id": "org-delhi-jal-board",
-      "label": "Delhi Jal Board",
-      "central": false,
-      "state": "Delhi",
-      "tenders": 135,
-      "archive": 0,
-      "observed": 135,
+      "id": "org-wrpl-sendra",
+      "label": "Wrpl Sendra",
+      "central": true,
+      "state": null,
+      "tenders": 136,
+      "archive": 136,
+      "observed": 0,
       "months": [
-        "2026"
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
       ]
     },
     {
@@ -1618,6 +1619,18 @@
       ]
     },
     {
+      "id": "org-chief-engineer",
+      "label": "Chief Engineer",
+      "central": false,
+      "state": "Tripura",
+      "tenders": 124,
+      "archive": 0,
+      "observed": 124,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-security-printing-minting",
       "label": "Security Printing Minting",
       "central": true,
@@ -1664,6 +1677,23 @@
       ]
     },
     {
+      "id": "org-central-mine-planning-design-institute",
+      "label": "Central Mine Planning Design Institute",
+      "central": true,
+      "state": null,
+      "tenders": 122,
+      "archive": 117,
+      "observed": 5,
+      "months": [
+        "2026",
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
       "id": "org-delhi-haryana-state-office",
       "label": "Delhi Haryana State Office",
       "central": false,
@@ -1680,20 +1710,27 @@
       ]
     },
     {
-      "id": "org-central-mine-planning-design-institute",
-      "label": "Central Mine Planning Design Institute",
-      "central": true,
-      "state": null,
-      "tenders": 121,
-      "archive": 117,
-      "observed": 4,
+      "id": "org-rural-development-panchayati-raj",
+      "label": "Rural Development Panchayati Raj",
+      "central": false,
+      "state": "Jammu & Kashmir",
+      "tenders": 120,
+      "archive": 0,
+      "observed": 120,
       "months": [
-        "2026",
-        "2017",
-        "2016",
-        "2015",
-        "2014",
-        "2013"
+        "2026"
+      ]
+    },
+    {
+      "id": "org-municipal-greater-mumbai",
+      "label": "Municipal Greater Mumbai",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 119,
+      "archive": 0,
+      "observed": 119,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -1761,6 +1798,18 @@
       ]
     },
     {
+      "id": "org-public-works-department",
+      "label": "Public Works Department",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 116,
+      "archive": 0,
+      "observed": 116,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-department-higher-education",
       "label": "Department Higher Education",
       "central": false,
@@ -1815,6 +1864,19 @@
       ]
     },
     {
+      "id": "org-haryana-board",
+      "label": "Haryana Board",
+      "central": false,
+      "state": "Haryana",
+      "tenders": 112,
+      "archive": 0,
+      "observed": 112,
+      "months": [
+        "2026",
+        "2025"
+      ]
+    },
+    {
       "id": "org-goa-shipyard",
       "label": "Goa Shipyard",
       "central": false,
@@ -1857,10 +1919,10 @@
       ]
     },
     {
-      "id": "org-rural-development-panchayati-raj",
-      "label": "Rural Development Panchayati Raj",
+      "id": "org-hpsebl",
+      "label": "Hpsebl",
       "central": false,
-      "state": "Jammu & Kashmir",
+      "state": "Himachal Pradesh",
       "tenders": 105,
       "archive": 0,
       "observed": 105,
@@ -1899,6 +1961,18 @@
       ]
     },
     {
+      "id": "org-directorate-local-bodies-up",
+      "label": "Directorate Local Bodies Up",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 103,
+      "archive": 0,
+      "observed": 103,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-ce-mrrda",
       "label": "Ce Mrrda",
       "central": false,
@@ -1915,26 +1989,13 @@
       ]
     },
     {
-      "id": "org-haryana-board",
-      "label": "Haryana Board",
-      "central": false,
-      "state": "Haryana",
-      "tenders": 100,
-      "archive": 0,
-      "observed": 100,
-      "months": [
-        "2026",
-        "2025"
-      ]
-    },
-    {
       "id": "org-assam-power-generation",
       "label": "Assam Power Generation",
       "central": false,
       "state": "Assam",
-      "tenders": 99,
+      "tenders": 100,
       "archive": 98,
-      "observed": 1,
+      "observed": 2,
       "months": [
         "2026",
         "2021",
@@ -2112,27 +2173,19 @@
       ]
     },
     {
-      "id": "org-municipal-greater-mumbai",
-      "label": "Municipal Greater Mumbai",
-      "central": false,
-      "state": "Maharashtra",
-      "tenders": 88,
-      "archive": 0,
-      "observed": 88,
+      "id": "org-indianoil",
+      "label": "Indianoil",
+      "central": true,
+      "state": null,
+      "tenders": 86,
+      "archive": 14,
+      "observed": 72,
       "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-directorate-local-bodies-up",
-      "label": "Directorate Local Bodies Up",
-      "central": false,
-      "state": "Uttar Pradesh",
-      "tenders": 88,
-      "archive": 0,
-      "observed": 88,
-      "months": [
-        "2026"
+        "2026",
+        "2017",
+        "2016",
+        "2015",
+        "2014"
       ]
     },
     {
@@ -2144,22 +2197,6 @@
       "archive": 86,
       "observed": 0,
       "months": [
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-uttar-pradesh-state-office-2",
-      "label": "Uttar Pradesh State Office 2",
-      "central": false,
-      "state": "Uttar Pradesh",
-      "tenders": 85,
-      "archive": 85,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
         "2015",
         "2014",
         "2013"
@@ -2182,6 +2219,38 @@
       ]
     },
     {
+      "id": "org-uttar-pradesh-state-office-2",
+      "label": "Uttar Pradesh State Office 2",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 85,
+      "archive": 85,
+      "observed": 0,
+      "months": [
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-indian-air-force",
+      "label": "Indian Air Force",
+      "central": true,
+      "state": null,
+      "tenders": 85,
+      "archive": 64,
+      "observed": 21,
+      "months": [
+        "2026",
+        "2017",
+        "2016",
+        "2014",
+        "2013"
+      ]
+    },
+    {
       "id": "org-department-tourism",
       "label": "Department Tourism",
       "central": false,
@@ -2199,10 +2268,10 @@
       ]
     },
     {
-      "id": "org-chief-engineer",
-      "label": "Chief Engineer",
+      "id": "org-municipal-bodies",
+      "label": "Municipal Bodies",
       "central": false,
-      "state": "Tripura",
+      "state": "Odisha",
       "tenders": 84,
       "archive": 0,
       "observed": 84,
@@ -2211,15 +2280,32 @@
       ]
     },
     {
-      "id": "org-public-works-department",
-      "label": "Public Works Department",
+      "id": "org-ce-rw-i",
+      "label": "Ce Rw I",
       "central": false,
-      "state": "Delhi",
-      "tenders": 82,
+      "state": "Odisha",
+      "tenders": 81,
       "archive": 0,
-      "observed": 82,
+      "observed": 81,
       "months": [
         "2026"
+      ]
+    },
+    {
+      "id": "org-higher-education",
+      "label": "Higher Education",
+      "central": false,
+      "state": "Assam",
+      "tenders": 80,
+      "archive": 70,
+      "observed": 10,
+      "months": [
+        "2026",
+        "2020",
+        "2019",
+        "2018",
+        "2017",
+        "2016"
       ]
     },
     {
@@ -2253,19 +2339,18 @@
       ]
     },
     {
-      "id": "org-indian-air-force",
-      "label": "Indian Air Force",
+      "id": "org-central-public-works-department",
+      "label": "Central Public Works Department",
       "central": true,
       "state": null,
-      "tenders": 78,
-      "archive": 64,
-      "observed": 14,
+      "tenders": 77,
+      "archive": 77,
+      "observed": 0,
       "months": [
-        "2026",
         "2017",
         "2016",
-        "2014",
-        "2013"
+        "2015",
+        "2014"
       ]
     },
     {
@@ -2285,47 +2370,27 @@
       ]
     },
     {
-      "id": "org-central-public-works-department",
-      "label": "Central Public Works Department",
-      "central": true,
-      "state": null,
-      "tenders": 77,
-      "archive": 77,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
-        "2015",
-        "2014"
-      ]
-    },
-    {
-      "id": "org-municipal-bodies",
-      "label": "Municipal Bodies",
+      "id": "org-u-p-irrigation-department",
+      "label": "U P Irrigation Department",
       "central": false,
-      "state": "Odisha",
-      "tenders": 75,
+      "state": "Uttar Pradesh",
+      "tenders": 77,
       "archive": 0,
-      "observed": 75,
+      "observed": 77,
       "months": [
         "2026"
       ]
     },
     {
-      "id": "org-higher-education",
-      "label": "Higher Education",
+      "id": "org-pwd-ce-as",
+      "label": "Pwd Ce As",
       "central": false,
-      "state": "Assam",
-      "tenders": 74,
-      "archive": 70,
-      "observed": 4,
+      "state": "Rajasthan",
+      "tenders": 75,
+      "archive": 0,
+      "observed": 75,
       "months": [
-        "2026",
-        "2020",
-        "2019",
-        "2018",
-        "2017",
-        "2016"
+        "2026"
       ]
     },
     {
@@ -2339,6 +2404,32 @@
       "months": [
         "2016",
         "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-tneb",
+      "label": "Tneb",
+      "central": false,
+      "state": "Tamil Nadu",
+      "tenders": 74,
+      "archive": 0,
+      "observed": 74,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-hll-lifecare",
+      "label": "Hll Lifecare",
+      "central": false,
+      "state": "Kerala",
+      "tenders": 73,
+      "archive": 71,
+      "observed": 2,
+      "months": [
+        "2026",
         "2014",
         "2013"
       ]
@@ -2360,20 +2451,6 @@
       ]
     },
     {
-      "id": "org-hll-lifecare",
-      "label": "Hll Lifecare",
-      "central": false,
-      "state": "Kerala",
-      "tenders": 73,
-      "archive": 71,
-      "observed": 2,
-      "months": [
-        "2026",
-        "2014",
-        "2013"
-      ]
-    },
-    {
       "id": "org-bkpl-barauni",
       "label": "Bkpl Barauni",
       "central": true,
@@ -2390,20 +2467,8 @@
       ]
     },
     {
-      "id": "org-pwd-ce-as",
-      "label": "Pwd Ce As",
-      "central": false,
-      "state": "Rajasthan",
-      "tenders": 71,
-      "archive": 0,
-      "observed": 71,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-kiocl",
-      "label": "Kiocl",
+      "id": "iocl",
+      "label": "Indian Oil (IOCL)",
       "central": true,
       "state": null,
       "tenders": 70,
@@ -2417,24 +2482,8 @@
       ]
     },
     {
-      "id": "org-indianoil",
-      "label": "Indianoil",
-      "central": true,
-      "state": null,
-      "tenders": 70,
-      "archive": 14,
-      "observed": 56,
-      "months": [
-        "2026",
-        "2017",
-        "2016",
-        "2015",
-        "2014"
-      ]
-    },
-    {
-      "id": "iocl",
-      "label": "Indian Oil (IOCL)",
+      "id": "org-kiocl",
+      "label": "Kiocl",
       "central": true,
       "state": null,
       "tenders": 70,
@@ -2508,18 +2557,6 @@
       ]
     },
     {
-      "id": "org-u-p-irrigation-department",
-      "label": "U P Irrigation Department",
-      "central": false,
-      "state": "Uttar Pradesh",
-      "tenders": 67,
-      "archive": 0,
-      "observed": 67,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-inland-waterways-authority",
       "label": "Inland Waterways Authority",
       "central": true,
@@ -2570,6 +2607,18 @@
       ]
     },
     {
+      "id": "org-pwd-roads-bridges",
+      "label": "Pwd Roads Bridges",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 65,
+      "archive": 0,
+      "observed": 65,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-madras-fertilizers",
       "label": "Madras Fertilizers",
       "central": true,
@@ -2616,8 +2665,8 @@
       ]
     },
     {
-      "id": "org-hppwd",
-      "label": "Hppwd",
+      "id": "org-midhani",
+      "label": "Midhani",
       "central": true,
       "state": null,
       "tenders": 61,
@@ -2625,9 +2674,7 @@
       "observed": 0,
       "months": [
         "2016",
-        "2015",
-        "2014",
-        "2013"
+        "2015"
       ]
     },
     {
@@ -2663,8 +2710,8 @@
       ]
     },
     {
-      "id": "org-midhani",
-      "label": "Midhani",
+      "id": "org-hppwd",
+      "label": "Hppwd",
       "central": true,
       "state": null,
       "tenders": 61,
@@ -2672,31 +2719,23 @@
       "observed": 0,
       "months": [
         "2016",
-        "2015"
+        "2015",
+        "2014",
+        "2013"
       ]
     },
     {
-      "id": "org-pwd-roads-bridges",
-      "label": "Pwd Roads Bridges",
-      "central": false,
-      "state": "Madhya Pradesh",
-      "tenders": 61,
-      "archive": 0,
-      "observed": 61,
+      "id": "org-indian-coast-guard",
+      "label": "Indian Coast Guard",
+      "central": true,
+      "state": null,
+      "tenders": 59,
+      "archive": 58,
+      "observed": 1,
       "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-tneb",
-      "label": "Tneb",
-      "central": false,
-      "state": "Tamil Nadu",
-      "tenders": 61,
-      "archive": 0,
-      "observed": 61,
-      "months": [
-        "2026"
+        "2026",
+        "2014",
+        "2013"
       ]
     },
     {
@@ -2729,16 +2768,27 @@
       ]
     },
     {
-      "id": "org-indian-coast-guard",
-      "label": "Indian Coast Guard",
-      "central": true,
-      "state": null,
+      "id": "org-dlb",
+      "label": "Dlb",
+      "central": false,
+      "state": "Rajasthan",
       "tenders": 58,
-      "archive": 58,
-      "observed": 0,
+      "archive": 0,
+      "observed": 58,
       "months": [
-        "2014",
-        "2013"
+        "2026"
+      ]
+    },
+    {
+      "id": "org-department-sugar",
+      "label": "Department Sugar",
+      "central": false,
+      "state": "Tamil Nadu",
+      "tenders": 58,
+      "archive": 0,
+      "observed": 58,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -2790,6 +2840,54 @@
       ]
     },
     {
+      "id": "org-madhya-pradesh-power-generating",
+      "label": "Madhya Pradesh Power Generating",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 57,
+      "archive": 0,
+      "observed": 57,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-directorate-technical-education",
+      "label": "Directorate Technical Education",
+      "central": false,
+      "state": "Tamil Nadu",
+      "tenders": 57,
+      "archive": 0,
+      "observed": 57,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-department-local-government",
+      "label": "Department Local Government",
+      "central": false,
+      "state": "Punjab",
+      "tenders": 57,
+      "archive": 0,
+      "observed": 57,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-paschimanchal-vidyut-vitran-nigam",
+      "label": "Paschimanchal Vidyut Vitran Nigam",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 56,
+      "archive": 0,
+      "observed": 56,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-hmrbpl-mourigram",
       "label": "Hmrbpl Mourigram",
       "central": true,
@@ -2821,13 +2919,13 @@
       ]
     },
     {
-      "id": "org-hpsebl",
-      "label": "Hpsebl",
+      "id": "org-phe",
+      "label": "Phe",
       "central": false,
-      "state": "Himachal Pradesh",
-      "tenders": 54,
+      "state": "Jammu & Kashmir",
+      "tenders": 53,
       "archive": 0,
-      "observed": 54,
+      "observed": 53,
       "months": [
         "2026"
       ]
@@ -2843,18 +2941,6 @@
       "months": [
         "2026",
         "2025"
-      ]
-    },
-    {
-      "id": "org-department-sugar",
-      "label": "Department Sugar",
-      "central": false,
-      "state": "Tamil Nadu",
-      "tenders": 53,
-      "archive": 0,
-      "observed": 53,
-      "months": [
-        "2026"
       ]
     },
     {
@@ -2934,15 +3020,18 @@
       ]
     },
     {
-      "id": "org-department-local-government",
-      "label": "Department Local Government",
-      "central": false,
-      "state": "Punjab",
-      "tenders": 49,
-      "archive": 0,
-      "observed": 49,
+      "id": "org-ibp-kolkata",
+      "label": "Ibp Kolkata",
+      "central": true,
+      "state": null,
+      "tenders": 48,
+      "archive": 48,
+      "observed": 0,
       "months": [
-        "2026"
+        "2017",
+        "2016",
+        "2015",
+        "2014"
       ]
     },
     {
@@ -2959,21 +3048,6 @@
         "2015",
         "2014",
         "2013"
-      ]
-    },
-    {
-      "id": "org-ibp-kolkata",
-      "label": "Ibp Kolkata",
-      "central": true,
-      "state": null,
-      "tenders": 48,
-      "archive": 48,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
-        "2015",
-        "2014"
       ]
     },
     {
@@ -3022,18 +3096,6 @@
       ]
     },
     {
-      "id": "org-ce-rw-i",
-      "label": "Ce Rw I",
-      "central": false,
-      "state": "Odisha",
-      "tenders": 45,
-      "archive": 0,
-      "observed": 45,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-metal-steel-factory",
       "label": "Metal Steel Factory",
       "central": true,
@@ -3049,10 +3111,10 @@
       ]
     },
     {
-      "id": "org-madhya-pradesh-power-generating",
-      "label": "Madhya Pradesh Power Generating",
+      "id": "org-maharashtra-housing-area-development-authority",
+      "label": "Maharashtra Housing Area Development Authority",
       "central": false,
-      "state": "Madhya Pradesh",
+      "state": "Maharashtra",
       "tenders": 45,
       "archive": 0,
       "observed": 45,
@@ -3065,6 +3127,18 @@
       "label": "Ce Bm Mbbs Chandikole",
       "central": false,
       "state": "Odisha",
+      "tenders": 45,
+      "archive": 0,
+      "observed": 45,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-rrvun-cmd",
+      "label": "Rrvun Cmd",
+      "central": false,
+      "state": "Rajasthan",
       "tenders": 45,
       "archive": 0,
       "observed": 45,
@@ -3117,36 +3191,8 @@
       ]
     },
     {
-      "id": "org-maharashtra-housing-area-development-authority",
-      "label": "Maharashtra Housing Area Development Authority",
-      "central": false,
-      "state": "Maharashtra",
-      "tenders": 44,
-      "archive": 0,
-      "observed": 44,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-mangalore-refinery-petrochemicals",
       "label": "Mangalore Refinery Petrochemicals",
-      "central": true,
-      "state": null,
-      "tenders": 43,
-      "archive": 43,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-northern-region-office",
-      "label": "Northern Region Office",
       "central": true,
       "state": null,
       "tenders": 43,
@@ -3191,14 +3237,16 @@
       ]
     },
     {
-      "id": "org-delhi-milk-scheme",
-      "label": "Delhi Milk Scheme",
-      "central": false,
-      "state": "Delhi",
-      "tenders": 42,
-      "archive": 42,
+      "id": "org-northern-region-office",
+      "label": "Northern Region Office",
+      "central": true,
+      "state": null,
+      "tenders": 43,
+      "archive": 43,
       "observed": 0,
       "months": [
+        "2017",
+        "2016",
         "2015",
         "2014",
         "2013"
@@ -3217,6 +3265,20 @@
         "2016",
         "2015",
         "2014"
+      ]
+    },
+    {
+      "id": "org-delhi-milk-scheme",
+      "label": "Delhi Milk Scheme",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 42,
+      "archive": 42,
+      "observed": 0,
+      "months": [
+        "2015",
+        "2014",
+        "2013"
       ]
     },
     {
@@ -3251,30 +3313,15 @@
       ]
     },
     {
-      "id": "org-dlb",
-      "label": "Dlb",
+      "id": "org-tamilnadu-newsprint-papers",
+      "label": "Tamilnadu Newsprint Papers",
       "central": false,
-      "state": "Rajasthan",
+      "state": "Tamil Nadu",
       "tenders": 41,
       "archive": 0,
       "observed": 41,
       "months": [
         "2026"
-      ]
-    },
-    {
-      "id": "org-skill-employment-entrepreneurship-department",
-      "label": "Skill Employment Entrepreneurship Department",
-      "central": false,
-      "state": "Assam",
-      "tenders": 40,
-      "archive": 40,
-      "observed": 0,
-      "months": [
-        "2020",
-        "2019",
-        "2018",
-        "2017"
       ]
     },
     {
@@ -3290,6 +3337,21 @@
         "2020",
         "2019",
         "2018"
+      ]
+    },
+    {
+      "id": "org-skill-employment-entrepreneurship-department",
+      "label": "Skill Employment Entrepreneurship Department",
+      "central": false,
+      "state": "Assam",
+      "tenders": 40,
+      "archive": 40,
+      "observed": 0,
+      "months": [
+        "2020",
+        "2019",
+        "2018",
+        "2017"
       ]
     },
     {
@@ -3322,25 +3384,22 @@
       ]
     },
     {
+      "id": "org-madhyanchal-vidyut-vitran-nigam",
+      "label": "Madhyanchal Vidyut Vitran Nigam",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 40,
+      "archive": 0,
+      "observed": 40,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-integrated-costal-marine-area-managment",
       "label": "Integrated Costal Marine Area Managment",
       "central": true,
       "state": null,
-      "tenders": 39,
-      "archive": 39,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-uttar-pradesh-state-office-1",
-      "label": "Uttar Pradesh State Office 1",
-      "central": false,
-      "state": "Uttar Pradesh",
       "tenders": 39,
       "archive": 39,
       "observed": 0,
@@ -3381,6 +3440,21 @@
       ]
     },
     {
+      "id": "org-uttar-pradesh-state-office-1",
+      "label": "Uttar Pradesh State Office 1",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 39,
+      "archive": 39,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
       "id": "org-ne-ig-regional-instt-health-medical-science",
       "label": "Ne Ig Regional Instt Health Medical Science",
       "central": true,
@@ -3395,10 +3469,10 @@
       ]
     },
     {
-      "id": "org-directorate-technical-education",
-      "label": "Directorate Technical Education",
+      "id": "org-eic-civil",
+      "label": "Eic Civil",
       "central": false,
-      "state": "Tamil Nadu",
+      "state": "Odisha",
       "tenders": 39,
       "archive": 0,
       "observed": 39,
@@ -3436,21 +3510,6 @@
       ]
     },
     {
-      "id": "org-heavy-vehicle-factory",
-      "label": "Heavy Vehicle Factory",
-      "central": true,
-      "state": null,
-      "tenders": 38,
-      "archive": 38,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
-        "2014",
-        "2013"
-      ]
-    },
-    {
       "id": "org-department-for-international-development",
       "label": "Department For International Development",
       "central": true,
@@ -3468,6 +3527,21 @@
       ]
     },
     {
+      "id": "org-heavy-vehicle-factory",
+      "label": "Heavy Vehicle Factory",
+      "central": true,
+      "state": null,
+      "tenders": 38,
+      "archive": 38,
+      "observed": 0,
+      "months": [
+        "2017",
+        "2016",
+        "2014",
+        "2013"
+      ]
+    },
+    {
       "id": "org-cpwd",
       "label": "Cpwd",
       "central": true,
@@ -3480,10 +3554,10 @@
       ]
     },
     {
-      "id": "org-paschimanchal-vidyut-vitran-nigam",
-      "label": "Paschimanchal Vidyut Vitran Nigam",
+      "id": "org-i-fc",
+      "label": "I Fc",
       "central": false,
-      "state": "Uttar Pradesh",
+      "state": "Jammu & Kashmir",
       "tenders": 38,
       "archive": 0,
       "observed": 38,
@@ -3508,18 +3582,6 @@
       ]
     },
     {
-      "id": "org-phe",
-      "label": "Phe",
-      "central": false,
-      "state": "Jammu & Kashmir",
-      "tenders": 37,
-      "archive": 0,
-      "observed": 37,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-geological-survey",
       "label": "Geological Survey",
       "central": true,
@@ -3531,6 +3593,19 @@
         "2017",
         "2016",
         "2015"
+      ]
+    },
+    {
+      "id": "org-mecon",
+      "label": "Mecon",
+      "central": true,
+      "state": null,
+      "tenders": 35,
+      "archive": 35,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
       ]
     },
     {
@@ -3548,16 +3623,15 @@
       ]
     },
     {
-      "id": "org-mecon",
-      "label": "Mecon",
-      "central": true,
-      "state": null,
+      "id": "org-kerala-water-authority",
+      "label": "Kerala Water Authority",
+      "central": false,
+      "state": "Kerala",
       "tenders": 35,
-      "archive": 35,
-      "observed": 0,
+      "archive": 0,
+      "observed": 35,
       "months": [
-        "2014",
-        "2013"
+        "2026"
       ]
     },
     {
@@ -3615,20 +3689,6 @@
       ]
     },
     {
-      "id": "org-ordnance-equipment-factory-kanpur",
-      "label": "Ordnance Equipment Factory Kanpur",
-      "central": true,
-      "state": null,
-      "tenders": 33,
-      "archive": 33,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2014",
-        "2013"
-      ]
-    },
-    {
       "id": "org-special-protection-group",
       "label": "Special Protection Group",
       "central": true,
@@ -3645,27 +3705,32 @@
       ]
     },
     {
-      "id": "org-i-fc",
-      "label": "I Fc",
-      "central": false,
-      "state": "Jammu & Kashmir",
+      "id": "org-ordnance-equipment-factory-kanpur",
+      "label": "Ordnance Equipment Factory Kanpur",
+      "central": true,
+      "state": null,
       "tenders": 33,
-      "archive": 0,
-      "observed": 33,
+      "archive": 33,
+      "observed": 0,
       "months": [
-        "2026"
+        "2016",
+        "2014",
+        "2013"
       ]
     },
     {
-      "id": "org-rrvun-cmd",
-      "label": "Rrvun Cmd",
+      "id": "org-assam-inland-water-transport-development-society",
+      "label": "Assam Inland Water Transport Development Society",
       "central": false,
-      "state": "Rajasthan",
-      "tenders": 33,
-      "archive": 0,
-      "observed": 33,
+      "state": "Assam",
+      "tenders": 32,
+      "archive": 32,
+      "observed": 0,
       "months": [
-        "2026"
+        "2021",
+        "2020",
+        "2019",
+        "2018"
       ]
     },
     {
@@ -3685,18 +3750,19 @@
       ]
     },
     {
-      "id": "org-assam-inland-water-transport-development-society",
-      "label": "Assam Inland Water Transport Development Society",
-      "central": false,
-      "state": "Assam",
+      "id": "org-department-agriculture-cooperation",
+      "label": "Department Agriculture Cooperation",
+      "central": true,
+      "state": null,
       "tenders": 32,
       "archive": 32,
       "observed": 0,
       "months": [
-        "2021",
-        "2020",
-        "2019",
-        "2018"
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
       ]
     },
     {
@@ -3715,19 +3781,27 @@
       ]
     },
     {
-      "id": "org-department-agriculture-cooperation",
-      "label": "Department Agriculture Cooperation",
+      "id": "org-maws",
+      "label": "Maws",
       "central": false,
-      "state": "Delhi",
+      "state": "Tamil Nadu",
       "tenders": 32,
-      "archive": 32,
-      "observed": 0,
+      "archive": 0,
+      "observed": 32,
       "months": [
-        "2017",
-        "2016",
-        "2015",
-        "2014",
-        "2013"
+        "2026"
+      ]
+    },
+    {
+      "id": "org-md-upcl",
+      "label": "Md Upcl",
+      "central": false,
+      "state": "Uttarakhand",
+      "tenders": 32,
+      "archive": 0,
+      "observed": 32,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -3773,6 +3847,18 @@
       ]
     },
     {
+      "id": "org-irrigation-waterways-dept",
+      "label": "Irrigation Waterways Dept",
+      "central": false,
+      "state": "West Bengal",
+      "tenders": 31,
+      "archive": 0,
+      "observed": 31,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-gauhati-university",
       "label": "Gauhati University",
       "central": false,
@@ -3801,10 +3887,10 @@
       ]
     },
     {
-      "id": "org-eic-civil",
-      "label": "Eic Civil",
+      "id": "org-rdd-special-division",
+      "label": "Rdd Special Division",
       "central": false,
-      "state": "Odisha",
+      "state": "Jharkhand",
       "tenders": 30,
       "archive": 0,
       "observed": 30,
@@ -3813,22 +3899,10 @@
       ]
     },
     {
-      "id": "org-kerala-water-authority",
-      "label": "Kerala Water Authority",
+      "id": "org-kolkata-municipal",
+      "label": "Kolkata Municipal",
       "central": false,
-      "state": "Kerala",
-      "tenders": 29,
-      "archive": 0,
-      "observed": 29,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-tamilnadu-newsprint-papers",
-      "label": "Tamilnadu Newsprint Papers",
-      "central": false,
-      "state": "Tamil Nadu",
+      "state": "West Bengal",
       "tenders": 29,
       "archive": 0,
       "observed": 29,
@@ -3877,18 +3951,6 @@
       ]
     },
     {
-      "id": "org-maws",
-      "label": "Maws",
-      "central": false,
-      "state": "Tamil Nadu",
-      "tenders": 28,
-      "archive": 0,
-      "observed": 28,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-tea-tribes-welfare-department",
       "label": "Tea Tribes Welfare Department",
       "central": false,
@@ -3916,6 +3978,18 @@
       "months": [
         "2014",
         "2013"
+      ]
+    },
+    {
+      "id": "org-udd-secretary",
+      "label": "Udd Secretary",
+      "central": false,
+      "state": "Jharkhand",
+      "tenders": 27,
+      "archive": 0,
+      "observed": 27,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -3947,6 +4021,18 @@
         "2015",
         "2014",
         "2013"
+      ]
+    },
+    {
+      "id": "org-dc-pdd",
+      "label": "Dc Pdd",
+      "central": false,
+      "state": "Jammu & Kashmir",
+      "tenders": 26,
+      "archive": 0,
+      "observed": 26,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -3999,10 +4085,10 @@
       ]
     },
     {
-      "id": "org-md-upcl",
-      "label": "Md Upcl",
+      "id": "org-irrigation-flood-control",
+      "label": "Irrigation Flood Control",
       "central": false,
-      "state": "Uttarakhand",
+      "state": "Delhi",
       "tenders": 25,
       "archive": 0,
       "observed": 25,
@@ -4011,16 +4097,15 @@
       ]
     },
     {
-      "id": "org-ammunition-factory-kirkee",
-      "label": "Ammunition Factory Kirkee",
-      "central": true,
-      "state": null,
-      "tenders": 24,
-      "archive": 24,
-      "observed": 0,
+      "id": "org-department-agriculture-world-bank-tenders",
+      "label": "Department Agriculture World Bank Tenders",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 25,
+      "archive": 0,
+      "observed": 25,
       "months": [
-        "2016",
-        "2014"
+        "2026"
       ]
     },
     {
@@ -4038,39 +4123,16 @@
       ]
     },
     {
-      "id": "org-dc-pdd",
-      "label": "Dc Pdd",
-      "central": false,
-      "state": "Jammu & Kashmir",
+      "id": "org-ammunition-factory-kirkee",
+      "label": "Ammunition Factory Kirkee",
+      "central": true,
+      "state": null,
       "tenders": 24,
-      "archive": 0,
-      "observed": 24,
+      "archive": 24,
+      "observed": 0,
       "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-madhyanchal-vidyut-vitran-nigam",
-      "label": "Madhyanchal Vidyut Vitran Nigam",
-      "central": false,
-      "state": "Uttar Pradesh",
-      "tenders": 24,
-      "archive": 0,
-      "observed": 24,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-irrigation-waterways-dept",
-      "label": "Irrigation Waterways Dept",
-      "central": false,
-      "state": "West Bengal",
-      "tenders": 24,
-      "archive": 0,
-      "observed": 24,
-      "months": [
-        "2026"
+        "2016",
+        "2014"
       ]
     },
     {
@@ -4103,6 +4165,42 @@
       ]
     },
     {
+      "id": "org-rdd-ceo-nagpur",
+      "label": "Rdd Ceo Nagpur",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 23,
+      "archive": 0,
+      "observed": 23,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-ce",
+      "label": "Ce",
+      "central": false,
+      "state": "Odisha",
+      "tenders": 23,
+      "archive": 0,
+      "observed": 23,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-border-security-force",
+      "label": "Border Security Force",
+      "central": true,
+      "state": null,
+      "tenders": 22,
+      "archive": 22,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
       "id": "org-nic",
       "label": "Nic",
       "central": true,
@@ -4131,22 +4229,10 @@
       ]
     },
     {
-      "id": "org-border-security-force",
-      "label": "Border Security Force",
-      "central": true,
-      "state": null,
-      "tenders": 22,
-      "archive": 22,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-irrigation-flood-control",
-      "label": "Irrigation Flood Control",
+      "id": "org-public-works-region",
+      "label": "Public Works Region",
       "central": false,
-      "state": "Delhi",
+      "state": "Maharashtra",
       "tenders": 22,
       "archive": 0,
       "observed": 22,
@@ -4155,22 +4241,10 @@
       ]
     },
     {
-      "id": "org-udd-secretary",
-      "label": "Udd Secretary",
+      "id": "org-director-cum-chief-engineer-red",
+      "label": "Director Cum Chief Engineer Red",
       "central": false,
-      "state": "Jharkhand",
-      "tenders": 22,
-      "archive": 0,
-      "observed": 22,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-kolkata-municipal",
-      "label": "Kolkata Municipal",
-      "central": false,
-      "state": "West Bengal",
+      "state": "Uttar Pradesh",
       "tenders": 22,
       "archive": 0,
       "observed": 22,
@@ -4194,10 +4268,10 @@
       ]
     },
     {
-      "id": "org-rdd-special-division",
-      "label": "Rdd Special Division",
+      "id": "org-madhya-pradesh-madhya-kshetra-vidyut-vitaran",
+      "label": "Madhya Pradesh Madhya Kshetra Vidyut Vitaran",
       "central": false,
-      "state": "Jharkhand",
+      "state": "Madhya Pradesh",
       "tenders": 21,
       "archive": 0,
       "observed": 21,
@@ -4206,10 +4280,22 @@
       ]
     },
     {
-      "id": "org-public-works-region",
-      "label": "Public Works Region",
+      "id": "org-department-agriculture",
+      "label": "Department Agriculture",
       "central": false,
       "state": "Maharashtra",
+      "tenders": 21,
+      "archive": 0,
+      "observed": 21,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-director",
+      "label": "Director",
+      "central": false,
+      "state": "Tripura",
       "tenders": 21,
       "archive": 0,
       "observed": 21,
@@ -4260,6 +4346,21 @@
       ]
     },
     {
+      "id": "org-intelligence-bureau-new-delhi",
+      "label": "Intelligence Bureau New Delhi",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 20,
+      "archive": 20,
+      "observed": 0,
+      "months": [
+        "2017",
+        "2016",
+        "2015",
+        "2014"
+      ]
+    },
+    {
       "id": "org-odisha-state-office",
       "label": "Odisha State Office",
       "central": false,
@@ -4276,33 +4377,15 @@
       ]
     },
     {
-      "id": "org-intelligence-bureau-new-delhi",
-      "label": "Intelligence Bureau New Delhi",
+      "id": "org-department-rural-development",
+      "label": "Department Rural Development",
       "central": false,
-      "state": "Delhi",
+      "state": "Goa",
       "tenders": 20,
-      "archive": 20,
-      "observed": 0,
+      "archive": 0,
+      "observed": 20,
       "months": [
-        "2017",
-        "2016",
-        "2015",
-        "2014"
-      ]
-    },
-    {
-      "id": "org-hp-agriculture-marketing-board",
-      "label": "Hp Agriculture Marketing Board",
-      "central": false,
-      "state": "Himachal Pradesh",
-      "tenders": 20,
-      "archive": 20,
-      "observed": 0,
-      "months": [
-        "2019",
-        "2018",
-        "2017",
-        "2016"
+        "2026"
       ]
     },
     {
@@ -4321,6 +4404,21 @@
       ]
     },
     {
+      "id": "org-hp-agriculture-marketing-board",
+      "label": "Hp Agriculture Marketing Board",
+      "central": false,
+      "state": "Himachal Pradesh",
+      "tenders": 20,
+      "archive": 20,
+      "observed": 0,
+      "months": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ]
+    },
+    {
       "id": "org-himachal-pradesh-agriculture-development-society",
       "label": "Himachal Pradesh Agriculture Development Society",
       "central": false,
@@ -4334,10 +4432,10 @@
       ]
     },
     {
-      "id": "org-department-agriculture",
-      "label": "Department Agriculture",
+      "id": "org-west-bengal-power-development",
+      "label": "West Bengal Power Development",
       "central": false,
-      "state": "Maharashtra",
+      "state": "West Bengal",
       "tenders": 20,
       "archive": 0,
       "observed": 20,
@@ -4363,10 +4461,10 @@
       ]
     },
     {
-      "id": "org-department-rural-development",
-      "label": "Department Rural Development",
+      "id": "org-directorate-general-defence-estates",
+      "label": "Directorate General Defence Estates",
       "central": false,
-      "state": "Goa",
+      "state": "Delhi",
       "tenders": 19,
       "archive": 0,
       "observed": 19,
@@ -4375,17 +4473,15 @@
       ]
     },
     {
-      "id": "org-central-govt-employees-welfare-housing-orgn",
-      "label": "Central Govt Employees Welfare Housing Orgn",
+      "id": "org-dakshinanchal-vidyut-vitran-nigam",
+      "label": "Dakshinanchal Vidyut Vitran Nigam",
       "central": false,
-      "state": "Delhi",
-      "tenders": 18,
-      "archive": 18,
-      "observed": 0,
+      "state": "Uttar Pradesh",
+      "tenders": 19,
+      "archive": 0,
+      "observed": 19,
       "months": [
-        "2015",
-        "2014",
-        "2013"
+        "2026"
       ]
     },
     {
@@ -4416,10 +4512,24 @@
       ]
     },
     {
-      "id": "org-directorate-general-defence-estates",
-      "label": "Directorate General Defence Estates",
+      "id": "org-central-govt-employees-welfare-housing-orgn",
+      "label": "Central Govt Employees Welfare Housing Orgn",
       "central": false,
       "state": "Delhi",
+      "tenders": 18,
+      "archive": 18,
+      "observed": 0,
+      "months": [
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-pune-municipal",
+      "label": "Pune Municipal",
+      "central": false,
+      "state": "Maharashtra",
       "tenders": 18,
       "archive": 0,
       "observed": 18,
@@ -4468,25 +4578,10 @@
       ]
     },
     {
-      "id": "org-power-system-operation",
-      "label": "Power System Operation",
-      "central": true,
-      "state": null,
-      "tenders": 17,
-      "archive": 17,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
-        "2015",
-        "2014"
-      ]
-    },
-    {
       "id": "org-department-telecommunications",
       "label": "Department Telecommunications",
-      "central": false,
-      "state": "Jharkhand",
+      "central": true,
+      "state": null,
       "tenders": 17,
       "archive": 17,
       "observed": 0,
@@ -4498,41 +4593,42 @@
       ]
     },
     {
-      "id": "org-director",
-      "label": "Director",
+      "id": "org-power-system-operation",
+      "label": "Power System Operation",
       "central": false,
-      "state": "Tripura",
+      "state": "Delhi",
       "tenders": 17,
-      "archive": 0,
-      "observed": 17,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-west-bengal-power-development",
-      "label": "West Bengal Power Development",
-      "central": false,
-      "state": "West Bengal",
-      "tenders": 17,
-      "archive": 0,
-      "observed": 17,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-dibrugarh-university",
-      "label": "Dibrugarh University",
-      "central": false,
-      "state": "Assam",
-      "tenders": 16,
-      "archive": 16,
+      "archive": 17,
       "observed": 0,
       "months": [
-        "2021",
-        "2020",
-        "2019"
+        "2017",
+        "2016",
+        "2015",
+        "2014"
+      ]
+    },
+    {
+      "id": "org-phed-chief-engineer",
+      "label": "Phed Chief Engineer",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 17,
+      "archive": 0,
+      "observed": 17,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-u-p-state-construction-infrastructure-development",
+      "label": "U P State Construction Infrastructure Development",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 17,
+      "archive": 0,
+      "observed": 17,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -4550,6 +4646,20 @@
       ]
     },
     {
+      "id": "org-dibrugarh-university",
+      "label": "Dibrugarh University",
+      "central": false,
+      "state": "Assam",
+      "tenders": 16,
+      "archive": 16,
+      "observed": 0,
+      "months": [
+        "2021",
+        "2020",
+        "2019"
+      ]
+    },
+    {
       "id": "org-hill-areas-department",
       "label": "Hill Areas Department",
       "central": false,
@@ -4563,35 +4673,8 @@
       ]
     },
     {
-      "id": "org-satish-dhawan-space-centre",
-      "label": "Satish Dhawan Space Centre",
-      "central": true,
-      "state": null,
-      "tenders": 16,
-      "archive": 16,
-      "observed": 0,
-      "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-rural-electrification",
-      "label": "Rural Electrification",
-      "central": true,
-      "state": null,
-      "tenders": 16,
-      "archive": 16,
-      "observed": 0,
-      "months": [
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-iipm",
-      "label": "Iipm",
+      "id": "org-indian-institute-science-education-research-kolkata",
+      "label": "Indian Institute Science Education Research Kolkata",
       "central": true,
       "state": null,
       "tenders": 16,
@@ -4600,6 +4683,18 @@
       "months": [
         "2017",
         "2016",
+        "2015"
+      ]
+    },
+    {
+      "id": "org-ministry-external-affairs",
+      "label": "Ministry External Affairs",
+      "central": true,
+      "state": null,
+      "tenders": 16,
+      "archive": 16,
+      "observed": 0,
+      "months": [
         "2015",
         "2014",
         "2013"
@@ -4619,6 +4714,36 @@
       ]
     },
     {
+      "id": "org-iipm",
+      "label": "Iipm",
+      "central": true,
+      "state": null,
+      "tenders": 16,
+      "archive": 16,
+      "observed": 0,
+      "months": [
+        "2017",
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-rural-electrification",
+      "label": "Rural Electrification",
+      "central": true,
+      "state": null,
+      "tenders": 16,
+      "archive": 16,
+      "observed": 0,
+      "months": [
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
       "id": "sail",
       "label": "Steel Authority (SAIL)",
       "central": true,
@@ -4634,31 +4759,53 @@
       ]
     },
     {
-      "id": "org-ministry-external-affairs",
-      "label": "Ministry External Affairs",
+      "id": "org-department-defence-research-development",
+      "label": "Department Defence Research Development",
+      "central": true,
+      "state": null,
+      "tenders": 16,
+      "archive": 2,
+      "observed": 14,
+      "months": [
+        "2026",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-satish-dhawan-space-centre",
+      "label": "Satish Dhawan Space Centre",
       "central": true,
       "state": null,
       "tenders": 16,
       "archive": 16,
       "observed": 0,
       "months": [
-        "2015",
         "2014",
         "2013"
       ]
     },
     {
-      "id": "org-indian-institute-science-education-research-kolkata",
-      "label": "Indian Institute Science Education Research Kolkata",
-      "central": true,
-      "state": null,
+      "id": "org-mp-state-coperative-marketing-federation",
+      "label": "Mp State Coperative Marketing Federation",
+      "central": false,
+      "state": "Madhya Pradesh",
       "tenders": 16,
-      "archive": 16,
-      "observed": 0,
+      "archive": 0,
+      "observed": 16,
       "months": [
-        "2017",
-        "2016",
-        "2015"
+        "2026"
+      ]
+    },
+    {
+      "id": "org-purvanchal-vidyut-vitran-nigam-varanasi",
+      "label": "Purvanchal Vidyut Vitran Nigam Varanasi",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 16,
+      "archive": 0,
+      "observed": 16,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -4690,40 +4837,10 @@
       ]
     },
     {
-      "id": "org-department-animal-husbandry",
-      "label": "Department Animal Husbandry",
-      "central": false,
-      "state": "Punjab",
-      "tenders": 15,
-      "archive": 13,
-      "observed": 2,
-      "months": [
-        "2026",
-        "2016",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-president-secretariat",
-      "label": "President Secretariat",
-      "central": true,
-      "state": null,
-      "tenders": 15,
-      "archive": 15,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
       "id": "org-department-revenue",
       "label": "Department Revenue",
-      "central": true,
-      "state": null,
+      "central": false,
+      "state": "Delhi",
       "tenders": 15,
       "archive": 15,
       "observed": 0,
@@ -4750,10 +4867,52 @@
       ]
     },
     {
-      "id": "org-mp-state-coperative-marketing-federation",
-      "label": "Mp State Coperative Marketing Federation",
+      "id": "org-president-secretariat",
+      "label": "President Secretariat",
+      "central": true,
+      "state": null,
+      "tenders": 15,
+      "archive": 15,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-department-animal-husbandry",
+      "label": "Department Animal Husbandry",
       "central": false,
-      "state": "Madhya Pradesh",
+      "state": "Punjab",
+      "tenders": 15,
+      "archive": 13,
+      "observed": 2,
+      "months": [
+        "2026",
+        "2016",
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-dwsd-einc",
+      "label": "Dwsd Einc",
+      "central": false,
+      "state": "Jharkhand",
+      "tenders": 15,
+      "archive": 0,
+      "observed": 15,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-rural-development-department",
+      "label": "Rural Development Department",
+      "central": false,
+      "state": "Kerala",
       "tenders": 15,
       "archive": 0,
       "observed": 15,
@@ -4766,18 +4925,6 @@
       "label": "Rdd Ceo Jalgaon",
       "central": false,
       "state": "Maharashtra",
-      "tenders": 15,
-      "archive": 0,
-      "observed": 15,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-dakshinanchal-vidyut-vitran-nigam",
-      "label": "Dakshinanchal Vidyut Vitran Nigam",
-      "central": false,
-      "state": "Uttar Pradesh",
       "tenders": 15,
       "archive": 0,
       "observed": 15,
@@ -4802,19 +4949,6 @@
       ]
     },
     {
-      "id": "org-ministry-urban-development",
-      "label": "Ministry Urban Development",
-      "central": true,
-      "state": null,
-      "tenders": 14,
-      "archive": 14,
-      "observed": 0,
-      "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
       "id": "org-telangana-andhra-pradesh-state-office",
       "label": "Telangana Andhra Pradesh State Office",
       "central": false,
@@ -4826,6 +4960,19 @@
         "2017",
         "2016",
         "2015"
+      ]
+    },
+    {
+      "id": "org-ministry-urban-development",
+      "label": "Ministry Urban Development",
+      "central": true,
+      "state": null,
+      "tenders": 14,
+      "archive": 14,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
       ]
     },
     {
@@ -4842,6 +4989,30 @@
       ]
     },
     {
+      "id": "org-forest-department",
+      "label": "Forest Department",
+      "central": false,
+      "state": "Jammu & Kashmir",
+      "tenders": 14,
+      "archive": 0,
+      "observed": 14,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-kerala-operative-milk-marketing-federation",
+      "label": "Kerala Operative Milk Marketing Federation",
+      "central": false,
+      "state": "Kerala",
+      "tenders": 14,
+      "archive": 0,
+      "observed": 14,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-public-health-engineering-o",
       "label": "Public Health Engineering O",
       "central": false,
@@ -4854,10 +5025,10 @@
       ]
     },
     {
-      "id": "org-department-agriculture-world-bank-tenders",
-      "label": "Department Agriculture World Bank Tenders",
+      "id": "org-st-sc-development-deptt",
+      "label": "St Sc Development Deptt",
       "central": false,
-      "state": "Maharashtra",
+      "state": "Odisha",
       "tenders": 14,
       "archive": 0,
       "observed": 14,
@@ -4866,8 +5037,8 @@
       ]
     },
     {
-      "id": "org-phed-chief-engineer",
-      "label": "Phed Chief Engineer",
+      "id": "org-ajmer-vvnl-md",
+      "label": "Ajmer Vvnl Md",
       "central": false,
       "state": "Rajasthan",
       "tenders": 14,
@@ -4878,10 +5049,10 @@
       ]
     },
     {
-      "id": "org-director-cum-chief-engineer-red",
-      "label": "Director Cum Chief Engineer Red",
+      "id": "org-ceo",
+      "label": "Ceo",
       "central": false,
-      "state": "Uttar Pradesh",
+      "state": "Uttarakhand",
       "tenders": 14,
       "archive": 0,
       "observed": 14,
@@ -4890,15 +5061,43 @@
       ]
     },
     {
-      "id": "org-u-p-state-construction-infrastructure-development",
-      "label": "U P State Construction Infrastructure Development",
+      "id": "org-north-eastern-electric-power",
+      "label": "North Eastern Electric Power",
       "central": false,
-      "state": "Uttar Pradesh",
-      "tenders": 14,
-      "archive": 0,
-      "observed": 14,
+      "state": "Tripura",
+      "tenders": 13,
+      "archive": 13,
+      "observed": 0,
       "months": [
-        "2026"
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-esso-incois",
+      "label": "Esso Incois",
+      "central": true,
+      "state": null,
+      "tenders": 13,
+      "archive": 13,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015"
+      ]
+    },
+    {
+      "id": "org-ce-rd-ar",
+      "label": "Ce Rd Ar",
+      "central": true,
+      "state": null,
+      "tenders": 13,
+      "archive": 13,
+      "observed": 0,
+      "months": [
+        "2013"
       ]
     },
     {
@@ -4946,46 +5145,6 @@
       ]
     },
     {
-      "id": "org-esso-incois",
-      "label": "Esso Incois",
-      "central": true,
-      "state": null,
-      "tenders": 13,
-      "archive": 13,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015"
-      ]
-    },
-    {
-      "id": "org-ce-rd-ar",
-      "label": "Ce Rd Ar",
-      "central": true,
-      "state": null,
-      "tenders": 13,
-      "archive": 13,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
-      "id": "org-north-eastern-electric-power",
-      "label": "North Eastern Electric Power",
-      "central": false,
-      "state": "Tripura",
-      "tenders": 13,
-      "archive": 13,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
       "id": "org-new-delhi-municipal-council",
       "label": "New Delhi Municipal Council",
       "central": false,
@@ -4998,10 +5157,46 @@
       ]
     },
     {
-      "id": "org-dwsd-einc",
-      "label": "Dwsd Einc",
+      "id": "org-wrd-einc-major-med-n-minor",
+      "label": "Wrd Einc Major Med N Minor",
       "central": false,
       "state": "Jharkhand",
+      "tenders": 13,
+      "archive": 0,
+      "observed": 13,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-mp-forest-department",
+      "label": "Mp Forest Department",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 13,
+      "archive": 0,
+      "observed": 13,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-madhya-pradesh-paschim-kshetra-vidyut-vitran",
+      "label": "Madhya Pradesh Paschim Kshetra Vidyut Vitran",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 13,
+      "archive": 0,
+      "observed": 13,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-madhya-pradesh-poorv-kshetra-vidyut-vitaran",
+      "label": "Madhya Pradesh Poorv Kshetra Vidyut Vitaran",
+      "central": false,
+      "state": "Madhya Pradesh",
       "tenders": 13,
       "archive": 0,
       "observed": 13,
@@ -5022,22 +5217,10 @@
       ]
     },
     {
-      "id": "org-pune-municipal",
-      "label": "Pune Municipal",
+      "id": "org-panchayati-raj-drinking-water-department-odisha",
+      "label": "Panchayati Raj Drinking Water Department Odisha",
       "central": false,
-      "state": "Maharashtra",
-      "tenders": 13,
-      "archive": 0,
-      "observed": 13,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-ajmer-vvnl-md",
-      "label": "Ajmer Vvnl Md",
-      "central": false,
-      "state": "Rajasthan",
+      "state": "Odisha",
       "tenders": 13,
       "archive": 0,
       "observed": 13,
@@ -5058,15 +5241,28 @@
       ]
     },
     {
-      "id": "org-national-council-science-museums",
-      "label": "National Council Science Museums",
+      "id": "org-agriculture",
+      "label": "Agriculture",
+      "central": false,
+      "state": "Punjab",
+      "tenders": 12,
+      "archive": 12,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-indian-council-forestry-research-education",
+      "label": "Indian Council Forestry Research Education",
       "central": true,
       "state": null,
       "tenders": 12,
       "archive": 12,
       "observed": 0,
       "months": [
-        "2017",
         "2016"
       ]
     },
@@ -5085,36 +5281,23 @@
       ]
     },
     {
-      "id": "org-indian-council-forestry-research-education",
-      "label": "Indian Council Forestry Research Education",
+      "id": "org-national-council-science-museums",
+      "label": "National Council Science Museums",
       "central": true,
       "state": null,
       "tenders": 12,
       "archive": 12,
       "observed": 0,
       "months": [
+        "2017",
         "2016"
       ]
     },
     {
-      "id": "org-agriculture",
-      "label": "Agriculture",
+      "id": "org-goa-handicrafts-rural-sm-scale-ind-dev",
+      "label": "Goa Handicrafts Rural Sm Scale Ind Dev",
       "central": false,
-      "state": "Punjab",
-      "tenders": 12,
-      "archive": 12,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-panchayati-raj-drinking-water-department-odisha",
-      "label": "Panchayati Raj Drinking Water Department Odisha",
-      "central": false,
-      "state": "Odisha",
+      "state": "Goa",
       "tenders": 12,
       "archive": 0,
       "observed": 12,
@@ -5123,10 +5306,10 @@
       ]
     },
     {
-      "id": "org-purvanchal-vidyut-vitran-nigam-varanasi",
-      "label": "Purvanchal Vidyut Vitran Nigam Varanasi",
+      "id": "org-maharashtra-medical-goods-procurement-authority-mumbai",
+      "label": "Maharashtra Medical Goods Procurement Authority Mumbai",
       "central": false,
-      "state": "Uttar Pradesh",
+      "state": "Maharashtra",
       "tenders": 12,
       "archive": 0,
       "observed": 12,
@@ -5135,19 +5318,27 @@
       ]
     },
     {
-      "id": "org-department-science-technology",
-      "label": "Department Science Technology",
+      "id": "org-md",
+      "label": "Md",
+      "central": false,
+      "state": "Uttarakhand",
+      "tenders": 12,
+      "archive": 0,
+      "observed": 12,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-commissionerate-transport",
+      "label": "Commissionerate Transport",
       "central": false,
       "state": "Assam",
       "tenders": 11,
       "archive": 11,
       "observed": 0,
       "months": [
-        "2020",
-        "2019",
-        "2017",
-        "2016",
-        "2015"
+        "2018"
       ]
     },
     {
@@ -5181,41 +5372,32 @@
       ]
     },
     {
-      "id": "org-commissionerate-transport",
-      "label": "Commissionerate Transport",
+      "id": "org-department-science-technology",
+      "label": "Department Science Technology",
       "central": false,
       "state": "Assam",
       "tenders": 11,
       "archive": 11,
       "observed": 0,
       "months": [
-        "2018"
+        "2020",
+        "2019",
+        "2017",
+        "2016",
+        "2015"
       ]
     },
     {
-      "id": "org-department-defence-research-development",
-      "label": "Department Defence Research Development",
-      "central": true,
-      "state": null,
-      "tenders": 11,
-      "archive": 2,
-      "observed": 9,
-      "months": [
-        "2026",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-ircon-international",
-      "label": "Ircon International",
+      "id": "org-aryabhatta-research-institute-observational-sciences",
+      "label": "Aryabhatta Research Institute Observational Sciences",
       "central": true,
       "state": null,
       "tenders": 11,
       "archive": 11,
       "observed": 0,
       "months": [
-        "2014",
-        "2013"
+        "2016",
+        "2015"
       ]
     },
     {
@@ -5233,19 +5415,6 @@
       ]
     },
     {
-      "id": "org-aryabhatta-research-institute-observational-sciences",
-      "label": "Aryabhatta Research Institute Observational Sciences",
-      "central": true,
-      "state": null,
-      "tenders": 11,
-      "archive": 11,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015"
-      ]
-    },
-    {
       "id": "org-rajasthan-electronics-instruments",
       "label": "Rajasthan Electronics Instruments",
       "central": false,
@@ -5258,8 +5427,33 @@
       ]
     },
     {
-      "id": "org-rural-development-department",
-      "label": "Rural Development Department",
+      "id": "org-ircon-international",
+      "label": "Ircon International",
+      "central": true,
+      "state": null,
+      "tenders": 11,
+      "archive": 11,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-energy-cee",
+      "label": "Energy Cee",
+      "central": false,
+      "state": "Jharkhand",
+      "tenders": 11,
+      "archive": 0,
+      "observed": 11,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-directorate-panchayat",
+      "label": "Directorate Panchayat",
       "central": false,
       "state": "Kerala",
       "tenders": 11,
@@ -5270,10 +5464,34 @@
       ]
     },
     {
-      "id": "org-st-sc-development-deptt",
-      "label": "St Sc Development Deptt",
+      "id": "org-mp-police-housing-infrastructure-development",
+      "label": "Mp Police Housing Infrastructure Development",
       "central": false,
-      "state": "Odisha",
+      "state": "Madhya Pradesh",
+      "tenders": 11,
+      "archive": 0,
+      "observed": 11,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-mp-power-transmission",
+      "label": "Mp Power Transmission",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 11,
+      "archive": 0,
+      "observed": 11,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-rrvpn-cmd",
+      "label": "Rrvpn Cmd",
+      "central": false,
+      "state": "Rajasthan",
       "tenders": 11,
       "archive": 0,
       "observed": 11,
@@ -5294,8 +5512,56 @@
       ]
     },
     {
+      "id": "org-rural-development-panchayat-raj-department",
+      "label": "Rural Development Panchayat Raj Department",
+      "central": false,
+      "state": "Tamil Nadu",
+      "tenders": 11,
+      "archive": 0,
+      "observed": 11,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-ird-chief-engineer",
+      "label": "Ird Chief Engineer",
+      "central": false,
+      "state": "Uttarakhand",
+      "tenders": 11,
+      "archive": 0,
+      "observed": 11,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-up-power-transmission",
+      "label": "Up Power Transmission",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 11,
+      "archive": 0,
+      "observed": 11,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-municipal-affairs-department",
       "label": "Municipal Affairs Department",
+      "central": false,
+      "state": "West Bengal",
+      "tenders": 11,
+      "archive": 0,
+      "observed": 11,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-west-bengal-medical-services",
+      "label": "West Bengal Medical Services",
       "central": false,
       "state": "West Bengal",
       "tenders": 11,
@@ -5363,15 +5629,30 @@
       ]
     },
     {
-      "id": "org-rajasthan-drugs-pharmaceuticals",
-      "label": "Rajasthan Drugs Pharmaceuticals",
-      "central": false,
-      "state": "Rajasthan",
+      "id": "org-central-water-power-research-station",
+      "label": "Central Water Power Research Station",
+      "central": true,
+      "state": null,
       "tenders": 10,
       "archive": 10,
       "observed": 0,
       "months": [
-        "2014"
+        "2017",
+        "2016",
+        "2015"
+      ]
+    },
+    {
+      "id": "org-cpv-division",
+      "label": "Cpv Division",
+      "central": true,
+      "state": null,
+      "tenders": 10,
+      "archive": 10,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
       ]
     },
     {
@@ -5401,30 +5682,15 @@
       ]
     },
     {
-      "id": "org-cpv-division",
-      "label": "Cpv Division",
-      "central": true,
-      "state": null,
+      "id": "org-rajasthan-drugs-pharmaceuticals",
+      "label": "Rajasthan Drugs Pharmaceuticals",
+      "central": false,
+      "state": "Rajasthan",
       "tenders": 10,
       "archive": 10,
       "observed": 0,
       "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-central-water-power-research-station",
-      "label": "Central Water Power Research Station",
-      "central": true,
-      "state": null,
-      "tenders": 10,
-      "archive": 10,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
-        "2015"
+        "2014"
       ]
     },
     {
@@ -5440,20 +5706,8 @@
       ]
     },
     {
-      "id": "org-forest-department",
-      "label": "Forest Department",
-      "central": false,
-      "state": "Jammu & Kashmir",
-      "tenders": 10,
-      "archive": 0,
-      "observed": 10,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-kerala-operative-milk-marketing-federation",
-      "label": "Kerala Operative Milk Marketing Federation",
+      "id": "org-directorate-health-services",
+      "label": "Directorate Health Services",
       "central": false,
       "state": "Kerala",
       "tenders": 10,
@@ -5464,34 +5718,10 @@
       ]
     },
     {
-      "id": "org-madhya-pradesh-madhya-kshetra-vidyut-vitaran",
-      "label": "Madhya Pradesh Madhya Kshetra Vidyut Vitaran",
+      "id": "org-kerala-electrical-allied-engineering",
+      "label": "Kerala Electrical Allied Engineering",
       "central": false,
-      "state": "Madhya Pradesh",
-      "tenders": 10,
-      "archive": 0,
-      "observed": 10,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-mp-forest-department",
-      "label": "Mp Forest Department",
-      "central": false,
-      "state": "Madhya Pradesh",
-      "tenders": 10,
-      "archive": 0,
-      "observed": 10,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-madhya-pradesh-paschim-kshetra-vidyut-vitran",
-      "label": "Madhya Pradesh Paschim Kshetra Vidyut Vitran",
-      "central": false,
-      "state": "Madhya Pradesh",
+      "state": "Kerala",
       "tenders": 10,
       "archive": 0,
       "observed": 10,
@@ -5512,6 +5742,18 @@
       ]
     },
     {
+      "id": "org-phed-c-e",
+      "label": "Phed C E",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 10,
+      "archive": 0,
+      "observed": 10,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-deptt-watershed-dev-soil-conservation",
       "label": "Deptt Watershed Dev Soil Conservation",
       "central": false,
@@ -5524,8 +5766,8 @@
       ]
     },
     {
-      "id": "org-rural-development-panchayat-raj-department",
-      "label": "Rural Development Panchayat Raj Department",
+      "id": "org-tamilnadu-medical-services",
+      "label": "Tamilnadu Medical Services",
       "central": false,
       "state": "Tamil Nadu",
       "tenders": 10,
@@ -5536,10 +5778,10 @@
       ]
     },
     {
-      "id": "org-up-power-transmission",
-      "label": "Up Power Transmission",
+      "id": "org-chennai",
+      "label": "Chennai",
       "central": false,
-      "state": "Uttar Pradesh",
+      "state": "Tamil Nadu",
       "tenders": 10,
       "archive": 0,
       "observed": 10,
@@ -5548,17 +5790,39 @@
       ]
     },
     {
-      "id": "org-assam-society-for-comprehensive-financial-management-system",
-      "label": "Assam Society For Comprehensive Financial Management System",
+      "id": "org-director-medical-rural-health-services",
+      "label": "Director Medical Rural Health Services",
       "central": false,
-      "state": "Assam",
-      "tenders": 9,
-      "archive": 9,
-      "observed": 0,
+      "state": "Tamil Nadu",
+      "tenders": 10,
+      "archive": 0,
+      "observed": 10,
       "months": [
-        "2019",
-        "2018",
-        "2017"
+        "2026"
+      ]
+    },
+    {
+      "id": "org-regional-food-controller-garhwal",
+      "label": "Regional Food Controller Garhwal",
+      "central": false,
+      "state": "Uttarakhand",
+      "tenders": 10,
+      "archive": 0,
+      "observed": 10,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-west-bengal-state-electricity-distribution",
+      "label": "West Bengal State Electricity Distribution",
+      "central": false,
+      "state": "West Bengal",
+      "tenders": 10,
+      "archive": 0,
+      "observed": 10,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -5573,6 +5837,20 @@
         "2018",
         "2017",
         "2016"
+      ]
+    },
+    {
+      "id": "org-assam-society-for-comprehensive-financial-management-system",
+      "label": "Assam Society For Comprehensive Financial Management System",
+      "central": false,
+      "state": "Assam",
+      "tenders": 9,
+      "archive": 9,
+      "observed": 0,
+      "months": [
+        "2019",
+        "2018",
+        "2017"
       ]
     },
     {
@@ -5604,34 +5882,8 @@
       ]
     },
     {
-      "id": "org-department-chemicals-petrochemicals",
-      "label": "Department Chemicals Petrochemicals",
-      "central": true,
-      "state": null,
-      "tenders": 9,
-      "archive": 9,
-      "observed": 0,
-      "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-central-silk-board",
-      "label": "Central Silk Board",
-      "central": true,
-      "state": null,
-      "tenders": 9,
-      "archive": 9,
-      "observed": 0,
-      "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-heavy-alloy-penetrator-project",
-      "label": "Heavy Alloy Penetrator Project",
+      "id": "org-department-industrial-policy-promotion",
+      "label": "Department Industrial Policy Promotion",
       "central": true,
       "state": null,
       "tenders": 9,
@@ -5639,7 +5891,8 @@
       "observed": 0,
       "months": [
         "2016",
-        "2013"
+        "2015",
+        "2014"
       ]
     },
     {
@@ -5658,8 +5911,8 @@
       ]
     },
     {
-      "id": "org-projects-development",
-      "label": "Projects Development",
+      "id": "org-heavy-alloy-penetrator-project",
+      "label": "Heavy Alloy Penetrator Project",
       "central": true,
       "state": null,
       "tenders": 9,
@@ -5667,6 +5920,18 @@
       "observed": 0,
       "months": [
         "2016",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-central-silk-board",
+      "label": "Central Silk Board",
+      "central": true,
+      "state": null,
+      "tenders": 9,
+      "archive": 9,
+      "observed": 0,
+      "months": [
         "2014",
         "2013"
       ]
@@ -5687,8 +5952,8 @@
       ]
     },
     {
-      "id": "org-department-industrial-policy-promotion",
-      "label": "Department Industrial Policy Promotion",
+      "id": "org-projects-development",
+      "label": "Projects Development",
       "central": true,
       "state": null,
       "tenders": 9,
@@ -5696,8 +5961,33 @@
       "observed": 0,
       "months": [
         "2016",
-        "2015",
-        "2014"
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-department-chemicals-petrochemicals",
+      "label": "Department Chemicals Petrochemicals",
+      "central": true,
+      "state": null,
+      "tenders": 9,
+      "archive": 9,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-delhi-urban-shelter-improvement-board",
+      "label": "Delhi Urban Shelter Improvement Board",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 9,
+      "archive": 0,
+      "observed": 9,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -5715,10 +6005,10 @@
       ]
     },
     {
-      "id": "org-mp-power-transmission",
-      "label": "Mp Power Transmission",
+      "id": "org-rdd-ceo-gadchiroli",
+      "label": "Rdd Ceo Gadchiroli",
       "central": false,
-      "state": "Madhya Pradesh",
+      "state": "Maharashtra",
       "tenders": 9,
       "archive": 0,
       "observed": 9,
@@ -5727,8 +6017,8 @@
       ]
     },
     {
-      "id": "org-rdd-ceo-gadchiroli",
-      "label": "Rdd Ceo Gadchiroli",
+      "id": "org-rdd-ceo-hingoli",
+      "label": "Rdd Ceo Hingoli",
       "central": false,
       "state": "Maharashtra",
       "tenders": 9,
@@ -5751,30 +6041,6 @@
       ]
     },
     {
-      "id": "org-tamilnadu-medical-services",
-      "label": "Tamilnadu Medical Services",
-      "central": false,
-      "state": "Tamil Nadu",
-      "tenders": 9,
-      "archive": 0,
-      "observed": 9,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-ird-chief-engineer",
-      "label": "Ird Chief Engineer",
-      "central": false,
-      "state": "Uttarakhand",
-      "tenders": 9,
-      "archive": 0,
-      "observed": 9,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-chief-engineer-pwd-central-zone",
       "label": "Chief Engineer Pwd Central Zone",
       "central": false,
@@ -5787,8 +6053,8 @@
       ]
     },
     {
-      "id": "org-west-bengal-state-electricity-distribution",
-      "label": "West Bengal State Electricity Distribution",
+      "id": "org-panchayat-rural-development",
+      "label": "Panchayat Rural Development",
       "central": false,
       "state": "West Bengal",
       "tenders": 9,
@@ -5813,6 +6079,21 @@
       ]
     },
     {
+      "id": "org-taxation-department",
+      "label": "Taxation Department",
+      "central": false,
+      "state": "Assam",
+      "tenders": 8,
+      "archive": 8,
+      "observed": 0,
+      "months": [
+        "2019",
+        "2018",
+        "2017",
+        "2016"
+      ]
+    },
+    {
       "id": "org-assam-power-generation-apgcl-adb",
       "label": "Assam Power Generation Apgcl Adb",
       "central": false,
@@ -5826,21 +6107,6 @@
         "2019",
         "2018",
         "2017"
-      ]
-    },
-    {
-      "id": "org-taxation-department",
-      "label": "Taxation Department",
-      "central": false,
-      "state": "Assam",
-      "tenders": 8,
-      "archive": 8,
-      "observed": 0,
-      "months": [
-        "2019",
-        "2018",
-        "2017",
-        "2016"
       ]
     },
     {
@@ -5882,6 +6148,35 @@
       ]
     },
     {
+      "id": "org-revenue-dept",
+      "label": "Revenue Dept",
+      "central": true,
+      "state": null,
+      "tenders": 8,
+      "archive": 8,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-nmdc",
+      "label": "Nmdc",
+      "central": true,
+      "state": null,
+      "tenders": 8,
+      "archive": 8,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015",
+        "2014",
+        "2013"
+      ]
+    },
+    {
       "id": "org-small-industries-development-bank",
       "label": "Small Industries Development Bank",
       "central": true,
@@ -5908,6 +6203,21 @@
         "2017",
         "2015",
         "2014"
+      ]
+    },
+    {
+      "id": "org-madhya-pradesh-state-office",
+      "label": "Madhya Pradesh State Office",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 8,
+      "archive": 8,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015",
+        "2014",
+        "2013"
       ]
     },
     {
@@ -5948,54 +6258,10 @@
       ]
     },
     {
-      "id": "org-madhya-pradesh-state-office",
-      "label": "Madhya Pradesh State Office",
+      "id": "org-electricity-department",
+      "label": "Electricity Department",
       "central": false,
-      "state": "Madhya Pradesh",
-      "tenders": 8,
-      "archive": 8,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-nmdc",
-      "label": "Nmdc",
-      "central": true,
-      "state": null,
-      "tenders": 8,
-      "archive": 8,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-revenue-dept",
-      "label": "Revenue Dept",
-      "central": true,
-      "state": null,
-      "tenders": 8,
-      "archive": 8,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-delhi-urban-shelter-improvement-board",
-      "label": "Delhi Urban Shelter Improvement Board",
-      "central": false,
-      "state": "Delhi",
+      "state": "Goa",
       "tenders": 8,
       "archive": 0,
       "observed": 8,
@@ -6018,46 +6284,34 @@
       ]
     },
     {
-      "id": "org-directorate-health-services",
-      "label": "Directorate Health Services",
+      "id": "org-haudd",
+      "label": "Haudd",
+      "central": false,
+      "state": "Jammu & Kashmir",
+      "tenders": 8,
+      "archive": 0,
+      "observed": 8,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-jkspdc",
+      "label": "Jkspdc",
+      "central": false,
+      "state": "Jammu & Kashmir",
+      "tenders": 8,
+      "archive": 0,
+      "observed": 8,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-ground-water-department",
+      "label": "Ground Water Department",
       "central": false,
       "state": "Kerala",
-      "tenders": 8,
-      "archive": 0,
-      "observed": 8,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-kerala-electrical-allied-engineering",
-      "label": "Kerala Electrical Allied Engineering",
-      "central": false,
-      "state": "Kerala",
-      "tenders": 8,
-      "archive": 0,
-      "observed": 8,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-mp-police-housing-infrastructure-development",
-      "label": "Mp Police Housing Infrastructure Development",
-      "central": false,
-      "state": "Madhya Pradesh",
-      "tenders": 8,
-      "archive": 0,
-      "observed": 8,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-madhya-pradesh-poorv-kshetra-vidyut-vitaran",
-      "label": "Madhya Pradesh Poorv Kshetra Vidyut Vitaran",
-      "central": false,
-      "state": "Madhya Pradesh",
       "tenders": 8,
       "archive": 0,
       "observed": 8,
@@ -6070,18 +6324,6 @@
       "label": "Pwd Piu",
       "central": false,
       "state": "Madhya Pradesh",
-      "tenders": 8,
-      "archive": 0,
-      "observed": 8,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-rdd-ceo-hingoli",
-      "label": "Rdd Ceo Hingoli",
-      "central": false,
-      "state": "Maharashtra",
       "tenders": 8,
       "archive": 0,
       "observed": 8,
@@ -6114,44 +6356,20 @@
       ]
     },
     {
-      "id": "org-phed-c-e",
-      "label": "Phed C E",
-      "central": false,
-      "state": "Rajasthan",
-      "tenders": 8,
-      "archive": 0,
-      "observed": 8,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-md",
-      "label": "Md",
-      "central": false,
-      "state": "Uttarakhand",
-      "tenders": 8,
-      "archive": 0,
-      "observed": 8,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-director-medical-rural-health-services",
-      "label": "Director Medical Rural Health Services",
-      "central": false,
-      "state": "Tamil Nadu",
-      "tenders": 8,
-      "archive": 0,
-      "observed": 8,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-chief-engineer-pwd",
       "label": "Chief Engineer Pwd",
+      "central": false,
+      "state": "Tripura",
+      "tenders": 8,
+      "archive": 0,
+      "observed": 8,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-commisioner-excise",
+      "label": "Commisioner Excise",
       "central": false,
       "state": "Tripura",
       "tenders": 8,
@@ -6198,30 +6416,6 @@
       ]
     },
     {
-      "id": "org-panchayat-rural-development",
-      "label": "Panchayat Rural Development",
-      "central": false,
-      "state": "West Bengal",
-      "tenders": 8,
-      "archive": 0,
-      "observed": 8,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-west-bengal-medical-services",
-      "label": "West Bengal Medical Services",
-      "central": false,
-      "state": "West Bengal",
-      "tenders": 8,
-      "archive": 0,
-      "observed": 8,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-numaligarh-refinery",
       "label": "Numaligarh Refinery",
       "central": true,
@@ -6231,6 +6425,19 @@
       "observed": 7,
       "months": [
         "2026"
+      ]
+    },
+    {
+      "id": "org-national-institute-for-mentally-handicapped",
+      "label": "National Institute For Mentally Handicapped",
+      "central": true,
+      "state": null,
+      "tenders": 7,
+      "archive": 7,
+      "observed": 0,
+      "months": [
+        "2015",
+        "2014"
       ]
     },
     {
@@ -6247,60 +6454,8 @@
       ]
     },
     {
-      "id": "org-telecommunications-consultants",
-      "label": "Telecommunications Consultants",
-      "central": true,
-      "state": null,
-      "tenders": 7,
-      "archive": 7,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
       "id": "org-spices-board",
       "label": "Spices Board",
-      "central": true,
-      "state": null,
-      "tenders": 7,
-      "archive": 7,
-      "observed": 0,
-      "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-films-division-mib",
-      "label": "Films Division Mib",
-      "central": true,
-      "state": null,
-      "tenders": 7,
-      "archive": 7,
-      "observed": 0,
-      "months": [
-        "2015",
-        "2014"
-      ]
-    },
-    {
-      "id": "org-small-arms-factory-kanpur",
-      "label": "Small Arms Factory Kanpur",
-      "central": true,
-      "state": null,
-      "tenders": 7,
-      "archive": 7,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2016",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-north-eastern-space-applications-centre",
-      "label": "North Eastern Space Applications Centre",
       "central": true,
       "state": null,
       "tenders": 7,
@@ -6326,8 +6481,20 @@
       ]
     },
     {
-      "id": "org-national-institute-for-mentally-handicapped",
-      "label": "National Institute For Mentally Handicapped",
+      "id": "org-telecommunications-consultants",
+      "label": "Telecommunications Consultants",
+      "central": true,
+      "state": null,
+      "tenders": 7,
+      "archive": 7,
+      "observed": 0,
+      "months": [
+        "2013"
+      ]
+    },
+    {
+      "id": "org-films-division-mib",
+      "label": "Films Division Mib",
       "central": true,
       "state": null,
       "tenders": 7,
@@ -6336,6 +6503,19 @@
       "months": [
         "2015",
         "2014"
+      ]
+    },
+    {
+      "id": "org-north-eastern-space-applications-centre",
+      "label": "North Eastern Space Applications Centre",
+      "central": true,
+      "state": null,
+      "tenders": 7,
+      "archive": 7,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
       ]
     },
     {
@@ -6352,10 +6532,24 @@
       ]
     },
     {
-      "id": "org-electricity-department",
-      "label": "Electricity Department",
+      "id": "org-small-arms-factory-kanpur",
+      "label": "Small Arms Factory Kanpur",
+      "central": true,
+      "state": null,
+      "tenders": 7,
+      "archive": 7,
+      "observed": 0,
+      "months": [
+        "2017",
+        "2016",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-ipgcl-ppcl",
+      "label": "Ipgcl Ppcl",
       "central": false,
-      "state": "Goa",
+      "state": "Delhi",
       "tenders": 7,
       "archive": 0,
       "observed": 7,
@@ -6376,6 +6570,20 @@
       ]
     },
     {
+      "id": "org-h-p-state-electronics-development",
+      "label": "H P State Electronics Development",
+      "central": false,
+      "state": "Himachal Pradesh",
+      "tenders": 7,
+      "archive": 6,
+      "observed": 1,
+      "months": [
+        "2026",
+        "2018",
+        "2017"
+      ]
+    },
+    {
       "id": "org-hp-sidc",
       "label": "Hp Sidc",
       "central": false,
@@ -6390,10 +6598,10 @@
       ]
     },
     {
-      "id": "org-directorate-panchayat",
-      "label": "Directorate Panchayat",
+      "id": "org-jharkhand-state-building-construction",
+      "label": "Jharkhand State Building Construction",
       "central": false,
-      "state": "Kerala",
+      "state": "Jharkhand",
       "tenders": 7,
       "archive": 0,
       "observed": 7,
@@ -6414,8 +6622,20 @@
       ]
     },
     {
-      "id": "org-maharashtra-medical-goods-procurement-authority-mumbai",
-      "label": "Maharashtra Medical Goods Procurement Authority Mumbai",
+      "id": "org-mp-state-agricultural-marketing-board",
+      "label": "Mp State Agricultural Marketing Board",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 7,
+      "archive": 0,
+      "observed": 7,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-rdd-ceo-buldhana",
+      "label": "Rdd Ceo Buldhana",
       "central": false,
       "state": "Maharashtra",
       "tenders": 7,
@@ -6426,8 +6646,8 @@
       ]
     },
     {
-      "id": "org-rdd-ceo-nagpur",
-      "label": "Rdd Ceo Nagpur",
+      "id": "org-rdd-ceo-gondia",
+      "label": "Rdd Ceo Gondia",
       "central": false,
       "state": "Maharashtra",
       "tenders": 7,
@@ -6450,10 +6670,34 @@
       ]
     },
     {
-      "id": "org-ce",
-      "label": "Ce",
+      "id": "org-rdd-ceo-yavatmal",
+      "label": "Rdd Ceo Yavatmal",
       "central": false,
-      "state": "Odisha",
+      "state": "Maharashtra",
+      "tenders": 7,
+      "archive": 0,
+      "observed": 7,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-patratu-vidyut-utpadan-nigam",
+      "label": "Patratu Vidyut Utpadan Nigam",
+      "central": true,
+      "state": null,
+      "tenders": 7,
+      "archive": 0,
+      "observed": 7,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-executive-director",
+      "label": "Executive Director",
+      "central": false,
+      "state": "Uttarakhand",
       "tenders": 7,
       "archive": 0,
       "observed": 7,
@@ -6474,16 +6718,18 @@
       ]
     },
     {
-      "id": "org-directorate-land-records-survey-etc-assam",
-      "label": "Directorate Land Records Survey Etc Assam",
+      "id": "org-general-administration-department",
+      "label": "General Administration Department",
       "central": false,
       "state": "Assam",
       "tenders": 6,
-      "archive": 6,
-      "observed": 0,
+      "archive": 5,
+      "observed": 1,
       "months": [
+        "2026",
         "2020",
-        "2019"
+        "2018",
+        "2017"
       ]
     },
     {
@@ -6497,6 +6743,19 @@
       "months": [
         "2021",
         "2020"
+      ]
+    },
+    {
+      "id": "org-directorate-land-records-survey-etc-assam",
+      "label": "Directorate Land Records Survey Etc Assam",
+      "central": false,
+      "state": "Assam",
+      "tenders": 6,
+      "archive": 6,
+      "observed": 0,
+      "months": [
+        "2020",
+        "2019"
       ]
     },
     {
@@ -6552,8 +6811,8 @@
       ]
     },
     {
-      "id": "org-national-centre-for-antarctic-ocean-research",
-      "label": "National Centre For Antarctic Ocean Research",
+      "id": "org-air",
+      "label": "Air",
       "central": true,
       "state": null,
       "tenders": 6,
@@ -6561,7 +6820,9 @@
       "observed": 0,
       "months": [
         "2017",
-        "2014"
+        "2015",
+        "2014",
+        "2013"
       ]
     },
     {
@@ -6579,6 +6840,32 @@
       ]
     },
     {
+      "id": "org-ministry-water-resources",
+      "label": "Ministry Water Resources",
+      "central": true,
+      "state": null,
+      "tenders": 6,
+      "archive": 6,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015"
+      ]
+    },
+    {
+      "id": "org-meteorological-department-imd",
+      "label": "Meteorological Department Imd",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 6,
+      "archive": 6,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015"
+      ]
+    },
+    {
       "id": "org-high-explosive-factory-kirkee",
       "label": "High Explosive Factory Kirkee",
       "central": true,
@@ -6588,48 +6875,6 @@
       "observed": 0,
       "months": [
         "2017",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-housing-urban-development",
-      "label": "Housing Urban Development",
-      "central": true,
-      "state": null,
-      "tenders": 6,
-      "archive": 6,
-      "observed": 0,
-      "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-bhakra-beas-management-board",
-      "label": "Bhakra Beas Management Board",
-      "central": true,
-      "state": null,
-      "tenders": 6,
-      "archive": 6,
-      "observed": 0,
-      "months": [
-        "2015",
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-air",
-      "label": "Air",
-      "central": true,
-      "state": null,
-      "tenders": 6,
-      "archive": 6,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2015",
         "2014",
         "2013"
       ]
@@ -6647,16 +6892,29 @@
       ]
     },
     {
-      "id": "org-meteorological-department-imd",
-      "label": "Meteorological Department Imd",
-      "central": false,
-      "state": "Delhi",
+      "id": "org-central-ground-water-board",
+      "label": "Central Ground Water Board",
+      "central": true,
+      "state": null,
       "tenders": 6,
       "archive": 6,
       "observed": 0,
       "months": [
         "2016",
         "2015"
+      ]
+    },
+    {
+      "id": "org-housing-urban-development",
+      "label": "Housing Urban Development",
+      "central": true,
+      "state": null,
+      "tenders": 6,
+      "archive": 6,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
       ]
     },
     {
@@ -6672,83 +6930,48 @@
       ]
     },
     {
-      "id": "org-central-ground-water-board",
-      "label": "Central Ground Water Board",
+      "id": "org-bhakra-beas-management-board",
+      "label": "Bhakra Beas Management Board",
       "central": true,
       "state": null,
       "tenders": 6,
       "archive": 6,
       "observed": 0,
       "months": [
-        "2016",
-        "2015"
+        "2015",
+        "2014",
+        "2013"
       ]
     },
     {
-      "id": "org-ministry-water-resources",
-      "label": "Ministry Water Resources",
+      "id": "org-national-centre-for-antarctic-ocean-research",
+      "label": "National Centre For Antarctic Ocean Research",
       "central": true,
       "state": null,
       "tenders": 6,
       "archive": 6,
       "observed": 0,
       "months": [
-        "2016",
-        "2015"
+        "2017",
+        "2014"
       ]
     },
     {
-      "id": "org-ipgcl-ppcl",
-      "label": "Ipgcl Ppcl",
-      "central": false,
-      "state": "Delhi",
-      "tenders": 6,
-      "archive": 0,
-      "observed": 6,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-h-p-state-electronics-development",
-      "label": "H P State Electronics Development",
-      "central": false,
-      "state": "Himachal Pradesh",
-      "tenders": 6,
-      "archive": 6,
-      "observed": 0,
-      "months": [
-        "2018",
-        "2017"
-      ]
-    },
-    {
-      "id": "org-jkspdc",
-      "label": "Jkspdc",
+      "id": "org-health-medical-education",
+      "label": "Health Medical Education",
       "central": false,
       "state": "Jammu & Kashmir",
       "tenders": 6,
       "archive": 0,
       "observed": 6,
       "months": [
-        "2026"
+        "2026",
+        "2025"
       ]
     },
     {
-      "id": "org-wrd-einc-major-med-n-minor",
-      "label": "Wrd Einc Major Med N Minor",
-      "central": false,
-      "state": "Jharkhand",
-      "tenders": 6,
-      "archive": 0,
-      "observed": 6,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-ground-water-department",
-      "label": "Ground Water Department",
+      "id": "org-plantation-kerala",
+      "label": "Plantation Kerala",
       "central": false,
       "state": "Kerala",
       "tenders": 6,
@@ -6759,32 +6982,21 @@
       ]
     },
     {
-      "id": "org-rdd-ceo-gondia",
-      "label": "Rdd Ceo Gondia",
+      "id": "org-mp-police",
+      "label": "Mp Police",
       "central": false,
-      "state": "Maharashtra",
+      "state": "Madhya Pradesh",
       "tenders": 6,
       "archive": 0,
       "observed": 6,
       "months": [
-        "2026"
+        "2026",
+        "2025"
       ]
     },
     {
       "id": "org-settlement-commissioner-director-land-records",
       "label": "Settlement Commissioner Director Land Records",
-      "central": false,
-      "state": "Maharashtra",
-      "tenders": 6,
-      "archive": 0,
-      "observed": 6,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-rdd-ceo-yavatmal",
-      "label": "Rdd Ceo Yavatmal",
       "central": false,
       "state": "Maharashtra",
       "tenders": 6,
@@ -6807,10 +7019,46 @@
       ]
     },
     {
+      "id": "org-department-power",
+      "label": "Department Power",
+      "central": false,
+      "state": "Punjab",
+      "tenders": 6,
+      "archive": 0,
+      "observed": 6,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-hindu-religious-charitable-endowments",
       "label": "Hindu Religious Charitable Endowments",
       "central": false,
       "state": "Tamil Nadu",
+      "tenders": 6,
+      "archive": 0,
+      "observed": 6,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-west-bengal-forest-development",
+      "label": "West Bengal Forest Development",
+      "central": false,
+      "state": "West Bengal",
+      "tenders": 6,
+      "archive": 0,
+      "observed": 6,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-wbsidcl",
+      "label": "Wbsidcl",
+      "central": false,
+      "state": "West Bengal",
       "tenders": 6,
       "archive": 0,
       "observed": 6,
@@ -6829,20 +7077,6 @@
       "months": [
         "2019",
         "2018"
-      ]
-    },
-    {
-      "id": "org-general-administration-department",
-      "label": "General Administration Department",
-      "central": false,
-      "state": "Assam",
-      "tenders": 5,
-      "archive": 5,
-      "observed": 0,
-      "months": [
-        "2020",
-        "2018",
-        "2017"
       ]
     },
     {
@@ -6896,8 +7130,62 @@
       ]
     },
     {
-      "id": "org-central-electricity-authority",
-      "label": "Central Electricity Authority",
+      "id": "org-indian-renewable-energy-development-agency",
+      "label": "Indian Renewable Energy Development Agency",
+      "central": true,
+      "state": null,
+      "tenders": 5,
+      "archive": 5,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015"
+      ]
+    },
+    {
+      "id": "org-biecco-lawrie",
+      "label": "Biecco Lawrie",
+      "central": true,
+      "state": null,
+      "tenders": 5,
+      "archive": 5,
+      "observed": 0,
+      "months": [
+        "2015",
+        "2014"
+      ]
+    },
+    {
+      "id": "org-national-atmospheric-research-laboratory",
+      "label": "National Atmospheric Research Laboratory",
+      "central": true,
+      "state": null,
+      "tenders": 5,
+      "archive": 5,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-central-bureau-investigation-dopt",
+      "label": "Central Bureau Investigation Dopt",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 5,
+      "archive": 5,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015",
+        "2014"
+      ]
+    },
+    {
+      "id": "org-mjsj-coal",
+      "label": "Mjsj Coal",
       "central": true,
       "state": null,
       "tenders": 5,
@@ -6921,8 +7209,8 @@
       ]
     },
     {
-      "id": "org-mjsj-coal",
-      "label": "Mjsj Coal",
+      "id": "org-central-electricity-authority",
+      "label": "Central Electricity Authority",
       "central": true,
       "state": null,
       "tenders": 5,
@@ -6945,45 +7233,6 @@
         "2017",
         "2016",
         "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-department-school-education-literacy",
-      "label": "Department School Education Literacy",
-      "central": false,
-      "state": "Tripura",
-      "tenders": 5,
-      "archive": 5,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
-      "id": "org-ministry-culture",
-      "label": "Ministry Culture",
-      "central": true,
-      "state": null,
-      "tenders": 5,
-      "archive": 5,
-      "observed": 0,
-      "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-national-atmospheric-research-laboratory",
-      "label": "National Atmospheric Research Laboratory",
-      "central": true,
-      "state": null,
-      "tenders": 5,
-      "archive": 5,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015",
         "2013"
       ]
     },
@@ -7013,37 +7262,35 @@
       ]
     },
     {
-      "id": "org-central-bureau-investigation-dopt",
-      "label": "Central Bureau Investigation Dopt",
-      "central": false,
-      "state": "Delhi",
-      "tenders": 5,
-      "archive": 5,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015",
-        "2014"
-      ]
-    },
-    {
-      "id": "org-indian-renewable-energy-development-agency",
-      "label": "Indian Renewable Energy Development Agency",
+      "id": "org-ministry-culture",
+      "label": "Ministry Culture",
       "central": true,
       "state": null,
       "tenders": 5,
       "archive": 5,
       "observed": 0,
       "months": [
-        "2016",
-        "2015"
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-department-school-education-literacy",
+      "label": "Department School Education Literacy",
+      "central": true,
+      "state": null,
+      "tenders": 5,
+      "archive": 5,
+      "observed": 0,
+      "months": [
+        "2013"
       ]
     },
     {
       "id": "org-integrated-defence-staff",
       "label": "Integrated Defence Staff",
-      "central": true,
-      "state": null,
+      "central": false,
+      "state": "Delhi",
       "tenders": 5,
       "archive": 4,
       "observed": 1,
@@ -7051,31 +7298,6 @@
         "2026",
         "2017",
         "2016"
-      ]
-    },
-    {
-      "id": "org-biecco-lawrie",
-      "label": "Biecco Lawrie",
-      "central": true,
-      "state": null,
-      "tenders": 5,
-      "archive": 5,
-      "observed": 0,
-      "months": [
-        "2015",
-        "2014"
-      ]
-    },
-    {
-      "id": "org-goa-handicrafts-rural-sm-scale-ind-dev",
-      "label": "Goa Handicrafts Rural Sm Scale Ind Dev",
-      "central": false,
-      "state": "Goa",
-      "tenders": 5,
-      "archive": 0,
-      "observed": 5,
-      "months": [
-        "2026"
       ]
     },
     {
@@ -7089,19 +7311,6 @@
       "months": [
         "2018",
         "2017"
-      ]
-    },
-    {
-      "id": "org-health-medical-education",
-      "label": "Health Medical Education",
-      "central": false,
-      "state": "Jammu & Kashmir",
-      "tenders": 5,
-      "archive": 0,
-      "observed": 5,
-      "months": [
-        "2026",
-        "2025"
       ]
     },
     {
@@ -7129,10 +7338,10 @@
       ]
     },
     {
-      "id": "org-directorate-urban-affairs",
-      "label": "Directorate Urban Affairs",
+      "id": "org-jseb",
+      "label": "Jseb",
       "central": false,
-      "state": "Kerala",
+      "state": "Jharkhand",
       "tenders": 5,
       "archive": 0,
       "observed": 5,
@@ -7141,10 +7350,10 @@
       ]
     },
     {
-      "id": "org-mp-state-agricultural-marketing-board",
-      "label": "Mp State Agricultural Marketing Board",
+      "id": "org-directorate-urban-affairs",
+      "label": "Directorate Urban Affairs",
       "central": false,
-      "state": "Madhya Pradesh",
+      "state": "Kerala",
       "tenders": 5,
       "archive": 0,
       "observed": 5,
@@ -7169,18 +7378,6 @@
       "label": "Public Works Department Mantralaya",
       "central": false,
       "state": "Maharashtra",
-      "tenders": 5,
-      "archive": 0,
-      "observed": 5,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-patratu-vidyut-utpadan-nigam",
-      "label": "Patratu Vidyut Utpadan Nigam",
-      "central": true,
-      "state": null,
       "tenders": 5,
       "archive": 0,
       "observed": 5,
@@ -7225,20 +7422,21 @@
       ]
     },
     {
-      "id": "org-department-power",
-      "label": "Department Power",
+      "id": "org-tamilnadu-state-transport",
+      "label": "Tamilnadu State Transport",
       "central": false,
-      "state": "Punjab",
+      "state": "Tamil Nadu",
       "tenders": 5,
       "archive": 0,
       "observed": 5,
       "months": [
-        "2026"
+        "2026",
+        "2025"
       ]
     },
     {
-      "id": "org-chennai",
-      "label": "Chennai",
+      "id": "org-tamil-nadu-civil-supplies",
+      "label": "Tamil Nadu Civil Supplies",
       "central": false,
       "state": "Tamil Nadu",
       "tenders": 5,
@@ -7249,22 +7447,10 @@
       ]
     },
     {
-      "id": "org-ceo",
-      "label": "Ceo",
+      "id": "org-director-directorate-secondary-education",
+      "label": "Director Directorate Secondary Education",
       "central": false,
-      "state": "Uttarakhand",
-      "tenders": 5,
-      "archive": 0,
-      "observed": 5,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-west-bengal-forest-development",
-      "label": "West Bengal Forest Development",
-      "central": false,
-      "state": "West Bengal",
+      "state": "Tripura",
       "tenders": 5,
       "archive": 0,
       "observed": 5,
@@ -7298,20 +7484,6 @@
       ]
     },
     {
-      "id": "org-water-resources-department-world-bank-tenders",
-      "label": "Water Resources Department World Bank Tenders",
-      "central": false,
-      "state": "Assam",
-      "tenders": 4,
-      "archive": 4,
-      "observed": 0,
-      "months": [
-        "2021",
-        "2020",
-        "2019"
-      ]
-    },
-    {
       "id": "org-assam-home-guards-civil-defence-organization",
       "label": "Assam Home Guards Civil Defence Organization",
       "central": false,
@@ -7324,6 +7496,20 @@
         "2019",
         "2018",
         "2017"
+      ]
+    },
+    {
+      "id": "org-water-resources-department-world-bank-tenders",
+      "label": "Water Resources Department World Bank Tenders",
+      "central": false,
+      "state": "Assam",
+      "tenders": 4,
+      "archive": 4,
+      "observed": 0,
+      "months": [
+        "2021",
+        "2020",
+        "2019"
       ]
     },
     {
@@ -7390,15 +7576,43 @@
       ]
     },
     {
-      "id": "org-national-skill-development-agency",
-      "label": "National Skill Development Agency",
+      "id": "org-cofmow",
+      "label": "Cofmow",
       "central": true,
       "state": null,
       "tenders": 4,
       "archive": 4,
       "observed": 0,
       "months": [
+        "2016",
+        "2015",
         "2014"
+      ]
+    },
+    {
+      "id": "org-krcl",
+      "label": "Krcl",
+      "central": true,
+      "state": null,
+      "tenders": 4,
+      "archive": 4,
+      "observed": 0,
+      "months": [
+        "2015",
+        "2014"
+      ]
+    },
+    {
+      "id": "org-central-water-commission",
+      "label": "Central Water Commission",
+      "central": true,
+      "state": null,
+      "tenders": 4,
+      "archive": 4,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
       ]
     },
     {
@@ -7416,28 +7630,17 @@
       ]
     },
     {
-      "id": "org-central-water-commission",
-      "label": "Central Water Commission",
+      "id": "org-national-institute-for-orthopaedically-handicapped",
+      "label": "National Institute For Orthopaedically Handicapped",
       "central": true,
       "state": null,
       "tenders": 4,
       "archive": 4,
       "observed": 0,
       "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-national-highways-authority",
-      "label": "National Highways Authority",
-      "central": true,
-      "state": null,
-      "tenders": 4,
-      "archive": 4,
-      "observed": 0,
-      "months": [
-        "2013"
+        "2017",
+        "2016",
+        "2015"
       ]
     },
     {
@@ -7453,22 +7656,8 @@
       ]
     },
     {
-      "id": "org-cofmow",
-      "label": "Cofmow",
-      "central": true,
-      "state": null,
-      "tenders": 4,
-      "archive": 4,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015",
-        "2014"
-      ]
-    },
-    {
-      "id": "org-national-institute-for-orthopaedically-handicapped",
-      "label": "National Institute For Orthopaedically Handicapped",
+      "id": "org-department-consumer-affairs",
+      "label": "Department Consumer Affairs",
       "central": true,
       "state": null,
       "tenders": 4,
@@ -7476,21 +7665,19 @@
       "observed": 0,
       "months": [
         "2017",
-        "2016",
-        "2015"
+        "2014"
       ]
     },
     {
-      "id": "org-krcl",
-      "label": "Krcl",
+      "id": "org-national-highways-authority",
+      "label": "National Highways Authority",
       "central": true,
       "state": null,
       "tenders": 4,
       "archive": 4,
       "observed": 0,
       "months": [
-        "2015",
-        "2014"
+        "2013"
       ]
     },
     {
@@ -7506,15 +7693,14 @@
       ]
     },
     {
-      "id": "org-department-consumer-affairs",
-      "label": "Department Consumer Affairs",
+      "id": "org-national-skill-development-agency",
+      "label": "National Skill Development Agency",
       "central": true,
       "state": null,
       "tenders": 4,
       "archive": 4,
       "observed": 0,
       "months": [
-        "2017",
         "2014"
       ]
     },
@@ -7544,18 +7730,6 @@
       ]
     },
     {
-      "id": "org-directorate-rural-development-panchayati-ra",
-      "label": "Directorate Rural Development Panchayati Ra",
-      "central": false,
-      "state": "Himachal Pradesh",
-      "tenders": 4,
-      "archive": 4,
-      "observed": 0,
-      "months": [
-        "2019"
-      ]
-    },
-    {
       "id": "org-high-court-himachal-pradesh",
       "label": "High Court Himachal Pradesh",
       "central": false,
@@ -7569,8 +7743,20 @@
       ]
     },
     {
-      "id": "org-energy-cee",
-      "label": "Energy Cee",
+      "id": "org-directorate-rural-development-panchayati-ra",
+      "label": "Directorate Rural Development Panchayati Ra",
+      "central": false,
+      "state": "Himachal Pradesh",
+      "tenders": 4,
+      "archive": 4,
+      "observed": 0,
+      "months": [
+        "2019"
+      ]
+    },
+    {
+      "id": "org-rcd-einc",
+      "label": "Rcd Einc",
       "central": false,
       "state": "Jharkhand",
       "tenders": 4,
@@ -7605,8 +7791,44 @@
       ]
     },
     {
+      "id": "org-madhya-pradesh-public-health-services",
+      "label": "Madhya Pradesh Public Health Services",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 4,
+      "archive": 0,
+      "observed": 4,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-rdd-ceo-aurangabad",
       "label": "Rdd Ceo Aurangabad",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 4,
+      "archive": 0,
+      "observed": 4,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-rdd-ceo-dhule",
+      "label": "Rdd Ceo Dhule",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 4,
+      "archive": 0,
+      "observed": 4,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-pimpri-chinchwad-municipal",
+      "label": "Pimpri Chinchwad Municipal",
       "central": false,
       "state": "Maharashtra",
       "tenders": 4,
@@ -7641,6 +7863,18 @@
       ]
     },
     {
+      "id": "org-odisha-state-milk-producers-federation",
+      "label": "Odisha State Milk Producers Federation",
+      "central": false,
+      "state": "Odisha",
+      "tenders": 4,
+      "archive": 0,
+      "observed": 4,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-ce-bm-baitarani-basin-kenojhar",
       "label": "Ce Bm Baitarani Basin Kenojhar",
       "central": false,
@@ -7657,6 +7891,18 @@
       "label": "Department Cooperation",
       "central": false,
       "state": "Punjab",
+      "tenders": 4,
+      "archive": 0,
+      "observed": 4,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-rcdf-md",
+      "label": "Rcdf Md",
+      "central": false,
+      "state": "Rajasthan",
       "tenders": 4,
       "archive": 0,
       "observed": 4,
@@ -7797,15 +8043,15 @@
       ]
     },
     {
-      "id": "org-border-protection-development-department",
-      "label": "Border Protection Development Department",
+      "id": "org-public-works-roads-department-externally-aided-project",
+      "label": "Public Works Roads Department Externally Aided Project",
       "central": false,
       "state": "Assam",
       "tenders": 3,
-      "archive": 3,
-      "observed": 0,
+      "archive": 0,
+      "observed": 3,
       "months": [
-        "2019"
+        "2026"
       ]
     },
     {
@@ -7836,6 +8082,18 @@
       ]
     },
     {
+      "id": "org-border-protection-development-department",
+      "label": "Border Protection Development Department",
+      "central": false,
+      "state": "Assam",
+      "tenders": 3,
+      "archive": 3,
+      "observed": 0,
+      "months": [
+        "2019"
+      ]
+    },
+    {
       "id": "org-iter",
       "label": "Iter",
       "central": true,
@@ -7848,37 +8106,49 @@
       ]
     },
     {
-      "id": "org-national-archives",
-      "label": "National Archives",
-      "central": true,
-      "state": null,
-      "tenders": 3,
-      "archive": 3,
-      "observed": 0,
-      "months": [
-        "2015",
-        "2014"
-      ]
-    },
-    {
-      "id": "org-directorate-general-ndrf",
-      "label": "Directorate General Ndrf",
-      "central": true,
-      "state": null,
-      "tenders": 3,
-      "archive": 3,
-      "observed": 0,
-      "months": [
-        "2017",
-        "2015",
-        "2014"
-      ]
-    },
-    {
       "id": "org-directorate-general-foreign-trade",
       "label": "Directorate General Foreign Trade",
       "central": false,
       "state": "Delhi",
+      "tenders": 3,
+      "archive": 3,
+      "observed": 0,
+      "months": [
+        "2015",
+        "2014"
+      ]
+    },
+    {
+      "id": "org-national-institute-biologicals",
+      "label": "National Institute Biologicals",
+      "central": true,
+      "state": null,
+      "tenders": 3,
+      "archive": 3,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-nic-organisation",
+      "label": "Nic Organisation",
+      "central": true,
+      "state": null,
+      "tenders": 3,
+      "archive": 3,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015"
+      ]
+    },
+    {
+      "id": "org-national-archives",
+      "label": "National Archives",
+      "central": true,
+      "state": null,
       "tenders": 3,
       "archive": 3,
       "observed": 0,
@@ -7902,18 +8172,6 @@
       ]
     },
     {
-      "id": "org-tata-institute-fundamental-research",
-      "label": "Tata Institute Fundamental Research",
-      "central": true,
-      "state": null,
-      "tenders": 3,
-      "archive": 3,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
       "id": "org-nh-tamilnadu",
       "label": "Nh Tamilnadu",
       "central": true,
@@ -7926,8 +8184,8 @@
       ]
     },
     {
-      "id": "org-test",
-      "label": "Test",
+      "id": "org-national-capital-region-planning-board",
+      "label": "National Capital Region Planning Board",
       "central": true,
       "state": null,
       "tenders": 3,
@@ -7938,8 +8196,8 @@
       ]
     },
     {
-      "id": "org-national-capital-region-planning-board",
-      "label": "National Capital Region Planning Board",
+      "id": "org-test",
+      "label": "Test",
       "central": true,
       "state": null,
       "tenders": 3,
@@ -7963,6 +8221,32 @@
       ]
     },
     {
+      "id": "org-indian-institute-mass-communication",
+      "label": "Indian Institute Mass Communication",
+      "central": true,
+      "state": null,
+      "tenders": 3,
+      "archive": 3,
+      "observed": 0,
+      "months": [
+        "2016"
+      ]
+    },
+    {
+      "id": "org-directorate-general-ndrf",
+      "label": "Directorate General Ndrf",
+      "central": true,
+      "state": null,
+      "tenders": 3,
+      "archive": 3,
+      "observed": 0,
+      "months": [
+        "2017",
+        "2015",
+        "2014"
+      ]
+    },
+    {
       "id": "org-department-administrative-reforms-public-gr",
       "label": "Department Administrative Reforms Public Gr",
       "central": true,
@@ -7975,28 +8259,28 @@
       ]
     },
     {
-      "id": "org-nic-organisation",
-      "label": "Nic Organisation",
+      "id": "org-tata-institute-fundamental-research",
+      "label": "Tata Institute Fundamental Research",
       "central": true,
       "state": null,
       "tenders": 3,
       "archive": 3,
       "observed": 0,
       "months": [
-        "2016",
-        "2015"
+        "2013"
       ]
     },
     {
-      "id": "org-indian-institute-mass-communication",
-      "label": "Indian Institute Mass Communication",
+      "id": "org-bharat-petroresources",
+      "label": "Bharat Petroresources",
       "central": true,
       "state": null,
       "tenders": 3,
       "archive": 3,
       "observed": 0,
       "months": [
-        "2016"
+        "2014",
+        "2013"
       ]
     },
     {
@@ -8025,32 +8309,6 @@
       ]
     },
     {
-      "id": "org-national-institute-biologicals",
-      "label": "National Institute Biologicals",
-      "central": true,
-      "state": null,
-      "tenders": 3,
-      "archive": 3,
-      "observed": 0,
-      "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
-      "id": "org-bharat-petroresources",
-      "label": "Bharat Petroresources",
-      "central": true,
-      "state": null,
-      "tenders": 3,
-      "archive": 3,
-      "observed": 0,
-      "months": [
-        "2014",
-        "2013"
-      ]
-    },
-    {
       "id": "org-ggs-inderprastha-university",
       "label": "Ggs Inderprastha University",
       "central": false,
@@ -8060,6 +8318,31 @@
       "observed": 3,
       "months": [
         "2026"
+      ]
+    },
+    {
+      "id": "org-goa-tourism-development",
+      "label": "Goa Tourism Development",
+      "central": false,
+      "state": "Goa",
+      "tenders": 3,
+      "archive": 0,
+      "observed": 3,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-department-information-technology",
+      "label": "Department Information Technology",
+      "central": false,
+      "state": "Himachal Pradesh",
+      "tenders": 3,
+      "archive": 1,
+      "observed": 2,
+      "months": [
+        "2026",
+        "2017"
       ]
     },
     {
@@ -8099,18 +8382,6 @@
       ]
     },
     {
-      "id": "org-haudd",
-      "label": "Haudd",
-      "central": false,
-      "state": "Jammu & Kashmir",
-      "tenders": 3,
-      "archive": 0,
-      "observed": 3,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-n-r-e-p-dumka",
       "label": "N R E P Dumka",
       "central": false,
@@ -8135,8 +8406,8 @@
       ]
     },
     {
-      "id": "org-plantation-kerala",
-      "label": "Plantation Kerala",
+      "id": "org-kerala-small-industries-development",
+      "label": "Kerala Small Industries Development",
       "central": false,
       "state": "Kerala",
       "tenders": 3,
@@ -8147,16 +8418,15 @@
       ]
     },
     {
-      "id": "org-mp-police",
-      "label": "Mp Police",
+      "id": "org-district-collectorate",
+      "label": "District Collectorate",
       "central": false,
       "state": "Madhya Pradesh",
       "tenders": 3,
       "archive": 0,
       "observed": 3,
       "months": [
-        "2026",
-        "2025"
+        "2026"
       ]
     },
     {
@@ -8196,8 +8466,8 @@
       ]
     },
     {
-      "id": "org-madhya-pradesh-public-health-services",
-      "label": "Madhya Pradesh Public Health Services",
+      "id": "org-mp-housing-infrastructure-development-board",
+      "label": "Mp Housing Infrastructure Development Board",
       "central": false,
       "state": "Madhya Pradesh",
       "tenders": 3,
@@ -8208,8 +8478,8 @@
       ]
     },
     {
-      "id": "org-operation",
-      "label": "Operation",
+      "id": "org-rdd-ceo-chandrapur",
+      "label": "Rdd Ceo Chandrapur",
       "central": false,
       "state": "Maharashtra",
       "tenders": 3,
@@ -8220,8 +8490,8 @@
       ]
     },
     {
-      "id": "org-rdd-ceo-dhule",
-      "label": "Rdd Ceo Dhule",
+      "id": "org-operation",
+      "label": "Operation",
       "central": false,
       "state": "Maharashtra",
       "tenders": 3,
@@ -8268,6 +8538,18 @@
       ]
     },
     {
+      "id": "org-odisha-state-seed",
+      "label": "Odisha State Seed",
+      "central": false,
+      "state": "Odisha",
+      "tenders": 3,
+      "archive": 0,
+      "observed": 3,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-ce-pwd",
       "label": "Ce Pwd",
       "central": false,
@@ -8292,6 +8574,30 @@
       ]
     },
     {
+      "id": "org-water-supply-sanitation",
+      "label": "Water Supply Sanitation",
+      "central": false,
+      "state": "Punjab",
+      "tenders": 3,
+      "archive": 0,
+      "observed": 3,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-department-college-education",
+      "label": "Department College Education",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 3,
+      "archive": 0,
+      "observed": 3,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-icds-director",
       "label": "Icds Director",
       "central": false,
@@ -8304,10 +8610,22 @@
       ]
     },
     {
-      "id": "org-director-directorate-secondary-education",
-      "label": "Director Directorate Secondary Education",
+      "id": "org-mbm-university-jodhpur",
+      "label": "Mbm University Jodhpur",
       "central": false,
-      "state": "Tripura",
+      "state": "Rajasthan",
+      "tenders": 3,
+      "archive": 0,
+      "observed": 3,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-tamilnadu-op-milk-producers-federation",
+      "label": "Tamilnadu Op Milk Producers Federation",
+      "central": false,
+      "state": "Tamil Nadu",
       "tenders": 3,
       "archive": 0,
       "observed": 3,
@@ -8330,6 +8648,18 @@
     {
       "id": "org-principal-government-doon-medical-college-dehradun",
       "label": "Principal Government Doon Medical College Dehradun",
+      "central": false,
+      "state": "Uttarakhand",
+      "tenders": 3,
+      "archive": 0,
+      "observed": 3,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-municipal-commissioner-nagar-nigam-roorkee",
+      "label": "Municipal Commissioner Nagar Nigam Roorkee",
       "central": false,
       "state": "Uttarakhand",
       "tenders": 3,
@@ -8400,6 +8730,30 @@
       ]
     },
     {
+      "id": "org-university-calcutta",
+      "label": "University Calcutta",
+      "central": false,
+      "state": "West Bengal",
+      "tenders": 3,
+      "archive": 0,
+      "observed": 3,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-west-bengal-state-electricity-transmission",
+      "label": "West Bengal State Electricity Transmission",
+      "central": false,
+      "state": "West Bengal",
+      "tenders": 3,
+      "archive": 0,
+      "observed": 3,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-state-water-investigation-dte",
       "label": "State Water Investigation Dte",
       "central": false,
@@ -8412,16 +8766,15 @@
       ]
     },
     {
-      "id": "org-north-cachar-hills-autonomous-council",
-      "label": "North Cachar Hills Autonomous Council",
+      "id": "org-webel",
+      "label": "Webel",
       "central": false,
-      "state": "Assam",
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
+      "state": "West Bengal",
+      "tenders": 3,
+      "archive": 0,
+      "observed": 3,
       "months": [
-        "2020",
-        "2019"
+        "2026"
       ]
     },
     {
@@ -8435,6 +8788,19 @@
       "months": [
         "2021",
         "2020"
+      ]
+    },
+    {
+      "id": "org-north-cachar-hills-autonomous-council",
+      "label": "North Cachar Hills Autonomous Council",
+      "central": false,
+      "state": "Assam",
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2020",
+        "2019"
       ]
     },
     {
@@ -8546,20 +8912,45 @@
       ]
     },
     {
-      "id": "org-ministry-steel",
-      "label": "Ministry Steel",
+      "id": "org-office-pr-cca-mha",
+      "label": "Office Pr Cca Mha",
       "central": true,
       "state": null,
       "tenders": 2,
       "archive": 2,
       "observed": 0,
       "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-police-modernisation",
+      "label": "Police Modernisation",
+      "central": true,
+      "state": null,
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2015",
         "2014"
       ]
     },
     {
-      "id": "org-nhai",
-      "label": "Nhai",
+      "id": "org-ministry-statistics-programme-implementation",
+      "label": "Ministry Statistics Programme Implementation",
+      "central": true,
+      "state": null,
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-central-soil-materials-research-station",
+      "label": "Central Soil Materials Research Station",
       "central": true,
       "state": null,
       "tenders": 2,
@@ -8571,27 +8962,28 @@
       ]
     },
     {
-      "id": "org-department-economic-affairs",
-      "label": "Department Economic Affairs",
+      "id": "org-bureau-civil-aviation-security",
+      "label": "Bureau Civil Aviation Security",
       "central": true,
       "state": null,
       "tenders": 2,
       "archive": 2,
       "observed": 0,
       "months": [
-        "2013"
+        "2015",
+        "2014"
       ]
     },
     {
-      "id": "org-rail-vikas-nigam",
-      "label": "Rail Vikas Nigam",
+      "id": "org-ministry-steel",
+      "label": "Ministry Steel",
       "central": true,
       "state": null,
       "tenders": 2,
       "archive": 2,
       "observed": 0,
       "months": [
-        "2013"
+        "2014"
       ]
     },
     {
@@ -8619,16 +9011,28 @@
       ]
     },
     {
-      "id": "org-central-soil-materials-research-station",
-      "label": "Central Soil Materials Research Station",
+      "id": "org-central-university-tamil-nadu",
+      "label": "Central University Tamil Nadu",
+      "central": false,
+      "state": "Tamil Nadu",
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015"
+      ]
+    },
+    {
+      "id": "org-cochin-port-trust",
+      "label": "Cochin Port Trust",
       "central": true,
       "state": null,
       "tenders": 2,
       "archive": 2,
       "observed": 0,
       "months": [
-        "2014",
-        "2013"
+        "2014"
       ]
     },
     {
@@ -8641,6 +9045,56 @@
       "observed": 0,
       "months": [
         "2014"
+      ]
+    },
+    {
+      "id": "org-ministry-drinking-water-sanitation",
+      "label": "Ministry Drinking Water Sanitation",
+      "central": true,
+      "state": null,
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2014"
+      ]
+    },
+    {
+      "id": "org-national-informatics-centre-services-inc",
+      "label": "National Informatics Centre Services Inc",
+      "central": true,
+      "state": null,
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2016",
+        "2015"
+      ]
+    },
+    {
+      "id": "org-town-country-planning-organisation",
+      "label": "Town Country Planning Organisation",
+      "central": true,
+      "state": null,
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
+      ]
+    },
+    {
+      "id": "org-mormugoa-port-trust",
+      "label": "Mormugoa Port Trust",
+      "central": false,
+      "state": "Goa",
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2015"
       ]
     },
     {
@@ -8665,6 +9119,19 @@
       "observed": 0,
       "months": [
         "2014"
+      ]
+    },
+    {
+      "id": "org-nhai",
+      "label": "Nhai",
+      "central": true,
+      "state": null,
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2014",
+        "2013"
       ]
     },
     {
@@ -8704,103 +9171,27 @@
       ]
     },
     {
-      "id": "org-pt-deendayal-upadhyaya-institute-for-physically-handicapped",
-      "label": "Pt Deendayal Upadhyaya Institute For Physically Handicapped",
+      "id": "org-rail-vikas-nigam",
+      "label": "Rail Vikas Nigam",
       "central": true,
       "state": null,
       "tenders": 2,
       "archive": 2,
       "observed": 0,
       "months": [
-        "2016"
-      ]
-    },
-    {
-      "id": "org-sports-authority",
-      "label": "Sports Authority",
-      "central": true,
-      "state": null,
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
-      "months": [
-        "2016"
-      ]
-    },
-    {
-      "id": "org-central-university-tamil-nadu",
-      "label": "Central University Tamil Nadu",
-      "central": false,
-      "state": "Tamil Nadu",
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
-      "months": [
-        "2016",
-        "2015"
-      ]
-    },
-    {
-      "id": "org-town-country-planning-organisation",
-      "label": "Town Country Planning Organisation",
-      "central": true,
-      "state": null,
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
-      "months": [
-        "2014",
         "2013"
       ]
     },
     {
-      "id": "org-mormugoa-port-trust",
-      "label": "Mormugoa Port Trust",
-      "central": false,
-      "state": "Goa",
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-national-informatics-centre-services-inc",
-      "label": "National Informatics Centre Services Inc",
+      "id": "org-department-economic-affairs",
+      "label": "Department Economic Affairs",
       "central": true,
       "state": null,
       "tenders": 2,
       "archive": 2,
       "observed": 0,
       "months": [
-        "2016",
-        "2015"
-      ]
-    },
-    {
-      "id": "org-office-pr-cca-mha",
-      "label": "Office Pr Cca Mha",
-      "central": true,
-      "state": null,
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-bureau-civil-aviation-security",
-      "label": "Bureau Civil Aviation Security",
-      "central": true,
-      "state": null,
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
-      "months": [
-        "2015",
-        "2014"
+        "2013"
       ]
     },
     {
@@ -8840,57 +9231,44 @@
       ]
     },
     {
-      "id": "org-ministry-statistics-programme-implementation",
-      "label": "Ministry Statistics Programme Implementation",
+      "id": "org-pt-deendayal-upadhyaya-institute-for-physically-handicapped",
+      "label": "Pt Deendayal Upadhyaya Institute For Physically Handicapped",
       "central": true,
       "state": null,
       "tenders": 2,
       "archive": 2,
       "observed": 0,
       "months": [
-        "2015"
+        "2016"
       ]
     },
     {
-      "id": "org-cochin-port-trust",
-      "label": "Cochin Port Trust",
+      "id": "org-sports-authority",
+      "label": "Sports Authority",
       "central": true,
       "state": null,
       "tenders": 2,
       "archive": 2,
       "observed": 0,
       "months": [
-        "2014"
-      ]
-    },
-    {
-      "id": "org-police-modernisation",
-      "label": "Police Modernisation",
-      "central": true,
-      "state": null,
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
-      "months": [
-        "2015",
-        "2014"
-      ]
-    },
-    {
-      "id": "org-ministry-drinking-water-sanitation",
-      "label": "Ministry Drinking Water Sanitation",
-      "central": true,
-      "state": null,
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
-      "months": [
-        "2014"
+        "2016"
       ]
     },
     {
       "id": "org-delhi-agricultural-marketing-board",
       "label": "Delhi Agricultural Marketing Board",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-dsiidc",
+      "label": "Dsiidc",
       "central": false,
       "state": "Delhi",
       "tenders": 2,
@@ -8937,28 +9315,15 @@
       ]
     },
     {
-      "id": "org-department-information-technology",
-      "label": "Department Information Technology",
+      "id": "org-hp-horticultural-produce-marketing-processing",
+      "label": "Hp Horticultural Produce Marketing Processing",
       "central": false,
       "state": "Himachal Pradesh",
       "tenders": 2,
-      "archive": 1,
-      "observed": 1,
+      "archive": 0,
+      "observed": 2,
       "months": [
-        "2026",
-        "2017"
-      ]
-    },
-    {
-      "id": "org-directorate-horticulture",
-      "label": "Directorate Horticulture",
-      "central": false,
-      "state": "Himachal Pradesh",
-      "tenders": 2,
-      "archive": 2,
-      "observed": 0,
-      "months": [
-        "2019"
+        "2026"
       ]
     },
     {
@@ -8971,6 +9336,18 @@
       "observed": 0,
       "months": [
         "2018"
+      ]
+    },
+    {
+      "id": "org-directorate-horticulture",
+      "label": "Directorate Horticulture",
+      "central": false,
+      "state": "Himachal Pradesh",
+      "tenders": 2,
+      "archive": 2,
+      "observed": 0,
+      "months": [
+        "2019"
       ]
     },
     {
@@ -8998,22 +9375,10 @@
       ]
     },
     {
-      "id": "org-jharkhand-state-building-construction",
-      "label": "Jharkhand State Building Construction",
+      "id": "org-shri-mata-vaishno-devi-university",
+      "label": "Shri Mata Vaishno Devi University",
       "central": false,
-      "state": "Jharkhand",
-      "tenders": 2,
-      "archive": 0,
-      "observed": 2,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-jseb",
-      "label": "Jseb",
-      "central": false,
-      "state": "Jharkhand",
+      "state": "Jammu & Kashmir",
       "tenders": 2,
       "archive": 0,
       "observed": 2,
@@ -9038,6 +9403,30 @@
       "label": "Nrep Sahibganj",
       "central": false,
       "state": "Jharkhand",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-rwd-einc",
+      "label": "Rwd Einc",
+      "central": false,
+      "state": "Jharkhand",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-harbour-engineering-department",
+      "label": "Harbour Engineering Department",
+      "central": false,
+      "state": "Kerala",
       "tenders": 2,
       "archive": 0,
       "observed": 2,
@@ -9130,8 +9519,8 @@
       ]
     },
     {
-      "id": "org-mp-housing-infrastructure-development-board",
-      "label": "Mp Housing Infrastructure Development Board",
+      "id": "org-general-administration-department-registrar",
+      "label": "General Administration Department Registrar",
       "central": false,
       "state": "Madhya Pradesh",
       "tenders": 2,
@@ -9154,32 +9543,32 @@
       ]
     },
     {
+      "id": "org-mp-state-tourism-development",
+      "label": "Mp State Tourism Development",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-tribal-affairs-department-mp",
+      "label": "Tribal Affairs Department Mp",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-rdd-ceo-akola",
       "label": "Rdd Ceo Akola",
-      "central": false,
-      "state": "Maharashtra",
-      "tenders": 2,
-      "archive": 0,
-      "observed": 2,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-rdd-ceo-buldhana",
-      "label": "Rdd Ceo Buldhana",
-      "central": false,
-      "state": "Maharashtra",
-      "tenders": 2,
-      "archive": 0,
-      "observed": 2,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-rdd-ceo-chandrapur",
-      "label": "Rdd Ceo Chandrapur",
       "central": false,
       "state": "Maharashtra",
       "tenders": 2,
@@ -9214,6 +9603,18 @@
       ]
     },
     {
+      "id": "org-directorate-sports-youth-services",
+      "label": "Directorate Sports Youth Services",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-maharashtra-fisheries-development-mumbai",
       "label": "Maharashtra Fisheries Development Mumbai",
       "central": false,
@@ -9228,6 +9629,18 @@
     {
       "id": "org-head-office-mahabeej-akola",
       "label": "Head Office Mahabeej Akola",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-collector-nandurbar",
+      "label": "Collector Nandurbar",
       "central": false,
       "state": "Maharashtra",
       "tenders": 2,
@@ -9266,6 +9679,18 @@
       "label": "Directorate Tribal Affairs Hills",
       "central": false,
       "state": "Manipur",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-meghalaya-energy",
+      "label": "Meghalaya Energy",
+      "central": false,
+      "state": "Meghalaya",
       "tenders": 2,
       "archive": 0,
       "observed": 2,
@@ -9334,20 +9759,8 @@
       ]
     },
     {
-      "id": "org-water-supply-sanitation",
-      "label": "Water Supply Sanitation",
-      "central": false,
-      "state": "Punjab",
-      "tenders": 2,
-      "archive": 0,
-      "observed": 2,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-rcdf-md",
-      "label": "Rcdf Md",
+      "id": "org-rajasthan-state-sports-council",
+      "label": "Rajasthan State Sports Council",
       "central": false,
       "state": "Rajasthan",
       "tenders": 2,
@@ -9358,8 +9771,8 @@
       ]
     },
     {
-      "id": "org-rrvpn-cmd",
-      "label": "Rrvpn Cmd",
+      "id": "org-s-m-s-medical-college-jaipur",
+      "label": "S M S Medical College Jaipur",
       "central": false,
       "state": "Rajasthan",
       "tenders": 2,
@@ -9394,21 +9807,20 @@
       ]
     },
     {
-      "id": "org-tamilnadu-state-transport",
-      "label": "Tamilnadu State Transport",
+      "id": "org-directorate-town-panchayats",
+      "label": "Directorate Town Panchayats",
       "central": false,
       "state": "Tamil Nadu",
       "tenders": 2,
       "archive": 0,
       "observed": 2,
       "months": [
-        "2026",
-        "2025"
+        "2026"
       ]
     },
     {
-      "id": "org-tamilnadu-op-milk-producers-federation",
-      "label": "Tamilnadu Op Milk Producers Federation",
+      "id": "org-tamil-nadu-health-systems-project",
+      "label": "Tamil Nadu Health Systems Project",
       "central": false,
       "state": "Tamil Nadu",
       "tenders": 2,
@@ -9492,18 +9904,6 @@
       ]
     },
     {
-      "id": "org-municipal-commissioner-nagar-nigam-roorkee",
-      "label": "Municipal Commissioner Nagar Nigam Roorkee",
-      "central": false,
-      "state": "Uttarakhand",
-      "tenders": 2,
-      "archive": 0,
-      "observed": 2,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-ce-hod",
       "label": "Ce Hod",
       "central": false,
@@ -9520,6 +9920,30 @@
       "label": "Executive Officer Nagar Palika Parishad Munikireti Dhalwala",
       "central": false,
       "state": "Uttarakhand",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-cheif-engineer-kanpur-zone-pwd-kanpur",
+      "label": "Cheif Engineer Kanpur Zone Pwd Kanpur",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 2,
+      "archive": 0,
+      "observed": 2,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-chief-engineer-moradabad-zone-pwd-moradabad-up",
+      "label": "Chief Engineer Moradabad Zone Pwd Moradabad Up",
+      "central": false,
+      "state": "Uttar Pradesh",
       "tenders": 2,
       "archive": 0,
       "observed": 2,
@@ -9564,32 +9988,8 @@
       ]
     },
     {
-      "id": "org-university-calcutta",
-      "label": "University Calcutta",
-      "central": false,
-      "state": "West Bengal",
-      "tenders": 2,
-      "archive": 0,
-      "observed": 2,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-directorate-forests",
       "label": "Directorate Forests",
-      "central": false,
-      "state": "West Bengal",
-      "tenders": 2,
-      "archive": 0,
-      "observed": 2,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-wbsidcl",
-      "label": "Wbsidcl",
       "central": false,
       "state": "West Bengal",
       "tenders": 2,
@@ -9648,8 +10048,8 @@
       ]
     },
     {
-      "id": "org-public-works-roads-department-externally-aided-project",
-      "label": "Public Works Roads Department Externally Aided Project",
+      "id": "org-skill-employment-entrepreneurship-department-externally-aided-project",
+      "label": "Skill Employment Entrepreneurship Department Externally Aide",
       "central": false,
       "state": "Assam",
       "tenders": 1,
@@ -9684,18 +10084,6 @@
       ]
     },
     {
-      "id": "org-transformation-development-department",
-      "label": "Transformation Development Department",
-      "central": false,
-      "state": "Assam",
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2020"
-      ]
-    },
-    {
       "id": "org-organizing-committee-south-asian-games",
       "label": "Organizing Committee South Asian Games",
       "central": false,
@@ -9705,6 +10093,18 @@
       "observed": 0,
       "months": [
         "2016"
+      ]
+    },
+    {
+      "id": "org-transformation-development-department",
+      "label": "Transformation Development Department",
+      "central": false,
+      "state": "Assam",
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2020"
       ]
     },
     {
@@ -10200,8 +10600,44 @@
       ]
     },
     {
-      "id": "org-satluj-jal-vidyut-nigam",
-      "label": "Satluj Jal Vidyut Nigam",
+      "id": "org-department-land-resources",
+      "label": "Department Land Resources",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-central-potato-research-institute",
+      "label": "Central Potato Research Institute",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-null",
+      "label": "Null",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-national-institute-rural-development-mord",
+      "label": "National Institute Rural Development Mord",
       "central": true,
       "state": null,
       "tenders": 1,
@@ -10212,39 +10648,27 @@
       ]
     },
     {
-      "id": "org-supreme-court-admin-material",
-      "label": "Supreme Court Admin Material",
+      "id": "org-org-for-epublishing",
+      "label": "Org For Epublishing",
       "central": true,
       "state": null,
       "tenders": 1,
       "archive": 1,
       "observed": 0,
       "months": [
-        "2013"
+        "2014"
       ]
     },
     {
-      "id": "org-ministry-panchayati-raj",
-      "label": "Ministry Panchayati Raj",
+      "id": "org-corporate-office",
+      "label": "Corporate Office",
       "central": true,
       "state": null,
       "tenders": 1,
       "archive": 1,
       "observed": 0,
       "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-ministry-power",
-      "label": "Ministry Power",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2015"
+        "2014"
       ]
     },
     {
@@ -10257,6 +10681,54 @@
       "observed": 0,
       "months": [
         "2013"
+      ]
+    },
+    {
+      "id": "org-directorate-field-publicity",
+      "label": "Directorate Field Publicity",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-remarks",
+      "label": "Remarks",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-embassy-switzerland-in-new-delhi",
+      "label": "Embassy Switzerland In New Delhi",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2017"
+      ]
+    },
+    {
+      "id": "org-european-external-action-service",
+      "label": "European External Action Service",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
       ]
     },
     {
@@ -10308,6 +10780,126 @@
       ]
     },
     {
+      "id": "org-hemisphere-properties",
+      "label": "Hemisphere Properties",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-prime-ministers-office",
+      "label": "Prime Ministers Office",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-chenab-valley-power-projects",
+      "label": "Chenab Valley Power Projects",
+      "central": false,
+      "state": "Jammu & Kashmir",
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2014"
+      ]
+    },
+    {
+      "id": "org-translational-health-sci-tech-inst-dobt",
+      "label": "Translational Health Sci Tech Inst Dobt",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2014"
+      ]
+    },
+    {
+      "id": "org-cheif-controller-accounts",
+      "label": "Cheif Controller Accounts",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2013"
+      ]
+    },
+    {
+      "id": "org-siddharth-dasgupta",
+      "label": "Siddharth Dasgupta",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2014"
+      ]
+    },
+    {
+      "id": "org-bharat-bhari-udyog-nigam",
+      "label": "Bharat Bhari Udyog Nigam",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2014"
+      ]
+    },
+    {
+      "id": "org-british-council-division",
+      "label": "British Council Division",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2012"
+      ]
+    },
+    {
+      "id": "org-central-board-excise-customs",
+      "label": "Central Board Excise Customs",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2016"
+      ]
+    },
+    {
+      "id": "org-central-electricity-authority-cea",
+      "label": "Central Electricity Authority Cea",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2016"
+      ]
+    },
+    {
       "id": "org-registrar-general",
       "label": "Registrar General",
       "central": true,
@@ -10332,8 +10924,8 @@
       ]
     },
     {
-      "id": "org-european-external-action-service",
-      "label": "European External Action Service",
+      "id": "org-ali-yavar-jung-national-institute-for-hearing-handicapped-mumbai",
+      "label": "Ali Yavar Jung National Institute For Hearing Handicapped Mu",
       "central": true,
       "state": null,
       "tenders": 1,
@@ -10341,30 +10933,6 @@
       "observed": 0,
       "months": [
         "2015"
-      ]
-    },
-    {
-      "id": "org-department-health-research",
-      "label": "Department Health Research",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
-      "id": "org-cheif-controller-accounts",
-      "label": "Cheif Controller Accounts",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2013"
       ]
     },
     {
@@ -10416,162 +10984,6 @@
       ]
     },
     {
-      "id": "org-directorate-coordination-police-wireless",
-      "label": "Directorate Coordination Police Wireless",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2016"
-      ]
-    },
-    {
-      "id": "org-directorate-estates",
-      "label": "Directorate Estates",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2016"
-      ]
-    },
-    {
-      "id": "org-test-department",
-      "label": "Test Department",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2016"
-      ]
-    },
-    {
-      "id": "org-wildlife-institute",
-      "label": "Wildlife Institute",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2016"
-      ]
-    },
-    {
-      "id": "org-ali-yavar-jung-national-institute-for-hearing-handicapped-mumbai",
-      "label": "Ali Yavar Jung National Institute For Hearing Handicapped Mu",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-central-board-excise-customs",
-      "label": "Central Board Excise Customs",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2016"
-      ]
-    },
-    {
-      "id": "org-central-electricity-authority-cea",
-      "label": "Central Electricity Authority Cea",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2016"
-      ]
-    },
-    {
-      "id": "org-department-land-resources",
-      "label": "Department Land Resources",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-central-potato-research-institute",
-      "label": "Central Potato Research Institute",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-null",
-      "label": "Null",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-directorate-field-publicity",
-      "label": "Directorate Field Publicity",
-      "central": false,
-      "state": "Delhi",
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-remarks",
-      "label": "Remarks",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-embassy-switzerland-in-new-delhi",
-      "label": "Embassy Switzerland In New Delhi",
-      "central": false,
-      "state": "Delhi",
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2017"
-      ]
-    },
-    {
       "id": "org-office-controller-accounts",
       "label": "Office Controller Accounts",
       "central": true,
@@ -10584,8 +10996,56 @@
       ]
     },
     {
-      "id": "org-siddharth-dasgupta",
-      "label": "Siddharth Dasgupta",
+      "id": "org-supreme-court-admin-material",
+      "label": "Supreme Court Admin Material",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2013"
+      ]
+    },
+    {
+      "id": "org-development-commissioner-msme",
+      "label": "Development Commissioner Msme",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2013"
+      ]
+    },
+    {
+      "id": "org-central-bank",
+      "label": "Central Bank",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2013"
+      ]
+    },
+    {
+      "id": "org-mnh-shakti",
+      "label": "Mnh Shakti",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2013"
+      ]
+    },
+    {
+      "id": "org-satluj-jal-vidyut-nigam",
+      "label": "Satluj Jal Vidyut Nigam",
       "central": true,
       "state": null,
       "tenders": 1,
@@ -10593,6 +11053,78 @@
       "observed": 0,
       "months": [
         "2014"
+      ]
+    },
+    {
+      "id": "org-department-health-research",
+      "label": "Department Health Research",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2013"
+      ]
+    },
+    {
+      "id": "org-ministry-panchayati-raj",
+      "label": "Ministry Panchayati Raj",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-ministry-power",
+      "label": "Ministry Power",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2015"
+      ]
+    },
+    {
+      "id": "org-handicrafts-n-handlooms-exports",
+      "label": "Handicrafts N Handlooms Exports",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2013"
+      ]
+    },
+    {
+      "id": "org-vmmc-safdarjang-hospital",
+      "label": "Vmmc Safdarjang Hospital",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2013"
+      ]
+    },
+    {
+      "id": "org-saha-institute-nuclear-physics",
+      "label": "Saha Institute Nuclear Physics",
+      "central": true,
+      "state": null,
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2013"
       ]
     },
     {
@@ -10644,188 +11176,56 @@
       ]
     },
     {
-      "id": "org-british-council-division",
-      "label": "British Council Division",
+      "id": "org-directorate-coordination-police-wireless",
+      "label": "Directorate Coordination Police Wireless",
       "central": true,
       "state": null,
       "tenders": 1,
       "archive": 1,
       "observed": 0,
       "months": [
-        "2012"
+        "2016"
       ]
     },
     {
-      "id": "org-national-institute-rural-development-mord",
-      "label": "National Institute Rural Development Mord",
+      "id": "org-directorate-estates",
+      "label": "Directorate Estates",
       "central": true,
       "state": null,
       "tenders": 1,
       "archive": 1,
       "observed": 0,
       "months": [
-        "2014"
+        "2016"
       ]
     },
     {
-      "id": "org-org-for-epublishing",
-      "label": "Org For Epublishing",
+      "id": "org-test-department",
+      "label": "Test Department",
       "central": true,
       "state": null,
       "tenders": 1,
       "archive": 1,
       "observed": 0,
       "months": [
-        "2014"
+        "2016"
       ]
     },
     {
-      "id": "org-corporate-office",
-      "label": "Corporate Office",
+      "id": "org-wildlife-institute",
+      "label": "Wildlife Institute",
       "central": true,
       "state": null,
       "tenders": 1,
       "archive": 1,
       "observed": 0,
       "months": [
-        "2014"
+        "2016"
       ]
     },
     {
-      "id": "org-hemisphere-properties",
-      "label": "Hemisphere Properties",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-prime-ministers-office",
-      "label": "Prime Ministers Office",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2015"
-      ]
-    },
-    {
-      "id": "org-handicrafts-n-handlooms-exports",
-      "label": "Handicrafts N Handlooms Exports",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
-      "id": "org-vmmc-safdarjang-hospital",
-      "label": "Vmmc Safdarjang Hospital",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
-      "id": "org-saha-institute-nuclear-physics",
-      "label": "Saha Institute Nuclear Physics",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
-      "id": "org-chenab-valley-power-projects",
-      "label": "Chenab Valley Power Projects",
-      "central": false,
-      "state": "Jammu & Kashmir",
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2014"
-      ]
-    },
-    {
-      "id": "org-translational-health-sci-tech-inst-dobt",
-      "label": "Translational Health Sci Tech Inst Dobt",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2014"
-      ]
-    },
-    {
-      "id": "org-central-bank",
-      "label": "Central Bank",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
-      "id": "org-mnh-shakti",
-      "label": "Mnh Shakti",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
-      "id": "org-bharat-bhari-udyog-nigam",
-      "label": "Bharat Bhari Udyog Nigam",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2014"
-      ]
-    },
-    {
-      "id": "org-development-commissioner-msme",
-      "label": "Development Commissioner Msme",
-      "central": true,
-      "state": null,
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2013"
-      ]
-    },
-    {
-      "id": "org-dsiidc",
-      "label": "Dsiidc",
+      "id": "org-delhi-transco",
+      "label": "Delhi Transco",
       "central": false,
       "state": "Delhi",
       "tenders": 1,
@@ -10838,6 +11238,18 @@
     {
       "id": "org-delhi-transport-infrastructure-devlopment",
       "label": "Delhi Transport Infrastructure Devlopment",
+      "central": false,
+      "state": "Delhi",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-pt-madan-mohan-malaviya-hospital",
+      "label": "Pt Madan Mohan Malaviya Hospital",
       "central": false,
       "state": "Delhi",
       "tenders": 1,
@@ -10898,18 +11310,6 @@
     {
       "id": "org-goa-state-urban-development-agency",
       "label": "Goa State Urban Development Agency",
-      "central": false,
-      "state": "Goa",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-goa-tourism-development",
-      "label": "Goa Tourism Development",
       "central": false,
       "state": "Goa",
       "tenders": 1,
@@ -11004,30 +11404,6 @@
       ]
     },
     {
-      "id": "org-hp-horticultural-produce-marketing-processing",
-      "label": "Hp Horticultural Produce Marketing Processing",
-      "central": false,
-      "state": "Himachal Pradesh",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-directorate-forensics-services-himachal-pradesh",
-      "label": "Directorate Forensics Services Himachal Pradesh",
-      "central": false,
-      "state": "Himachal Pradesh",
-      "tenders": 1,
-      "archive": 1,
-      "observed": 0,
-      "months": [
-        "2019"
-      ]
-    },
-    {
       "id": "org-himachal-pradesh-tourism-development-board",
       "label": "Himachal Pradesh Tourism Development Board",
       "central": false,
@@ -11061,6 +11437,18 @@
       "observed": 0,
       "months": [
         "2020"
+      ]
+    },
+    {
+      "id": "org-directorate-forensics-services-himachal-pradesh",
+      "label": "Directorate Forensics Services Himachal Pradesh",
+      "central": false,
+      "state": "Himachal Pradesh",
+      "tenders": 1,
+      "archive": 1,
+      "observed": 0,
+      "months": [
+        "2019"
       ]
     },
     {
@@ -11112,18 +11500,6 @@
       ]
     },
     {
-      "id": "org-shri-mata-vaishno-devi-university",
-      "label": "Shri Mata Vaishno Devi University",
-      "central": false,
-      "state": "Jammu & Kashmir",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-srtc",
       "label": "Srtc",
       "central": false,
@@ -11148,8 +11524,8 @@
       ]
     },
     {
-      "id": "org-rcd-einc",
-      "label": "Rcd Einc",
+      "id": "org-office-registrar-operative-societies",
+      "label": "Office Registrar Operative Societies",
       "central": false,
       "state": "Jharkhand",
       "tenders": 1,
@@ -11160,8 +11536,8 @@
       ]
     },
     {
-      "id": "org-office-registrar-operative-societies",
-      "label": "Office Registrar Operative Societies",
+      "id": "org-jail-inspectorate",
+      "label": "Jail Inspectorate",
       "central": false,
       "state": "Jharkhand",
       "tenders": 1,
@@ -11196,8 +11572,8 @@
       ]
     },
     {
-      "id": "org-patliputra-medical-college-dhanbad",
-      "label": "Patliputra Medical College Dhanbad",
+      "id": "org-nrep-khunti",
+      "label": "Nrep Khunti",
       "central": false,
       "state": "Jharkhand",
       "tenders": 1,
@@ -11208,8 +11584,8 @@
       ]
     },
     {
-      "id": "org-rwd-einc",
-      "label": "Rwd Einc",
+      "id": "org-patliputra-medical-college-dhanbad",
+      "label": "Patliputra Medical College Dhanbad",
       "central": false,
       "state": "Jharkhand",
       "tenders": 1,
@@ -11258,18 +11634,6 @@
     {
       "id": "org-district-nirmithi-kendra-malappuram",
       "label": "District Nirmithi Kendra Malappuram",
-      "central": false,
-      "state": "Kerala",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-harbour-engineering-department",
-      "label": "Harbour Engineering Department",
       "central": false,
       "state": "Kerala",
       "tenders": 1,
@@ -11376,8 +11740,32 @@
       ]
     },
     {
+      "id": "org-kerala-rubber",
+      "label": "Kerala Rubber",
+      "central": false,
+      "state": "Kerala",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-kerala-state-beverages",
       "label": "Kerala State Beverages",
+      "central": false,
+      "state": "Kerala",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-kerala-state-electronics-development",
+      "label": "Kerala State Electronics Development",
       "central": false,
       "state": "Kerala",
       "tenders": 1,
@@ -11426,18 +11814,6 @@
     {
       "id": "org-oil-palm",
       "label": "Oil Palm",
-      "central": false,
-      "state": "Kerala",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-kerala-small-industries-development",
-      "label": "Kerala Small Industries Development",
       "central": false,
       "state": "Kerala",
       "tenders": 1,
@@ -11544,6 +11920,42 @@
       ]
     },
     {
+      "id": "org-kerala-state-drugs-pharmaceuticals",
+      "label": "Kerala State Drugs Pharmaceuticals",
+      "central": false,
+      "state": "Kerala",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-m-p-rajya-sahakari-bank-maryadit-bhopal",
+      "label": "M P Rajya Sahakari Bank Maryadit Bhopal",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-directorate-religious-trust-endowments-ujjain",
+      "label": "Directorate Religious Trust Endowments Ujjain",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-directorate-sports-youth-welfare",
       "label": "Directorate Sports Youth Welfare",
       "central": false,
@@ -11604,6 +12016,30 @@
       ]
     },
     {
+      "id": "org-madhya-pradesh-power-management-jabalpur",
+      "label": "Madhya Pradesh Power Management Jabalpur",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-mp-state-civil-supplies",
+      "label": "Mp State Civil Supplies",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-madhya-pradesh-state-mining",
       "label": "Madhya Pradesh State Mining",
       "central": false,
@@ -11618,6 +12054,18 @@
     {
       "id": "org-madhya-pradesh-urban-development-mdb-tenders",
       "label": "Madhya Pradesh Urban Development Mdb Tenders",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-m-p-vidhan-sabha",
+      "label": "M P Vidhan Sabha",
       "central": false,
       "state": "Madhya Pradesh",
       "tenders": 1,
@@ -11664,8 +12112,8 @@
       ]
     },
     {
-      "id": "org-m-p-state-seed-certification-agency",
-      "label": "M P State Seed Certification Agency",
+      "id": "org-rewa-ultra-mega-solar",
+      "label": "Rewa Ultra Mega Solar",
       "central": false,
       "state": "Madhya Pradesh",
       "tenders": 1,
@@ -11676,8 +12124,20 @@
       ]
     },
     {
-      "id": "org-mp-state-tourism-development",
-      "label": "Mp State Tourism Development",
+      "id": "org-rajmata-vijayaraje-scindia-krishi-vishwa-vidyalaya-gwalior",
+      "label": "Rajmata Vijayaraje Scindia Krishi Vishwa Vidyalaya Gwalior",
+      "central": false,
+      "state": "Madhya Pradesh",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-m-p-state-seed-certification-agency",
+      "label": "M P State Seed Certification Agency",
       "central": false,
       "state": "Madhya Pradesh",
       "tenders": 1,
@@ -11736,6 +12196,18 @@
       ]
     },
     {
+      "id": "org-commissioner-animal-husbandry-pune",
+      "label": "Commissioner Animal Husbandry Pune",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-commissioner-social-welfare-department-pune",
       "label": "Commissioner Social Welfare Department Pune",
       "central": false,
@@ -11784,18 +12256,6 @@
       ]
     },
     {
-      "id": "org-directorate-sports-youth-services",
-      "label": "Directorate Sports Youth Services",
-      "central": false,
-      "state": "Maharashtra",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-director-technical-education-department-mumbai",
       "label": "Director Technical Education Department Mumbai",
       "central": false,
@@ -11810,6 +12270,18 @@
     {
       "id": "org-collector-gadchiroli",
       "label": "Collector Gadchiroli",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-haffkine-bio-pharamceutical-mumbai",
+      "label": "Haffkine Bio Pharamceutical Mumbai",
       "central": false,
       "state": "Maharashtra",
       "tenders": 1,
@@ -11940,6 +12412,18 @@
       ]
     },
     {
+      "id": "org-rdd-ceo-pune",
+      "label": "Rdd Ceo Pune",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-social-justice-special-assistance-department",
       "label": "Social Justice Special Assistance Department",
       "central": false,
@@ -11988,10 +12472,10 @@
       ]
     },
     {
-      "id": "org-meghalaya-energy",
-      "label": "Meghalaya Energy",
+      "id": "org-nagaland-state-transport-department",
+      "label": "Nagaland State Transport Department",
       "central": false,
-      "state": "Meghalaya",
+      "state": "Nagaland",
       "tenders": 1,
       "archive": 0,
       "observed": 1,
@@ -12012,8 +12496,8 @@
       ]
     },
     {
-      "id": "org-odisha-state-milk-producers-federation",
-      "label": "Odisha State Milk Producers Federation",
+      "id": "org-orissa-mining",
+      "label": "Orissa Mining",
       "central": false,
       "state": "Odisha",
       "tenders": 1,
@@ -12060,6 +12544,18 @@
       ]
     },
     {
+      "id": "org-state-pollution-control-board-odisha",
+      "label": "State Pollution Control Board Odisha",
+      "central": false,
+      "state": "Odisha",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-directorate-higher-technical-education",
       "label": "Directorate Higher Technical Education",
       "central": false,
@@ -12086,18 +12582,6 @@
     {
       "id": "org-cad-chambal",
       "label": "Cad Chambal",
-      "central": false,
-      "state": "Rajasthan",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-department-college-education",
-      "label": "Department College Education",
       "central": false,
       "state": "Rajasthan",
       "tenders": 1,
@@ -12216,8 +12700,20 @@
       ]
     },
     {
-      "id": "org-rajasthan-state-sports-council",
-      "label": "Rajasthan State Sports Council",
+      "id": "org-rsmml",
+      "label": "Rsmml",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-rtu",
+      "label": "Rtu",
       "central": false,
       "state": "Rajasthan",
       "tenders": 1,
@@ -12240,32 +12736,32 @@
       ]
     },
     {
+      "id": "org-uit-abu",
+      "label": "Uit Abu",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-cmwss-board",
+      "label": "Cmwss Board",
+      "central": false,
+      "state": "Tamil Nadu",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-department-employment-training",
       "label": "Department Employment Training",
-      "central": false,
-      "state": "Tamil Nadu",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-directorate-town-panchayats",
-      "label": "Directorate Town Panchayats",
-      "central": false,
-      "state": "Tamil Nadu",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-tamil-nadu-civil-supplies",
-      "label": "Tamil Nadu Civil Supplies",
       "central": false,
       "state": "Tamil Nadu",
       "tenders": 1,
@@ -12384,6 +12880,18 @@
       ]
     },
     {
+      "id": "org-cmo-chamoli",
+      "label": "Cmo Chamoli",
+      "central": false,
+      "state": "Uttarakhand",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-district-magistrate-dehradun",
       "label": "District Magistrate Dehradun",
       "central": false,
@@ -12456,8 +12964,20 @@
       ]
     },
     {
-      "id": "org-chief-engineer-chitrakoot-dhaam",
-      "label": "Chief Engineer Chitrakoot Dhaam",
+      "id": "org-chief-administrator-uttarakhand-housing-urban-development-authority-dehradun",
+      "label": "Chief Administrator Uttarakhand Housing Urban Development Au",
+      "central": false,
+      "state": "Uttarakhand",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-cheif-engineer-allahabad-zone-pwd-allahabad",
+      "label": "Cheif Engineer Allahabad Zone Pwd Allahabad",
       "central": false,
       "state": "Uttar Pradesh",
       "tenders": 1,
@@ -12468,8 +12988,8 @@
       ]
     },
     {
-      "id": "org-cheif-engineer-kanpur-zone-pwd-kanpur",
-      "label": "Cheif Engineer Kanpur Zone Pwd Kanpur",
+      "id": "org-chief-engineer-chitrakoot-dhaam",
+      "label": "Chief Engineer Chitrakoot Dhaam",
       "central": false,
       "state": "Uttar Pradesh",
       "tenders": 1,
@@ -12506,6 +13026,18 @@
     {
       "id": "org-up-rajya-nirman-evam-sharam-vikash-sahkari-sangh-lucknow",
       "label": "Up Rajya Nirman Evam Sharam Vikash Sahkari Sangh Lucknow",
+      "central": false,
+      "state": "Uttar Pradesh",
+      "tenders": 1,
+      "archive": 0,
+      "observed": 1,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-relief-commissioner-office",
+      "label": "Relief Commissioner Office",
       "central": false,
       "state": "Uttar Pradesh",
       "tenders": 1,
@@ -12588,18 +13120,6 @@
       ]
     },
     {
-      "id": "org-west-bengal-state-electricity-transmission",
-      "label": "West Bengal State Electricity Transmission",
-      "central": false,
-      "state": "West Bengal",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-sidho-kanho-birsha-university",
       "label": "Sidho Kanho Birsha University",
       "central": false,
@@ -12624,18 +13144,6 @@
       ]
     },
     {
-      "id": "org-webel",
-      "label": "Webel",
-      "central": false,
-      "state": "West Bengal",
-      "tenders": 1,
-      "archive": 0,
-      "observed": 1,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-webel-technology",
       "label": "Webel Technology",
       "central": false,
@@ -12648,5 +13156,5 @@
       ]
     }
   ],
-  "generated": "2026-06-10T03:37:53Z"
+  "generated": "2026-06-11T04:01:00Z"
 }

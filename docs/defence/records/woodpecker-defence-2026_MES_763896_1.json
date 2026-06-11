@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_763896_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_763896_1",
+      "id": "woodpecker-defence-2026_MES_763896_1-0001",
+      "date": "2026-05-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC AND CE JALANDHAR ZONE - MES||CWE AMRITSAR - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_763896_1",
+        "title": "SPL REPAIR TO BLDG NO P4 OTM OR AT OLD AMRITSAR CANTT",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC AND CE JALANDHAR ZONE - MES||CWE AMRITSAR - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 7650000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-11T00:00:00Z"
+        },
+        "description": "SPL REPAIR TO BLDG NO P4 OTM OR AT OLD AMRITSAR CANTT"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_763896_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_763896_1",
+          "url": "/files/9ab6ee16ac7eb725fcbe59cf5ce8e30182f3a105ab971bcead14c763d4821de5.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYDlsn7oLUqF0PKbudvIs3A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9ab6ee16ac7eb725fcbe59cf5ce8e30182f3a105ab971bcead14c763d4821de5",
+          "format": "text/plain",
+          "textUrl": "/files/9ab6ee16ac7eb725fcbe59cf5ce8e30182f3a105ab971bcead14c763d4821de5.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-defence-2026_MES_763896_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYDlsn7oLUqF0PKbudvIs3A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_763896_1",
+    "tender": {
+      "id": "2026_MES_763896_1",
+      "title": "SPL REPAIR TO BLDG NO P4 OTM OR AT OLD AMRITSAR CANTT",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC AND CE JALANDHAR ZONE - MES||CWE AMRITSAR - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 7650000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-11T00:00:00Z"
+      },
+      "description": "SPL REPAIR TO BLDG NO P4 OTM OR AT OLD AMRITSAR CANTT"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC AND CE JALANDHAR ZONE - MES||CWE AMRITSAR - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-05-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_763896_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_763896_1",
+        "url": "/files/9ab6ee16ac7eb725fcbe59cf5ce8e30182f3a105ab971bcead14c763d4821de5.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYDlsn7oLUqF0PKbudvIs3A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9ab6ee16ac7eb725fcbe59cf5ce8e30182f3a105ab971bcead14c763d4821de5",
+        "format": "text/plain",
+        "textUrl": "/files/9ab6ee16ac7eb725fcbe59cf5ce8e30182f3a105ab971bcead14c763d4821de5.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-defence-2026_MES_763896_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYDlsn7oLUqF0PKbudvIs3A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_763896_1",
+      "observedAt": "2026-06-11T03:02:26Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "eb55a19365cdd90d9450effb2b5d635e9f7d52949b0af176bdc99a23313d9e85",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_763896_1-0001-record",
+          "sha256": "9ab6ee16ac7eb725fcbe59cf5ce8e30182f3a105ab971bcead14c763d4821de5"
+        }
+      ],
+      "snapshotUrl": "/files/1fe01062a6e39368c2d030e03872b10806324b8e7fd6df779ce517b899671ba3.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-11T03:02:26Z",
+    "lastObserved": "2026-06-11T03:02:26Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

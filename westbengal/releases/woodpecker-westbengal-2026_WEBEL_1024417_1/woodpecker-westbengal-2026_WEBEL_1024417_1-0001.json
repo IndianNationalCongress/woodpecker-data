@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-westbengal-2026_WEBEL_1024417_1",
+  "id": "woodpecker-westbengal-2026_WEBEL_1024417_1-0001",
+  "date": "2026-05-18T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "WEBEL||COMMERCIAL DEPT.",
+    "id": "IN-ORG-webel-commercial-dept"
+  },
+  "tender": {
+    "id": "2026_WEBEL_1024417_1",
+    "title": "NIT",
+    "status": "active",
+    "procuringEntity": {
+      "name": "WEBEL||COMMERCIAL DEPT.",
+      "id": "IN-ORG-webel-commercial-dept"
+    },
+    "mainProcurementCategory": "services",
+    "value": {
+      "amount": 234114,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-06-11T00:00:00Z"
+    },
+    "description": "NIT"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-westbengal-2026_WEBEL_1024417_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_WEBEL_1024417_1",
+      "url": "/files/99bfe9601cad6627bf84dd9328d0297d5e9cc7151de51ca4a8e6c109057be45a.txt",
+      "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StQJtitCJuzHBQPWYXvYu9w%3D%3D",
+      "sourceAlive": true,
+      "sha256": "99bfe9601cad6627bf84dd9328d0297d5e9cc7151de51ca4a8e6c109057be45a",
+      "format": "text/plain",
+      "textUrl": "/files/99bfe9601cad6627bf84dd9328d0297d5e9cc7151de51ca4a8e6c109057be45a.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-westbengal-2026_WEBEL_1024417_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StQJtitCJuzHBQPWYXvYu9w%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
