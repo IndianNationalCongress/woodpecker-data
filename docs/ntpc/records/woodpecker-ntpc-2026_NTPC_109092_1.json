@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109092_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109092_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109092_1-0001",
+      "date": "2026-06-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109092_1",
+        "title": "Procurement of Insulation paint for Electrical System for NTPC Gadarwara.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-12T00:00:00Z"
+        },
+        "description": "Procurement of Insulation paint for Electrical System for NTPC Gadarwara."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109092_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109092_1",
+          "url": "/files/ff7a78e3222329a68a8a5dec6bdf2ec617c04a6c3322eb2226ffa3d4c52f449c.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SD8owQjXLyjSeTmxMMvG8Sg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ff7a78e3222329a68a8a5dec6bdf2ec617c04a6c3322eb2226ffa3d4c52f449c",
+          "format": "text/plain",
+          "textUrl": "/files/ff7a78e3222329a68a8a5dec6bdf2ec617c04a6c3322eb2226ffa3d4c52f449c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109092_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SD8owQjXLyjSeTmxMMvG8Sg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109092_1",
+    "tender": {
+      "id": "2026_NTPC_109092_1",
+      "title": "Procurement of Insulation paint for Electrical System for NTPC Gadarwara.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-12T00:00:00Z"
+      },
+      "description": "Procurement of Insulation paint for Electrical System for NTPC Gadarwara."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109092_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109092_1",
+        "url": "/files/ff7a78e3222329a68a8a5dec6bdf2ec617c04a6c3322eb2226ffa3d4c52f449c.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SD8owQjXLyjSeTmxMMvG8Sg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ff7a78e3222329a68a8a5dec6bdf2ec617c04a6c3322eb2226ffa3d4c52f449c",
+        "format": "text/plain",
+        "textUrl": "/files/ff7a78e3222329a68a8a5dec6bdf2ec617c04a6c3322eb2226ffa3d4c52f449c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109092_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SD8owQjXLyjSeTmxMMvG8Sg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109092_1",
+      "observedAt": "2026-06-12T03:39:17Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9b59f9e87aa0e4ff69980413594c82c34c5c25629f5abf58cb62211fb76e3eb9",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109092_1-0001-record",
+          "sha256": "ff7a78e3222329a68a8a5dec6bdf2ec617c04a6c3322eb2226ffa3d4c52f449c"
+        }
+      ],
+      "snapshotUrl": "/files/b0f369c753494eaaa612c7e347642c43b4f9ea55262bc7d0b0f189e83216b226.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-12T03:39:17Z",
+    "lastObserved": "2026-06-12T03:39:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

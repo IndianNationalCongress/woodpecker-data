@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109002_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109002_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109002_1-0001",
+      "date": "2026-06-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109002_1",
+        "title": "PROCUREMENT OF MELLCON MAKE DRYERS SPARES FOR AHD GADARWARA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-12T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF MELLCON MAKE DRYERS SPARES FOR AHD GADARWARA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109002_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109002_1",
+          "url": "/files/034316e9588c86206c2ff86f3bd59fb799712e81517b5f81603e5e93762cbaec.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnDeJARI4tacZjeronRe%2B3Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "034316e9588c86206c2ff86f3bd59fb799712e81517b5f81603e5e93762cbaec",
+          "format": "text/plain",
+          "textUrl": "/files/034316e9588c86206c2ff86f3bd59fb799712e81517b5f81603e5e93762cbaec.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109002_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnDeJARI4tacZjeronRe%2B3Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109002_1",
+    "tender": {
+      "id": "2026_NTPC_109002_1",
+      "title": "PROCUREMENT OF MELLCON MAKE DRYERS SPARES FOR AHD GADARWARA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-12T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF MELLCON MAKE DRYERS SPARES FOR AHD GADARWARA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109002_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109002_1",
+        "url": "/files/034316e9588c86206c2ff86f3bd59fb799712e81517b5f81603e5e93762cbaec.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnDeJARI4tacZjeronRe%2B3Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "034316e9588c86206c2ff86f3bd59fb799712e81517b5f81603e5e93762cbaec",
+        "format": "text/plain",
+        "textUrl": "/files/034316e9588c86206c2ff86f3bd59fb799712e81517b5f81603e5e93762cbaec.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109002_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnDeJARI4tacZjeronRe%2B3Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109002_1",
+      "observedAt": "2026-06-12T03:39:17Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "b7d50f19a83902d2fdde291c759086be4043eae8ce9c61818926aa709473b5e6",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109002_1-0001-record",
+          "sha256": "034316e9588c86206c2ff86f3bd59fb799712e81517b5f81603e5e93762cbaec"
+        }
+      ],
+      "snapshotUrl": "/files/1b37314bb7e6a8d68f77a6859fc5d730caef38dea64ec848aa2e3b8f6be5dfe7.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-12T03:39:17Z",
+    "lastObserved": "2026-06-12T03:39:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

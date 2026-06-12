@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108801_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108801_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108801_1-0001",
+      "date": "2026-06-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108801_1",
+        "title": "Procurement of BRU Chain Spares for FGD Stage 1 at NTPC Lara",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-12T00:00:00Z"
+        },
+        "description": "Procurement of BRU Chain Spares for FGD Stage 1 at NTPC Lara"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108801_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108801_1",
+          "url": "/files/6083eafca1c9128d7f6ff669760e420ba2a84b70aca06204967ca7afb362d544.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgCl6M2Y65VYaaIiyiHV2Ow%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6083eafca1c9128d7f6ff669760e420ba2a84b70aca06204967ca7afb362d544",
+          "format": "text/plain",
+          "textUrl": "/files/6083eafca1c9128d7f6ff669760e420ba2a84b70aca06204967ca7afb362d544.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108801_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgCl6M2Y65VYaaIiyiHV2Ow%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108801_1",
+    "tender": {
+      "id": "2026_NTPC_108801_1",
+      "title": "Procurement of BRU Chain Spares for FGD Stage 1 at NTPC Lara",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-12T00:00:00Z"
+      },
+      "description": "Procurement of BRU Chain Spares for FGD Stage 1 at NTPC Lara"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108801_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108801_1",
+        "url": "/files/6083eafca1c9128d7f6ff669760e420ba2a84b70aca06204967ca7afb362d544.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgCl6M2Y65VYaaIiyiHV2Ow%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6083eafca1c9128d7f6ff669760e420ba2a84b70aca06204967ca7afb362d544",
+        "format": "text/plain",
+        "textUrl": "/files/6083eafca1c9128d7f6ff669760e420ba2a84b70aca06204967ca7afb362d544.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108801_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgCl6M2Y65VYaaIiyiHV2Ow%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108801_1",
+      "observedAt": "2026-06-12T03:39:17Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "956d7eed195df37b0e660a452eb9c9a2e85b1b78df5989b17f32c6d12b928bf5",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108801_1-0001-record",
+          "sha256": "6083eafca1c9128d7f6ff669760e420ba2a84b70aca06204967ca7afb362d544"
+        }
+      ],
+      "snapshotUrl": "/files/876852723ad01f6436db4851f3cfe6f505757158f784603921bfd6345134966e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-12T03:39:17Z",
+    "lastObserved": "2026-06-12T03:39:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

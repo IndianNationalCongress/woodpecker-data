@@ -1,0 +1,146 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_107506_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107506_1",
+      "id": "woodpecker-ntpc-2026_NTPC_107506_1-0001",
+      "date": "2026-04-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_107506_1",
+        "title": "PROCUREMENT OF FD FAN and PA FAN MOTOR AT NTPC TELANGANA.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-12T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF FD FAN and PA FAN MOTOR AT NTPC TELANGANA."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107506_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_107506_1",
+          "url": "/files/6446276f6d9cc82fcddb9098c0b1799dfa1db752362761dc00d251fbd83613e8.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBXaZtxQkQcrlEFgaxEz1ow%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6446276f6d9cc82fcddb9098c0b1799dfa1db752362761dc00d251fbd83613e8",
+          "format": "text/plain",
+          "textUrl": "/files/6446276f6d9cc82fcddb9098c0b1799dfa1db752362761dc00d251fbd83613e8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107506_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBXaZtxQkQcrlEFgaxEz1ow%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107506_1-0001-doc-2",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_2.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBXaZtxQkQcrlEFgaxEz1ow%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_107506_1",
+    "tender": {
+      "id": "2026_NTPC_107506_1",
+      "title": "PROCUREMENT OF FD FAN and PA FAN MOTOR AT NTPC TELANGANA.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-12T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF FD FAN and PA FAN MOTOR AT NTPC TELANGANA."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-04-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107506_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_107506_1",
+        "url": "/files/6446276f6d9cc82fcddb9098c0b1799dfa1db752362761dc00d251fbd83613e8.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBXaZtxQkQcrlEFgaxEz1ow%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6446276f6d9cc82fcddb9098c0b1799dfa1db752362761dc00d251fbd83613e8",
+        "format": "text/plain",
+        "textUrl": "/files/6446276f6d9cc82fcddb9098c0b1799dfa1db752362761dc00d251fbd83613e8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107506_1-0001-doc-2",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_2.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBXaZtxQkQcrlEFgaxEz1ow%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107506_1",
+      "observedAt": "2026-06-12T03:39:17Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "28d1f22b9c4192c41e557afacf7d23f7c259660ede0614c64c4b80039a2fa6e9",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107506_1-0001-record",
+          "sha256": "6446276f6d9cc82fcddb9098c0b1799dfa1db752362761dc00d251fbd83613e8"
+        }
+      ],
+      "snapshotUrl": "/files/0bb87270f05fd340b3269e19464955825846128ce6798946669aeb26302f3be6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-12T03:39:17Z",
+    "lastObserved": "2026-06-12T03:39:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

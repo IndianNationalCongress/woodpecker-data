@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-haryana-2026_HBC_519938_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_519938_1",
+      "id": "woodpecker-haryana-2026_HBC_519938_1-0001",
+      "date": "2026-05-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Faridabad",
+        "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+      },
+      "tender": {
+        "id": "2026_HBC_519938_1",
+        "title": "Construction of new control room building at 66kv S/Stn Globe Steel, Faridabad",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Faridabad",
+          "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 10405074,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-12T00:00:00Z"
+        },
+        "description": "Construction of new control room building at 66kv S/Stn Globe Steel, Faridabad"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_519938_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HBC_519938_1",
+          "url": "/files/2ec21b1bac2a094348805ccf587d51da9e747e375a6d2437cdcb5c3120a95756.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9sh%2FrrtCN6k1thHdZCy8RA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2ec21b1bac2a094348805ccf587d51da9e747e375a6d2437cdcb5c3120a95756",
+          "format": "text/plain",
+          "textUrl": "/files/2ec21b1bac2a094348805ccf587d51da9e747e375a6d2437cdcb5c3120a95756.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HBC_519938_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9sh%2FrrtCN6k1thHdZCy8RA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HBC_519938_1",
+    "tender": {
+      "id": "2026_HBC_519938_1",
+      "title": "Construction of new control room building at 66kv S/Stn Globe Steel, Faridabad",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Faridabad",
+        "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 10405074,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-12T00:00:00Z"
+      },
+      "description": "Construction of new control room building at 66kv S/Stn Globe Steel, Faridabad"
+    },
+    "buyer": {
+      "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Faridabad",
+      "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+    },
+    "date": "2026-05-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HBC_519938_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HBC_519938_1",
+        "url": "/files/2ec21b1bac2a094348805ccf587d51da9e747e375a6d2437cdcb5c3120a95756.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9sh%2FrrtCN6k1thHdZCy8RA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2ec21b1bac2a094348805ccf587d51da9e747e375a6d2437cdcb5c3120a95756",
+        "format": "text/plain",
+        "textUrl": "/files/2ec21b1bac2a094348805ccf587d51da9e747e375a6d2437cdcb5c3120a95756.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HBC_519938_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9sh%2FrrtCN6k1thHdZCy8RA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_519938_1",
+      "observedAt": "2026-06-12T03:11:40Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "c48711684dc591f39004728e10b6d3d6d3949ff79f4222fd6cf0268a43129f14",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_519938_1-0001-record",
+          "sha256": "2ec21b1bac2a094348805ccf587d51da9e747e375a6d2437cdcb5c3120a95756"
+        }
+      ],
+      "snapshotUrl": "/files/78d068a7f946557cedd097c0e8bbe1413238da69f808197c6158512eb89e722a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-12T03:11:40Z",
+    "lastObserved": "2026-06-12T03:11:40Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
