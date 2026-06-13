@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_767051_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_767051_1",
+      "id": "woodpecker-defence-2026_MES_767051_1-0001",
+      "date": "2026-05-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_767051_1",
+        "title": "Provn of Soil Investigation for Cook House for 289 SATA Bty at Baramulla",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-06-13T00:00:00Z"
+        },
+        "description": "Provn of Soil Investigation for Cook House for 289 SATA Bty at Baramulla"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_767051_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_767051_1",
+          "url": "/files/4cc0e482881f4ab16d59c30d7fcc35501a6c464ae2bdfeddfd456ac813a5f471.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnNKNg2dhbp8pkvC2BH%2Bmaw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4cc0e482881f4ab16d59c30d7fcc35501a6c464ae2bdfeddfd456ac813a5f471",
+          "format": "text/plain",
+          "textUrl": "/files/4cc0e482881f4ab16d59c30d7fcc35501a6c464ae2bdfeddfd456ac813a5f471.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_767051_1",
+    "tender": {
+      "id": "2026_MES_767051_1",
+      "title": "Provn of Soil Investigation for Cook House for 289 SATA Bty at Baramulla",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-06-13T00:00:00Z"
+      },
+      "description": "Provn of Soil Investigation for Cook House for 289 SATA Bty at Baramulla"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-05-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_767051_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_767051_1",
+        "url": "/files/4cc0e482881f4ab16d59c30d7fcc35501a6c464ae2bdfeddfd456ac813a5f471.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnNKNg2dhbp8pkvC2BH%2Bmaw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4cc0e482881f4ab16d59c30d7fcc35501a6c464ae2bdfeddfd456ac813a5f471",
+        "format": "text/plain",
+        "textUrl": "/files/4cc0e482881f4ab16d59c30d7fcc35501a6c464ae2bdfeddfd456ac813a5f471.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_767051_1",
+      "observedAt": "2026-06-13T02:15:15Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "7f5a2f59bd09ae570623d11012122de4b478cf2ad519ad580222143e4643f32c",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_767051_1-0001-record",
+          "sha256": "4cc0e482881f4ab16d59c30d7fcc35501a6c464ae2bdfeddfd456ac813a5f471"
+        }
+      ],
+      "snapshotUrl": "/files/8711d7d2ab6fb258d948cbaffa81df26c7785c5a8e66ce1381a22b4b178dad8c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-13T02:15:15Z",
+    "lastObserved": "2026-06-13T02:15:15Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

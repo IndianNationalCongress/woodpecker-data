@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_RMLH_909940_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_RMLH_909940_1",
+      "id": "woodpecker-cppp-2026_RMLH_909940_1-0001",
+      "date": "2026-05-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Dr. Ram Manohar Lohia Hospital||Procurement Section",
+        "id": "IN-ORG-dr-ram-manohar-lohia-hospital-procuremen"
+      },
+      "tender": {
+        "id": "2026_RMLH_909940_1",
+        "title": "Inj.Olanzapine and Inj.Leuprolide 3.75mg",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Dr. Ram Manohar Lohia Hospital||Procurement Section",
+          "id": "IN-ORG-dr-ram-manohar-lohia-hospital-procuremen"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-13T00:00:00Z"
+        },
+        "description": "Inj.Olanzapine and Inj.Leuprolide 3.75mg"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_RMLH_909940_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_RMLH_909940_1",
+          "url": "/files/f5451514936941bf203d0191e88d809c86bb1fa1067d4c4074de267f2f87aa74.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBHn2rvYji5m0pJqgSHAMPA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f5451514936941bf203d0191e88d809c86bb1fa1067d4c4074de267f2f87aa74",
+          "format": "text/plain",
+          "textUrl": "/files/f5451514936941bf203d0191e88d809c86bb1fa1067d4c4074de267f2f87aa74.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_RMLH_909940_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBHn2rvYji5m0pJqgSHAMPA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_RMLH_909940_1",
+    "tender": {
+      "id": "2026_RMLH_909940_1",
+      "title": "Inj.Olanzapine and Inj.Leuprolide 3.75mg",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Dr. Ram Manohar Lohia Hospital||Procurement Section",
+        "id": "IN-ORG-dr-ram-manohar-lohia-hospital-procuremen"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-13T00:00:00Z"
+      },
+      "description": "Inj.Olanzapine and Inj.Leuprolide 3.75mg"
+    },
+    "buyer": {
+      "name": "Dr. Ram Manohar Lohia Hospital||Procurement Section",
+      "id": "IN-ORG-dr-ram-manohar-lohia-hospital-procuremen"
+    },
+    "date": "2026-05-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_RMLH_909940_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_RMLH_909940_1",
+        "url": "/files/f5451514936941bf203d0191e88d809c86bb1fa1067d4c4074de267f2f87aa74.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBHn2rvYji5m0pJqgSHAMPA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f5451514936941bf203d0191e88d809c86bb1fa1067d4c4074de267f2f87aa74",
+        "format": "text/plain",
+        "textUrl": "/files/f5451514936941bf203d0191e88d809c86bb1fa1067d4c4074de267f2f87aa74.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_RMLH_909940_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBHn2rvYji5m0pJqgSHAMPA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_RMLH_909940_1",
+      "observedAt": "2026-06-13T01:43:11Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "99fc260ee835864cfa94ae3a6e1110cb904c247247d744dcd6bf73ec5a51cf9c",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_RMLH_909940_1-0001-record",
+          "sha256": "f5451514936941bf203d0191e88d809c86bb1fa1067d4c4074de267f2f87aa74"
+        }
+      ],
+      "snapshotUrl": "/files/33a3bbb1fbe56d6f4da3ef926e0aae886e94788deec3d8f2ab0424df43e7685f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-13T01:43:11Z",
+    "lastObserved": "2026-06-13T01:43:11Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109097_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109097_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109097_1-0001",
+      "date": "2026-06-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109097_1",
+        "title": "Procurement of TC make RTDs for protection systems at NTPC Mouda units",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-13T00:00:00Z"
+        },
+        "description": "Procurement of TC make RTDs for protection systems at NTPC Mouda units"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109097_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109097_1",
+          "url": "/files/3c1041ece0fd318a3290e3c48cb3709c32707d14780b7dea1a8f84502b45f691.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvCYiXo9IbqxK5FWJNmFnsg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3c1041ece0fd318a3290e3c48cb3709c32707d14780b7dea1a8f84502b45f691",
+          "format": "text/plain",
+          "textUrl": "/files/3c1041ece0fd318a3290e3c48cb3709c32707d14780b7dea1a8f84502b45f691.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109097_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvCYiXo9IbqxK5FWJNmFnsg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109097_1",
+    "tender": {
+      "id": "2026_NTPC_109097_1",
+      "title": "Procurement of TC make RTDs for protection systems at NTPC Mouda units",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-13T00:00:00Z"
+      },
+      "description": "Procurement of TC make RTDs for protection systems at NTPC Mouda units"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109097_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109097_1",
+        "url": "/files/3c1041ece0fd318a3290e3c48cb3709c32707d14780b7dea1a8f84502b45f691.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvCYiXo9IbqxK5FWJNmFnsg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3c1041ece0fd318a3290e3c48cb3709c32707d14780b7dea1a8f84502b45f691",
+        "format": "text/plain",
+        "textUrl": "/files/3c1041ece0fd318a3290e3c48cb3709c32707d14780b7dea1a8f84502b45f691.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109097_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvCYiXo9IbqxK5FWJNmFnsg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109097_1",
+      "observedAt": "2026-06-13T02:46:59Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "1a2bf598bd10b76168f6c1449db2a35251148c1c0a6a64f97ddca4682fc63669",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109097_1-0001-record",
+          "sha256": "3c1041ece0fd318a3290e3c48cb3709c32707d14780b7dea1a8f84502b45f691"
+        }
+      ],
+      "snapshotUrl": "/files/d3a8d593c6dea5fe4624258f3b17e17550e9e356cd4cedc2cd8b9af58c5503e5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-13T02:46:59Z",
+    "lastObserved": "2026-06-13T02:46:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
