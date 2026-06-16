@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_REFHQ_189550_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_189550_1",
+      "id": "woodpecker-iocl-2026_REFHQ_189550_1-0001",
+      "date": "2026-04-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "tender": {
+        "id": "2026_REFHQ_189550_1",
+        "title": "Rate Contract for procurement of Fresh RFCC catalyst for IOCL Haldia Refinery.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Refineries HQ||Materials",
+          "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-16T00:00:00Z"
+        },
+        "description": "Rate Contract for procurement of Fresh RFCC catalyst for IOCL Haldia Refinery."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_189550_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_REFHQ_189550_1",
+          "url": "/files/551c8f03eba107d3af69a3fcf26175728204baa0a23f1c91b98da43502202c01.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQbJChOkmDe6YB0saI%2FjTSA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "551c8f03eba107d3af69a3fcf26175728204baa0a23f1c91b98da43502202c01",
+          "format": "text/plain",
+          "textUrl": "/files/551c8f03eba107d3af69a3fcf26175728204baa0a23f1c91b98da43502202c01.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_189550_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQbJChOkmDe6YB0saI%2FjTSA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_REFHQ_189550_1",
+    "tender": {
+      "id": "2026_REFHQ_189550_1",
+      "title": "Rate Contract for procurement of Fresh RFCC catalyst for IOCL Haldia Refinery.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-16T00:00:00Z"
+      },
+      "description": "Rate Contract for procurement of Fresh RFCC catalyst for IOCL Haldia Refinery."
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Refineries HQ||Materials",
+      "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+    },
+    "date": "2026-04-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_189550_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_REFHQ_189550_1",
+        "url": "/files/551c8f03eba107d3af69a3fcf26175728204baa0a23f1c91b98da43502202c01.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQbJChOkmDe6YB0saI%2FjTSA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "551c8f03eba107d3af69a3fcf26175728204baa0a23f1c91b98da43502202c01",
+        "format": "text/plain",
+        "textUrl": "/files/551c8f03eba107d3af69a3fcf26175728204baa0a23f1c91b98da43502202c01.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_189550_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQbJChOkmDe6YB0saI%2FjTSA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_189550_1",
+      "observedAt": "2026-06-16T04:01:55Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "63ce66ccd3683c7375dcb30082df24fa67c65bf09554095855f38c49bafd9990",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_189550_1-0001-record",
+          "sha256": "551c8f03eba107d3af69a3fcf26175728204baa0a23f1c91b98da43502202c01"
+        }
+      ],
+      "snapshotUrl": "/files/f7bcf8243f72eea07312464b92d73963ee0cb7663fb3249e34e70d3f8576da23.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-16T04:01:55Z",
+    "lastObserved": "2026-06-16T04:01:55Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

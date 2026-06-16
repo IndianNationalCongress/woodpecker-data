@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DLB_563919_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_563919_1",
+      "id": "woodpecker-rajasthan-2026_DLB_563919_1-0001",
+      "date": "2026-06-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DLB||Dy.DR-Jodhpur||EO-Jaitaran",
+        "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-jaitaran"
+      },
+      "tender": {
+        "id": "2026_DLB_563919_1",
+        "title": "Construction work for a CC road on Muniyon Ki Badi in Ward No. 03.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DLB||Dy.DR-Jodhpur||EO-Jaitaran",
+          "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-jaitaran"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 983000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-16T00:00:00Z"
+        },
+        "description": "Construction work for a CC road on Muniyon Ki Badi in Ward No. 03."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_563919_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DLB_563919_1",
+          "url": "/files/fbecb96bc1e9558221bbf8f8b369d2f0bb5c968de03e9146132d1111137f9e89.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2mIJi7nlA0Y0DeeIXNFHBg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "fbecb96bc1e9558221bbf8f8b369d2f0bb5c968de03e9146132d1111137f9e89",
+          "format": "text/plain",
+          "textUrl": "/files/fbecb96bc1e9558221bbf8f8b369d2f0bb5c968de03e9146132d1111137f9e89.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_563919_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2mIJi7nlA0Y0DeeIXNFHBg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DLB_563919_1",
+    "tender": {
+      "id": "2026_DLB_563919_1",
+      "title": "Construction work for a CC road on Muniyon Ki Badi in Ward No. 03.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DLB||Dy.DR-Jodhpur||EO-Jaitaran",
+        "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-jaitaran"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 983000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-16T00:00:00Z"
+      },
+      "description": "Construction work for a CC road on Muniyon Ki Badi in Ward No. 03."
+    },
+    "buyer": {
+      "name": "DLB||Dy.DR-Jodhpur||EO-Jaitaran",
+      "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-jaitaran"
+    },
+    "date": "2026-06-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_563919_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DLB_563919_1",
+        "url": "/files/fbecb96bc1e9558221bbf8f8b369d2f0bb5c968de03e9146132d1111137f9e89.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2mIJi7nlA0Y0DeeIXNFHBg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "fbecb96bc1e9558221bbf8f8b369d2f0bb5c968de03e9146132d1111137f9e89",
+        "format": "text/plain",
+        "textUrl": "/files/fbecb96bc1e9558221bbf8f8b369d2f0bb5c968de03e9146132d1111137f9e89.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_563919_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2mIJi7nlA0Y0DeeIXNFHBg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_563919_1",
+      "observedAt": "2026-06-16T03:46:15Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "a7e5e126a3fe411ee566142c6d5c4253a1f953beccd226707629613bda026dea",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_563919_1-0001-record",
+          "sha256": "fbecb96bc1e9558221bbf8f8b369d2f0bb5c968de03e9146132d1111137f9e89"
+        }
+      ],
+      "snapshotUrl": "/files/8b76c51289734b305f66375faab37b04f101189e08f518f67f596591f3a69828.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-16T03:46:15Z",
+    "lastObserved": "2026-06-16T03:46:15Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
