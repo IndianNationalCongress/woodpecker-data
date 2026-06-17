@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-cppp-2026_ESIC_910619_1",
+  "id": "woodpecker-cppp-2026_ESIC_910619_1-0001",
+  "date": "2026-05-28T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "Employees State Insurance Corporation||R.O. Assam||Construction Branch",
+    "id": "IN-ORG-employees-state-insurance-corporation-r-"
+  },
+  "tender": {
+    "id": "2026_ESIC_910619_1",
+    "title": "ARMO works",
+    "status": "active",
+    "procuringEntity": {
+      "name": "Employees State Insurance Corporation||R.O. Assam||Construction Branch",
+      "id": "IN-ORG-employees-state-insurance-corporation-r-"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 43543393,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-06-17T00:00:00Z"
+    },
+    "description": "ARMO works"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-cppp-2026_ESIC_910619_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_ESIC_910619_1",
+      "url": "/files/4595708822b4ad5ebf153cd40fa0c30d86bb850166305922e0e60dcd691124e2.txt",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2FXt4pf26HvotXMybSgzvbw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "4595708822b4ad5ebf153cd40fa0c30d86bb850166305922e0e60dcd691124e2",
+      "format": "text/plain",
+      "textUrl": "/files/4595708822b4ad5ebf153cd40fa0c30d86bb850166305922e0e60dcd691124e2.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-cppp-2026_ESIC_910619_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2FXt4pf26HvotXMybSgzvbw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
