@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_135958_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_135958_1",
+      "id": "woodpecker-himachal-2026_PWD_135958_1-0001",
+      "date": "2026-06-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_135958_1",
+        "title": "RRD on Raison Shirar Shillihar road",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 391887,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-18T00:00:00Z"
+        },
+        "description": "RRD on Raison Shirar Shillihar road"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_135958_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_135958_1",
+          "url": "/files/95c895bc1b680aa7581e9808bcfc18a4fe369c820416999a459f0348e83090da.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvA2sYb5i8DZSG939AjhYZQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "95c895bc1b680aa7581e9808bcfc18a4fe369c820416999a459f0348e83090da",
+          "format": "text/plain",
+          "textUrl": "/files/95c895bc1b680aa7581e9808bcfc18a4fe369c820416999a459f0348e83090da.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_135958_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvA2sYb5i8DZSG939AjhYZQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_135958_1",
+    "tender": {
+      "id": "2026_PWD_135958_1",
+      "title": "RRD on Raison Shirar Shillihar road",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 391887,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-18T00:00:00Z"
+      },
+      "description": "RRD on Raison Shirar Shillihar road"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-06-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_135958_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_135958_1",
+        "url": "/files/95c895bc1b680aa7581e9808bcfc18a4fe369c820416999a459f0348e83090da.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvA2sYb5i8DZSG939AjhYZQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "95c895bc1b680aa7581e9808bcfc18a4fe369c820416999a459f0348e83090da",
+        "format": "text/plain",
+        "textUrl": "/files/95c895bc1b680aa7581e9808bcfc18a4fe369c820416999a459f0348e83090da.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_135958_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvA2sYb5i8DZSG939AjhYZQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_135958_1",
+      "observedAt": "2026-06-18T02:57:07Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "fc436956c6bfa3bddbe033a277229b43985beb6474cd5117c44b25780b0fe760",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_135958_1-0001-record",
+          "sha256": "95c895bc1b680aa7581e9808bcfc18a4fe369c820416999a459f0348e83090da"
+        }
+      ],
+      "snapshotUrl": "/files/fe61ba9cce16b6ba44c319cc1e5e5e2cbb1c4ab3888796296a38a1d2af962b95.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-18T02:57:07Z",
+    "lastObserved": "2026-06-18T02:57:07Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

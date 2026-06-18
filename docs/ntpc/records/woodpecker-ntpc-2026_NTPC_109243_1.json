@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109243_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109243_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109243_1-0001",
+      "date": "2026-06-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109243_1",
+        "title": "BMC of service engineer visit for SKF ENGG, LUBRICATION INDIA Pvt Ltdmake centralized lubrication system in SCR 1 at NTPC Darlipali",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-06-18T00:00:00Z"
+        },
+        "description": "BMC of service engineer visit for SKF ENGG, LUBRICATION INDIA Pvt Ltdmake centralized lubrication system in SCR 1 at NTPC Darlipali"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109243_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109243_1",
+          "url": "/files/16dce7f2ae57706c8cdc2ba5f79f3e88ab2ff943fce82646fe87b986fff974b2.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STj3QeSfZfSJty%2F1Z5jUJ2g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "16dce7f2ae57706c8cdc2ba5f79f3e88ab2ff943fce82646fe87b986fff974b2",
+          "format": "text/plain",
+          "textUrl": "/files/16dce7f2ae57706c8cdc2ba5f79f3e88ab2ff943fce82646fe87b986fff974b2.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109243_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STj3QeSfZfSJty%2F1Z5jUJ2g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109243_1",
+    "tender": {
+      "id": "2026_NTPC_109243_1",
+      "title": "BMC of service engineer visit for SKF ENGG, LUBRICATION INDIA Pvt Ltdmake centralized lubrication system in SCR 1 at NTPC Darlipali",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-06-18T00:00:00Z"
+      },
+      "description": "BMC of service engineer visit for SKF ENGG, LUBRICATION INDIA Pvt Ltdmake centralized lubrication system in SCR 1 at NTPC Darlipali"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109243_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109243_1",
+        "url": "/files/16dce7f2ae57706c8cdc2ba5f79f3e88ab2ff943fce82646fe87b986fff974b2.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STj3QeSfZfSJty%2F1Z5jUJ2g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "16dce7f2ae57706c8cdc2ba5f79f3e88ab2ff943fce82646fe87b986fff974b2",
+        "format": "text/plain",
+        "textUrl": "/files/16dce7f2ae57706c8cdc2ba5f79f3e88ab2ff943fce82646fe87b986fff974b2.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109243_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STj3QeSfZfSJty%2F1Z5jUJ2g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109243_1",
+      "observedAt": "2026-06-18T03:49:42Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "40ee4333ebf4cfccfe83ba58a4b1a87dad8b32b853119230048fae8e268769bd",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109243_1-0001-record",
+          "sha256": "16dce7f2ae57706c8cdc2ba5f79f3e88ab2ff943fce82646fe87b986fff974b2"
+        }
+      ],
+      "snapshotUrl": "/files/73c9710cff369e753cbc3c168153509e7aa74ffb3c60af56a6605db40449e237.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-18T03:49:42Z",
+    "lastObserved": "2026-06-18T03:49:42Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

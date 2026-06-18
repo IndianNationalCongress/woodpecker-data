@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_107763_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107763_1",
+      "id": "woodpecker-ntpc-2026_NTPC_107763_1-0001",
+      "date": "2026-05-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_107763_1",
+        "title": "Procurement of Lubricants for axial fans for NTPC Unchahar",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-18T00:00:00Z"
+        },
+        "description": "Procurement of Lubricants for axial fans for NTPC Unchahar"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107763_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_107763_1",
+          "url": "/files/e0368c54cd27c477055a221921ae40877f9dc3d441d5e0d2b054d196566a459b.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2L%2BNV7tLCUFSzo%2BrRYPITg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e0368c54cd27c477055a221921ae40877f9dc3d441d5e0d2b054d196566a459b",
+          "format": "text/plain",
+          "textUrl": "/files/e0368c54cd27c477055a221921ae40877f9dc3d441d5e0d2b054d196566a459b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107763_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2L%2BNV7tLCUFSzo%2BrRYPITg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_107763_1",
+    "tender": {
+      "id": "2026_NTPC_107763_1",
+      "title": "Procurement of Lubricants for axial fans for NTPC Unchahar",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-18T00:00:00Z"
+      },
+      "description": "Procurement of Lubricants for axial fans for NTPC Unchahar"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-05-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107763_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_107763_1",
+        "url": "/files/e0368c54cd27c477055a221921ae40877f9dc3d441d5e0d2b054d196566a459b.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2L%2BNV7tLCUFSzo%2BrRYPITg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e0368c54cd27c477055a221921ae40877f9dc3d441d5e0d2b054d196566a459b",
+        "format": "text/plain",
+        "textUrl": "/files/e0368c54cd27c477055a221921ae40877f9dc3d441d5e0d2b054d196566a459b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107763_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2L%2BNV7tLCUFSzo%2BrRYPITg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107763_1",
+      "observedAt": "2026-06-18T03:49:42Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "7cc799dbe232bd38c998434805cd8bbd6865ab0f257b1b22ed93caab9f870950",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107763_1-0001-record",
+          "sha256": "e0368c54cd27c477055a221921ae40877f9dc3d441d5e0d2b054d196566a459b"
+        }
+      ],
+      "snapshotUrl": "/files/107776f4a223d091c6a1f93263d4aefa3549d1822963220025533afda0a3a57a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-18T03:49:42Z",
+    "lastObserved": "2026-06-18T03:49:42Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

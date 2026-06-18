@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-bhel-2026_BHEL_62042_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62042_1",
+      "id": "woodpecker-bhel-2026_BHEL_62042_1-0001",
+      "date": "2026-06-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "tender": {
+        "id": "2026_BHEL_62042_1",
+        "title": "Switch - Manual Load disconnect",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Heavy Electricals Limited||EDN - Bangalore",
+          "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-18T00:00:00Z"
+        },
+        "description": "Switch - Manual Load disconnect"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62042_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BHEL_62042_1",
+          "url": "/files/85c6645ae2e52967eef78139be0050b0cccdd4e7dc1f142b3e388785061cfad1.txt",
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sy8dfw%2B69qRECSQcF9C56Cw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "85c6645ae2e52967eef78139be0050b0cccdd4e7dc1f142b3e388785061cfad1",
+          "format": "text/plain",
+          "textUrl": "/files/85c6645ae2e52967eef78139be0050b0cccdd4e7dc1f142b3e388785061cfad1.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62042_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sy8dfw%2B69qRECSQcF9C56Cw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bhel-2026_BHEL_62042_1",
+    "tender": {
+      "id": "2026_BHEL_62042_1",
+      "title": "Switch - Manual Load disconnect",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-18T00:00:00Z"
+      },
+      "description": "Switch - Manual Load disconnect"
+    },
+    "buyer": {
+      "name": "Bharat Heavy Electricals Limited||EDN - Bangalore",
+      "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+    },
+    "date": "2026-06-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62042_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BHEL_62042_1",
+        "url": "/files/85c6645ae2e52967eef78139be0050b0cccdd4e7dc1f142b3e388785061cfad1.txt",
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sy8dfw%2B69qRECSQcF9C56Cw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "85c6645ae2e52967eef78139be0050b0cccdd4e7dc1f142b3e388785061cfad1",
+        "format": "text/plain",
+        "textUrl": "/files/85c6645ae2e52967eef78139be0050b0cccdd4e7dc1f142b3e388785061cfad1.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62042_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sy8dfw%2B69qRECSQcF9C56Cw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62042_1",
+      "observedAt": "2026-06-18T03:53:54Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "c8dfeb302e1472b65f527d66cb634d04207f2808b8598330380ebda789ff7f3f",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62042_1-0001-record",
+          "sha256": "85c6645ae2e52967eef78139be0050b0cccdd4e7dc1f142b3e388785061cfad1"
+        }
+      ],
+      "snapshotUrl": "/files/058e6639afe736d81405ebfaf5c7ff0c34cbdee2e5c1735e330931c134561c96.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-18T03:53:54Z",
+    "lastObserved": "2026-06-18T03:53:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

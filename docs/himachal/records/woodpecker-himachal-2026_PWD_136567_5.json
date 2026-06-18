@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_136567_5",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_136567_5",
+      "id": "woodpecker-himachal-2026_PWD_136567_5-0001",
+      "date": "2026-06-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_136567_5",
+        "title": "Construction of wire crate R Wall",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 319950,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-18T00:00:00Z"
+        },
+        "description": "Construction of wire crate R Wall"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_136567_5-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_136567_5",
+          "url": "/files/1a7f37c92c288685efee8bd73ab160ef44f5cfa56f71ba4f7638186bbd2955c2.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbjC1cISrgza1UMTceN2ZZg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1a7f37c92c288685efee8bd73ab160ef44f5cfa56f71ba4f7638186bbd2955c2",
+          "format": "text/plain",
+          "textUrl": "/files/1a7f37c92c288685efee8bd73ab160ef44f5cfa56f71ba4f7638186bbd2955c2.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_136567_5-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbjC1cISrgza1UMTceN2ZZg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_136567_5",
+    "tender": {
+      "id": "2026_PWD_136567_5",
+      "title": "Construction of wire crate R Wall",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 319950,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-18T00:00:00Z"
+      },
+      "description": "Construction of wire crate R Wall"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-06-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_136567_5-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_136567_5",
+        "url": "/files/1a7f37c92c288685efee8bd73ab160ef44f5cfa56f71ba4f7638186bbd2955c2.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbjC1cISrgza1UMTceN2ZZg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1a7f37c92c288685efee8bd73ab160ef44f5cfa56f71ba4f7638186bbd2955c2",
+        "format": "text/plain",
+        "textUrl": "/files/1a7f37c92c288685efee8bd73ab160ef44f5cfa56f71ba4f7638186bbd2955c2.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_136567_5-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbjC1cISrgza1UMTceN2ZZg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_136567_5",
+      "observedAt": "2026-06-18T02:57:07Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "0429a851fa563647f6abef402a2756663e86d52df158a0f8d95086bc467d4886",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_136567_5-0001-record",
+          "sha256": "1a7f37c92c288685efee8bd73ab160ef44f5cfa56f71ba4f7638186bbd2955c2"
+        }
+      ],
+      "snapshotUrl": "/files/f3289e4de7c78f59984216395f6c72a22f09d7033dea836c2283a31c5dfda8aa.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-18T02:57:07Z",
+    "lastObserved": "2026-06-18T02:57:07Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
