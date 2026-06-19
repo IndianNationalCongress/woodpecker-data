@@ -1,0 +1,118 @@
+{
+  "ocid": "woodpecker-punjab-2026_WR_163921_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_163921_1",
+      "id": "woodpecker-punjab-2026_WR_163921_1-0001",
+      "date": "2026-03-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Water Resources||Department of Water Resources||Canal - Canal Div - Faridkot",
+        "id": "IN-ORG-department-of-water-resources-department"
+      },
+      "tender": {
+        "id": "2026_WR_163921_1",
+        "title": "Boating Site at RD 157000 - 155000 of Abohar Canal (Akhara)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Water Resources||Department of Water Resources||Canal - Canal Div - Faridkot",
+          "id": "IN-ORG-department-of-water-resources-department"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 125000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-19T00:00:00Z"
+        },
+        "description": "Boating Site at RD 157000 - 155000 of Abohar Canal (Akhara)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_163921_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WR_163921_1",
+          "url": "/files/3ebf93d118f2210bf54ecd862276c2fe68cd146d002f07a557ebf74fefd8ebda.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnB1yhITLtgkN%2BzukI8rtPQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3ebf93d118f2210bf54ecd862276c2fe68cd146d002f07a557ebf74fefd8ebda",
+          "format": "text/plain",
+          "textUrl": "/files/3ebf93d118f2210bf54ecd862276c2fe68cd146d002f07a557ebf74fefd8ebda.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2026_WR_163921_1",
+    "tender": {
+      "id": "2026_WR_163921_1",
+      "title": "Boating Site at RD 157000 - 155000 of Abohar Canal (Akhara)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Water Resources||Department of Water Resources||Canal - Canal Div - Faridkot",
+        "id": "IN-ORG-department-of-water-resources-department"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 125000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-19T00:00:00Z"
+      },
+      "description": "Boating Site at RD 157000 - 155000 of Abohar Canal (Akhara)"
+    },
+    "buyer": {
+      "name": "Department of Water Resources||Department of Water Resources||Canal - Canal Div - Faridkot",
+      "id": "IN-ORG-department-of-water-resources-department"
+    },
+    "date": "2026-03-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2026_WR_163921_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WR_163921_1",
+        "url": "/files/3ebf93d118f2210bf54ecd862276c2fe68cd146d002f07a557ebf74fefd8ebda.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnB1yhITLtgkN%2BzukI8rtPQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3ebf93d118f2210bf54ecd862276c2fe68cd146d002f07a557ebf74fefd8ebda",
+        "format": "text/plain",
+        "textUrl": "/files/3ebf93d118f2210bf54ecd862276c2fe68cd146d002f07a557ebf74fefd8ebda.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_163921_1",
+      "observedAt": "2026-06-19T03:32:00Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "3f0356ae0eb5d57bdb0140e1e85e70772af05efe5232f14e51a35e489345565c",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_163921_1-0001-record",
+          "sha256": "3ebf93d118f2210bf54ecd862276c2fe68cd146d002f07a557ebf74fefd8ebda"
+        }
+      ],
+      "snapshotUrl": "/files/10af7170161dc8f76c587bf2c2ce96759c965485de17623ab49b04082450d7f5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-19T03:32:00Z",
+    "lastObserved": "2026-06-19T03:32:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

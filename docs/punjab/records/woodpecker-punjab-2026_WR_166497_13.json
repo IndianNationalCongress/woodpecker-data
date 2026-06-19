@@ -1,0 +1,118 @@
+{
+  "ocid": "woodpecker-punjab-2026_WR_166497_13",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_166497_13",
+      "id": "woodpecker-punjab-2026_WR_166497_13-0001",
+      "date": "2026-04-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Water Resources||Department of Water Resources||Canal - Canal Div - Abohar",
+        "id": "IN-ORG-department-of-water-resources-department"
+      },
+      "tender": {
+        "id": "2026_WR_166497_13",
+        "title": "Estimate for Repair of Watercourses Outlet RD 22225/L of Mullianwali minor",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Water Resources||Department of Water Resources||Canal - Canal Div - Abohar",
+          "id": "IN-ORG-department-of-water-resources-department"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 740000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-19T00:00:00Z"
+        },
+        "description": "Estimate for Repair of Watercourses Outlet RD 22225/L of Mullianwali minor"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_166497_13-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WR_166497_13",
+          "url": "/files/e69d054b01ef18f1e6ed8e62af09801dc9aa521522fad9b4c1b043088a6fcdb8.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC5kdINHwcDArgbp9pDUtug%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e69d054b01ef18f1e6ed8e62af09801dc9aa521522fad9b4c1b043088a6fcdb8",
+          "format": "text/plain",
+          "textUrl": "/files/e69d054b01ef18f1e6ed8e62af09801dc9aa521522fad9b4c1b043088a6fcdb8.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2026_WR_166497_13",
+    "tender": {
+      "id": "2026_WR_166497_13",
+      "title": "Estimate for Repair of Watercourses Outlet RD 22225/L of Mullianwali minor",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Water Resources||Department of Water Resources||Canal - Canal Div - Abohar",
+        "id": "IN-ORG-department-of-water-resources-department"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 740000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-19T00:00:00Z"
+      },
+      "description": "Estimate for Repair of Watercourses Outlet RD 22225/L of Mullianwali minor"
+    },
+    "buyer": {
+      "name": "Department of Water Resources||Department of Water Resources||Canal - Canal Div - Abohar",
+      "id": "IN-ORG-department-of-water-resources-department"
+    },
+    "date": "2026-04-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2026_WR_166497_13-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WR_166497_13",
+        "url": "/files/e69d054b01ef18f1e6ed8e62af09801dc9aa521522fad9b4c1b043088a6fcdb8.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC5kdINHwcDArgbp9pDUtug%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e69d054b01ef18f1e6ed8e62af09801dc9aa521522fad9b4c1b043088a6fcdb8",
+        "format": "text/plain",
+        "textUrl": "/files/e69d054b01ef18f1e6ed8e62af09801dc9aa521522fad9b4c1b043088a6fcdb8.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_166497_13",
+      "observedAt": "2026-06-19T03:32:00Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "ea1f08aa0f23b6ba0d135a9c6fd70ddd13dec91f8e1e4f5fc74132a87c43e041",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_166497_13-0001-record",
+          "sha256": "e69d054b01ef18f1e6ed8e62af09801dc9aa521522fad9b4c1b043088a6fcdb8"
+        }
+      ],
+      "snapshotUrl": "/files/a34e60be1774d2fcdef9f4b96dde0a61fe9d0968cce5fc17aa83eb357f4be739.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-19T03:32:00Z",
+    "lastObserved": "2026-06-19T03:32:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

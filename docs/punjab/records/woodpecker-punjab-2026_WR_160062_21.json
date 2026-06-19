@@ -1,0 +1,118 @@
+{
+  "ocid": "woodpecker-punjab-2026_WR_160062_21",
+  "releases": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_160062_21",
+      "id": "woodpecker-punjab-2026_WR_160062_21-0001",
+      "date": "2026-02-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Water Resources||Department of Water Resources||Canal - Sri Muktsar Sahib Canal and GW Div At GDB",
+        "id": "IN-ORG-department-of-water-resources-department"
+      },
+      "tender": {
+        "id": "2026_WR_160062_21",
+        "title": "Estimate for relining/lining of watercourse of outlet RD of 4788/L of Sheiku Minor",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Water Resources||Department of Water Resources||Canal - Sri Muktsar Sahib Canal and GW Div At GDB",
+          "id": "IN-ORG-department-of-water-resources-department"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 5500000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-19T00:00:00Z"
+        },
+        "description": "Estimate for relining/lining of watercourse of outlet RD of 4788/L of Sheiku Minor"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_160062_21-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WR_160062_21",
+          "url": "/files/78c66a747d451f9551f49587f29ed9c1f81a89521b6b24b336fafd35b945b396.txt",
+          "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuqlH0MqvCVP5%2F99V%2FIsauw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "78c66a747d451f9551f49587f29ed9c1f81a89521b6b24b336fafd35b945b396",
+          "format": "text/plain",
+          "textUrl": "/files/78c66a747d451f9551f49587f29ed9c1f81a89521b6b24b336fafd35b945b396.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-punjab-2026_WR_160062_21",
+    "tender": {
+      "id": "2026_WR_160062_21",
+      "title": "Estimate for relining/lining of watercourse of outlet RD of 4788/L of Sheiku Minor",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Water Resources||Department of Water Resources||Canal - Sri Muktsar Sahib Canal and GW Div At GDB",
+        "id": "IN-ORG-department-of-water-resources-department"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 5500000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-19T00:00:00Z"
+      },
+      "description": "Estimate for relining/lining of watercourse of outlet RD of 4788/L of Sheiku Minor"
+    },
+    "buyer": {
+      "name": "Department of Water Resources||Department of Water Resources||Canal - Sri Muktsar Sahib Canal and GW Div At GDB",
+      "id": "IN-ORG-department-of-water-resources-department"
+    },
+    "date": "2026-02-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-punjab-2026_WR_160062_21-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WR_160062_21",
+        "url": "/files/78c66a747d451f9551f49587f29ed9c1f81a89521b6b24b336fafd35b945b396.txt",
+        "sourceUrl": "https://eproc.punjab.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuqlH0MqvCVP5%2F99V%2FIsauw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "78c66a747d451f9551f49587f29ed9c1f81a89521b6b24b336fafd35b945b396",
+        "format": "text/plain",
+        "textUrl": "/files/78c66a747d451f9551f49587f29ed9c1f81a89521b6b24b336fafd35b945b396.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-punjab-2026_WR_160062_21",
+      "observedAt": "2026-06-19T03:32:00Z",
+      "witness": "woodpecker:punjab",
+      "availability": "present",
+      "stateHash": "65e0cf07e7d904a50700ab95262ed1ba8b3dd65c881734a7c572bd5c4ec4430a",
+      "documents": [
+        {
+          "id": "woodpecker-punjab-2026_WR_160062_21-0001-record",
+          "sha256": "78c66a747d451f9551f49587f29ed9c1f81a89521b6b24b336fafd35b945b396"
+        }
+      ],
+      "snapshotUrl": "/files/5d160c1065d3d184b270f2c6c4ab300a21128dc0514d4c033c700de52a980bee.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-19T03:32:00Z",
+    "lastObserved": "2026-06-19T03:32:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
