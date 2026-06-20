@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_107634_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107634_1",
+      "id": "woodpecker-ntpc-2026_NTPC_107634_1-0001",
+      "date": "2026-04-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_107634_1",
+        "title": "Procurement of XIO16T cards for Meggitt Vibration Monitoring System at NTPC Khargone.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-20T00:00:00Z"
+        },
+        "description": "Procurement of XIO16T cards for Meggitt Vibration Monitoring System at NTPC Khargone."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107634_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_107634_1",
+          "url": "/files/629ee61dc6685fe256f0b8caa0fa5193953ccfc832aa83e9e29172c5500a297e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJTL621eA8QDt9ncGDp0ufg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "629ee61dc6685fe256f0b8caa0fa5193953ccfc832aa83e9e29172c5500a297e",
+          "format": "text/plain",
+          "textUrl": "/files/629ee61dc6685fe256f0b8caa0fa5193953ccfc832aa83e9e29172c5500a297e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107634_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJTL621eA8QDt9ncGDp0ufg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_107634_1",
+    "tender": {
+      "id": "2026_NTPC_107634_1",
+      "title": "Procurement of XIO16T cards for Meggitt Vibration Monitoring System at NTPC Khargone.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-20T00:00:00Z"
+      },
+      "description": "Procurement of XIO16T cards for Meggitt Vibration Monitoring System at NTPC Khargone."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-04-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107634_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_107634_1",
+        "url": "/files/629ee61dc6685fe256f0b8caa0fa5193953ccfc832aa83e9e29172c5500a297e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJTL621eA8QDt9ncGDp0ufg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "629ee61dc6685fe256f0b8caa0fa5193953ccfc832aa83e9e29172c5500a297e",
+        "format": "text/plain",
+        "textUrl": "/files/629ee61dc6685fe256f0b8caa0fa5193953ccfc832aa83e9e29172c5500a297e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107634_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJTL621eA8QDt9ncGDp0ufg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107634_1",
+      "observedAt": "2026-06-20T03:10:36Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "7cd8f71da3f7182b0b9feca474adde0a13e48c259fd1e9e51529624b14ebbc83",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107634_1-0001-record",
+          "sha256": "629ee61dc6685fe256f0b8caa0fa5193953ccfc832aa83e9e29172c5500a297e"
+        }
+      ],
+      "snapshotUrl": "/files/900b0e9546765a509d07d8bffac8f10237141239d589ba802328cf40b2f26fdc.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-20T03:10:36Z",
+    "lastObserved": "2026-06-20T03:10:36Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

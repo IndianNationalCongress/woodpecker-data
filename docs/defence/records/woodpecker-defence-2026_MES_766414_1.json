@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_766414_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_766414_1",
+      "id": "woodpecker-defence-2026_MES_766414_1-0001",
+      "date": "2026-05-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CESC AND CE JODHPUR ZONE - MES||CWE AHMEDABAD - MES||GE (ARMY ) BARODA - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_766414_1",
+        "title": "As per BOQ",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CESC AND CE JODHPUR ZONE - MES||CWE AHMEDABAD - MES||GE (ARMY ) BARODA - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1300000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-20T00:00:00Z"
+        },
+        "description": "As per BOQ"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_766414_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_766414_1",
+          "url": "/files/6613d4f8ddfa98707100707d7b25b3a6d3ea217252a1e4166f5c993ba1d18620.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE9ktU5KIf3xp0Mj0CGdCOA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6613d4f8ddfa98707100707d7b25b3a6d3ea217252a1e4166f5c993ba1d18620",
+          "format": "text/plain",
+          "textUrl": "/files/6613d4f8ddfa98707100707d7b25b3a6d3ea217252a1e4166f5c993ba1d18620.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-defence-2026_MES_766414_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE9ktU5KIf3xp0Mj0CGdCOA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_766414_1",
+    "tender": {
+      "id": "2026_MES_766414_1",
+      "title": "As per BOQ",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CESC AND CE JODHPUR ZONE - MES||CWE AHMEDABAD - MES||GE (ARMY ) BARODA - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1300000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-20T00:00:00Z"
+      },
+      "description": "As per BOQ"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CESC AND CE JODHPUR ZONE - MES||CWE AHMEDABAD - MES||GE (ARMY ) BARODA - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-05-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_766414_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_766414_1",
+        "url": "/files/6613d4f8ddfa98707100707d7b25b3a6d3ea217252a1e4166f5c993ba1d18620.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE9ktU5KIf3xp0Mj0CGdCOA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6613d4f8ddfa98707100707d7b25b3a6d3ea217252a1e4166f5c993ba1d18620",
+        "format": "text/plain",
+        "textUrl": "/files/6613d4f8ddfa98707100707d7b25b3a6d3ea217252a1e4166f5c993ba1d18620.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-defence-2026_MES_766414_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE9ktU5KIf3xp0Mj0CGdCOA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_766414_1",
+      "observedAt": "2026-06-20T02:33:57Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "1b871c490f647ee552613c89085d7737be7b350a291bc10df8c6e5f45f1b5b57",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_766414_1-0001-record",
+          "sha256": "6613d4f8ddfa98707100707d7b25b3a6d3ea217252a1e4166f5c993ba1d18620"
+        }
+      ],
+      "snapshotUrl": "/files/e197809787124b3bbc9cea5f63825c91f745958a81a8e403787fa02c22dad4a6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-20T02:33:57Z",
+    "lastObserved": "2026-06-20T02:33:57Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

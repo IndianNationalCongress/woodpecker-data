@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108830_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108830_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108830_1-0001",
+      "date": "2026-06-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "tender": {
+        "id": "2026_NTPC_108830_1",
+        "title": "Procurement of Gun Metal Valves for different Plants of NTPC",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-20T00:00:00Z"
+        },
+        "description": "Procurement of Gun Metal Valves for different Plants of NTPC"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108830_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108830_1",
+          "url": "/files/f58ee341f48a777d9d9b29b45e22e9789576c7d4beb774a317df2a4300f06dbe.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnYEZJsIVJlgAeWs%2BBRuNhQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f58ee341f48a777d9d9b29b45e22e9789576c7d4beb774a317df2a4300f06dbe",
+          "format": "text/plain",
+          "textUrl": "/files/f58ee341f48a777d9d9b29b45e22e9789576c7d4beb774a317df2a4300f06dbe.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108830_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnYEZJsIVJlgAeWs%2BBRuNhQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108830_1",
+    "tender": {
+      "id": "2026_NTPC_108830_1",
+      "title": "Procurement of Gun Metal Valves for different Plants of NTPC",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-20T00:00:00Z"
+      },
+      "description": "Procurement of Gun Metal Valves for different Plants of NTPC"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+    },
+    "date": "2026-06-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108830_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108830_1",
+        "url": "/files/f58ee341f48a777d9d9b29b45e22e9789576c7d4beb774a317df2a4300f06dbe.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnYEZJsIVJlgAeWs%2BBRuNhQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f58ee341f48a777d9d9b29b45e22e9789576c7d4beb774a317df2a4300f06dbe",
+        "format": "text/plain",
+        "textUrl": "/files/f58ee341f48a777d9d9b29b45e22e9789576c7d4beb774a317df2a4300f06dbe.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108830_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnYEZJsIVJlgAeWs%2BBRuNhQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108830_1",
+      "observedAt": "2026-06-20T03:10:36Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "03e41ed719a1a31ea03939b668ceb70b973f31dfd06f65ec9286c667bfa741da",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108830_1-0001-record",
+          "sha256": "f58ee341f48a777d9d9b29b45e22e9789576c7d4beb774a317df2a4300f06dbe"
+        }
+      ],
+      "snapshotUrl": "/files/0a4100655bb96cd92fc9900c875842d3313fed09b6033daea4692d27dafeb8ea.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-20T03:10:36Z",
+    "lastObserved": "2026-06-20T03:10:36Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
