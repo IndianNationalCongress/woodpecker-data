@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109244_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109244_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109244_1-0001",
+      "date": "2026-06-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Northern Region Headquarter||Vindhyachal Super Thermal Power Station",
+        "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+      },
+      "tender": {
+        "id": "2026_NTPC_109244_1",
+        "title": "Contract for Operational Assistance and Area maintenance (HK) at SmallHydro Power Plant",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Northern Region Headquarter||Vindhyachal Super Thermal Power Station",
+          "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-06-22T00:00:00Z"
+        },
+        "description": "Contract for Operational Assistance and Area maintenance (HK) at SmallHydro Power Plant"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109244_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109244_1",
+          "url": "/files/33fff3e7b42487b60753a92402c433d9bb610cef9cd88c14201ed77c313ce356.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG59bcPt3ZM3meqZJoxg6Yw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "33fff3e7b42487b60753a92402c433d9bb610cef9cd88c14201ed77c313ce356",
+          "format": "text/plain",
+          "textUrl": "/files/33fff3e7b42487b60753a92402c433d9bb610cef9cd88c14201ed77c313ce356.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109244_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG59bcPt3ZM3meqZJoxg6Yw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109244_1",
+    "tender": {
+      "id": "2026_NTPC_109244_1",
+      "title": "Contract for Operational Assistance and Area maintenance (HK) at SmallHydro Power Plant",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Northern Region Headquarter||Vindhyachal Super Thermal Power Station",
+        "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-06-22T00:00:00Z"
+      },
+      "description": "Contract for Operational Assistance and Area maintenance (HK) at SmallHydro Power Plant"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Northern Region Headquarter||Vindhyachal Super Thermal Power Station",
+      "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+    },
+    "date": "2026-06-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109244_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109244_1",
+        "url": "/files/33fff3e7b42487b60753a92402c433d9bb610cef9cd88c14201ed77c313ce356.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG59bcPt3ZM3meqZJoxg6Yw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "33fff3e7b42487b60753a92402c433d9bb610cef9cd88c14201ed77c313ce356",
+        "format": "text/plain",
+        "textUrl": "/files/33fff3e7b42487b60753a92402c433d9bb610cef9cd88c14201ed77c313ce356.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109244_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG59bcPt3ZM3meqZJoxg6Yw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109244_1",
+      "observedAt": "2026-06-22T03:54:52Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "77a9c845805a25e15b763bcb2f9dce2de2156b334c67f5d313a30a360ce2b81a",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109244_1-0001-record",
+          "sha256": "33fff3e7b42487b60753a92402c433d9bb610cef9cd88c14201ed77c313ce356"
+        }
+      ],
+      "snapshotUrl": "/files/6da27bedd99d180bcc1adab50a2a34d4c3d27daa902c4e605f60370ba89de39f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-22T03:54:52Z",
+    "lastObserved": "2026-06-22T03:54:52Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

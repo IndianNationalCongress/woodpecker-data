@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_IITI_911752_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_IITI_911752_1",
+      "id": "woodpecker-cppp-2026_IITI_911752_1-0001",
+      "date": "2026-06-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Indian Institute of Technology Indore||Materials Management Section - IITI",
+        "id": "IN-ORG-indian-institute-of-technology-indore-ma"
+      },
+      "tender": {
+        "id": "2026_IITI_911752_1",
+        "title": "Supply and Installation of Dining Equipment",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Indian Institute of Technology Indore||Materials Management Section - IITI",
+          "id": "IN-ORG-indian-institute-of-technology-indore-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-22T00:00:00Z"
+        },
+        "description": "Supply and Installation of Dining Equipment"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IITI_911752_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IITI_911752_1",
+          "url": "/files/747a90668942c368a84d98b71be195851b247b79c95f79be88631dba128348a3.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL5yn0SnrlE8rypFBkd3NRA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "747a90668942c368a84d98b71be195851b247b79c95f79be88631dba128348a3",
+          "format": "text/plain",
+          "textUrl": "/files/747a90668942c368a84d98b71be195851b247b79c95f79be88631dba128348a3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_IITI_911752_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL5yn0SnrlE8rypFBkd3NRA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_IITI_911752_1",
+    "tender": {
+      "id": "2026_IITI_911752_1",
+      "title": "Supply and Installation of Dining Equipment",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Indian Institute of Technology Indore||Materials Management Section - IITI",
+        "id": "IN-ORG-indian-institute-of-technology-indore-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-22T00:00:00Z"
+      },
+      "description": "Supply and Installation of Dining Equipment"
+    },
+    "buyer": {
+      "name": "Indian Institute of Technology Indore||Materials Management Section - IITI",
+      "id": "IN-ORG-indian-institute-of-technology-indore-ma"
+    },
+    "date": "2026-06-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_IITI_911752_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IITI_911752_1",
+        "url": "/files/747a90668942c368a84d98b71be195851b247b79c95f79be88631dba128348a3.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL5yn0SnrlE8rypFBkd3NRA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "747a90668942c368a84d98b71be195851b247b79c95f79be88631dba128348a3",
+        "format": "text/plain",
+        "textUrl": "/files/747a90668942c368a84d98b71be195851b247b79c95f79be88631dba128348a3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_IITI_911752_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL5yn0SnrlE8rypFBkd3NRA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_IITI_911752_1",
+      "observedAt": "2026-06-22T02:08:36Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "46bbafedc2345a7f824638ff564dcfb9975fd5aa2c631378679c080a3c523259",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IITI_911752_1-0001-record",
+          "sha256": "747a90668942c368a84d98b71be195851b247b79c95f79be88631dba128348a3"
+        }
+      ],
+      "snapshotUrl": "/files/ecbc2a99b765732c5c6ce3813c29570657421507483550140221b2191a1a7181.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-22T02:08:36Z",
+    "lastObserved": "2026-06-22T02:08:36Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

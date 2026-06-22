@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109189_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109189_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109189_1-0001",
+      "date": "2026-06-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109189_1",
+        "title": "Procurement of MATTRESS FOR GEM 2026 WORKSHOP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-22T00:00:00Z"
+        },
+        "description": "Procurement of MATTRESS FOR GEM 2026 WORKSHOP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109189_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109189_1",
+          "url": "/files/c97845baf5855a4db177edf788ab56068eaf9f0b4dd7bac9454ec72aa121f8b3.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrC%2FNXaMGWhb4IdpZ10TEKQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c97845baf5855a4db177edf788ab56068eaf9f0b4dd7bac9454ec72aa121f8b3",
+          "format": "text/plain",
+          "textUrl": "/files/c97845baf5855a4db177edf788ab56068eaf9f0b4dd7bac9454ec72aa121f8b3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109189_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrC%2FNXaMGWhb4IdpZ10TEKQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109189_1",
+    "tender": {
+      "id": "2026_NTPC_109189_1",
+      "title": "Procurement of MATTRESS FOR GEM 2026 WORKSHOP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-22T00:00:00Z"
+      },
+      "description": "Procurement of MATTRESS FOR GEM 2026 WORKSHOP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109189_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109189_1",
+        "url": "/files/c97845baf5855a4db177edf788ab56068eaf9f0b4dd7bac9454ec72aa121f8b3.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrC%2FNXaMGWhb4IdpZ10TEKQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c97845baf5855a4db177edf788ab56068eaf9f0b4dd7bac9454ec72aa121f8b3",
+        "format": "text/plain",
+        "textUrl": "/files/c97845baf5855a4db177edf788ab56068eaf9f0b4dd7bac9454ec72aa121f8b3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109189_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrC%2FNXaMGWhb4IdpZ10TEKQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109189_1",
+      "observedAt": "2026-06-22T03:54:52Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "b0c902ecee2d922018f97d538e1a47a15cc7c8cfbb2ce6ea61a2bb4b8a375a2d",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109189_1-0001-record",
+          "sha256": "c97845baf5855a4db177edf788ab56068eaf9f0b4dd7bac9454ec72aa121f8b3"
+        }
+      ],
+      "snapshotUrl": "/files/f96c20a18e183ab75d8c26a39dd11a36ff26d2702eaf4d863bc82fa18fb70dad.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-22T03:54:52Z",
+    "lastObserved": "2026-06-22T03:54:52Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
