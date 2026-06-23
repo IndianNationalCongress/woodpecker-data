@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109293_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109293_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109293_1-0001",
+      "date": "2026-06-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109293_1",
+        "title": "AMC of PLCs in Wagon Tippler Area at NTPC Mouda",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-06-23T00:00:00Z"
+        },
+        "description": "AMC of PLCs in Wagon Tippler Area at NTPC Mouda"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109293_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109293_1",
+          "url": "/files/a6f411c2c0fcbfbc2cb0eff7799ec76b88fe767e6648a0a58f26c626783c8758.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPeOu%2FreejtclQ2yocW6KOA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a6f411c2c0fcbfbc2cb0eff7799ec76b88fe767e6648a0a58f26c626783c8758",
+          "format": "text/plain",
+          "textUrl": "/files/a6f411c2c0fcbfbc2cb0eff7799ec76b88fe767e6648a0a58f26c626783c8758.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109293_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPeOu%2FreejtclQ2yocW6KOA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109293_1",
+    "tender": {
+      "id": "2026_NTPC_109293_1",
+      "title": "AMC of PLCs in Wagon Tippler Area at NTPC Mouda",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-06-23T00:00:00Z"
+      },
+      "description": "AMC of PLCs in Wagon Tippler Area at NTPC Mouda"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109293_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109293_1",
+        "url": "/files/a6f411c2c0fcbfbc2cb0eff7799ec76b88fe767e6648a0a58f26c626783c8758.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPeOu%2FreejtclQ2yocW6KOA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a6f411c2c0fcbfbc2cb0eff7799ec76b88fe767e6648a0a58f26c626783c8758",
+        "format": "text/plain",
+        "textUrl": "/files/a6f411c2c0fcbfbc2cb0eff7799ec76b88fe767e6648a0a58f26c626783c8758.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109293_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPeOu%2FreejtclQ2yocW6KOA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109293_1",
+      "observedAt": "2026-06-23T03:15:27Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "19d0eceb0ad4956d1614b9e8e445afda5367699063710c8818c59eb1117036f2",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109293_1-0001-record",
+          "sha256": "a6f411c2c0fcbfbc2cb0eff7799ec76b88fe767e6648a0a58f26c626783c8758"
+        }
+      ],
+      "snapshotUrl": "/files/078b1bf664d1913940f5f5b080ee0880262555bd48ade475f607ef159d9312c6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-23T03:15:27Z",
+    "lastObserved": "2026-06-23T03:15:27Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

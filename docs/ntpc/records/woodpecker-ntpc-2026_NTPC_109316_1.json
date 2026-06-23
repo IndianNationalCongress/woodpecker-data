@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109316_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109316_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109316_1-0001",
+      "date": "2026-06-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109316_1",
+        "title": "PROCUREMENT OF COMPLETE TDCEP PUMP UNIT AT NTPC BARH",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-23T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF COMPLETE TDCEP PUMP UNIT AT NTPC BARH"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109316_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109316_1",
+          "url": "/files/26bc2b777e5c3629e74b88f26159f3efcb6649f92658152051a56f7a8512cb70.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7mw7yTxOeiOWDoP5vRyF5A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "26bc2b777e5c3629e74b88f26159f3efcb6649f92658152051a56f7a8512cb70",
+          "format": "text/plain",
+          "textUrl": "/files/26bc2b777e5c3629e74b88f26159f3efcb6649f92658152051a56f7a8512cb70.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109316_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7mw7yTxOeiOWDoP5vRyF5A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109316_1",
+    "tender": {
+      "id": "2026_NTPC_109316_1",
+      "title": "PROCUREMENT OF COMPLETE TDCEP PUMP UNIT AT NTPC BARH",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-23T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF COMPLETE TDCEP PUMP UNIT AT NTPC BARH"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109316_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109316_1",
+        "url": "/files/26bc2b777e5c3629e74b88f26159f3efcb6649f92658152051a56f7a8512cb70.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7mw7yTxOeiOWDoP5vRyF5A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "26bc2b777e5c3629e74b88f26159f3efcb6649f92658152051a56f7a8512cb70",
+        "format": "text/plain",
+        "textUrl": "/files/26bc2b777e5c3629e74b88f26159f3efcb6649f92658152051a56f7a8512cb70.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109316_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7mw7yTxOeiOWDoP5vRyF5A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109316_1",
+      "observedAt": "2026-06-23T03:15:27Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "b59c952658c96a739c891006636c505f15f5f5ea1ed332663dd3a62f4e3ca9af",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109316_1-0001-record",
+          "sha256": "26bc2b777e5c3629e74b88f26159f3efcb6649f92658152051a56f7a8512cb70"
+        }
+      ],
+      "snapshotUrl": "/files/7c475e289cad2756e85dc782143f0d96e1271040e5cff46e8392dde23185239c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-23T03:15:27Z",
+    "lastObserved": "2026-06-23T03:15:27Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

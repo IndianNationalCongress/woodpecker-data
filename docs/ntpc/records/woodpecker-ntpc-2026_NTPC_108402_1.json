@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108402_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108402_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108402_1-0001",
+      "date": "2026-05-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108402_1",
+        "title": "Procuremnt of Feeder COC gear box.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-23T00:00:00Z"
+        },
+        "description": "Procuremnt of Feeder COC gear box."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108402_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108402_1",
+          "url": "/files/4b06fd242a9fbe467f85c5076fcef1bc17b867fbbe2dd20226c600f93b1491b1.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaAcN3fTI%2F2AHGc8LkMHtWA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4b06fd242a9fbe467f85c5076fcef1bc17b867fbbe2dd20226c600f93b1491b1",
+          "format": "text/plain",
+          "textUrl": "/files/4b06fd242a9fbe467f85c5076fcef1bc17b867fbbe2dd20226c600f93b1491b1.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108402_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaAcN3fTI%2F2AHGc8LkMHtWA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108402_1",
+    "tender": {
+      "id": "2026_NTPC_108402_1",
+      "title": "Procuremnt of Feeder COC gear box.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-23T00:00:00Z"
+      },
+      "description": "Procuremnt of Feeder COC gear box."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-05-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108402_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108402_1",
+        "url": "/files/4b06fd242a9fbe467f85c5076fcef1bc17b867fbbe2dd20226c600f93b1491b1.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaAcN3fTI%2F2AHGc8LkMHtWA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4b06fd242a9fbe467f85c5076fcef1bc17b867fbbe2dd20226c600f93b1491b1",
+        "format": "text/plain",
+        "textUrl": "/files/4b06fd242a9fbe467f85c5076fcef1bc17b867fbbe2dd20226c600f93b1491b1.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108402_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaAcN3fTI%2F2AHGc8LkMHtWA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108402_1",
+      "observedAt": "2026-06-23T03:15:27Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "94d73ffe03d56e01d8db8ec8fa36027350b2faf734560c4e313fb93f863a3d0d",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108402_1-0001-record",
+          "sha256": "4b06fd242a9fbe467f85c5076fcef1bc17b867fbbe2dd20226c600f93b1491b1"
+        }
+      ],
+      "snapshotUrl": "/files/4e83d24d1ef9c4450b1070dc6b377374c8e4c8b10defc37c9c67e252ef7e75c7.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-23T03:15:27Z",
+    "lastObserved": "2026-06-23T03:15:27Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
