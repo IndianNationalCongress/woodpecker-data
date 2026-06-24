@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109132_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109132_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109132_1-0001",
+      "date": "2026-06-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109132_1",
+        "title": "Procurement of Gravimetric coal Feeder Gearbox for NTPC Rihand.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-24T00:00:00Z"
+        },
+        "description": "Procurement of Gravimetric coal Feeder Gearbox for NTPC Rihand."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109132_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109132_1",
+          "url": "/files/0b3e92a198867b87ebe4c53fe4658c622736b01737120c3f1d8f6cb235cb77d2.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScN92yutZqquyGMAbWALOMw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0b3e92a198867b87ebe4c53fe4658c622736b01737120c3f1d8f6cb235cb77d2",
+          "format": "text/plain",
+          "textUrl": "/files/0b3e92a198867b87ebe4c53fe4658c622736b01737120c3f1d8f6cb235cb77d2.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109132_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScN92yutZqquyGMAbWALOMw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109132_1",
+    "tender": {
+      "id": "2026_NTPC_109132_1",
+      "title": "Procurement of Gravimetric coal Feeder Gearbox for NTPC Rihand.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-24T00:00:00Z"
+      },
+      "description": "Procurement of Gravimetric coal Feeder Gearbox for NTPC Rihand."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109132_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109132_1",
+        "url": "/files/0b3e92a198867b87ebe4c53fe4658c622736b01737120c3f1d8f6cb235cb77d2.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScN92yutZqquyGMAbWALOMw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0b3e92a198867b87ebe4c53fe4658c622736b01737120c3f1d8f6cb235cb77d2",
+        "format": "text/plain",
+        "textUrl": "/files/0b3e92a198867b87ebe4c53fe4658c622736b01737120c3f1d8f6cb235cb77d2.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109132_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScN92yutZqquyGMAbWALOMw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109132_1",
+      "observedAt": "2026-06-24T03:02:54Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "31db624fa42af60ae3dead00b783e75591be09c4fd66e3641868f9921cbca427",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109132_1-0001-record",
+          "sha256": "0b3e92a198867b87ebe4c53fe4658c622736b01737120c3f1d8f6cb235cb77d2"
+        }
+      ],
+      "snapshotUrl": "/files/22ad2f940b332ed8d3d84c47b9446a19e9e5b6d804d4e7d616e821c072993d81.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-24T03:02:54Z",
+    "lastObserved": "2026-06-24T03:02:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

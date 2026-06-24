@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109391_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109391_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109391_1-0001",
+      "date": "2026-06-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||HR - Contracts and Procurement",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-hr-contrac"
+      },
+      "tender": {
+        "id": "2026_NTPC_109391_1",
+        "title": "Pantry Service at Shram Shakti Bhawan, New Delhi",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||HR - Contracts and Procurement",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-hr-contrac"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-06-24T00:00:00Z"
+        },
+        "description": "Pantry Service at Shram Shakti Bhawan, New Delhi"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109391_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109391_1",
+          "url": "/files/97a897b4beaa77d37f3abd6b6ac95708ec81e43d11987db915a5d2dbc4e5c23e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBcJD5IilzvduNBml1Z1R8w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "97a897b4beaa77d37f3abd6b6ac95708ec81e43d11987db915a5d2dbc4e5c23e",
+          "format": "text/plain",
+          "textUrl": "/files/97a897b4beaa77d37f3abd6b6ac95708ec81e43d11987db915a5d2dbc4e5c23e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109391_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBcJD5IilzvduNBml1Z1R8w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109391_1",
+    "tender": {
+      "id": "2026_NTPC_109391_1",
+      "title": "Pantry Service at Shram Shakti Bhawan, New Delhi",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||HR - Contracts and Procurement",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-hr-contrac"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-06-24T00:00:00Z"
+      },
+      "description": "Pantry Service at Shram Shakti Bhawan, New Delhi"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||HR - Contracts and Procurement",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-hr-contrac"
+    },
+    "date": "2026-06-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109391_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109391_1",
+        "url": "/files/97a897b4beaa77d37f3abd6b6ac95708ec81e43d11987db915a5d2dbc4e5c23e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBcJD5IilzvduNBml1Z1R8w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "97a897b4beaa77d37f3abd6b6ac95708ec81e43d11987db915a5d2dbc4e5c23e",
+        "format": "text/plain",
+        "textUrl": "/files/97a897b4beaa77d37f3abd6b6ac95708ec81e43d11987db915a5d2dbc4e5c23e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109391_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBcJD5IilzvduNBml1Z1R8w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109391_1",
+      "observedAt": "2026-06-24T03:02:54Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "fa10c7a4ab50d681bb4433471c47175988a25a92c18d0024a82be4ba5f10f445",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109391_1-0001-record",
+          "sha256": "97a897b4beaa77d37f3abd6b6ac95708ec81e43d11987db915a5d2dbc4e5c23e"
+        }
+      ],
+      "snapshotUrl": "/files/112b238da734d2bb59f406c4745e24a3e6a143f98cff7542d4d3f2071dc852dd.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-24T03:02:54Z",
+    "lastObserved": "2026-06-24T03:02:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

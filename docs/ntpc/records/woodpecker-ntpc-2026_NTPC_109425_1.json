@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109425_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109425_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109425_1-0001",
+      "date": "2026-06-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109425_1",
+        "title": "PROCUREMENT OF TURBINE PRESERVATION COMPOUNDS FOR STAGE I II and III ofNTPC Ramagundam",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-24T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF TURBINE PRESERVATION COMPOUNDS FOR STAGE I II and III ofNTPC Ramagundam"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109425_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109425_1",
+          "url": "/files/1362c920767839588482927df034538b6107b9b5f0eabf1a25cce3e1d979fa1f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdpPGcETAgzkkZYhVwOolMg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1362c920767839588482927df034538b6107b9b5f0eabf1a25cce3e1d979fa1f",
+          "format": "text/plain",
+          "textUrl": "/files/1362c920767839588482927df034538b6107b9b5f0eabf1a25cce3e1d979fa1f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109425_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdpPGcETAgzkkZYhVwOolMg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109425_1",
+    "tender": {
+      "id": "2026_NTPC_109425_1",
+      "title": "PROCUREMENT OF TURBINE PRESERVATION COMPOUNDS FOR STAGE I II and III ofNTPC Ramagundam",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-24T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF TURBINE PRESERVATION COMPOUNDS FOR STAGE I II and III ofNTPC Ramagundam"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109425_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109425_1",
+        "url": "/files/1362c920767839588482927df034538b6107b9b5f0eabf1a25cce3e1d979fa1f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdpPGcETAgzkkZYhVwOolMg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1362c920767839588482927df034538b6107b9b5f0eabf1a25cce3e1d979fa1f",
+        "format": "text/plain",
+        "textUrl": "/files/1362c920767839588482927df034538b6107b9b5f0eabf1a25cce3e1d979fa1f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109425_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdpPGcETAgzkkZYhVwOolMg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109425_1",
+      "observedAt": "2026-06-24T03:02:54Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "8eecfbc66a0ba2aecbecff21ad1523ac8922f360b9aacca2cf54da17b45642c7",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109425_1-0001-record",
+          "sha256": "1362c920767839588482927df034538b6107b9b5f0eabf1a25cce3e1d979fa1f"
+        }
+      ],
+      "snapshotUrl": "/files/c9c27fa5ed2227a402b54935df0caf0911f6b201a367b410cfa160a3265bd181.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-24T03:02:54Z",
+    "lastObserved": "2026-06-24T03:02:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

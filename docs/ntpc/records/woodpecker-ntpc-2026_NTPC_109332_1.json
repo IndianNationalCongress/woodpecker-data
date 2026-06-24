@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109332_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109332_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109332_1-0001",
+      "date": "2026-06-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109332_1",
+        "title": "PROCUREMENT OF MECHANICAL SEAL FOR FUTURE APH OVERHAULING NTPC TSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-24T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF MECHANICAL SEAL FOR FUTURE APH OVERHAULING NTPC TSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109332_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109332_1",
+          "url": "/files/38e67860b06dceba820ad0c1efe7ba86d93fc72630cdfe923dd5e37d660027bf.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmuKKmOewjns25Uw5nKXH9Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "38e67860b06dceba820ad0c1efe7ba86d93fc72630cdfe923dd5e37d660027bf",
+          "format": "text/plain",
+          "textUrl": "/files/38e67860b06dceba820ad0c1efe7ba86d93fc72630cdfe923dd5e37d660027bf.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109332_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmuKKmOewjns25Uw5nKXH9Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109332_1",
+    "tender": {
+      "id": "2026_NTPC_109332_1",
+      "title": "PROCUREMENT OF MECHANICAL SEAL FOR FUTURE APH OVERHAULING NTPC TSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-24T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF MECHANICAL SEAL FOR FUTURE APH OVERHAULING NTPC TSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109332_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109332_1",
+        "url": "/files/38e67860b06dceba820ad0c1efe7ba86d93fc72630cdfe923dd5e37d660027bf.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmuKKmOewjns25Uw5nKXH9Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "38e67860b06dceba820ad0c1efe7ba86d93fc72630cdfe923dd5e37d660027bf",
+        "format": "text/plain",
+        "textUrl": "/files/38e67860b06dceba820ad0c1efe7ba86d93fc72630cdfe923dd5e37d660027bf.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109332_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmuKKmOewjns25Uw5nKXH9Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109332_1",
+      "observedAt": "2026-06-24T03:02:54Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "0c818834a642d46f5ace8612b450d5b5997c18e5bdf3a4ee0deb17f1f2597fed",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109332_1-0001-record",
+          "sha256": "38e67860b06dceba820ad0c1efe7ba86d93fc72630cdfe923dd5e37d660027bf"
+        }
+      ],
+      "snapshotUrl": "/files/c38a7b49f55ec012d246b946b45597fae95d6b1e5b43dee76b8f2acae312645d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-24T03:02:54Z",
+    "lastObserved": "2026-06-24T03:02:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

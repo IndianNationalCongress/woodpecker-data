@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_REFHQ_190101_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_190101_1",
+      "id": "woodpecker-iocl-2026_REFHQ_190101_1-0001",
+      "date": "2026-06-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "tender": {
+        "id": "2026_REFHQ_190101_1",
+        "title": "Rate Contract for Antioxidant for ATF for IOCL Refinery Units",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Refineries HQ||Materials",
+          "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-24T00:00:00Z"
+        },
+        "description": "Rate Contract for Antioxidant for ATF for IOCL Refinery Units"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190101_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_REFHQ_190101_1",
+          "url": "/files/747ac21f809ab2400c83114f8549412993df135516bdb73b510a3163e064b8af.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwQKF1ctEB0Ta9rn9TWiO8w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "747ac21f809ab2400c83114f8549412993df135516bdb73b510a3163e064b8af",
+          "format": "text/plain",
+          "textUrl": "/files/747ac21f809ab2400c83114f8549412993df135516bdb73b510a3163e064b8af.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190101_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwQKF1ctEB0Ta9rn9TWiO8w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_REFHQ_190101_1",
+    "tender": {
+      "id": "2026_REFHQ_190101_1",
+      "title": "Rate Contract for Antioxidant for ATF for IOCL Refinery Units",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-24T00:00:00Z"
+      },
+      "description": "Rate Contract for Antioxidant for ATF for IOCL Refinery Units"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Refineries HQ||Materials",
+      "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+    },
+    "date": "2026-06-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_190101_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_REFHQ_190101_1",
+        "url": "/files/747ac21f809ab2400c83114f8549412993df135516bdb73b510a3163e064b8af.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwQKF1ctEB0Ta9rn9TWiO8w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "747ac21f809ab2400c83114f8549412993df135516bdb73b510a3163e064b8af",
+        "format": "text/plain",
+        "textUrl": "/files/747ac21f809ab2400c83114f8549412993df135516bdb73b510a3163e064b8af.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_190101_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwQKF1ctEB0Ta9rn9TWiO8w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_190101_1",
+      "observedAt": "2026-06-24T03:07:29Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "42249d5491ef05ca5045f96cbefa4b0cbeffb7c1dd79f912bd26e08691b1ce18",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190101_1-0001-record",
+          "sha256": "747ac21f809ab2400c83114f8549412993df135516bdb73b510a3163e064b8af"
+        }
+      ],
+      "snapshotUrl": "/files/a38c96ac7dc061c6ddf4b5e4285aba65475e5e39690fe36320dc834f96365f14.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-24T03:07:29Z",
+    "lastObserved": "2026-06-24T03:07:29Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
