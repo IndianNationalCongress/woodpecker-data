@@ -25,7 +25,9 @@ from export_d1 import sqlstr
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "..", "compile"))
 from entities import entity_of
 
-API_DIR = "/Users/chiragpatnaik/Code/woodpecker/api"
+# where wrangler.toml lives (data repo root by default; works in the cron + locally).
+# CI auth: CLOUDFLARE_API_TOKEN + CLOUDFLARE_ACCOUNT_ID env.
+API_DIR = os.environ.get("WP_WRANGLER_DIR", os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 def map_record(rec):
     """compiled OCDS record -> a dict matching the D1 tenders columns (COLS)."""

@@ -1,0 +1,11 @@
+# Minimal config so `wrangler d1 execute` resolves the D1 database from this (data) repo —
+# used by the forward-pass _import/intern_dumps/sync_d1.py, locally and in the gepnic-live cron.
+# CI auth: set CLOUDFLARE_API_TOKEN (D1 edit) + CLOUDFLARE_ACCOUNT_ID secrets.
+name = "woodpecker-data-sync"
+compatibility_date = "2026-06-01"
+account_id = "62231b040ed00c96cdcf3a4541eab958"  # chirag.patnaik@gmail.com
+
+[[d1_databases]]
+binding = "DB"
+database_name = "woodpecker"
+database_id = "ef21e4bd-d251-4afd-b1f1-9b15f387abca"

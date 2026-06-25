@@ -110,3 +110,15 @@ jobs:
         run: |
           pip install awscli >/dev/null
           aws s3 sync ./docs "s3://${R2_BUCKET}" --no-progress --endpoint-url "$R2_S3_ENDPOINT"
+      # Forward-pass: push the day's NEW tenders into the D1 serving layer (woodpecker-api.naklitechie.com).
+      # Maps each new OCDS record -> D1 row keyed wp-<tender.id> (dedups w/ the bulk dumps) and
+      # COALESCE-merges (enrich, never clobber). Add a CF_API_TOKEN repo secret (D1 edit) to enable;
+      # skips cleanly if unset. (Embedding the day's new ocids into Vectorize = follow-on.)
+      - name: Forward-pass — sync new tenders into D1
+        continue-on-error: true
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: "62231b040ed00c96cdcf3a4541eab958"
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then echo "CF_API_TOKEN unset — skipping D1 forward-pass"; exit 0; fi
+          python3 _import/intern_dumps/sync_d1.py --since HEAD~1
