@@ -14,8 +14,14 @@ DB = os.path.expanduser("~/wp_d1_build/tenders.sqlite")
 OUT = os.path.expanduser("~/wp_d1_build/vec")
 API = "/Users/chiragpatnaik/Code/woodpecker/api"
 SHARD = 100000
+import argparse
+_ap = argparse.ArgumentParser()
+_ap.add_argument("--lo", type=int, default=1)       # rowid range start (SHARD-aligned)
+_ap.add_argument("--hi", type=int, default=0)       # rowid range end (0 = to max)
+_ap.add_argument("--tag", default="all")            # per-worker progress file, for parallel runs
+ARGS = _ap.parse_args()
 os.makedirs(OUT, exist_ok=True)
-PROG = os.path.join(OUT, "done.txt")
+PROG = os.path.join(OUT, f"done_{ARGS.tag}.txt")
 done = set(open(PROG).read().split()) if os.path.exists(PROG) else set()
 
 def band(v):
@@ -37,9 +43,10 @@ print("loading bge-small-en-v1.5 ...", flush=True)
 model = TextEmbedding("BAAI/bge-small-en-v1.5")
 conn = sqlite3.connect(DB)
 maxrow = conn.execute("SELECT MAX(rowid) FROM tenders").fetchone()[0]
+end = min(ARGS.hi, maxrow) if ARGS.hi else maxrow
 t0 = time.time(); total = 0
-lo = 1
-while lo <= maxrow:
+lo = ARGS.lo
+while lo <= end:
     hi = lo + SHARD
     key = str(lo)
     if key in done:
