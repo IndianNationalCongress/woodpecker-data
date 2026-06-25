@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-bhel-2026_BHEL_62265_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62265_1",
+      "id": "woodpecker-bhel-2026_BHEL_62265_1-0001",
+      "date": "2026-06-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Heavy Electricals Limited||PSWR||Purchase||PUR||PUR",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-pswr-pu"
+      },
+      "tender": {
+        "id": "2026_BHEL_62265_1",
+        "title": "Providing the services of 2 no farana for period 5 month at BHEL Yard at 1X660 MW MPCGCL Satpura site",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Heavy Electricals Limited||PSWR||Purchase||PUR||PUR",
+          "id": "IN-ORG-bharat-heavy-electricals-limited-pswr-pu"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-06-25T00:00:00Z"
+        },
+        "description": "Providing the services of 2 no farana for period 5 month at BHEL Yard at 1X660 MW MPCGCL Satpura site"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62265_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BHEL_62265_1",
+          "url": "/files/03f4471e6a79aee4556207d779565b543df42cccecbcf79eee4e59bd0bc0809a.txt",
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnRZ%2BDedAKcP%2F5NGbNDEVCg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "03f4471e6a79aee4556207d779565b543df42cccecbcf79eee4e59bd0bc0809a",
+          "format": "text/plain",
+          "textUrl": "/files/03f4471e6a79aee4556207d779565b543df42cccecbcf79eee4e59bd0bc0809a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62265_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnRZ%2BDedAKcP%2F5NGbNDEVCg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bhel-2026_BHEL_62265_1",
+    "tender": {
+      "id": "2026_BHEL_62265_1",
+      "title": "Providing the services of 2 no farana for period 5 month at BHEL Yard at 1X660 MW MPCGCL Satpura site",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Heavy Electricals Limited||PSWR||Purchase||PUR||PUR",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-pswr-pu"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-06-25T00:00:00Z"
+      },
+      "description": "Providing the services of 2 no farana for period 5 month at BHEL Yard at 1X660 MW MPCGCL Satpura site"
+    },
+    "buyer": {
+      "name": "Bharat Heavy Electricals Limited||PSWR||Purchase||PUR||PUR",
+      "id": "IN-ORG-bharat-heavy-electricals-limited-pswr-pu"
+    },
+    "date": "2026-06-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62265_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BHEL_62265_1",
+        "url": "/files/03f4471e6a79aee4556207d779565b543df42cccecbcf79eee4e59bd0bc0809a.txt",
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnRZ%2BDedAKcP%2F5NGbNDEVCg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "03f4471e6a79aee4556207d779565b543df42cccecbcf79eee4e59bd0bc0809a",
+        "format": "text/plain",
+        "textUrl": "/files/03f4471e6a79aee4556207d779565b543df42cccecbcf79eee4e59bd0bc0809a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62265_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnRZ%2BDedAKcP%2F5NGbNDEVCg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62265_1",
+      "observedAt": "2026-06-25T03:22:53Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "602e1e00b54e12eeb7a1ef26f46b0566733f4888dbb6ab7ab2752966dcccc2cb",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62265_1-0001-record",
+          "sha256": "03f4471e6a79aee4556207d779565b543df42cccecbcf79eee4e59bd0bc0809a"
+        }
+      ],
+      "snapshotUrl": "/files/783b4c58cabb77e4b6840f8736222858543c974f1e3fc1bb7e21fb72c42dfbe7.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-25T03:22:53Z",
+    "lastObserved": "2026-06-25T03:22:53Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

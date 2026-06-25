@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-iocl-2026_PR_190198_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_190198_1",
+      "id": "woodpecker-iocl-2026_PR_190198_1-0001",
+      "date": "2026-06-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_PR_190198_1",
+        "title": "RPRC262292 Civil jobs related to upliftment and facelifting of Township building and Public place at Panipat Refinery",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 19980508,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-25T00:00:00Z"
+        },
+        "description": "RPRC262292 Civil jobs related to upliftment and facelifting of Township building and Public place at Panipat Refinery"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_190198_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PR_190198_1",
+          "url": "/files/41759d8f816bb37d9d717bb67320e40e4cc0dc9c3365c7faeef8f970c5e9c07f.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPy2wlqaCqFnPCNUtUgvYGw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "41759d8f816bb37d9d717bb67320e40e4cc0dc9c3365c7faeef8f970c5e9c07f",
+          "format": "text/plain",
+          "textUrl": "/files/41759d8f816bb37d9d717bb67320e40e4cc0dc9c3365c7faeef8f970c5e9c07f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_PR_190198_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPy2wlqaCqFnPCNUtUgvYGw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_PR_190198_1",
+    "tender": {
+      "id": "2026_PR_190198_1",
+      "title": "RPRC262292 Civil jobs related to upliftment and facelifting of Township building and Public place at Panipat Refinery",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 19980508,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-25T00:00:00Z"
+      },
+      "description": "RPRC262292 Civil jobs related to upliftment and facelifting of Township building and Public place at Panipat Refinery"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+    },
+    "date": "2026-06-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_PR_190198_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PR_190198_1",
+        "url": "/files/41759d8f816bb37d9d717bb67320e40e4cc0dc9c3365c7faeef8f970c5e9c07f.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPy2wlqaCqFnPCNUtUgvYGw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "41759d8f816bb37d9d717bb67320e40e4cc0dc9c3365c7faeef8f970c5e9c07f",
+        "format": "text/plain",
+        "textUrl": "/files/41759d8f816bb37d9d717bb67320e40e4cc0dc9c3365c7faeef8f970c5e9c07f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_PR_190198_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPy2wlqaCqFnPCNUtUgvYGw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_190198_1",
+      "observedAt": "2026-06-25T03:28:05Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "05d00c9dd153762baf799cfe38c9bc8147a2704fb96b91f62e4f4c359e5f29f0",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_190198_1-0001-record",
+          "sha256": "41759d8f816bb37d9d717bb67320e40e4cc0dc9c3365c7faeef8f970c5e9c07f"
+        }
+      ],
+      "snapshotUrl": "/files/1c27f5b8dedb749ba739b78bd5846b0cd4705e9f5d76b5336da0731c14c595e9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-25T03:28:05Z",
+    "lastObserved": "2026-06-25T03:28:05Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

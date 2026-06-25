@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_ARMHA_913797_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_ARMHA_913797_1",
+      "id": "woodpecker-cppp-2026_ARMHA_913797_1-0001",
+      "date": "2026-06-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Assam Rifles - MHA||Engineer Branch - AR - MHA",
+        "id": "IN-ORG-assam-rifles-mha-engineer-branch-ar-mha"
+      },
+      "tender": {
+        "id": "2026_ARMHA_913797_1",
+        "title": "Periodical Services in various bldg at COB RRC",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Assam Rifles - MHA||Engineer Branch - AR - MHA",
+          "id": "IN-ORG-assam-rifles-mha-engineer-branch-ar-mha"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 500000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-25T00:00:00Z"
+        },
+        "description": "Periodical Services in various bldg at COB RRC"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ARMHA_913797_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ARMHA_913797_1",
+          "url": "/files/6f8ef1ce92ac577a2887bc65347135e45eb01dac5f34d99b306455f37086a74c.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6oCBQDpKwhupVMfnsKVBXA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6f8ef1ce92ac577a2887bc65347135e45eb01dac5f34d99b306455f37086a74c",
+          "format": "text/plain",
+          "textUrl": "/files/6f8ef1ce92ac577a2887bc65347135e45eb01dac5f34d99b306455f37086a74c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_ARMHA_913797_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6oCBQDpKwhupVMfnsKVBXA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_ARMHA_913797_1",
+    "tender": {
+      "id": "2026_ARMHA_913797_1",
+      "title": "Periodical Services in various bldg at COB RRC",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Assam Rifles - MHA||Engineer Branch - AR - MHA",
+        "id": "IN-ORG-assam-rifles-mha-engineer-branch-ar-mha"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 500000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-25T00:00:00Z"
+      },
+      "description": "Periodical Services in various bldg at COB RRC"
+    },
+    "buyer": {
+      "name": "Assam Rifles - MHA||Engineer Branch - AR - MHA",
+      "id": "IN-ORG-assam-rifles-mha-engineer-branch-ar-mha"
+    },
+    "date": "2026-06-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_ARMHA_913797_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ARMHA_913797_1",
+        "url": "/files/6f8ef1ce92ac577a2887bc65347135e45eb01dac5f34d99b306455f37086a74c.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6oCBQDpKwhupVMfnsKVBXA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6f8ef1ce92ac577a2887bc65347135e45eb01dac5f34d99b306455f37086a74c",
+        "format": "text/plain",
+        "textUrl": "/files/6f8ef1ce92ac577a2887bc65347135e45eb01dac5f34d99b306455f37086a74c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_ARMHA_913797_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6oCBQDpKwhupVMfnsKVBXA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_ARMHA_913797_1",
+      "observedAt": "2026-06-25T01:37:30Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "0c925453728f48c1505ddced2679627590060f487d5e73585e40a416755bf133",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ARMHA_913797_1-0001-record",
+          "sha256": "6f8ef1ce92ac577a2887bc65347135e45eb01dac5f34d99b306455f37086a74c"
+        }
+      ],
+      "snapshotUrl": "/files/372fcde14cddeb99548e39d5b83c7ea105fe2205a8cca9132c9fd8ebcef5754c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-25T01:37:30Z",
+    "lastObserved": "2026-06-25T01:37:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

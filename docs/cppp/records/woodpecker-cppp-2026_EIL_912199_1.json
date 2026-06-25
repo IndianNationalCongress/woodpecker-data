@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_EIL_912199_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_EIL_912199_1",
+      "id": "woodpecker-cppp-2026_EIL_912199_1-0001",
+      "date": "2026-06-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Engineers India Limited,MoPNG||Head Office-Delhi,EIL,MoPNG",
+        "id": "IN-ORG-engineers-india-limited-mopng-head-offic"
+      },
+      "tender": {
+        "id": "2026_EIL_912199_1",
+        "title": "As per tender document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Engineers India Limited,MoPNG||Head Office-Delhi,EIL,MoPNG",
+          "id": "IN-ORG-engineers-india-limited-mopng-head-offic"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-25T00:00:00Z"
+        },
+        "description": "As per tender document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_EIL_912199_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_EIL_912199_1",
+          "url": "/files/5c6cc503b7345f835e42cae01323863c006ff5fc4950d825b9b45a47ec2d55cc.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdzrQ%2BovUD4gdJeGpogZDFA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5c6cc503b7345f835e42cae01323863c006ff5fc4950d825b9b45a47ec2d55cc",
+          "format": "text/plain",
+          "textUrl": "/files/5c6cc503b7345f835e42cae01323863c006ff5fc4950d825b9b45a47ec2d55cc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_EIL_912199_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdzrQ%2BovUD4gdJeGpogZDFA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_EIL_912199_1",
+    "tender": {
+      "id": "2026_EIL_912199_1",
+      "title": "As per tender document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Engineers India Limited,MoPNG||Head Office-Delhi,EIL,MoPNG",
+        "id": "IN-ORG-engineers-india-limited-mopng-head-offic"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-25T00:00:00Z"
+      },
+      "description": "As per tender document"
+    },
+    "buyer": {
+      "name": "Engineers India Limited,MoPNG||Head Office-Delhi,EIL,MoPNG",
+      "id": "IN-ORG-engineers-india-limited-mopng-head-offic"
+    },
+    "date": "2026-06-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_EIL_912199_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_EIL_912199_1",
+        "url": "/files/5c6cc503b7345f835e42cae01323863c006ff5fc4950d825b9b45a47ec2d55cc.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdzrQ%2BovUD4gdJeGpogZDFA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5c6cc503b7345f835e42cae01323863c006ff5fc4950d825b9b45a47ec2d55cc",
+        "format": "text/plain",
+        "textUrl": "/files/5c6cc503b7345f835e42cae01323863c006ff5fc4950d825b9b45a47ec2d55cc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_EIL_912199_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdzrQ%2BovUD4gdJeGpogZDFA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_EIL_912199_1",
+      "observedAt": "2026-06-25T01:37:30Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "3b1527c333bad1e3b9aff28d438eb022ce7e8fe1d0590a8eae2c1b0928cf37ed",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_EIL_912199_1-0001-record",
+          "sha256": "5c6cc503b7345f835e42cae01323863c006ff5fc4950d825b9b45a47ec2d55cc"
+        }
+      ],
+      "snapshotUrl": "/files/29938bb26ba9658fdb88eedcd4dba8fb1425961fbb06f420020a08d0e9e6a051.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-25T01:37:30Z",
+    "lastObserved": "2026-06-25T01:37:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

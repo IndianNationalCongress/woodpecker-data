@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-cppp-2026_GSO_909798_1",
+  "id": "woodpecker-cppp-2026_GSO_909798_1-0001",
+  "date": "2026-05-29T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "General Services Organisation (GSO)",
+    "id": "IN-ORG-general-services-organisation-gso"
+  },
+  "tender": {
+    "id": "2026_GSO_909798_1",
+    "title": "Construction of Convention center building.",
+    "status": "active",
+    "procuringEntity": {
+      "name": "General Services Organisation (GSO)",
+      "id": "IN-ORG-general-services-organisation-gso"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 310600000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-06-25T00:00:00Z"
+    },
+    "description": "Construction of Convention center building."
+  },
+  "documents": [
+    {
+      "id": "woodpecker-cppp-2026_GSO_909798_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_GSO_909798_1",
+      "url": "/files/7abcb2b0f47e72095d6e31a753260be548f34aa52ea35e4181fe25e0ae75dd7b.txt",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZfW%2BEug45492ShT65nC7tw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "7abcb2b0f47e72095d6e31a753260be548f34aa52ea35e4181fe25e0ae75dd7b",
+      "format": "text/plain",
+      "textUrl": "/files/7abcb2b0f47e72095d6e31a753260be548f34aa52ea35e4181fe25e0ae75dd7b.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-cppp-2026_GSO_909798_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZfW%2BEug45492ShT65nC7tw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

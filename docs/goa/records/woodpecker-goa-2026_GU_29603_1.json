@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-goa-2026_GU_29603_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-goa-2026_GU_29603_1",
+      "id": "woodpecker-goa-2026_GU_29603_1-0001",
+      "date": "2026-06-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "GOA UNIVERSITY||Administration Purchase Section",
+        "id": "IN-ORG-goa-university-administration-purchase-s"
+      },
+      "tender": {
+        "id": "2026_GU_29603_1",
+        "title": "Desktop Computer Type 1 Desktop Computer Type 2",
+        "status": "active",
+        "procuringEntity": {
+          "name": "GOA UNIVERSITY||Administration Purchase Section",
+          "id": "IN-ORG-goa-university-administration-purchase-s"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-25T00:00:00Z"
+        },
+        "description": "Desktop Computer Type 1 Desktop Computer Type 2"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_GU_29603_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_GU_29603_1",
+          "url": "/files/2adc44288e5da227720e3c3aa4212a2799ab9026e2b5cdd73a999e6ebece06ad.txt",
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4spyi9pmAEMAs71JSUrsnw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2adc44288e5da227720e3c3aa4212a2799ab9026e2b5cdd73a999e6ebece06ad",
+          "format": "text/plain",
+          "textUrl": "/files/2adc44288e5da227720e3c3aa4212a2799ab9026e2b5cdd73a999e6ebece06ad.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-goa-2026_GU_29603_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4spyi9pmAEMAs71JSUrsnw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-goa-2026_GU_29603_1",
+    "tender": {
+      "id": "2026_GU_29603_1",
+      "title": "Desktop Computer Type 1 Desktop Computer Type 2",
+      "status": "active",
+      "procuringEntity": {
+        "name": "GOA UNIVERSITY||Administration Purchase Section",
+        "id": "IN-ORG-goa-university-administration-purchase-s"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-25T00:00:00Z"
+      },
+      "description": "Desktop Computer Type 1 Desktop Computer Type 2"
+    },
+    "buyer": {
+      "name": "GOA UNIVERSITY||Administration Purchase Section",
+      "id": "IN-ORG-goa-university-administration-purchase-s"
+    },
+    "date": "2026-06-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-goa-2026_GU_29603_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_GU_29603_1",
+        "url": "/files/2adc44288e5da227720e3c3aa4212a2799ab9026e2b5cdd73a999e6ebece06ad.txt",
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4spyi9pmAEMAs71JSUrsnw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2adc44288e5da227720e3c3aa4212a2799ab9026e2b5cdd73a999e6ebece06ad",
+        "format": "text/plain",
+        "textUrl": "/files/2adc44288e5da227720e3c3aa4212a2799ab9026e2b5cdd73a999e6ebece06ad.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-goa-2026_GU_29603_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4spyi9pmAEMAs71JSUrsnw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-goa-2026_GU_29603_1",
+      "observedAt": "2026-06-25T02:52:19Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "f1bcbbf1f437847be3497b72f6cfb839e3da8f1842b39ebf9a4d12c35919aeb7",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_GU_29603_1-0001-record",
+          "sha256": "2adc44288e5da227720e3c3aa4212a2799ab9026e2b5cdd73a999e6ebece06ad"
+        }
+      ],
+      "snapshotUrl": "/files/cdf7fdaad75c0c5bfdc85234ac06de97affef74411c2790bbc42f988cfcb63f2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-25T02:52:19Z",
+    "lastObserved": "2026-06-25T02:52:19Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
