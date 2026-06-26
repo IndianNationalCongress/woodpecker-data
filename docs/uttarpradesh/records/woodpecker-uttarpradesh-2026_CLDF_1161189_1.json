@@ -1,0 +1,154 @@
+{
+  "ocid": "woodpecker-uttarpradesh-2026_CLDF_1161189_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-uttarpradesh-2026_CLDF_1161189_1",
+      "id": "woodpecker-uttarpradesh-2026_CLDF_1161189_1-0001",
+      "date": "2026-06-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "UP Rajya Nirman Evam Sharam Vikash Sahkari Sangh Ltd Lucknow",
+        "id": "IN-ORG-up-rajya-nirman-evam-sharam-vikash-sahka"
+      },
+      "tender": {
+        "id": "2026_CLDF_1161189_1",
+        "title": "Please Refer to tender document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "UP Rajya Nirman Evam Sharam Vikash Sahkari Sangh Ltd Lucknow",
+          "id": "IN-ORG-up-rajya-nirman-evam-sharam-vikash-sahka"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 9106000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-26T00:00:00Z"
+        },
+        "description": "Please Refer to tender document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-uttarpradesh-2026_CLDF_1161189_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_CLDF_1161189_1",
+          "url": "/files/f53e0fec88112b6cc8512a0af86440dfe57d03a50eaccc49e8bf86bc3c5c09d3.txt",
+          "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdxYb3uYaHXFi%2FzNRRCOBJg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f53e0fec88112b6cc8512a0af86440dfe57d03a50eaccc49e8bf86bc3c5c09d3",
+          "format": "text/plain",
+          "textUrl": "/files/f53e0fec88112b6cc8512a0af86440dfe57d03a50eaccc49e8bf86bc3c5c09d3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-uttarpradesh-2026_CLDF_1161189_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "pledge.pdf",
+          "url": null,
+          "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdxYb3uYaHXFi%2FzNRRCOBJg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        },
+        {
+          "id": "woodpecker-uttarpradesh-2026_CLDF_1161189_1-0001-doc-2",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdxYb3uYaHXFi%2FzNRRCOBJg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-uttarpradesh-2026_CLDF_1161189_1",
+    "tender": {
+      "id": "2026_CLDF_1161189_1",
+      "title": "Please Refer to tender document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "UP Rajya Nirman Evam Sharam Vikash Sahkari Sangh Ltd Lucknow",
+        "id": "IN-ORG-up-rajya-nirman-evam-sharam-vikash-sahka"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 9106000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-26T00:00:00Z"
+      },
+      "description": "Please Refer to tender document"
+    },
+    "buyer": {
+      "name": "UP Rajya Nirman Evam Sharam Vikash Sahkari Sangh Ltd Lucknow",
+      "id": "IN-ORG-up-rajya-nirman-evam-sharam-vikash-sahka"
+    },
+    "date": "2026-06-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-uttarpradesh-2026_CLDF_1161189_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_CLDF_1161189_1",
+        "url": "/files/f53e0fec88112b6cc8512a0af86440dfe57d03a50eaccc49e8bf86bc3c5c09d3.txt",
+        "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdxYb3uYaHXFi%2FzNRRCOBJg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f53e0fec88112b6cc8512a0af86440dfe57d03a50eaccc49e8bf86bc3c5c09d3",
+        "format": "text/plain",
+        "textUrl": "/files/f53e0fec88112b6cc8512a0af86440dfe57d03a50eaccc49e8bf86bc3c5c09d3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-uttarpradesh-2026_CLDF_1161189_1-0001-doc-2",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdxYb3uYaHXFi%2FzNRRCOBJg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-uttarpradesh-2026_CLDF_1161189_1",
+      "observedAt": "2026-06-26T02:23:21Z",
+      "witness": "woodpecker:uttarpradesh",
+      "availability": "present",
+      "stateHash": "186b19be6258aa7bd657a51e0205a4456beae8739e1e2cb6ed5ddaa0265f26bf",
+      "documents": [
+        {
+          "id": "woodpecker-uttarpradesh-2026_CLDF_1161189_1-0001-record",
+          "sha256": "f53e0fec88112b6cc8512a0af86440dfe57d03a50eaccc49e8bf86bc3c5c09d3"
+        }
+      ],
+      "snapshotUrl": "/files/3fb931062bcb72ed4a89a73af97905c9a3dbc5fbdc267f13d9c722159000dd5c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-26T02:23:21Z",
+    "lastObserved": "2026-06-26T02:23:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

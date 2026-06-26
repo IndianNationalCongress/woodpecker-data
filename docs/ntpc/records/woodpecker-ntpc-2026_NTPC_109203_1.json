@@ -1,0 +1,146 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109203_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109203_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109203_1-0001",
+      "date": "2026-06-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_109203_1",
+        "title": "Procurement of LT Motor Above 100KW for NTPC Telangana.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-26T00:00:00Z"
+        },
+        "description": "Procurement of LT Motor Above 100KW for NTPC Telangana."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109203_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109203_1",
+          "url": "/files/172b392c6fec47ff5b0f95d5178ac1384243d3dd2610d82a771a612e56ca7d8e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Se5jrkeg%2BOYjPQodAmRB%2BUQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "172b392c6fec47ff5b0f95d5178ac1384243d3dd2610d82a771a612e56ca7d8e",
+          "format": "text/plain",
+          "textUrl": "/files/172b392c6fec47ff5b0f95d5178ac1384243d3dd2610d82a771a612e56ca7d8e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109203_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Se5jrkeg%2BOYjPQodAmRB%2BUQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109203_1-0001-doc-2",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_2.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Se5jrkeg%2BOYjPQodAmRB%2BUQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109203_1",
+    "tender": {
+      "id": "2026_NTPC_109203_1",
+      "title": "Procurement of LT Motor Above 100KW for NTPC Telangana.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-26T00:00:00Z"
+      },
+      "description": "Procurement of LT Motor Above 100KW for NTPC Telangana."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-06-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109203_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109203_1",
+        "url": "/files/172b392c6fec47ff5b0f95d5178ac1384243d3dd2610d82a771a612e56ca7d8e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Se5jrkeg%2BOYjPQodAmRB%2BUQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "172b392c6fec47ff5b0f95d5178ac1384243d3dd2610d82a771a612e56ca7d8e",
+        "format": "text/plain",
+        "textUrl": "/files/172b392c6fec47ff5b0f95d5178ac1384243d3dd2610d82a771a612e56ca7d8e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109203_1-0001-doc-2",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_2.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Se5jrkeg%2BOYjPQodAmRB%2BUQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109203_1",
+      "observedAt": "2026-06-26T02:47:43Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "140df134a8aff95e501af483847d7c634358c6b58955d87fdae8f9f3cd6cef11",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109203_1-0001-record",
+          "sha256": "172b392c6fec47ff5b0f95d5178ac1384243d3dd2610d82a771a612e56ca7d8e"
+        }
+      ],
+      "snapshotUrl": "/files/5e1496a8629d03b9ec7947b945c9cd3aaebacd28353100cf5c2cb3f756f31284.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-26T02:47:43Z",
+    "lastObserved": "2026-06-26T02:47:43Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
