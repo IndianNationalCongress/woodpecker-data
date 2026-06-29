@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-bhel-2026_BHEL_62250_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62250_1",
+      "id": "woodpecker-bhel-2026_BHEL_62250_1-0001",
+      "date": "2026-06-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "tender": {
+        "id": "2026_BHEL_62250_1",
+        "title": "TYCO CONNECTORS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+          "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-29T00:00:00Z"
+        },
+        "description": "TYCO CONNECTORS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62250_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BHEL_62250_1",
+          "url": "/files/fc69682abbeb93f50c82fdbbe4d752644ac903f7eb0167dd0e94897b878b50f2.txt",
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSQggEgfiuk%2FSo5gPh8ot5A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "fc69682abbeb93f50c82fdbbe4d752644ac903f7eb0167dd0e94897b878b50f2",
+          "format": "text/plain",
+          "textUrl": "/files/fc69682abbeb93f50c82fdbbe4d752644ac903f7eb0167dd0e94897b878b50f2.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62250_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSQggEgfiuk%2FSo5gPh8ot5A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bhel-2026_BHEL_62250_1",
+    "tender": {
+      "id": "2026_BHEL_62250_1",
+      "title": "TYCO CONNECTORS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-29T00:00:00Z"
+      },
+      "description": "TYCO CONNECTORS"
+    },
+    "buyer": {
+      "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+      "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+    },
+    "date": "2026-06-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62250_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BHEL_62250_1",
+        "url": "/files/fc69682abbeb93f50c82fdbbe4d752644ac903f7eb0167dd0e94897b878b50f2.txt",
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSQggEgfiuk%2FSo5gPh8ot5A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "fc69682abbeb93f50c82fdbbe4d752644ac903f7eb0167dd0e94897b878b50f2",
+        "format": "text/plain",
+        "textUrl": "/files/fc69682abbeb93f50c82fdbbe4d752644ac903f7eb0167dd0e94897b878b50f2.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62250_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSQggEgfiuk%2FSo5gPh8ot5A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62250_1",
+      "observedAt": "2026-06-29T03:26:52Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "c6151cc1ac4d91b54eedca36523a39f18be4b45e48437568a49fe3a4bd8f2fd8",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62250_1-0001-record",
+          "sha256": "fc69682abbeb93f50c82fdbbe4d752644ac903f7eb0167dd0e94897b878b50f2"
+        }
+      ],
+      "snapshotUrl": "/files/c4c10f00a4637d8e3c17b357b33147a1b722d541701fb36c87ecc7c557b58716.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-29T03:26:52Z",
+    "lastObserved": "2026-06-29T03:26:52Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

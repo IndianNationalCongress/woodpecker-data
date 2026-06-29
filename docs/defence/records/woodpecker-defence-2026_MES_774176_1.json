@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_774176_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_774176_1",
+      "id": "woodpecker-defence-2026_MES_774176_1-0001",
+      "date": "2026-06-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE DELHI CANTT-MES||GE (EAST) DELHI CANTT-MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_774176_1",
+        "title": "REPAIR/PREVENTIVE MAINTENANCE OF TRANSFORMERS AND CSS INSTALLED AT VARIOUS LOCATION OF BHDC UNDER GE (EAST) DELHI CANTT-10",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE DELHI CANTT-MES||GE (EAST) DELHI CANTT-MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-06-29T00:00:00Z"
+        },
+        "description": "REPAIR/PREVENTIVE MAINTENANCE OF TRANSFORMERS AND CSS INSTALLED AT VARIOUS LOCATION OF BHDC UNDER GE (EAST) DELHI CANTT-10"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_774176_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_774176_1",
+          "url": "/files/e73596203522f8db796559481606757479076c12affdb2346cc0de8668f39130.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU06SM9konCL%2BZ5llI1pPQw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e73596203522f8db796559481606757479076c12affdb2346cc0de8668f39130",
+          "format": "text/plain",
+          "textUrl": "/files/e73596203522f8db796559481606757479076c12affdb2346cc0de8668f39130.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_774176_1",
+    "tender": {
+      "id": "2026_MES_774176_1",
+      "title": "REPAIR/PREVENTIVE MAINTENANCE OF TRANSFORMERS AND CSS INSTALLED AT VARIOUS LOCATION OF BHDC UNDER GE (EAST) DELHI CANTT-10",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE DELHI CANTT-MES||GE (EAST) DELHI CANTT-MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-06-29T00:00:00Z"
+      },
+      "description": "REPAIR/PREVENTIVE MAINTENANCE OF TRANSFORMERS AND CSS INSTALLED AT VARIOUS LOCATION OF BHDC UNDER GE (EAST) DELHI CANTT-10"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE DELHI CANTT-MES||GE (EAST) DELHI CANTT-MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-06-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_774176_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_774176_1",
+        "url": "/files/e73596203522f8db796559481606757479076c12affdb2346cc0de8668f39130.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU06SM9konCL%2BZ5llI1pPQw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e73596203522f8db796559481606757479076c12affdb2346cc0de8668f39130",
+        "format": "text/plain",
+        "textUrl": "/files/e73596203522f8db796559481606757479076c12affdb2346cc0de8668f39130.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_774176_1",
+      "observedAt": "2026-06-29T02:34:17Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "9363087963fd151702431fd8450da6b6b6cb5ab4d8e2292fc273231136c2664d",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_774176_1-0001-record",
+          "sha256": "e73596203522f8db796559481606757479076c12affdb2346cc0de8668f39130"
+        }
+      ],
+      "snapshotUrl": "/files/0a3c6e4108679ef4e4f6cf7b4c8697e7348933d35dbd316b96458ac9f6d7a68e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-29T02:34:17Z",
+    "lastObserved": "2026-06-29T02:34:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

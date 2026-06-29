@@ -1,25 +1,25 @@
 {
-  "generated": "2026-06-28T01:50:06Z",
-  "totalTenders": 230920,
+  "generated": "2026-06-29T03:32:14Z",
+  "totalTenders": 232324,
   "dateRange": {
     "from": "2012-03-09T00:00:00Z",
     "to": "2026-06-30T00:00:00Z"
   },
-  "totalValue": 1349722001853,
-  "withValue": 49713,
-  "sources": 1342,
+  "totalValue": 1361150575453,
+  "withValue": 50690,
+  "sources": 1374,
   "byCategory": {
+    "works": {
+      "count": 72483,
+      "value": 1162660338811
+    },
     "services": {
-      "count": 6666,
-      "value": 80738457833
+      "count": 6791,
+      "value": 83599946677
     },
     "goods": {
-      "count": 21554,
-      "value": 112564519411
-    },
-    "works": {
-      "count": 71498,
-      "value": 1156419024609
+      "count": 21848,
+      "value": 114890289965
     },
     "other": {
       "count": 131202,
@@ -30,14 +30,14 @@
     {
       "id": "bhel",
       "label": "Bharat Heavy Electricals (BHEL)",
-      "count": 38757,
-      "value": 151182702
+      "count": 38826,
+      "value": 151503670
     },
     {
       "id": "mes",
       "label": "Military Engineer Services",
-      "count": 26413,
-      "value": 7737757751
+      "count": 26434,
+      "value": 7803083872
     },
     {
       "id": "railways",
@@ -48,8 +48,8 @@
     {
       "id": "coal-india",
       "label": "Coal India & subsidiaries",
-      "count": 14339,
-      "value": 2016226096
+      "count": 14365,
+      "value": 2053430277
     },
     {
       "id": "npcil",
@@ -60,20 +60,20 @@
     {
       "id": "org-public-works-roads-department",
       "label": "Public Works Roads Department",
-      "count": 10032,
-      "value": 288173653630
+      "count": 10037,
+      "value": 288212164481
     },
     {
       "id": "ntpc",
       "label": "NTPC",
-      "count": 8388,
-      "value": 4025248124
+      "count": 8416,
+      "value": 4025347324
     },
     {
       "id": "mod",
       "label": "Ministry of Defence",
-      "count": 5334,
-      "value": 1044041932
+      "count": 5357,
+      "value": 1046501505
     },
     {
       "id": "hpcl",
@@ -96,20 +96,20 @@
     {
       "id": "org-pwd",
       "label": "Pwd",
-      "count": 3264,
-      "value": 15892165385
+      "count": 3324,
+      "value": 15997775297
     },
     {
       "id": "org-bodoland-territorial-council-pwd",
       "label": "Bodoland Territorial Council Pwd",
-      "count": 2964,
-      "value": 48336760565
+      "count": 2965,
+      "value": 48376500504
     },
     {
       "id": "org-department-water-resources",
       "label": "Department Water Resources",
-      "count": 2640,
-      "value": 49552734213
+      "count": 2654,
+      "value": 49580139100
     },
     {
       "id": "nalco",
@@ -126,43 +126,49 @@
     {
       "id": "org-public-works-building-nh-department",
       "label": "Public Works Building Nh Department",
-      "count": 2100,
-      "value": 243600193096
+      "count": 2107,
+      "value": 244068822709
     },
     {
       "id": "org-bodoland-territorial-council",
       "label": "Bodoland Territorial Council",
-      "count": 1908,
-      "value": 23192531353
+      "count": 1911,
+      "value": 23201531353
     },
     {
       "id": "bro",
       "label": "Border Roads Organisation",
-      "count": 1479,
-      "value": 11711643327
+      "count": 1480,
+      "value": 12449243327
     },
     {
       "id": "org-hp-irrigation-public-health",
       "label": "Hp Irrigation Public Health",
-      "count": 1346,
-      "value": 14053734961
+      "count": 1348,
+      "value": 14054275861
     },
     {
       "id": "org-engineers",
       "label": "Engineers",
-      "count": 1147,
+      "count": 1153,
       "value": 0
     },
     {
       "id": "org-industries-commerce-department",
       "label": "Industries Commerce Department",
-      "count": 998,
-      "value": 56196446984
+      "count": 999,
+      "value": 56236132260
+    },
+    {
+      "id": "org-panchayati-raj-department",
+      "label": "Panchayati Raj Department",
+      "count": 958,
+      "value": 3611317414
     },
     {
       "id": "nhpc",
       "label": "NHPC",
-      "count": 942,
+      "count": 943,
       "value": 40641933
     },
     {
@@ -172,40 +178,34 @@
       "value": 0
     },
     {
-      "id": "org-panchayati-raj-department",
-      "label": "Panchayati Raj Department",
-      "count": 898,
-      "value": 3463867669
+      "id": "org-haryana-government",
+      "label": "Haryana Government",
+      "count": 916,
+      "value": 9819080556
     },
     {
       "id": "nrrda",
       "label": "Rural Roads (NRRDA / PMGSY)",
-      "count": 867,
-      "value": 3675791000
-    },
-    {
-      "id": "org-haryana-government",
-      "label": "Haryana Government",
-      "count": 864,
-      "value": 9108867887
+      "count": 875,
+      "value": 3775388000
     },
     {
       "id": "org-department-posts",
       "label": "Department Posts",
-      "count": 846,
-      "value": 67917292
+      "count": 851,
+      "value": 76480116
+    },
+    {
+      "id": "org-dg",
+      "label": "Dg",
+      "count": 809,
+      "value": 880061883
     },
     {
       "id": "thdc",
       "label": "THDC India",
       "count": 802,
       "value": 199292635
-    },
-    {
-      "id": "org-dg",
-      "label": "Dg",
-      "count": 788,
-      "value": 794706918
     },
     {
       "id": "org-national-health-mission",
@@ -222,8 +222,14 @@
     {
       "id": "org-health-family-welfare-department",
       "label": "Health Family Welfare Department",
-      "count": 683,
-      "value": 13135446945
+      "count": 688,
+      "value": 13189746945
+    },
+    {
+      "id": "org-delhi-jal-board",
+      "label": "Delhi Jal Board",
+      "count": 680,
+      "value": 1113276677
     },
     {
       "id": "org-bharatiya-nabhikiya-vidyut-nigam",
@@ -232,22 +238,16 @@
       "value": 0
     },
     {
-      "id": "org-delhi-jal-board",
-      "label": "Delhi Jal Board",
-      "count": 648,
-      "value": 1092679490
-    },
-    {
       "id": "iit",
       "label": "Indian Institutes of Technology",
-      "count": 646,
-      "value": 175240031
+      "count": 649,
+      "value": 178856840
     },
     {
       "id": "org-guwahati-municipal",
       "label": "Guwahati Municipal",
-      "count": 627,
-      "value": 9656837098
+      "count": 628,
+      "value": 9658837098
     },
     {
       "id": "org-aod-digboi",
@@ -256,9 +256,15 @@
       "value": 0
     },
     {
+      "id": "org-zilla-parishad",
+      "label": "Zilla Parishad",
+      "count": 585,
+      "value": 137926580
+    },
+    {
       "id": "org-public-health-engineering-department",
       "label": "Public Health Engineering Department",
-      "count": 580,
+      "count": 582,
       "value": 12406996888
     },
     {
@@ -274,22 +280,22 @@
       "value": 6443846006
     },
     {
-      "id": "org-zilla-parishad",
-      "label": "Zilla Parishad",
-      "count": 559,
-      "value": 133856015
-    },
-    {
       "id": "org-food",
       "label": "Food",
-      "count": 553,
-      "value": 184522898
+      "count": 554,
+      "value": 184702898
     },
     {
       "id": "org-irrigation-department",
       "label": "Irrigation Department",
-      "count": 509,
-      "value": 17144100284
+      "count": 512,
+      "value": 17188626793
+    },
+    {
+      "id": "org-public-works-department",
+      "label": "Public Works Department",
+      "count": 505,
+      "value": 4925772057
     },
     {
       "id": "org-assam-police-housing",
@@ -322,10 +328,22 @@
       "value": 3077497474
     },
     {
+      "id": "org-ce-rw-i",
+      "label": "Ce Rw I",
+      "count": 472,
+      "value": 10714834159
+    },
+    {
       "id": "org-urban-development-department",
       "label": "Urban Development Department",
-      "count": 467,
-      "value": 31070632209
+      "count": 471,
+      "value": 31092754398
+    },
+    {
+      "id": "org-local-self-government-department",
+      "label": "Local Self Government Department",
+      "count": 470,
+      "value": 275741119
     },
     {
       "id": "org-singareni-collieries",
@@ -340,28 +358,16 @@
       "value": 94946964
     },
     {
-      "id": "org-ce-rw-i",
-      "label": "Ce Rw I",
-      "count": 455,
-      "value": 10650923757
-    },
-    {
-      "id": "org-local-self-government-department",
-      "label": "Local Self Government Department",
-      "count": 449,
-      "value": 265980338
-    },
-    {
       "id": "org-delhi-development-authority",
       "label": "Delhi Development Authority",
-      "count": 435,
-      "value": 319790176
+      "count": 438,
+      "value": 326521979
     },
     {
-      "id": "org-public-works-department",
-      "label": "Public Works Department",
-      "count": 435,
-      "value": 4677790891
+      "id": "org-haryana-board",
+      "label": "Haryana Board",
+      "count": 418,
+      "value": 2401771640
     },
     {
       "id": "hscl",
@@ -370,22 +376,22 @@
       "value": 310243680
     },
     {
-      "id": "org-haryana-board",
-      "label": "Haryana Board",
-      "count": 406,
-      "value": 2377883591
-    },
-    {
       "id": "org-directorate-local-bodies-up",
       "label": "Directorate Local Bodies Up",
-      "count": 375,
-      "value": 1658152432
+      "count": 399,
+      "value": 1680833759
+    },
+    {
+      "id": "org-chief-engineer",
+      "label": "Chief Engineer",
+      "count": 386,
+      "value": 3167673700
     },
     {
       "id": "org-municipal-bodies",
       "label": "Municipal Bodies",
-      "count": 374,
-      "value": 456508235
+      "count": 377,
+      "value": 462488635
     },
     {
       "id": "org-haldia-refinery",
@@ -400,10 +406,10 @@
       "value": 0
     },
     {
-      "id": "org-chief-engineer",
-      "label": "Chief Engineer",
-      "count": 340,
-      "value": 3077738158
+      "id": "org-phe",
+      "label": "Phe",
+      "count": 343,
+      "value": 337210372
     },
     {
       "id": "org-braithwaite",
@@ -418,10 +424,10 @@
       "value": 0
     },
     {
-      "id": "org-phe",
-      "label": "Phe",
-      "count": 320,
-      "value": 298485969
+      "id": "org-municipal-greater-mumbai",
+      "label": "Municipal Greater Mumbai",
+      "count": 316,
+      "value": 490735255
     },
     {
       "id": "org-principal-secretary-p-rd-assam-secretariat",
@@ -442,12 +448,6 @@
       "value": 0
     },
     {
-      "id": "org-municipal-greater-mumbai",
-      "label": "Municipal Greater Mumbai",
-      "count": 307,
-      "value": 490735255
-    },
-    {
       "id": "gail",
       "label": "GAIL (India)",
       "count": 304,
@@ -462,8 +462,8 @@
     {
       "id": "org-hpsebl",
       "label": "Hpsebl",
-      "count": 283,
-      "value": 611490629
+      "count": 285,
+      "value": 612414009
     },
     {
       "id": "org-department-electronics-information-technology",
@@ -484,6 +484,12 @@
       "value": 0
     },
     {
+      "id": "org-indianoil",
+      "label": "Indianoil",
+      "count": 270,
+      "value": 11555707174
+    },
+    {
       "id": "org-bharat-sanchar-nigam",
       "label": "Bharat Sanchar Nigam",
       "count": 265,
@@ -498,8 +504,8 @@
     {
       "id": "org-assam-electricity-grid",
       "label": "Assam Electricity Grid",
-      "count": 260,
-      "value": 3614783673
+      "count": 261,
+      "value": 3623227753
     },
     {
       "id": "org-karbi-anglong-autonomous-council",
@@ -516,14 +522,8 @@
     {
       "id": "org-rural-development-panchayati-raj",
       "label": "Rural Development Panchayati Raj",
-      "count": 251,
-      "value": 92660724
-    },
-    {
-      "id": "org-indianoil",
-      "label": "Indianoil",
-      "count": 248,
-      "value": 11198437080
+      "count": 252,
+      "value": 92663697
     },
     {
       "id": "org-maws",
@@ -540,7 +540,7 @@
     {
       "id": "org-cpcl",
       "label": "Cpcl",
-      "count": 214,
+      "count": 215,
       "value": 128020240
     },
     {
@@ -556,6 +556,12 @@
       "value": 1485417
     },
     {
+      "id": "org-department-sugar",
+      "label": "Department Sugar",
+      "count": 203,
+      "value": 328682000
+    },
+    {
       "id": "org-visakhapatnam-port-trust",
       "label": "Visakhapatnam Port Trust",
       "count": 198,
@@ -568,10 +574,10 @@
       "value": 0
     },
     {
-      "id": "org-department-sugar",
-      "label": "Department Sugar",
-      "count": 196,
-      "value": 328682000
+      "id": "org-kolkata-municipal",
+      "label": "Kolkata Municipal",
+      "count": 193,
+      "value": 65481295
     },
     {
       "id": "org-directorate-urban-development",
@@ -580,16 +586,10 @@
       "value": 211715056
     },
     {
-      "id": "org-kolkata-municipal",
-      "label": "Kolkata Municipal",
-      "count": 186,
-      "value": 63295731
-    },
-    {
       "id": "org-defence-research-development-organisation",
       "label": "Defence Research Development Organisation",
-      "count": 184,
-      "value": 374511538
+      "count": 185,
+      "value": 383173490
     },
     {
       "id": "org-wrpl-rajkot",
@@ -598,16 +598,28 @@
       "value": 0
     },
     {
-      "id": "org-pwd-ce-as",
-      "label": "Pwd Ce As",
-      "count": 174,
-      "value": 749417570
+      "id": "org-directorate-technical-education",
+      "label": "Directorate Technical Education",
+      "count": 182,
+      "value": 4477500
+    },
+    {
+      "id": "org-madhya-pradesh-power-generating",
+      "label": "Madhya Pradesh Power Generating",
+      "count": 181,
+      "value": 3417813763
     },
     {
       "id": "org-dlb",
       "label": "Dlb",
-      "count": 173,
-      "value": 987214850
+      "count": 175,
+      "value": 989428850
+    },
+    {
+      "id": "org-pwd-ce-as",
+      "label": "Pwd Ce As",
+      "count": 174,
+      "value": 749417570
     },
     {
       "id": "org-marketing-ho",
@@ -628,22 +640,10 @@
       "value": 1852967342
     },
     {
-      "id": "org-directorate-technical-education",
-      "label": "Directorate Technical Education",
-      "count": 167,
-      "value": 4477500
-    },
-    {
       "id": "org-department-handloom-textile-sericulture",
       "label": "Department Handloom Textile Sericulture",
       "count": 165,
       "value": 1239069412
-    },
-    {
-      "id": "org-madhya-pradesh-power-generating",
-      "label": "Madhya Pradesh Power Generating",
-      "count": 165,
-      "value": 2679526017
     },
     {
       "id": "org-department-cultural-affairs",
@@ -654,8 +654,8 @@
     {
       "id": "org-tneb",
       "label": "Tneb",
-      "count": 157,
-      "value": 86496448
+      "count": 161,
+      "value": 87456448
     },
     {
       "id": "org-southern-region-tamilnadu-state-office",
@@ -666,8 +666,14 @@
     {
       "id": "org-udd-secretary",
       "label": "Udd Secretary",
+      "count": 152,
+      "value": 636878801
+    },
+    {
+      "id": "org-assam-rifles-mha",
+      "label": "Assam Rifles Mha",
       "count": 151,
-      "value": 636000301
+      "value": 63829212
     },
     {
       "id": "org-directorate-agriculture-assam-seed",
@@ -694,28 +700,28 @@
       "value": 0
     },
     {
+      "id": "org-director-cum-chief-engineer-red",
+      "label": "Director Cum Chief Engineer Red",
+      "count": 147,
+      "value": 971892478
+    },
+    {
       "id": "org-wrpl-chaksu",
       "label": "Wrpl Chaksu",
       "count": 146,
       "value": 0
     },
     {
-      "id": "org-director-cum-chief-engineer-red",
-      "label": "Director Cum Chief Engineer Red",
+      "id": "org-department-local-government",
+      "label": "Department Local Government",
       "count": 144,
-      "value": 967325378
-    },
-    {
-      "id": "org-assam-rifles-mha",
-      "label": "Assam Rifles Mha",
-      "count": 143,
-      "value": 62429531
+      "value": 15381055871
     },
     {
       "id": "org-u-p-irrigation-department",
       "label": "U P Irrigation Department",
-      "count": 139,
-      "value": 190838136
+      "count": 143,
+      "value": 222508136
     },
     {
       "id": "org-paradip-refinery",
@@ -772,15 +778,9 @@
       "value": 0
     },
     {
-      "id": "org-department-local-government",
-      "label": "Department Local Government",
-      "count": 125,
-      "value": 15224289985
-    },
-    {
       "id": "org-department-higher-education",
       "label": "Department Higher Education",
-      "count": 123,
+      "count": 124,
       "value": 372538526
     },
     {
@@ -844,28 +844,28 @@
       "value": 4263940460
     },
     {
+      "id": "org-indian-air-force",
+      "label": "Indian Air Force",
+      "count": 115,
+      "value": 103780
+    },
+    {
       "id": "org-pwd-roads-bridges",
       "label": "Pwd Roads Bridges",
       "count": 115,
       "value": 474515556
     },
     {
-      "id": "org-indian-air-force",
-      "label": "Indian Air Force",
-      "count": 113,
-      "value": 0
+      "id": "org-assam-power-generation",
+      "label": "Assam Power Generation",
+      "count": 111,
+      "value": 626603003
     },
     {
       "id": "org-goa-shipyard",
       "label": "Goa Shipyard",
       "count": 111,
       "value": 0
-    },
-    {
-      "id": "org-assam-power-generation",
-      "label": "Assam Power Generation",
-      "count": 110,
-      "value": 626603003
     },
     {
       "id": "org-panipat-naphtha-cracker",
@@ -878,6 +878,12 @@
       "label": "Instrumentation",
       "count": 108,
       "value": 0
+    },
+    {
+      "id": "org-eic-civil",
+      "label": "Eic Civil",
+      "count": 106,
+      "value": 1025437384
     },
     {
       "id": "org-soil-conservation-department",
@@ -896,6 +902,12 @@
       "label": "Tamilnadu Newsprint Papers",
       "count": 102,
       "value": 0
+    },
+    {
+      "id": "org-md-upcl",
+      "label": "Md Upcl",
+      "count": 102,
+      "value": 406520635
     },
     {
       "id": "org-ce-mrrda",
@@ -934,10 +946,10 @@
       "value": 757901331
     },
     {
-      "id": "org-eic-civil",
-      "label": "Eic Civil",
+      "id": "org-paschimanchal-vidyut-vitran-nigam",
+      "label": "Paschimanchal Vidyut Vitran Nigam",
       "count": 94,
-      "value": 999260655
+      "value": 205842331
     },
     {
       "id": "org-wrpl-vadinar",
@@ -952,10 +964,10 @@
       "value": 0
     },
     {
-      "id": "org-paschimanchal-vidyut-vitran-nigam",
-      "label": "Paschimanchal Vidyut Vitran Nigam",
+      "id": "org-kerala-water-authority",
+      "label": "Kerala Water Authority",
       "count": 93,
-      "value": 202842331
+      "value": 149453082
     },
     {
       "id": "org-minor-irrigation-department",
@@ -974,6 +986,12 @@
       "label": "Pipelines Ho",
       "count": 91,
       "value": 0
+    },
+    {
+      "id": "org-i-fc",
+      "label": "I Fc",
+      "count": 91,
+      "value": 234796336
     },
     {
       "id": "org-ibp-nashik",
@@ -1000,10 +1018,10 @@
       "value": 126129386
     },
     {
-      "id": "org-kerala-water-authority",
-      "label": "Kerala Water Authority",
-      "count": 89,
-      "value": 140362334
+      "id": "org-higher-education",
+      "label": "Higher Education",
+      "count": 88,
+      "value": 459268708
     },
     {
       "id": "org-hindustan-shipyard",
@@ -1012,22 +1030,10 @@
       "value": 0
     },
     {
-      "id": "org-i-fc",
-      "label": "I Fc",
-      "count": 86,
-      "value": 234608664
-    },
-    {
       "id": "org-department-tourism",
       "label": "Department Tourism",
       "count": 85,
       "value": 3583250885
-    },
-    {
-      "id": "org-higher-education",
-      "label": "Higher Education",
-      "count": 85,
-      "value": 459268708
     },
     {
       "id": "org-wrpl-viramgam",
@@ -1044,20 +1050,20 @@
     {
       "id": "org-rrvun-cmd",
       "label": "Rrvun Cmd",
-      "count": 84,
-      "value": 631477666
-    },
-    {
-      "id": "org-md-upcl",
-      "label": "Md Upcl",
-      "count": 83,
-      "value": 307116541
+      "count": 85,
+      "value": 636095006
     },
     {
       "id": "org-state-urban-development-agency",
       "label": "State Urban Development Agency",
       "count": 83,
       "value": 123035336
+    },
+    {
+      "id": "org-rdd-special-division",
+      "label": "Rdd Special Division",
+      "count": 82,
+      "value": 437854166
     },
     {
       "id": "org-prrpl",
@@ -1070,6 +1076,18 @@
       "label": "Andhra Pradesh State Office",
       "count": 79,
       "value": 0
+    },
+    {
+      "id": "org-haudd",
+      "label": "Haudd",
+      "count": 79,
+      "value": 612879094
+    },
+    {
+      "id": "org-department-defence-research-development",
+      "label": "Department Defence Research Development",
+      "count": 78,
+      "value": 1181000
     },
     {
       "id": "org-maharashtra-housing-area-development-authority",
@@ -1090,16 +1108,22 @@
       "value": 0
     },
     {
-      "id": "org-rdd-special-division",
-      "label": "Rdd Special Division",
-      "count": 77,
-      "value": 414193998
+      "id": "org-dc-pdd",
+      "label": "Dc Pdd",
+      "count": 75,
+      "value": 743125523
     },
     {
       "id": "org-department-sports",
       "label": "Department Sports",
       "count": 74,
       "value": 0
+    },
+    {
+      "id": "org-irrigation-waterways-dept",
+      "label": "Irrigation Waterways Dept",
+      "count": 74,
+      "value": 824354492
     },
     {
       "id": "org-hll-lifecare",
@@ -1114,10 +1138,16 @@
       "value": 0
     },
     {
-      "id": "org-haudd",
-      "label": "Haudd",
+      "id": "org-forest-department",
+      "label": "Forest Department",
+      "count": 73,
+      "value": 100210936
+    },
+    {
+      "id": "org-mp-forest-department",
+      "label": "Mp Forest Department",
       "count": 72,
-      "value": 513682519
+      "value": 68765002
     },
     {
       "id": "org-hppwd",
@@ -1136,12 +1166,6 @@
       "label": "Bkpl Barauni",
       "count": 71,
       "value": 0
-    },
-    {
-      "id": "org-forest-department",
-      "label": "Forest Department",
-      "count": 71,
-      "value": 99847936
     },
     {
       "id": "org-dg-sashastra-seema-bal",
@@ -1168,16 +1192,34 @@
       "value": 0
     },
     {
-      "id": "org-dc-pdd",
-      "label": "Dc Pdd",
+      "id": "org-madhya-pradesh-madhya-kshetra-vidyut-vitaran",
+      "label": "Madhya Pradesh Madhya Kshetra Vidyut Vitaran",
       "count": 70,
-      "value": 737822523
+      "value": 3375821752
+    },
+    {
+      "id": "org-department-agriculture-world-bank-tenders",
+      "label": "Department Agriculture World Bank Tenders",
+      "count": 70,
+      "value": 101044360
     },
     {
       "id": "org-municipal-affairs-department",
       "label": "Municipal Affairs Department",
       "count": 70,
       "value": 41396468
+    },
+    {
+      "id": "org-kerala-state-electricity-board",
+      "label": "Kerala State Electricity Board",
+      "count": 69,
+      "value": 531285196
+    },
+    {
+      "id": "org-madhya-pradesh-paschim-kshetra-vidyut-vitran",
+      "label": "Madhya Pradesh Paschim Kshetra Vidyut Vitran",
+      "count": 69,
+      "value": 1725338307
     },
     {
       "id": "org-banaras-hindu-university",
@@ -1210,28 +1252,28 @@
       "value": 0
     },
     {
-      "id": "org-mp-forest-department",
-      "label": "Mp Forest Department",
-      "count": 67,
-      "value": 65165002
+      "id": "org-madhyanchal-vidyut-vitran-nigam",
+      "label": "Madhyanchal Vidyut Vitran Nigam",
+      "count": 68,
+      "value": 68569378
     },
     {
-      "id": "org-department-agriculture-world-bank-tenders",
-      "label": "Department Agriculture World Bank Tenders",
-      "count": 67,
-      "value": 94974360
+      "id": "org-west-bengal-power-development",
+      "label": "West Bengal Power Development",
+      "count": 68,
+      "value": 178668199
     },
     {
-      "id": "org-irrigation-waterways-dept",
-      "label": "Irrigation Waterways Dept",
-      "count": 67,
-      "value": 620008403
-    },
-    {
-      "id": "org-kerala-state-electricity-board",
-      "label": "Kerala State Electricity Board",
+      "id": "org-archaeological-survey",
+      "label": "Archaeological Survey",
       "count": 66,
-      "value": 530065288
+      "value": 224063921
+    },
+    {
+      "id": "org-ce",
+      "label": "Ce",
+      "count": 66,
+      "value": 1579793646
     },
     {
       "id": "org-madhya-pradesh-rural-road-development-authority",
@@ -1246,16 +1288,22 @@
       "value": 0
     },
     {
+      "id": "org-rdd-ceo-kolhapur",
+      "label": "Rdd Ceo Kolhapur",
+      "count": 65,
+      "value": 135043507
+    },
+    {
       "id": "org-madras-fertilizers",
       "label": "Madras Fertilizers",
       "count": 64,
       "value": 0
     },
     {
-      "id": "org-department-defence-research-development",
-      "label": "Department Defence Research Development",
+      "id": "org-irrigation-flood-control",
+      "label": "Irrigation Flood Control",
       "count": 64,
-      "value": 1181000
+      "value": 859870450
     },
     {
       "id": "org-department-drinking-water",
@@ -1264,22 +1312,10 @@
       "value": 132616864
     },
     {
-      "id": "org-west-bengal-power-development",
-      "label": "West Bengal Power Development",
-      "count": 64,
-      "value": 175399129
-    },
-    {
       "id": "org-assam-state-transport",
       "label": "Assam State Transport",
       "count": 63,
       "value": 1206514587
-    },
-    {
-      "id": "org-archaeological-survey",
-      "label": "Archaeological Survey",
-      "count": 63,
-      "value": 219239542
     },
     {
       "id": "org-department-health",
@@ -1288,16 +1324,10 @@
       "value": 40000000
     },
     {
-      "id": "org-madhya-pradesh-paschim-kshetra-vidyut-vitran",
-      "label": "Madhya Pradesh Paschim Kshetra Vidyut Vitran",
+      "id": "org-directorate-general-defence-estates",
+      "label": "Directorate General Defence Estates",
       "count": 63,
-      "value": 1476993927
-    },
-    {
-      "id": "org-madhyanchal-vidyut-vitran-nigam",
-      "label": "Madhyanchal Vidyut Vitran Nigam",
-      "count": 62,
-      "value": 61707936
+      "value": 309778095
     },
     {
       "id": "org-midhani",
@@ -1312,40 +1342,34 @@
       "value": 0
     },
     {
-      "id": "org-irrigation-flood-control",
-      "label": "Irrigation Flood Control",
-      "count": 61,
-      "value": 844365091
-    },
-    {
       "id": "org-indian-coast-guard",
       "label": "Indian Coast Guard",
-      "count": 60,
+      "count": 61,
       "value": 78750
     },
     {
-      "id": "org-madhya-pradesh-madhya-kshetra-vidyut-vitaran",
-      "label": "Madhya Pradesh Madhya Kshetra Vidyut Vitaran",
+      "id": "org-wrd-einc-major-med-n-minor",
+      "label": "Wrd Einc Major Med N Minor",
       "count": 60,
-      "value": 356518352
+      "value": 403219051
     },
     {
-      "id": "org-ce",
-      "label": "Ce",
+      "id": "org-department-agriculture",
+      "label": "Department Agriculture",
       "count": 60,
-      "value": 1539228819
+      "value": 2239594451
+    },
+    {
+      "id": "org-md",
+      "label": "Md",
+      "count": 60,
+      "value": 3657458400
     },
     {
       "id": "org-hindustan-paper",
       "label": "Hindustan Paper",
       "count": 59,
       "value": 0
-    },
-    {
-      "id": "org-rdd-ceo-kolhapur",
-      "label": "Rdd Ceo Kolhapur",
-      "count": 59,
-      "value": 124598508
     },
     {
       "id": "org-brahmaputra-valley-fertilizer",
@@ -1372,40 +1396,40 @@
       "value": 0
     },
     {
-      "id": "org-directorate-general-defence-estates",
-      "label": "Directorate General Defence Estates",
-      "count": 57,
-      "value": 279696095
-    },
-    {
-      "id": "org-md",
-      "label": "Md",
-      "count": 57,
-      "value": 3592870558
-    },
-    {
-      "id": "org-department-agriculture",
-      "label": "Department Agriculture",
-      "count": 56,
-      "value": 2199190687
-    },
-    {
       "id": "org-hmrbpl-mourigram",
       "label": "Hmrbpl Mourigram",
       "count": 55,
       "value": 0
     },
     {
-      "id": "org-wrd-einc-major-med-n-minor",
-      "label": "Wrd Einc Major Med N Minor",
+      "id": "org-dsiidc",
+      "label": "Dsiidc",
+      "count": 55,
+      "value": 1576079765
+    },
+    {
+      "id": "org-himachal-urban-development-authority",
+      "label": "Himachal Urban Development Authority",
       "count": 53,
-      "value": 395465095
+      "value": 569851260
     },
     {
       "id": "org-unknown-organisation",
       "label": "Unknown Organisation",
       "count": 53,
       "value": 0
+    },
+    {
+      "id": "org-rural-development-department",
+      "label": "Rural Development Department",
+      "count": 52,
+      "value": 17137933
+    },
+    {
+      "id": "org-zila-parishad-dhanbad",
+      "label": "Zila Parishad Dhanbad",
+      "count": 52,
+      "value": 40986588
     },
     {
       "id": "org-social-welfare-department",
@@ -1426,22 +1450,22 @@
       "value": 197710577
     },
     {
+      "id": "org-madhya-pradesh-poorv-kshetra-vidyut-vitaran",
+      "label": "Madhya Pradesh Poorv Kshetra Vidyut Vitaran",
+      "count": 51,
+      "value": 1419238258
+    },
+    {
+      "id": "org-directorate-town-panchayats",
+      "label": "Directorate Town Panchayats",
+      "count": 51,
+      "value": 16211000
+    },
+    {
       "id": "org-department-space",
       "label": "Department Space",
       "count": 50,
       "value": 0
-    },
-    {
-      "id": "org-himachal-urban-development-authority",
-      "label": "Himachal Urban Development Authority",
-      "count": 50,
-      "value": 561700026
-    },
-    {
-      "id": "org-rural-development-department",
-      "label": "Rural Development Department",
-      "count": 50,
-      "value": 16864067
     },
     {
       "id": "org-phbpl-haldia",
@@ -1456,10 +1480,10 @@
       "value": 0
     },
     {
-      "id": "org-madhya-pradesh-poorv-kshetra-vidyut-vitaran",
-      "label": "Madhya Pradesh Poorv Kshetra Vidyut Vitaran",
+      "id": "org-up-power-transmission",
+      "label": "Up Power Transmission",
       "count": 49,
-      "value": 1416804258
+      "value": 37310600
     },
     {
       "id": "org-ibp-kolkata",
@@ -1480,10 +1504,16 @@
       "value": 0
     },
     {
-      "id": "org-dsiidc",
-      "label": "Dsiidc",
+      "id": "org-director-general-prisons-correctional-services",
+      "label": "Director General Prisons Correctional Services",
       "count": 48,
-      "value": 1345693251
+      "value": 56021527
+    },
+    {
+      "id": "org-directorate-municipal-administration",
+      "label": "Directorate Municipal Administration",
+      "count": 48,
+      "value": 165402737
     },
     {
       "id": "org-wb-agro-industries",
@@ -1498,21 +1528,15 @@
       "value": 675000
     },
     {
-      "id": "org-director-general-prisons-correctional-services",
-      "label": "Director General Prisons Correctional Services",
+      "id": "org-jseb",
+      "label": "Jseb",
       "count": 47,
-      "value": 55721527
-    },
-    {
-      "id": "org-directorate-municipal-administration",
-      "label": "Directorate Municipal Administration",
-      "count": 47,
-      "value": 162152850
+      "value": 177216208
     },
     {
       "id": "org-u-p-state-construction-infrastructure-development",
       "label": "U P State Construction Infrastructure Development",
-      "count": 46,
+      "count": 47,
       "value": 223455078
     },
     {
@@ -1520,6 +1544,12 @@
       "label": "Metal Steel Factory",
       "count": 45,
       "value": 0
+    },
+    {
+      "id": "org-dwsd-einc",
+      "label": "Dwsd Einc",
+      "count": 45,
+      "value": 143411360
     },
     {
       "id": "org-ce-bm-mbbs-chandikole",
@@ -1564,10 +1594,16 @@
       "value": 1028749497
     },
     {
-      "id": "org-up-power-transmission",
-      "label": "Up Power Transmission",
+      "id": "org-rdd-ceo-thane",
+      "label": "Rdd Ceo Thane",
       "count": 44,
-      "value": 37037464
+      "value": 78645101
+    },
+    {
+      "id": "org-fisheries-fishermen-welfare-department",
+      "label": "Fisheries Fishermen Welfare Department",
+      "count": 44,
+      "value": 1069133
     },
     {
       "id": "org-department-fisheries",
@@ -1600,16 +1636,10 @@
       "value": 0
     },
     {
-      "id": "org-dwsd-einc",
-      "label": "Dwsd Einc",
+      "id": "org-jkspdc",
+      "label": "Jkspdc",
       "count": 43,
-      "value": 142394093
-    },
-    {
-      "id": "org-directorate-town-panchayats",
-      "label": "Directorate Town Panchayats",
-      "count": 43,
-      "value": 7711000
+      "value": 91977263
     },
     {
       "id": "org-director",
@@ -1642,28 +1672,28 @@
       "value": 0
     },
     {
+      "id": "org-water-resource-department",
+      "label": "Water Resource Department",
+      "count": 42,
+      "value": 88116713
+    },
+    {
       "id": "org-health-medical-education",
       "label": "Health Medical Education",
       "count": 42,
       "value": 350000
     },
     {
-      "id": "org-jseb",
-      "label": "Jseb",
+      "id": "org-directorate-panchayat",
+      "label": "Directorate Panchayat",
       "count": 42,
-      "value": 112873749
+      "value": 24145489
     },
     {
       "id": "org-public-works-region",
       "label": "Public Works Region",
       "count": 42,
       "value": 282159616
-    },
-    {
-      "id": "org-directorate-panchayat",
-      "label": "Directorate Panchayat",
-      "count": 41,
-      "value": 24145489
     },
     {
       "id": "org-finance-department-world-bank-tenders",
@@ -1682,12 +1712,6 @@
       "label": "Hscc",
       "count": 40,
       "value": 0
-    },
-    {
-      "id": "org-jkspdc",
-      "label": "Jkspdc",
-      "count": 40,
-      "value": 88393263
     },
     {
       "id": "org-mp-state-civil-supplies",
@@ -1732,16 +1756,10 @@
       "value": 0
     },
     {
-      "id": "org-water-resource-department",
-      "label": "Water Resource Department",
+      "id": "org-delhi-urban-shelter-improvement-board",
+      "label": "Delhi Urban Shelter Improvement Board",
       "count": 39,
-      "value": 77596617
-    },
-    {
-      "id": "org-zila-parishad-dhanbad",
-      "label": "Zila Parishad Dhanbad",
-      "count": 39,
-      "value": 28931397
+      "value": 188353147
     },
     {
       "id": "org-directorate-forensic-science-assam",
@@ -1792,6 +1810,12 @@
       "value": 87920158
     },
     {
+      "id": "org-fertilisers-chemicals-travancore",
+      "label": "Fertilisers Chemicals Travancore",
+      "count": 37,
+      "value": 0
+    },
+    {
       "id": "org-rajasthan-state-office",
       "label": "Rajasthan State Office",
       "count": 37,
@@ -1804,16 +1828,22 @@
       "value": 237791266
     },
     {
-      "id": "org-fertilisers-chemicals-travancore",
-      "label": "Fertilisers Chemicals Travancore",
-      "count": 36,
-      "value": 0
-    },
-    {
       "id": "org-geological-survey",
       "label": "Geological Survey",
       "count": 36,
       "value": 0
+    },
+    {
+      "id": "org-mp-police",
+      "label": "Mp Police",
+      "count": 36,
+      "value": 2018500
+    },
+    {
+      "id": "org-rdd-ceo-yavatmal",
+      "label": "Rdd Ceo Yavatmal",
+      "count": 36,
+      "value": 8474700
     },
     {
       "id": "org-phed-chief-engineer",
@@ -1840,6 +1870,12 @@
       "value": 0
     },
     {
+      "id": "org-rdd-ceo-buldhana",
+      "label": "Rdd Ceo Buldhana",
+      "count": 35,
+      "value": 16666849
+    },
+    {
       "id": "org-dakshinanchal-vidyut-vitran-nigam",
       "label": "Dakshinanchal Vidyut Vitran Nigam",
       "count": 35,
@@ -1864,18 +1900,6 @@
       "value": 0
     },
     {
-      "id": "org-delhi-urban-shelter-improvement-board",
-      "label": "Delhi Urban Shelter Improvement Board",
-      "count": 34,
-      "value": 185451715
-    },
-    {
-      "id": "org-mp-police",
-      "label": "Mp Police",
-      "count": 34,
-      "value": 185500
-    },
-    {
       "id": "org-guwahati-smart-city",
       "label": "Guwahati Smart City",
       "count": 33,
@@ -1892,6 +1916,12 @@
       "label": "Ordnance Equipment Factory Kanpur",
       "count": 33,
       "value": 0
+    },
+    {
+      "id": "org-tamil-nadu-housing-board",
+      "label": "Tamil Nadu Housing Board",
+      "count": 33,
+      "value": 16150100
     },
     {
       "id": "org-gauhati-university",
@@ -1930,22 +1960,22 @@
       "value": 23516000
     },
     {
-      "id": "org-rdd-ceo-buldhana",
-      "label": "Rdd Ceo Buldhana",
-      "count": 32,
-      "value": 15566849
-    },
-    {
-      "id": "org-fisheries-fishermen-welfare-department",
-      "label": "Fisheries Fishermen Welfare Department",
-      "count": 32,
-      "value": 1069133
-    },
-    {
       "id": "org-department-defence-production",
       "label": "Department Defence Production",
       "count": 31,
       "value": 0
+    },
+    {
+      "id": "org-mp-power-transmission",
+      "label": "Mp Power Transmission",
+      "count": 31,
+      "value": 62732472
+    },
+    {
+      "id": "org-public-works-roads-department-externally-aided-project",
+      "label": "Public Works Roads Department Externally Aided Project",
+      "count": 30,
+      "value": 1516304000
     },
     {
       "id": "org-ground-water-department",
@@ -1960,16 +1990,28 @@
       "value": 27759706
     },
     {
-      "id": "org-rdd-ceo-yavatmal",
-      "label": "Rdd Ceo Yavatmal",
+      "id": "org-west-bengal-state-electricity-distribution",
+      "label": "West Bengal State Electricity Distribution",
       "count": 30,
-      "value": 7074700
+      "value": 121652750
     },
     {
       "id": "org-delhi-university",
       "label": "Delhi University",
       "count": 29,
       "value": 43383226
+    },
+    {
+      "id": "org-deptt-watershed-dev-soil-conservation",
+      "label": "Deptt Watershed Dev Soil Conservation",
+      "count": 29,
+      "value": 100367154
+    },
+    {
+      "id": "org-west-bengal-medical-services",
+      "label": "West Bengal Medical Services",
+      "count": 29,
+      "value": 21296113
     },
     {
       "id": "org-brahmaputra-cracker-polymer",
@@ -1982,18 +2024,6 @@
       "label": "Department Health Family Welfare",
       "count": 28,
       "value": 242080001
-    },
-    {
-      "id": "org-deptt-watershed-dev-soil-conservation",
-      "label": "Deptt Watershed Dev Soil Conservation",
-      "count": 28,
-      "value": 96544154
-    },
-    {
-      "id": "org-west-bengal-medical-services",
-      "label": "West Bengal Medical Services",
-      "count": 28,
-      "value": 21296113
     },
     {
       "id": "org-tea-tribes-welfare-department",
@@ -2020,16 +2050,40 @@
       "value": 47826052
     },
     {
+      "id": "org-bcd-einc",
+      "label": "Bcd Einc",
+      "count": 27,
+      "value": 455177161
+    },
+    {
+      "id": "org-plantation-kerala",
+      "label": "Plantation Kerala",
+      "count": 27,
+      "value": 4366
+    },
+    {
       "id": "org-steel-industrials-kerala",
       "label": "Steel Industrials Kerala",
       "count": 27,
       "value": 24363109
     },
     {
-      "id": "org-mp-power-transmission",
-      "label": "Mp Power Transmission",
+      "id": "org-ce-bm-baitarani-basin-kenojhar",
+      "label": "Ce Bm Baitarani Basin Kenojhar",
       "count": 27,
-      "value": 57393407
+      "value": 65369802
+    },
+    {
+      "id": "org-tamilnadu-op-milk-producers-federation",
+      "label": "Tamilnadu Op Milk Producers Federation",
+      "count": 27,
+      "value": 48477945
+    },
+    {
+      "id": "org-director-agriculture",
+      "label": "Director Agriculture",
+      "count": 27,
+      "value": 211113157
     },
     {
       "id": "org-mayor-agartala-municipal",
@@ -2042,18 +2096,6 @@
       "label": "Ceo",
       "count": 27,
       "value": 0
-    },
-    {
-      "id": "org-west-bengal-state-electricity-distribution",
-      "label": "West Bengal State Electricity Distribution",
-      "count": 27,
-      "value": 119739150
-    },
-    {
-      "id": "org-public-works-roads-department-externally-aided-project",
-      "label": "Public Works Roads Department Externally Aided Project",
-      "count": 26,
-      "value": 1346238000
     },
     {
       "id": "org-secondary-education-department-assam",
@@ -2086,10 +2128,10 @@
       "value": 0
     },
     {
-      "id": "org-bcd-einc",
-      "label": "Bcd Einc",
+      "id": "org-rwd-einc",
+      "label": "Rwd Einc",
       "count": 25,
-      "value": 437700961
+      "value": 248793328
     },
     {
       "id": "org-rdd-ceo-jalgaon",
@@ -2098,10 +2140,10 @@
       "value": 89596267
     },
     {
-      "id": "org-tamilnadu-op-milk-producers-federation",
-      "label": "Tamilnadu Op Milk Producers Federation",
+      "id": "org-ajmer-vvnl-md",
+      "label": "Ajmer Vvnl Md",
       "count": 25,
-      "value": 47130000
+      "value": 97120000
     },
     {
       "id": "org-kolkata-port-trust",
@@ -2122,16 +2164,16 @@
       "value": 0
     },
     {
-      "id": "org-plantation-kerala",
-      "label": "Plantation Kerala",
+      "id": "org-department-rural-development",
+      "label": "Department Rural Development",
       "count": 24,
-      "value": 4366
+      "value": 111540936
     },
     {
-      "id": "org-ajmer-vvnl-md",
-      "label": "Ajmer Vvnl Md",
+      "id": "org-medical-health",
+      "label": "Medical Health",
       "count": 24,
-      "value": 53620000
+      "value": 105760000
     },
     {
       "id": "org-housing-directorate",
@@ -2164,22 +2206,22 @@
       "value": 10798500
     },
     {
-      "id": "org-medical-health",
-      "label": "Medical Health",
+      "id": "org-patratu-vidyut-utpadan-nigam",
+      "label": "Patratu Vidyut Utpadan Nigam",
       "count": 23,
-      "value": 101260000
-    },
-    {
-      "id": "org-director-agriculture",
-      "label": "Director Agriculture",
-      "count": 23,
-      "value": 207471960
+      "value": 0
     },
     {
       "id": "org-indira-gandhi-centre-for-atomic-research",
       "label": "Indira Gandhi Centre For Atomic Research",
       "count": 22,
       "value": 79158800
+    },
+    {
+      "id": "org-sports-authority",
+      "label": "Sports Authority",
+      "count": 22,
+      "value": 41740756
     },
     {
       "id": "org-border-security-force",
@@ -2204,12 +2246,6 @@
       "label": "New Delhi Municipal Council",
       "count": 22,
       "value": 101490963
-    },
-    {
-      "id": "org-department-rural-development",
-      "label": "Department Rural Development",
-      "count": 22,
-      "value": 105818280
     },
     {
       "id": "org-n-r-e-p-latehar",
@@ -2242,10 +2278,10 @@
       "value": 9168448
     },
     {
-      "id": "org-rwd-einc",
-      "label": "Rwd Einc",
+      "id": "org-ipgcl-ppcl",
+      "label": "Ipgcl Ppcl",
       "count": 21,
-      "value": 219953968
+      "value": 21338307
     },
     {
       "id": "org-engineer-in-chief-water-resources-department",
@@ -2254,10 +2290,10 @@
       "value": 244712230
     },
     {
-      "id": "org-patratu-vidyut-utpadan-nigam",
-      "label": "Patratu Vidyut Utpadan Nigam",
+      "id": "org-rdd-ceo-gadchiroli",
+      "label": "Rdd Ceo Gadchiroli",
       "count": 21,
-      "value": 0
+      "value": 12273481
     },
     {
       "id": "org-st-sc-development-deptt",
@@ -2272,16 +2308,16 @@
       "value": 39612703
     },
     {
-      "id": "org-tamil-nadu-housing-board",
-      "label": "Tamil Nadu Housing Board",
-      "count": 21,
-      "value": 16150100
-    },
-    {
       "id": "org-vice-chairman-mussoorie-dehradun-development-authority-dehradun",
       "label": "Vice Chairman Mussoorie Dehradun Development Authority Dehra",
       "count": 21,
       "value": 154629500
+    },
+    {
+      "id": "org-kolkata-metropolitan-development-authority",
+      "label": "Kolkata Metropolitan Development Authority",
+      "count": 21,
+      "value": 22056913
     },
     {
       "id": "org-directorate-horticulture-assam",
@@ -2308,6 +2344,12 @@
       "value": 861238000
     },
     {
+      "id": "org-employees-state-insurance",
+      "label": "Employees State Insurance",
+      "count": 20,
+      "value": 4180361805
+    },
+    {
       "id": "org-intelligence-bureau-new-delhi",
       "label": "Intelligence Bureau New Delhi",
       "count": 20,
@@ -2318,12 +2360,6 @@
       "label": "Odisha State Office",
       "count": 20,
       "value": 0
-    },
-    {
-      "id": "org-ipgcl-ppcl",
-      "label": "Ipgcl Ppcl",
-      "count": 20,
-      "value": 21338307
     },
     {
       "id": "org-hp-agriculture-marketing-board",
@@ -2338,10 +2374,22 @@
       "value": 90730359
     },
     {
+      "id": "org-zila-parishad-chatra",
+      "label": "Zila Parishad Chatra",
+      "count": 20,
+      "value": 0
+    },
+    {
       "id": "org-kerala-electrical-allied-engineering",
       "label": "Kerala Electrical Allied Engineering",
       "count": 20,
       "value": 3315245
+    },
+    {
+      "id": "org-directorate-medical-education",
+      "label": "Directorate Medical Education",
+      "count": 20,
+      "value": 57250000
     },
     {
       "id": "org-m-p-state-rural-livelihoods-mission",
@@ -2356,28 +2404,22 @@
       "value": 103710655
     },
     {
+      "id": "org-up-rajya-nirman-evam-sharam-vikash-sahkari-sangh-lucknow",
+      "label": "Up Rajya Nirman Evam Sharam Vikash Sahkari Sangh Lucknow",
+      "count": 20,
+      "value": 55995000
+    },
+    {
       "id": "org-durgapur-projects",
       "label": "Durgapur Projects",
       "count": 20,
       "value": 0
     },
     {
-      "id": "org-kolkata-metropolitan-development-authority",
-      "label": "Kolkata Metropolitan Development Authority",
-      "count": 20,
-      "value": 21576564
-    },
-    {
       "id": "org-elementary-education-department",
       "label": "Elementary Education Department",
       "count": 19,
       "value": 1140000000
-    },
-    {
-      "id": "org-employees-state-insurance",
-      "label": "Employees State Insurance",
-      "count": 19,
-      "value": 4146219323
     },
     {
       "id": "org-indian-institute-science-education-research-kolkata",
@@ -2392,10 +2434,10 @@
       "value": 981037231
     },
     {
-      "id": "org-rdd-ceo-gadchiroli",
-      "label": "Rdd Ceo Gadchiroli",
+      "id": "org-rdd-ceo-dhule",
+      "label": "Rdd Ceo Dhule",
       "count": 19,
-      "value": 10273481
+      "value": 6039060
     },
     {
       "id": "org-maharashtra-medical-goods-procurement-authority-mumbai",
@@ -2408,12 +2450,6 @@
       "label": "Department Power",
       "count": 19,
       "value": 18682285
-    },
-    {
-      "id": "org-up-rajya-nirman-evam-sharam-vikash-sahkari-sangh-lucknow",
-      "label": "Up Rajya Nirman Evam Sharam Vikash Sahkari Sangh Lucknow",
-      "count": 19,
-      "value": 43743000
     },
     {
       "id": "org-aligarh-muslim-university",
@@ -2446,10 +2482,10 @@
       "value": 0
     },
     {
-      "id": "org-rdd-ceo-dhule",
-      "label": "Rdd Ceo Dhule",
+      "id": "org-municipal-councils",
+      "label": "Municipal Councils",
       "count": 18,
-      "value": 5540060
+      "value": 75746952
     },
     {
       "id": "org-maharashtra-state-road-transport",
@@ -2462,6 +2498,12 @@
       "label": "Rdd Ceo Satara",
       "count": 18,
       "value": 66154095
+    },
+    {
+      "id": "org-ce-bm",
+      "label": "Ce Bm",
+      "count": 18,
+      "value": 420786514
     },
     {
       "id": "org-department-college-education",
@@ -2536,6 +2578,18 @@
       "value": 10402420
     },
     {
+      "id": "org-bhartiya-rail-bijlee",
+      "label": "Bhartiya Rail Bijlee",
+      "count": 17,
+      "value": 21718286
+    },
+    {
+      "id": "org-director-medical-rural-health-services",
+      "label": "Director Medical Rural Health Services",
+      "count": 17,
+      "value": 11345000
+    },
+    {
       "id": "org-mines-minerals-department",
       "label": "Mines Minerals Department",
       "count": 16,
@@ -2546,6 +2600,12 @@
       "label": "Hill Areas Department",
       "count": 16,
       "value": 18417279
+    },
+    {
+      "id": "org-postgraduate-institute-medical-education-research-chandigarh",
+      "label": "Postgraduate Institute Medical Education Research Chandigarh",
+      "count": 16,
+      "value": 6432602
     },
     {
       "id": "org-ministry-external-affairs",
@@ -2584,12 +2644,6 @@
       "value": 0
     },
     {
-      "id": "org-directorate-medical-education",
-      "label": "Directorate Medical Education",
-      "count": 16,
-      "value": 56000000
-    },
-    {
       "id": "org-madhya-pradesh-financial-indore",
       "label": "Madhya Pradesh Financial Indore",
       "count": 16,
@@ -2620,16 +2674,34 @@
       "value": 75765688
     },
     {
+      "id": "org-department-cooperation",
+      "label": "Department Cooperation",
+      "count": 16,
+      "value": 1
+    },
+    {
       "id": "org-tamilnadu-medical-services",
       "label": "Tamilnadu Medical Services",
       "count": 16,
       "value": 0
     },
     {
+      "id": "org-tamilnadu-state-transport",
+      "label": "Tamilnadu State Transport",
+      "count": 16,
+      "value": 15420000
+    },
+    {
       "id": "org-director-directorate-secondary-education",
       "label": "Director Directorate Secondary Education",
       "count": 16,
       "value": 22867036
+    },
+    {
+      "id": "org-chairman-cum-md",
+      "label": "Chairman Cum Md",
+      "count": 16,
+      "value": 290267597
     },
     {
       "id": "org-welfare-minorities-development-department",
@@ -2642,12 +2714,6 @@
       "label": "Agriculture",
       "count": 15,
       "value": 127796000
-    },
-    {
-      "id": "org-postgraduate-institute-medical-education-research-chandigarh",
-      "label": "Postgraduate Institute Medical Education Research Chandigarh",
-      "count": 15,
-      "value": 6136850
     },
     {
       "id": "org-state-trading",
@@ -2668,28 +2734,16 @@
       "value": 1422090
     },
     {
-      "id": "org-zila-parishad-chatra",
-      "label": "Zila Parishad Chatra",
-      "count": 15,
-      "value": 0
-    },
-    {
       "id": "org-rdd-ceo-pune",
       "label": "Rdd Ceo Pune",
       "count": 15,
       "value": 18146557
     },
     {
-      "id": "org-director-medical-rural-health-services",
-      "label": "Director Medical Rural Health Services",
+      "id": "org-rdd-ceo-solapur",
+      "label": "Rdd Ceo Solapur",
       "count": 15,
-      "value": 10445000
-    },
-    {
-      "id": "org-chairman-cum-md",
-      "label": "Chairman Cum Md",
-      "count": 15,
-      "value": 249954801
+      "value": 387136886
     },
     {
       "id": "org-information-public-relations-department",
@@ -2722,34 +2776,28 @@
       "value": 661700000
     },
     {
-      "id": "org-rdd-ceo-thane",
-      "label": "Rdd Ceo Thane",
-      "count": 14,
-      "value": 27788843
-    },
-    {
-      "id": "org-bhartiya-rail-bijlee",
-      "label": "Bhartiya Rail Bijlee",
-      "count": 14,
-      "value": 3542202
-    },
-    {
-      "id": "org-ce-bm",
-      "label": "Ce Bm",
-      "count": 14,
-      "value": 304015690
-    },
-    {
-      "id": "org-tamilnadu-state-transport",
-      "label": "Tamilnadu State Transport",
-      "count": 14,
-      "value": 4920000
-    },
-    {
       "id": "org-md-ucdf-haldwani",
       "label": "Md Ucdf Haldwani",
       "count": 14,
       "value": 28450000
+    },
+    {
+      "id": "org-chief-engineer-pwd-central-zone",
+      "label": "Chief Engineer Pwd Central Zone",
+      "count": 14,
+      "value": 15175000
+    },
+    {
+      "id": "org-u-p-housing-development-board",
+      "label": "U P Housing Development Board",
+      "count": 14,
+      "value": 123382196
+    },
+    {
+      "id": "org-uttar-pradesh-rajya-nirman-sahkari-sangh",
+      "label": "Uttar Pradesh Rajya Nirman Sahkari Sangh",
+      "count": 14,
+      "value": 104981849
     },
     {
       "id": "org-bhabha-atomic-research-centre",
@@ -2762,6 +2810,12 @@
       "label": "National Council Science Museums",
       "count": 13,
       "value": 2219936
+    },
+    {
+      "id": "org-nuclear-recycle-board",
+      "label": "Nuclear Recycle Board",
+      "count": 13,
+      "value": 129810030
     },
     {
       "id": "org-tata-memorial-centre",
@@ -2806,6 +2860,24 @@
       "value": 1599878
     },
     {
+      "id": "org-jharkhand-state-building-construction",
+      "label": "Jharkhand State Building Construction",
+      "count": 13,
+      "value": 0
+    },
+    {
+      "id": "org-ce-pwd",
+      "label": "Ce Pwd",
+      "count": 13,
+      "value": 254918866
+    },
+    {
+      "id": "org-water-supply-sanitation",
+      "label": "Water Supply Sanitation",
+      "count": 13,
+      "value": 37491960
+    },
+    {
       "id": "org-jodhpur-vvnl-md",
       "label": "Jodhpur Vvnl Md",
       "count": 13,
@@ -2830,28 +2902,22 @@
       "value": 119499262
     },
     {
+      "id": "org-chief-engineer-mirzapur-zone-pwd-mirzapur",
+      "label": "Chief Engineer Mirzapur Zone Pwd Mirzapur",
+      "count": 13,
+      "value": 22466000
+    },
+    {
       "id": "org-pollution-control-board",
       "label": "Pollution Control Board",
       "count": 12,
       "value": 0
     },
     {
-      "id": "org-nuclear-recycle-board",
-      "label": "Nuclear Recycle Board",
-      "count": 12,
-      "value": 129810030
-    },
-    {
       "id": "org-numaligarh-refinery",
       "label": "Numaligarh Refinery",
       "count": 12,
       "value": 0
-    },
-    {
-      "id": "org-sports-authority",
-      "label": "Sports Authority",
-      "count": 12,
-      "value": 21644794
     },
     {
       "id": "org-indian-council-forestry-research-education",
@@ -2870,6 +2936,12 @@
       "label": "Goa Handicrafts Rural Sm Scale Ind Dev",
       "count": 12,
       "value": 0
+    },
+    {
+      "id": "org-village-panchayats",
+      "label": "Village Panchayats",
+      "count": 12,
+      "value": 7306815
     },
     {
       "id": "org-jail-inspectorate",
@@ -2902,16 +2974,16 @@
       "value": 22783183
     },
     {
-      "id": "org-ce-pwd",
-      "label": "Ce Pwd",
-      "count": 12,
-      "value": 253821138
-    },
-    {
       "id": "org-rrvpn-cmd",
       "label": "Rrvpn Cmd",
       "count": 12,
       "value": 179921649
+    },
+    {
+      "id": "org-hindu-religious-charitable-endowments",
+      "label": "Hindu Religious Charitable Endowments",
+      "count": 12,
+      "value": 303205136
     },
     {
       "id": "org-commisioner-excise",
@@ -2920,16 +2992,16 @@
       "value": 46277065
     },
     {
-      "id": "org-chief-engineer-mirzapur-zone-pwd-mirzapur",
-      "label": "Chief Engineer Mirzapur Zone Pwd Mirzapur",
+      "id": "org-md-ujvn",
+      "label": "Md Ujvn",
       "count": 12,
-      "value": 18075000
+      "value": 4228364171
     },
     {
-      "id": "org-chief-engineer-pwd-central-zone",
-      "label": "Chief Engineer Pwd Central Zone",
+      "id": "org-res-chief-engineer",
+      "label": "Res Chief Engineer",
       "count": 12,
-      "value": 12175000
+      "value": 91114948
     },
     {
       "id": "org-commissionerate-transport",
@@ -2960,6 +3032,12 @@
       "label": "National Institute Ocean Technology",
       "count": 11,
       "value": 86207391
+    },
+    {
+      "id": "org-national-institute-technology-karnataka",
+      "label": "National Institute Technology Karnataka",
+      "count": 11,
+      "value": 23373936
     },
     {
       "id": "org-aryabhatta-research-institute-observational-sciences",
@@ -3016,10 +3094,10 @@
       "value": 98104000
     },
     {
-      "id": "org-rdd-ceo-solapur",
-      "label": "Rdd Ceo Solapur",
+      "id": "org-rdd-ceo-chandrapur",
+      "label": "Rdd Ceo Chandrapur",
       "count": 11,
-      "value": 386688157
+      "value": 0
     },
     {
       "id": "org-watco-bhubaneswar",
@@ -3028,28 +3106,10 @@
       "value": 162858118
     },
     {
-      "id": "org-department-cooperation",
-      "label": "Department Cooperation",
-      "count": 11,
-      "value": 1
-    },
-    {
-      "id": "org-water-supply-sanitation",
-      "label": "Water Supply Sanitation",
-      "count": 11,
-      "value": 29315988
-    },
-    {
       "id": "org-rsamb",
       "label": "Rsamb",
       "count": 11,
       "value": 19877000
-    },
-    {
-      "id": "org-hindu-religious-charitable-endowments",
-      "label": "Hindu Religious Charitable Endowments",
-      "count": 11,
-      "value": 294001136
     },
     {
       "id": "org-tamil-nadu-civil-supplies",
@@ -3058,16 +3118,16 @@
       "value": 0
     },
     {
-      "id": "org-md-ujvn",
-      "label": "Md Ujvn",
+      "id": "org-cgm",
+      "label": "Cgm",
       "count": 11,
-      "value": 4223404345
+      "value": 13294768
     },
     {
-      "id": "org-uttar-pradesh-rajya-nirman-sahkari-sangh",
-      "label": "Uttar Pradesh Rajya Nirman Sahkari Sangh",
+      "id": "org-directorate-social-welfare-up",
+      "label": "Directorate Social Welfare Up",
       "count": 11,
-      "value": 87715000
+      "value": 246259000
     },
     {
       "id": "org-west-bengal-forest-development",
@@ -3104,6 +3164,12 @@
       "label": "Animal Husbandry Veterinary Department Externally Aided Proj",
       "count": 10,
       "value": 12008077
+    },
+    {
+      "id": "org-delhi-metro-rail",
+      "label": "Delhi Metro Rail",
+      "count": 10,
+      "value": 31424669
     },
     {
       "id": "org-all-institute-medical-sciences-bhopal",
@@ -3154,12 +3220,6 @@
       "value": 0
     },
     {
-      "id": "org-village-panchayats",
-      "label": "Village Panchayats",
-      "count": 10,
-      "value": 5705799
-    },
-    {
       "id": "org-shree-naina-devi-ji-temple-trust",
       "label": "Shree Naina Devi Ji Temple Trust",
       "count": 10,
@@ -3170,12 +3230,6 @@
       "label": "Birsa Agricultural University",
       "count": 10,
       "value": 17443014
-    },
-    {
-      "id": "org-rdd-ceo-chandrapur",
-      "label": "Rdd Ceo Chandrapur",
-      "count": 10,
-      "value": 0
     },
     {
       "id": "org-kalyan-dombivli-municipal",
@@ -3190,28 +3244,16 @@
       "value": 4163962
     },
     {
-      "id": "org-res-chief-engineer",
-      "label": "Res Chief Engineer",
-      "count": 10,
-      "value": 91114948
-    },
-    {
       "id": "org-regional-food-controller-garhwal",
       "label": "Regional Food Controller Garhwal",
       "count": 10,
       "value": 0
     },
     {
-      "id": "org-cgm",
-      "label": "Cgm",
+      "id": "org-commissioner-rural-development-up",
+      "label": "Commissioner Rural Development Up",
       "count": 10,
-      "value": 13294768
-    },
-    {
-      "id": "org-u-p-housing-development-board",
-      "label": "U P Housing Development Board",
-      "count": 10,
-      "value": 114070576
+      "value": 12481000
     },
     {
       "id": "org-assam-state-agricultural-marketing-board",
@@ -3224,12 +3266,6 @@
       "label": "Department Atomic Energy",
       "count": 9,
       "value": 6222797
-    },
-    {
-      "id": "org-delhi-metro-rail",
-      "label": "Delhi Metro Rail",
-      "count": 9,
-      "value": 9418170
     },
     {
       "id": "org-directorate-purchase-stores",
@@ -3276,18 +3312,6 @@
     {
       "id": "org-department-chemicals-petrochemicals",
       "label": "Department Chemicals Petrochemicals",
-      "count": 9,
-      "value": 0
-    },
-    {
-      "id": "org-municipal-councils",
-      "label": "Municipal Councils",
-      "count": 9,
-      "value": 52619263
-    },
-    {
-      "id": "org-jharkhand-state-building-construction",
-      "label": "Jharkhand State Building Construction",
       "count": 9,
       "value": 0
     },
@@ -3358,6 +3382,12 @@
       "value": 54450798
     },
     {
+      "id": "org-rajasthan-council-school-education",
+      "label": "Rajasthan Council School Education",
+      "count": 9,
+      "value": 27202000
+    },
+    {
       "id": "org-municipal-commissioner-nagar-nigam-kashipur",
       "label": "Municipal Commissioner Nagar Nigam Kashipur",
       "count": 9,
@@ -3370,10 +3400,16 @@
       "value": 6991700
     },
     {
-      "id": "org-directorate-social-welfare-up",
-      "label": "Directorate Social Welfare Up",
+      "id": "org-cheif-engineer-kanpur-zone-pwd-kanpur",
+      "label": "Cheif Engineer Kanpur Zone Pwd Kanpur",
       "count": 9,
-      "value": 222103000
+      "value": 29800000
+    },
+    {
+      "id": "org-kolkata-police",
+      "label": "Kolkata Police",
+      "count": 9,
+      "value": 3236555
     },
     {
       "id": "org-water-resources-dev-dte",
@@ -3400,16 +3436,16 @@
       "value": 24494152
     },
     {
+      "id": "org-gujarat-srrda",
+      "label": "Gujarat Srrda",
+      "count": 8,
+      "value": 195765301
+    },
+    {
       "id": "org-all-institute-medical-sciences-mangalagiri-andhra-pradesh",
       "label": "All Institute Medical Sciences Mangalagiri Andhra Pradesh",
       "count": 8,
       "value": 370929922
-    },
-    {
-      "id": "org-national-institute-technology-karnataka",
-      "label": "National Institute Technology Karnataka",
-      "count": 8,
-      "value": 14873936
     },
     {
       "id": "org-revenue-dept",
@@ -3478,6 +3514,12 @@
       "value": 0
     },
     {
+      "id": "org-united-electrical-industries",
+      "label": "United Electrical Industries",
+      "count": 8,
+      "value": 808400
+    },
+    {
       "id": "org-directorate-industries",
       "label": "Directorate Industries",
       "count": 8,
@@ -3514,6 +3556,12 @@
       "value": 5664844
     },
     {
+      "id": "org-odisha-state-milk-producers-federation",
+      "label": "Odisha State Milk Producers Federation",
+      "count": 8,
+      "value": 146300000
+    },
+    {
       "id": "org-riico-sr-dgm",
       "label": "Riico Sr Dgm",
       "count": 8,
@@ -3544,16 +3592,22 @@
       "value": 394970000
     },
     {
+      "id": "org-cheif-engineer-meerut-zone-pwd-meerut",
+      "label": "Cheif Engineer Meerut Zone Pwd Meerut",
+      "count": 8,
+      "value": 3000000
+    },
+    {
       "id": "org-lucknow-development-authority",
       "label": "Lucknow Development Authority",
       "count": 8,
       "value": 21831511
     },
     {
-      "id": "org-gujarat-srrda",
-      "label": "Gujarat Srrda",
-      "count": 7,
-      "value": 175088898
+      "id": "org-department-msme-export-promotion",
+      "label": "Department Msme Export Promotion",
+      "count": 8,
+      "value": 34783377
     },
     {
       "id": "org-jawaharlal-nehru-port-trust",
@@ -3622,6 +3676,12 @@
       "value": 0
     },
     {
+      "id": "org-goa-state-urban-development-agency",
+      "label": "Goa State Urban Development Agency",
+      "count": 7,
+      "value": 9418938
+    },
+    {
       "id": "org-h-p-state-electronics-development",
       "label": "H P State Electronics Development",
       "count": 7,
@@ -3634,10 +3694,16 @@
       "value": 27430194
     },
     {
-      "id": "org-united-electrical-industries",
-      "label": "United Electrical Industries",
+      "id": "org-shri-mata-vaishno-devi-shrine-board",
+      "label": "Shri Mata Vaishno Devi Shrine Board",
       "count": 7,
-      "value": 0
+      "value": 87498742
+    },
+    {
+      "id": "org-kerala-health-research-welfare-society",
+      "label": "Kerala Health Research Welfare Society",
+      "count": 7,
+      "value": 22309189
     },
     {
       "id": "org-district-collectorate",
@@ -3694,6 +3760,12 @@
       "value": 0
     },
     {
+      "id": "org-cce-brutang-hadua-irrigation-project-dasapalla",
+      "label": "Cce Brutang Hadua Irrigation Project Dasapalla",
+      "count": 7,
+      "value": 43980752
+    },
+    {
       "id": "org-ce-bm-ik-basin-bariniput-jeypore",
       "label": "Ce Bm Ik Basin Bariniput Jeypore",
       "count": 7,
@@ -3728,18 +3800,6 @@
       "label": "Department Food Civil Supplies",
       "count": 7,
       "value": 5001180
-    },
-    {
-      "id": "org-department-msme-export-promotion",
-      "label": "Department Msme Export Promotion",
-      "count": 7,
-      "value": 28431702
-    },
-    {
-      "id": "org-kolkata-police",
-      "label": "Kolkata Police",
-      "count": 7,
-      "value": 2715792
     },
     {
       "id": "org-general-administration-department",
@@ -3874,10 +3934,16 @@
       "value": 0
     },
     {
-      "id": "org-goa-state-urban-development-agency",
-      "label": "Goa State Urban Development Agency",
+      "id": "org-ggs-inderprastha-university",
+      "label": "Ggs Inderprastha University",
       "count": 6,
-      "value": 9418938
+      "value": 17666166
+    },
+    {
+      "id": "org-directorate-agriculture",
+      "label": "Directorate Agriculture",
+      "count": 6,
+      "value": 4430433
     },
     {
       "id": "org-university-department",
@@ -3892,10 +3958,34 @@
       "value": 0
     },
     {
+      "id": "org-transformers-electricals-kerala",
+      "label": "Transformers Electricals Kerala",
+      "count": 6,
+      "value": 0
+    },
+    {
+      "id": "org-mp-housing-infrastructure-development-board",
+      "label": "Mp Housing Infrastructure Development Board",
+      "count": 6,
+      "value": 111177926
+    },
+    {
       "id": "org-madhya-pradesh-state-mining",
       "label": "Madhya Pradesh State Mining",
       "count": 6,
       "value": 0
+    },
+    {
+      "id": "org-madhya-pradesh-public-health-services",
+      "label": "Madhya Pradesh Public Health Services",
+      "count": 6,
+      "value": 0
+    },
+    {
+      "id": "org-rdd-ceo-aurangabad",
+      "label": "Rdd Ceo Aurangabad",
+      "count": 6,
+      "value": 1400000
     },
     {
       "id": "org-ce-water-resources-dept-konkan-region-mumbai",
@@ -3934,10 +4024,10 @@
       "value": 7000000
     },
     {
-      "id": "org-odisha-state-milk-producers-federation",
-      "label": "Odisha State Milk Producers Federation",
+      "id": "org-orissa-bridge-construction",
+      "label": "Orissa Bridge Construction",
       "count": 6,
-      "value": 135500000
+      "value": 839730
     },
     {
       "id": "org-opepa-bhubaneswar",
@@ -3956,6 +4046,12 @@
       "label": "Sri Karan Narendra Agriculture University Jobner",
       "count": 6,
       "value": 6000000
+    },
+    {
+      "id": "org-wrd-ce-as",
+      "label": "Wrd Ce As",
+      "count": 6,
+      "value": 25677770
     },
     {
       "id": "org-ce-hod",
@@ -3980,6 +4076,12 @@
       "label": "West Bengal Zoo Authority",
       "count": 6,
       "value": 4787388
+    },
+    {
+      "id": "org-arunachal-pradesh-police",
+      "label": "Arunachal Pradesh Police",
+      "count": 5,
+      "value": 0
     },
     {
       "id": "org-secretariat-administration-department",
@@ -4066,16 +4168,16 @@
       "value": 1416157538
     },
     {
-      "id": "org-ggs-inderprastha-university",
-      "label": "Ggs Inderprastha University",
-      "count": 5,
-      "value": 15592359
-    },
-    {
       "id": "org-goa-medical-college-hospital",
       "label": "Goa Medical College Hospital",
       "count": 5,
       "value": 0
+    },
+    {
+      "id": "org-department-information-technology",
+      "label": "Department Information Technology",
+      "count": 5,
+      "value": 50000000
     },
     {
       "id": "org-hp-aquaculture-fisheries-marketing-society",
@@ -4084,34 +4186,40 @@
       "value": 11727741
     },
     {
-      "id": "org-shri-mata-vaishno-devi-shrine-board",
-      "label": "Shri Mata Vaishno Devi Shrine Board",
-      "count": 5,
-      "value": 87498742
-    },
-    {
       "id": "org-health-ce",
       "label": "Health Ce",
       "count": 5,
       "value": 0
     },
     {
-      "id": "org-kerala-health-research-welfare-society",
-      "label": "Kerala Health Research Welfare Society",
+      "id": "org-agency-for-development-aquaculture-kerala",
+      "label": "Agency For Development Aquaculture Kerala",
       "count": 5,
-      "value": 13538883
+      "value": 0
+    },
+    {
+      "id": "org-district-nirmithikendra-ernakulam",
+      "label": "District Nirmithikendra Ernakulam",
+      "count": 5,
+      "value": 20788000
+    },
+    {
+      "id": "org-harbour-engineering-department",
+      "label": "Harbour Engineering Department",
+      "count": 5,
+      "value": 28283165
+    },
+    {
+      "id": "org-kerala-artisans-development",
+      "label": "Kerala Artisans Development",
+      "count": 5,
+      "value": 9718364
     },
     {
       "id": "org-kerala-minerals-metals",
       "label": "Kerala Minerals Metals",
       "count": 5,
       "value": 1198382
-    },
-    {
-      "id": "org-transformers-electricals-kerala",
-      "label": "Transformers Electricals Kerala",
-      "count": 5,
-      "value": 0
     },
     {
       "id": "org-mp-industrial-development",
@@ -4128,18 +4236,6 @@
     {
       "id": "org-high-court-madhya-pradesh",
       "label": "High Court Madhya Pradesh",
-      "count": 5,
-      "value": 0
-    },
-    {
-      "id": "org-mp-housing-infrastructure-development-board",
-      "label": "Mp Housing Infrastructure Development Board",
-      "count": 5,
-      "value": 105792440
-    },
-    {
-      "id": "org-madhya-pradesh-public-health-services",
-      "label": "Madhya Pradesh Public Health Services",
       "count": 5,
       "value": 0
     },
@@ -4180,22 +4276,10 @@
       "value": 203685503
     },
     {
-      "id": "org-orissa-bridge-construction",
-      "label": "Orissa Bridge Construction",
-      "count": 5,
-      "value": 839730
-    },
-    {
       "id": "org-ajmer-development-authority",
       "label": "Ajmer Development Authority",
       "count": 5,
       "value": 800000
-    },
-    {
-      "id": "org-rajasthan-council-school-education",
-      "label": "Rajasthan Council School Education",
-      "count": 5,
-      "value": 11646000
     },
     {
       "id": "org-rajasthan-medical-education-society",
@@ -4210,22 +4294,16 @@
       "value": 9816000
     },
     {
-      "id": "org-wrd-ce-as",
-      "label": "Wrd Ce As",
+      "id": "org-se-upcl-corporate",
+      "label": "Se Upcl Corporate",
       "count": 5,
-      "value": 24080915
+      "value": 53206292
     },
     {
       "id": "org-chief-engineer-moradabad-zone-pwd-moradabad-up",
       "label": "Chief Engineer Moradabad Zone Pwd Moradabad Up",
       "count": 5,
       "value": 41300000
-    },
-    {
-      "id": "org-commissioner-rural-development-up",
-      "label": "Commissioner Rural Development Up",
-      "count": 5,
-      "value": 5148000
     },
     {
       "id": "org-construction-design-services-up-jal-nigam",
@@ -4306,6 +4384,12 @@
       "value": 77904788
     },
     {
+      "id": "org-sant-longowal-institute-engineering-technology",
+      "label": "Sant Longowal Institute Engineering Technology",
+      "count": 4,
+      "value": 8600241
+    },
+    {
       "id": "org-cofmow",
       "label": "Cofmow",
       "count": 4,
@@ -4360,16 +4444,22 @@
       "value": 0
     },
     {
+      "id": "org-delhi-transport",
+      "label": "Delhi Transport",
+      "count": 4,
+      "value": 77543243
+    },
+    {
       "id": "org-goa-tourism-development",
       "label": "Goa Tourism Development",
       "count": 4,
       "value": 191809340
     },
     {
-      "id": "org-department-information-technology",
-      "label": "Department Information Technology",
+      "id": "org-info-tech-goa",
+      "label": "Info Tech Goa",
       "count": 4,
-      "value": 50000000
+      "value": 0
     },
     {
       "id": "org-directorate-animal-husbandry",
@@ -4438,18 +4528,6 @@
       "value": 0
     },
     {
-      "id": "org-district-nirmithikendra-ernakulam",
-      "label": "District Nirmithikendra Ernakulam",
-      "count": 4,
-      "value": 13038000
-    },
-    {
-      "id": "org-harbour-engineering-department",
-      "label": "Harbour Engineering Department",
-      "count": 4,
-      "value": 22406985
-    },
-    {
       "id": "org-kerala-feeds",
       "label": "Kerala Feeds",
       "count": 4,
@@ -4460,6 +4538,12 @@
       "label": "Regional Cancer Centre",
       "count": 4,
       "value": 0
+    },
+    {
+      "id": "org-kerala-small-industries-development",
+      "label": "Kerala Small Industries Development",
+      "count": 4,
+      "value": 9899021
     },
     {
       "id": "org-travancore-cochin-chemicals",
@@ -4474,14 +4558,20 @@
       "value": 2896836592
     },
     {
+      "id": "org-gwalior-vyapar-mela-pradhikaran-gvmp",
+      "label": "Gwalior Vyapar Mela Pradhikaran Gvmp",
+      "count": 4,
+      "value": 0
+    },
+    {
       "id": "org-madhya-pradesh-bhawan",
       "label": "Madhya Pradesh Bhawan",
       "count": 4,
       "value": 1800000
     },
     {
-      "id": "org-rdd-ceo-aurangabad",
-      "label": "Rdd Ceo Aurangabad",
+      "id": "org-madhya-pradesh-power-management-jabalpur",
+      "label": "Madhya Pradesh Power Management Jabalpur",
       "count": 4,
       "value": 0
     },
@@ -4516,6 +4606,12 @@
       "value": 0
     },
     {
+      "id": "org-idco",
+      "label": "Idco",
+      "count": 4,
+      "value": 1568025
+    },
+    {
       "id": "org-orissa-mining",
       "label": "Orissa Mining",
       "count": 4,
@@ -4528,16 +4624,16 @@
       "value": 24584690
     },
     {
-      "id": "org-ce-bm-baitarani-basin-kenojhar",
-      "label": "Ce Bm Baitarani Basin Kenojhar",
-      "count": 4,
-      "value": 4685135
-    },
-    {
       "id": "org-directorate-higher-technical-education",
       "label": "Directorate Higher Technical Education",
       "count": 4,
       "value": 0
+    },
+    {
+      "id": "org-directorate-agriculture-marketing-jaipur",
+      "label": "Directorate Agriculture Marketing Jaipur",
+      "count": 4,
+      "value": 6280000
     },
     {
       "id": "org-rsrdcc-gm",
@@ -4570,6 +4666,12 @@
       "value": 7260838
     },
     {
+      "id": "org-md-bridcul",
+      "label": "Md Bridcul",
+      "count": 4,
+      "value": 70176000
+    },
+    {
       "id": "org-principal-government-doon-medical-college-dehradun",
       "label": "Principal Government Doon Medical College Dehradun",
       "count": 4,
@@ -4586,12 +4688,6 @@
       "label": "Cheif Engineer Bareilly Zone Pwd Bareilly",
       "count": 4,
       "value": 6150000
-    },
-    {
-      "id": "org-cheif-engineer-kanpur-zone-pwd-kanpur",
-      "label": "Cheif Engineer Kanpur Zone Pwd Kanpur",
-      "count": 4,
-      "value": 29800000
     },
     {
       "id": "org-director-general-medical-education-training-hq",
@@ -4652,6 +4748,12 @@
       "label": "University Calcutta",
       "count": 4,
       "value": 498138
+    },
+    {
+      "id": "org-department-school-education",
+      "label": "Department School Education",
+      "count": 4,
+      "value": 0
     },
     {
       "id": "org-saraswaty-press",
@@ -4810,12 +4912,6 @@
       "value": 1600605
     },
     {
-      "id": "org-delhi-transport",
-      "label": "Delhi Transport",
-      "count": 3,
-      "value": 74701513
-    },
-    {
       "id": "org-delhi-transport-infrastructure-devlopment",
       "label": "Delhi Transport Infrastructure Devlopment",
       "count": 3,
@@ -4832,12 +4928,6 @@
       "label": "Goa State Operative Milk Producers Union",
       "count": 3,
       "value": 0
-    },
-    {
-      "id": "org-directorate-agriculture",
-      "label": "Directorate Agriculture",
-      "count": 3,
-      "value": 4430433
     },
     {
       "id": "org-department-tribal-welfare",
@@ -4906,12 +4996,6 @@
       "value": 0
     },
     {
-      "id": "org-kerala-small-industries-development",
-      "label": "Kerala Small Industries Development",
-      "count": 3,
-      "value": 1899021
-    },
-    {
       "id": "org-steel-industrial-forgings",
       "label": "Steel Industrial Forgings",
       "count": 3,
@@ -4940,12 +5024,6 @@
       "label": "Shree Mahakaleshwar Mandir Prabandh Samiti Ujjain",
       "count": 3,
       "value": 57550000
-    },
-    {
-      "id": "org-madhya-pradesh-power-management-jabalpur",
-      "label": "Madhya Pradesh Power Management Jabalpur",
-      "count": 3,
-      "value": 0
     },
     {
       "id": "org-m-p-textbook-bhopal",
@@ -4978,6 +5056,12 @@
       "value": 0
     },
     {
+      "id": "org-rdd-ceo-nashik",
+      "label": "Rdd Ceo Nashik",
+      "count": 3,
+      "value": 41064000
+    },
+    {
       "id": "org-social-justice-special-assistance-department",
       "label": "Social Justice Special Assistance Department",
       "count": 3,
@@ -5002,10 +5086,22 @@
       "value": 42223470
     },
     {
-      "id": "org-idco",
-      "label": "Idco",
+      "id": "org-forest-environment-climate-change-department",
+      "label": "Forest Environment Climate Change Department",
       "count": 3,
-      "value": 684740
+      "value": 3429826
+    },
+    {
+      "id": "org-nbcc",
+      "label": "Nbcc",
+      "count": 3,
+      "value": 465868779
+    },
+    {
+      "id": "org-odisha-hydro-power",
+      "label": "Odisha Hydro Power",
+      "count": 3,
+      "value": 0
     },
     {
       "id": "org-orissa-state-road-transport",
@@ -5110,12 +5206,6 @@
       "value": 11774000
     },
     {
-      "id": "org-md-bridcul",
-      "label": "Md Bridcul",
-      "count": 3,
-      "value": 67636000
-    },
-    {
       "id": "org-cmo-chamoli",
       "label": "Cmo Chamoli",
       "count": 3,
@@ -5164,12 +5254,6 @@
       "value": 14591000
     },
     {
-      "id": "org-se-upcl-corporate",
-      "label": "Se Upcl Corporate",
-      "count": 3,
-      "value": 33838000
-    },
-    {
       "id": "org-chief-engineer-agra-zone-pwd-agra-up",
       "label": "Chief Engineer Agra Zone Pwd Agra Up",
       "count": 3,
@@ -5180,12 +5264,6 @@
       "label": "Cheif Engineer Allahabad Zone Pwd Allahabad",
       "count": 3,
       "value": 91300000
-    },
-    {
-      "id": "org-cheif-engineer-meerut-zone-pwd-meerut",
-      "label": "Cheif Engineer Meerut Zone Pwd Meerut",
-      "count": 3,
-      "value": 3000000
     },
     {
       "id": "org-directorate-geology-mining",
@@ -5222,6 +5300,18 @@
       "label": "Webel Technology",
       "count": 3,
       "value": 0
+    },
+    {
+      "id": "org-department-housing-urban-affairs",
+      "label": "Department Housing Urban Affairs",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-information-public-relations-printing-stationery-department",
+      "label": "Information Public Relations Printing Stationery Department",
+      "count": 2,
+      "value": 10600000
     },
     {
       "id": "org-assam-science-technology-university",
@@ -5716,12 +5806,6 @@
       "value": 10800000
     },
     {
-      "id": "org-gwalior-vyapar-mela-pradhikaran-gvmp",
-      "label": "Gwalior Vyapar Mela Pradhikaran Gvmp",
-      "count": 2,
-      "value": 0
-    },
-    {
       "id": "org-m-p-vidhan-sabha",
       "label": "M P Vidhan Sabha",
       "count": 2,
@@ -5782,12 +5866,6 @@
       "value": 7000000
     },
     {
-      "id": "org-rdd-ceo-nashik",
-      "label": "Rdd Ceo Nashik",
-      "count": 2,
-      "value": 41064000
-    },
-    {
       "id": "org-nanded-waghala-city-municipal-nanded",
       "label": "Nanded Waghala City Municipal Nanded",
       "count": 2,
@@ -5824,16 +5902,22 @@
       "value": 3546111
     },
     {
-      "id": "org-forest-environment-climate-change-department",
-      "label": "Forest Environment Climate Change Department",
-      "count": 2,
-      "value": 1679826
-    },
-    {
       "id": "org-national-projects-construction-npcc",
       "label": "National Projects Construction Npcc",
       "count": 2,
       "value": 271023364
+    },
+    {
+      "id": "org-odisha-construction",
+      "label": "Odisha Construction",
+      "count": 2,
+      "value": 0
+    },
+    {
+      "id": "org-odisha-small-industries",
+      "label": "Odisha Small Industries",
+      "count": 2,
+      "value": 0
     },
     {
       "id": "org-odisha-tourism-devl",
@@ -5878,12 +5962,6 @@
       "value": 3102886
     },
     {
-      "id": "org-directorate-agriculture-marketing-jaipur",
-      "label": "Directorate Agriculture Marketing Jaipur",
-      "count": 2,
-      "value": 3230000
-    },
-    {
       "id": "org-general-administrative-department",
       "label": "General Administrative Department",
       "count": 2,
@@ -5900,6 +5978,12 @@
       "label": "Raj Bhawan",
       "count": 2,
       "value": 3250000
+    },
+    {
+      "id": "org-rajasthan-state-operative-bank",
+      "label": "Rajasthan State Operative Bank",
+      "count": 2,
+      "value": 81614000
     },
     {
       "id": "org-rajasthan-housing-board-ce",
@@ -5968,6 +6052,12 @@
       "value": 0
     },
     {
+      "id": "org-tamilnadu-tea-plantation",
+      "label": "Tamilnadu Tea Plantation",
+      "count": 2,
+      "value": 0
+    },
+    {
       "id": "org-ardd-piu",
       "label": "Ardd Piu",
       "count": 2,
@@ -5998,6 +6088,18 @@
       "value": 2297080
     },
     {
+      "id": "org-managing-director",
+      "label": "Managing Director",
+      "count": 2,
+      "value": 1965360
+    },
+    {
+      "id": "org-addl-director-general-police",
+      "label": "Addl Director General Police",
+      "count": 2,
+      "value": 1198442
+    },
+    {
       "id": "org-pms-b-d-pandey-male-hospital-nainital",
       "label": "Pms B D Pandey Male Hospital Nainital",
       "count": 2,
@@ -6022,6 +6124,12 @@
       "value": 13534000
     },
     {
+      "id": "org-pms-district-hospital-almora",
+      "label": "Pms District Hospital Almora",
+      "count": 2,
+      "value": 2000000
+    },
+    {
       "id": "org-chairman-uttarakhand-medical-service-selection-board-dehradun",
       "label": "Chairman Uttarakhand Medical Service Selection Board Dehradu",
       "count": 2,
@@ -6038,6 +6146,12 @@
       "label": "Chief Engineer Basti Zone Pwd Basti",
       "count": 2,
       "value": 2400000
+    },
+    {
+      "id": "org-chief-engineer-pwd-varanasi-zone",
+      "label": "Chief Engineer Pwd Varanasi Zone",
+      "count": 2,
+      "value": 3025000
     },
     {
       "id": "org-meerut-development-authority",
@@ -6082,6 +6196,12 @@
       "value": 1434195
     },
     {
+      "id": "org-hooghly-river-bridge-commissioners",
+      "label": "Hooghly River Bridge Commissioners",
+      "count": 2,
+      "value": 1091221
+    },
+    {
       "id": "org-information-cultural-affairs-department",
       "label": "Information Cultural Affairs Department",
       "count": 2,
@@ -6118,16 +6238,10 @@
       "value": 0
     },
     {
-      "id": "org-department-housing-urban-affairs",
-      "label": "Department Housing Urban Affairs",
+      "id": "org-department-innovation-incubation-startups-diis",
+      "label": "Department Innovation Incubation Startups Diis",
       "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-information-public-relations-printing-stationery-department",
-      "label": "Information Public Relations Printing Stationery Department",
-      "count": 1,
-      "value": 9000000
+      "value": 69120000
     },
     {
       "id": "org-skill-employment-entrepreneurship-department-externally-aided-project",
@@ -6170,6 +6284,12 @@
       "label": "Ce Asm",
       "count": 1,
       "value": 73069000
+    },
+    {
+      "id": "org-engineer-in-chief-panchayat-raj-ap",
+      "label": "Engineer In Chief Panchayat Raj Ap",
+      "count": 1,
+      "value": 52040811
     },
     {
       "id": "org-all-institute-medical-sciences-bhubaneswar",
@@ -6250,6 +6370,12 @@
       "value": 0
     },
     {
+      "id": "org-ghani-khan-choudhury-institute-engineering-technology",
+      "label": "Ghani Khan Choudhury Institute Engineering Technology",
+      "count": 1,
+      "value": 0
+    },
+    {
       "id": "org-harish-chandra-research-institute",
       "label": "Harish Chandra Research Institute",
       "count": 1,
@@ -6310,6 +6436,12 @@
       "value": 0
     },
     {
+      "id": "org-indian-institute-information-technology-design-manufacturing-kancheepuram",
+      "label": "Indian Institute Information Technology Design Manufacturing",
+      "count": 1,
+      "value": 0
+    },
+    {
       "id": "org-indian-ports-association",
       "label": "Indian Ports Association",
       "count": 1,
@@ -6338,6 +6470,12 @@
       "label": "Maulana Azad National Institute Technology",
       "count": 1,
       "value": 2499472
+    },
+    {
+      "id": "org-central-board-secondary-education",
+      "label": "Central Board Secondary Education",
+      "count": 1,
+      "value": 200000000
     },
     {
       "id": "org-malaviya-national-institute-technology-jaipur",
@@ -6416,6 +6554,12 @@
       "label": "Raja Ramanna Centre For Advanced Technology Indore",
       "count": 1,
       "value": 158500000
+    },
+    {
+      "id": "org-survey",
+      "label": "Survey",
+      "count": 1,
+      "value": 0
     },
     {
       "id": "org-variable-energy-cyclotron-centre",
@@ -6802,12 +6946,6 @@
       "value": 0
     },
     {
-      "id": "org-info-tech-goa",
-      "label": "Info Tech Goa",
-      "count": 1,
-      "value": 0
-    },
-    {
       "id": "org-river-navigation-department",
       "label": "River Navigation Department",
       "count": 1,
@@ -6868,6 +7006,12 @@
       "value": 0
     },
     {
+      "id": "org-non-conventional-energy-sources",
+      "label": "Non Conventional Energy Sources",
+      "count": 1,
+      "value": 640000000
+    },
+    {
       "id": "org-himachal-pradesh-tourism-development-board",
       "label": "Himachal Pradesh Tourism Development Board",
       "count": 1,
@@ -6924,6 +7068,18 @@
     {
       "id": "org-industry-directorate",
       "label": "Industry Directorate",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-it-dept",
+      "label": "It Dept",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-jharkhand-bhawan-new-delhi",
+      "label": "Jharkhand Bhawan New Delhi",
       "count": 1,
       "value": 0
     },
@@ -7012,12 +7168,6 @@
       "value": 798000
     },
     {
-      "id": "org-kerala-artisans-development",
-      "label": "Kerala Artisans Development",
-      "count": 1,
-      "value": 868000
-    },
-    {
       "id": "org-kerala-agro-machinery",
       "label": "Kerala Agro Machinery",
       "count": 1,
@@ -7078,6 +7228,12 @@
       "value": 1764875
     },
     {
+      "id": "org-kannur-university",
+      "label": "Kannur University",
+      "count": 1,
+      "value": 0
+    },
+    {
       "id": "org-mar-athanasius-college-engineering",
       "label": "Mar Athanasius College Engineering",
       "count": 1,
@@ -7130,6 +7286,12 @@
       "label": "M P Rajya Sahakari Bank Maryadit Bhopal",
       "count": 1,
       "value": 0
+    },
+    {
+      "id": "org-devi-ahilya-vishwavidyalaya-indore",
+      "label": "Devi Ahilya Vishwavidyalaya Indore",
+      "count": 1,
+      "value": 800000
     },
     {
       "id": "org-directorate-farmer-welfare-agriculture-development",
@@ -7190,6 +7352,12 @@
       "label": "Narmada Valley Development Authority",
       "count": 1,
       "value": 619603
+    },
+    {
+      "id": "org-principal-revenue-commissioner",
+      "label": "Principal Revenue Commissioner",
+      "count": 1,
+      "value": 0
     },
     {
       "id": "org-rural-engineering-service",
@@ -7402,6 +7570,12 @@
       "value": 8413561
     },
     {
+      "id": "org-state-project-directorate",
+      "label": "State Project Directorate",
+      "count": 1,
+      "value": 0
+    },
+    {
       "id": "org-sant-gadge-baba-amravati-university",
       "label": "Sant Gadge Baba Amravati University",
       "count": 1,
@@ -7504,18 +7678,6 @@
       "value": 20288147
     },
     {
-      "id": "org-odisha-construction",
-      "label": "Odisha Construction",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-odisha-hydro-power",
-      "label": "Odisha Hydro Power",
-      "count": 1,
-      "value": 0
-    },
-    {
       "id": "org-orissa-lift-irrigation",
       "label": "Orissa Lift Irrigation",
       "count": 1,
@@ -7524,12 +7686,6 @@
     {
       "id": "org-odisha-state-cashew-devt",
       "label": "Odisha State Cashew Devt",
-      "count": 1,
-      "value": 0
-    },
-    {
-      "id": "org-odisha-small-industries",
-      "label": "Odisha Small Industries",
       "count": 1,
       "value": 0
     },
@@ -7550,6 +7706,12 @@
       "label": "Operative Department",
       "count": 1,
       "value": 2698150
+    },
+    {
+      "id": "org-directorate-survey-land-records-puducherry",
+      "label": "Directorate Survey Land Records Puducherry",
+      "count": 1,
+      "value": 0
     },
     {
       "id": "org-puducherry-examining-authority",
@@ -7640,12 +7802,6 @@
       "label": "Marwar Medical University Jodhpur",
       "count": 1,
       "value": 550000
-    },
-    {
-      "id": "org-rajasthan-state-operative-bank",
-      "label": "Rajasthan State Operative Bank",
-      "count": 1,
-      "value": 79650000
     },
     {
       "id": "org-rajasthan-state-operative-marketing-federation",
@@ -7792,6 +7948,12 @@
       "value": 830000
     },
     {
+      "id": "org-director-scert",
+      "label": "Director Scert",
+      "count": 1,
+      "value": 1320000
+    },
+    {
       "id": "org-directorate-food-civil-supplies-ca",
       "label": "Directorate Food Civil Supplies Ca",
       "count": 1,
@@ -7810,14 +7972,26 @@
       "value": 500000
     },
     {
-      "id": "org-addl-director-general-police",
-      "label": "Addl Director General Police",
+      "id": "org-directorate-handloom-handicrafts-sericulture",
+      "label": "Directorate Handloom Handicrafts Sericulture",
       "count": 1,
-      "value": 250000
+      "value": 18000000
+    },
+    {
+      "id": "org-director-health-services",
+      "label": "Director Health Services",
+      "count": 1,
+      "value": 200000
     },
     {
       "id": "org-chief-executive-officer-thcb",
       "label": "Chief Executive Officer Thcb",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-ministry-industries-commerce",
+      "label": "Ministry Industries Commerce",
       "count": 1,
       "value": 0
     },
@@ -7850,6 +8024,12 @@
       "label": "Director Directorate Prosecution Uttarakhand Dehradun",
       "count": 1,
       "value": 1000000
+    },
+    {
+      "id": "org-executive-officer-nagar-palika-parishad-badahaat-uttarkashi",
+      "label": "Executive Officer Nagar Palika Parishad Badahaat Uttarkashi",
+      "count": 1,
+      "value": 31700000
     },
     {
       "id": "org-principal-government-medical-college-haldwani",
@@ -7918,16 +8098,22 @@
       "value": 0
     },
     {
-      "id": "org-pms-district-hospital-almora",
-      "label": "Pms District Hospital Almora",
-      "count": 1,
-      "value": 1000000
-    },
-    {
       "id": "org-principal-soban-singh-jeena-government-institute-medical-science-research-almora",
       "label": "Principal Soban Singh Jeena Government Institute Medical Sci",
       "count": 1,
       "value": 1500000
+    },
+    {
+      "id": "org-project-management-unit-ucrrfp",
+      "label": "Project Management Unit Ucrrfp",
+      "count": 1,
+      "value": 0
+    },
+    {
+      "id": "org-md-updcc",
+      "label": "Md Updcc",
+      "count": 1,
+      "value": 0
     },
     {
       "id": "org-allahabad-development-authority",
@@ -7940,12 +8126,6 @@
       "label": "Office Chief Electoral Officer",
       "count": 1,
       "value": 0
-    },
-    {
-      "id": "org-chief-engineer-pwd-varanasi-zone",
-      "label": "Chief Engineer Pwd Varanasi Zone",
-      "count": 1,
-      "value": 2800000
     },
     {
       "id": "org-kanpur-municipal",
@@ -8038,6 +8218,12 @@
       "value": 181475
     },
     {
+      "id": "org-wb-hidco",
+      "label": "Wb Hidco",
+      "count": 1,
+      "value": 231008
+    },
+    {
       "id": "org-malda-medical-college-hospital",
       "label": "Malda Medical College Hospital",
       "count": 1,
@@ -8074,6 +8260,12 @@
       "value": 2000000
     },
     {
+      "id": "org-west-bengal-police",
+      "label": "West Bengal Police",
+      "count": 1,
+      "value": 23950000
+    },
+    {
       "id": "org-west-bengal-state-handicrafts-operative-society",
       "label": "West Bengal State Handicrafts Operative Society",
       "count": 1,
@@ -8081,13 +8273,13 @@
     }
   ],
   "byValueBand": {
-    "lt1cr": 33462,
-    "1to10cr": 14422,
-    "gt10cr": 1829,
-    "none": 181207
+    "lt1cr": 34342,
+    "1to10cr": 14503,
+    "gt10cr": 1845,
+    "none": 181634
   },
   "byStatus": {
-    "active": 44923,
+    "active": 46327,
     "cancelled": 4996,
     "completed": 8296,
     "unsuccessful": 542,
@@ -8204,12 +8396,12 @@
     "2025-10": 6,
     "2025-11": 7,
     "2025-12": 17,
-    "2026-01": 18,
-    "2026-02": 153,
+    "2026-01": 19,
+    "2026-02": 154,
     "2026-03": 174,
-    "2026-04": 543,
-    "2026-05": 7722,
-    "2026-06": 16006
+    "2026-04": 551,
+    "2026-05": 7764,
+    "2026-06": 17358
   },
   "byYear": {
     "2012": 15,
@@ -8223,7 +8415,7 @@
     "2020": 6829,
     "2021": 2753,
     "2025": 56,
-    "2026": 24616
+    "2026": 26020
   },
   "yearBuckets": {
     "2012": {
@@ -14775,21 +14967,21 @@
       }
     },
     "2026": {
-      "count": 24616,
-      "value": 229374079126,
+      "count": 26020,
+      "value": 240802652726,
       "archive": 0,
       "cat": {
+        "works": [
+          19229,
+          170835406488
+        ],
         "services": [
-          2176,
-          41522637785
+          2301,
+          44384126629
         ],
         "goods": [
-          4147,
-          23257349055
-        ],
-        "works": [
-          18244,
-          164594092286
+          4441,
+          25583119609
         ],
         "other": [
           49,
@@ -14797,12 +14989,24 @@
         ]
       },
       "band": {
-        "1to10cr": 1932,
-        "none": 6588,
-        "gt10cr": 259,
-        "lt1cr": 15837
+        "none": 7015,
+        "1to10cr": 2013,
+        "gt10cr": 275,
+        "lt1cr": 16717
       },
       "src": {
+        "org-arunachal-pradesh-police": [
+          5,
+          0
+        ],
+        "org-rural-development-department": [
+          52,
+          17137933
+        ],
+        "org-public-works-department": [
+          505,
+          4925772057
+        ],
         "org-directorate-urban-local-bodies-govt-arunachal-pradesh": [
           1,
           10000000
@@ -14812,24 +15016,24 @@
           0
         ],
         "org-assam-electricity-grid": [
-          12,
-          753479224
+          13,
+          761923304
         ],
         "org-assam-power-distribution": [
           18,
           191335731
         ],
         "org-assam-power-generation": [
-          12,
+          13,
           322881863
         ],
         "org-bodoland-territorial-council-pwd": [
-          12,
-          140263455
+          13,
+          180003394
         ],
         "org-bodoland-territorial-council": [
-          9,
-          161331275
+          12,
+          170331275
         ],
         "org-cooperation-department": [
           3,
@@ -14844,8 +15048,12 @@
           0
         ],
         "org-department-housing-urban-affairs": [
-          1,
+          2,
           0
+        ],
+        "org-department-innovation-incubation-startups-diis": [
+          1,
+          69120000
         ],
         "org-dibrugarh-university": [
           1,
@@ -14864,8 +15072,8 @@
           0
         ],
         "org-guwahati-municipal": [
-          4,
-          5896524
+          5,
+          7896524
         ],
         "org-guwahati-metropolitan-development-authority": [
           3,
@@ -14876,24 +15084,24 @@
           3223906
         ],
         "org-department-higher-education": [
-          9,
+          10,
           44251950
         ],
         "org-health-family-welfare-department": [
-          53,
-          793058607
+          58,
+          847358607
         ],
         "org-industries-commerce-department": [
-          17,
-          3900000
+          18,
+          43585276
         ],
         "org-irrigation-department": [
-          66,
-          80089159
+          69,
+          124615668
         ],
         "org-information-public-relations-printing-stationery-department": [
-          1,
-          9000000
+          2,
+          10600000
         ],
         "org-karbi-anglong-autonomous-council": [
           1,
@@ -14912,7 +15120,7 @@
           9100000
         ],
         "org-public-health-engineering-department": [
-          13,
+          15,
           150646800
         ],
         "org-principal-secretary-p-rd-assam-secretariat": [
@@ -14920,16 +15128,16 @@
           0
         ],
         "org-public-works-building-nh-department": [
-          26,
-          1204897149
+          33,
+          1673526762
         ],
         "org-public-works-roads-department": [
-          19,
-          519641720
+          24,
+          558152571
         ],
         "org-public-works-roads-department-externally-aided-project": [
-          26,
-          1346238000
+          30,
+          1516304000
         ],
         "org-soil-conservation-department": [
           1,
@@ -14940,16 +15148,16 @@
           0
         ],
         "org-urban-development-department": [
-          42,
-          946206278
+          46,
+          968328467
         ],
         "org-welfare-plain-tribes-backward-classes": [
           2,
           14998245
         ],
         "bhel": [
-          692,
-          151182702
+          761,
+          151503670
         ],
         "org-agriculture": [
           3,
@@ -14960,8 +15168,8 @@
           58819202
         ],
         "nrrda": [
-          83,
-          3675791000
+          91,
+          3775388000
         ],
         "org-ce-rd-ar": [
           7,
@@ -14980,8 +15188,12 @@
           7442391
         ],
         "org-ce-rw-i": [
-          455,
-          10650923757
+          472,
+          10714834159
+        ],
+        "org-engineer-in-chief-panchayat-raj-ap": [
+          1,
+          52040811
         ],
         "org-ksrrda": [
           7,
@@ -14996,19 +15208,19 @@
           57536737
         ],
         "org-gujarat-srrda": [
-          7,
-          175088898
+          8,
+          195765301
         ],
         "coal-india": [
-          643,
-          2016226096
+          669,
+          2053430277
         ],
         "org-central-mine-planning-design-institute": [
           14,
           141680030
         ],
         "org-cpcl": [
-          17,
+          18,
           128020240
         ],
         "org-all-institute-medical-sciences-bibinagar": [
@@ -15068,12 +15280,12 @@
           0
         ],
         "org-assam-rifles-mha": [
-          109,
-          62429531
+          117,
+          63829212
         ],
         "org-archaeological-survey": [
-          60,
-          219239542
+          63,
+          224063921
         ],
         "org-assam-university-silchar": [
           6,
@@ -15092,8 +15304,8 @@
           33621924
         ],
         "org-dg": [
-          111,
-          794706918
+          132,
+          880061883
         ],
         "org-bharat-sanchar-nigam": [
           15,
@@ -15144,8 +15356,8 @@
           173670000
         ],
         "org-delhi-development-authority": [
-          81,
-          319790176
+          84,
+          326521979
         ],
         "rcf": [
           9,
@@ -15172,12 +15384,12 @@
           2900000
         ],
         "org-delhi-metro-rail": [
-          4,
-          9418170
+          5,
+          31424669
         ],
         "org-department-posts": [
-          60,
-          67917292
+          65,
+          76480116
         ],
         "org-department-pharmaceuticals": [
           1,
@@ -15188,8 +15400,8 @@
           0
         ],
         "org-defence-research-development-organisation": [
-          42,
-          374511538
+          43,
+          383173490
         ],
         "org-department-revenue": [
           6,
@@ -15212,22 +15424,26 @@
           0
         ],
         "org-engineers": [
-          81,
+          87,
           0
         ],
         "org-employees-state-insurance": [
-          13,
-          4146219323
+          14,
+          4180361805
         ],
         "org-fertilisers-chemicals-travancore": [
-          27,
+          28,
           0
         ],
         "org-food": [
-          17,
-          184522898
+          18,
+          184702898
         ],
         "org-food-safety-standards-authority": [
+          1,
+          0
+        ],
+        "org-ghani-khan-choudhury-institute-engineering-technology": [
           1,
           0
         ],
@@ -15316,8 +15532,12 @@
           1380389
         ],
         "iit": [
-          74,
-          175240031
+          77,
+          178856840
+        ],
+        "org-indian-institute-information-technology-design-manufacturing-kancheepuram": [
+          1,
+          0
         ],
         "org-indian-institute-information-technology-sri-city-chittoor": [
           3,
@@ -15387,6 +15607,10 @@
           1,
           0
         ],
+        "org-central-board-secondary-education": [
+          1,
+          200000000
+        ],
         "org-malaviya-national-institute-technology-jaipur": [
           1,
           0
@@ -15448,7 +15672,7 @@
           207158662
         ],
         "nhpc": [
-          10,
+          11,
           40641933
         ],
         "org-national-institute-biomedical-genomics": [
@@ -15472,8 +15696,8 @@
           0
         ],
         "org-national-institute-technology-karnataka": [
-          8,
-          14873936
+          11,
+          23373936
         ],
         "org-national-institute-technology-tiruchirappalli": [
           1,
@@ -15496,7 +15720,7 @@
           11162408
         ],
         "org-nuclear-recycle-board": [
-          12,
+          13,
           129810030
         ],
         "org-numaligarh-refinery": [
@@ -15508,8 +15732,8 @@
           0
         ],
         "org-postgraduate-institute-medical-education-research-chandigarh": [
-          15,
-          6136850
+          16,
+          6432602
         ],
         "org-pondicherry-university": [
           1,
@@ -15536,8 +15760,8 @@
           158500000
         ],
         "org-sports-authority": [
-          10,
-          21644794
+          20,
+          41740756
         ],
         "org-semi-conductor-laboratory": [
           2,
@@ -15545,6 +15769,14 @@
         ],
         "org-santacruz-electronics-export-processing-zone-special-economic-zone-mumbai": [
           2,
+          0
+        ],
+        "org-sant-longowal-institute-engineering-technology": [
+          4,
+          8600241
+        ],
+        "org-survey": [
+          1,
           0
         ],
         "org-dg-sashastra-seema-bal": [
@@ -15576,31 +15808,31 @@
           0
         ],
         "bro": [
-          11,
-          1846945979
+          12,
+          2584545979
         ],
         "org-directorate-general-defence-estates": [
-          57,
-          279696095
+          63,
+          309778095
         ],
         "mes": [
-          967,
-          7737757751
+          988,
+          7803083872
         ],
         "mod": [
-          308,
-          1044041932
+          331,
+          1046501505
         ],
         "org-department-defence-research-development": [
-          62,
+          76,
           1181000
         ],
         "org-indian-air-force": [
-          49,
-          0
+          51,
+          103780
         ],
         "org-indian-coast-guard": [
-          2,
+          3,
           78750
         ],
         "org-integrated-defence-staff": [
@@ -15616,7 +15848,7 @@
           1416157538
         ],
         "org-ipgcl-ppcl": [
-          19,
+          20,
           21338307
         ],
         "org-delhi-agricultural-marketing-board": [
@@ -15624,8 +15856,8 @@
           1600605
         ],
         "org-delhi-jal-board": [
-          648,
-          1092679490
+          680,
+          1113276677
         ],
         "org-delhi-state-civil-supplies": [
           1,
@@ -15636,12 +15868,12 @@
           9000000
         ],
         "org-dsiidc": [
-          48,
-          1345693251
+          55,
+          1576079765
         ],
         "org-delhi-transport": [
-          3,
-          74701513
+          4,
+          77543243
         ],
         "org-delhi-transport-infrastructure-devlopment": [
           3,
@@ -15656,20 +15888,20 @@
           28011972
         ],
         "org-delhi-urban-shelter-improvement-board": [
-          34,
-          185451715
+          39,
+          188353147
         ],
         "org-dy-conservator-forests": [
           3,
           160515819
         ],
         "org-ggs-inderprastha-university": [
-          5,
-          15592359
+          6,
+          17666166
         ],
         "org-irrigation-flood-control": [
-          61,
-          844365091
+          64,
+          859870450
         ],
         "org-new-delhi-municipal-council": [
           22,
@@ -15683,10 +15915,6 @@
           1,
           0
         ],
-        "org-public-works-department": [
-          435,
-          4677790891
-        ],
         "org-goa-state-operative-milk-producers-union": [
           3,
           0
@@ -15696,7 +15924,7 @@
           0
         ],
         "org-directorate-agriculture": [
-          3,
+          6,
           4430433
         ],
         "org-department-drinking-water": [
@@ -15716,8 +15944,8 @@
           0
         ],
         "org-department-rural-development": [
-          22,
-          105818280
+          24,
+          111540936
         ],
         "org-directorate-small-savings-lotteries": [
           1,
@@ -15768,7 +15996,7 @@
           0
         ],
         "org-goa-state-urban-development-agency": [
-          6,
+          7,
           9418938
         ],
         "org-goa-tourism-development": [
@@ -15780,16 +16008,16 @@
           0
         ],
         "org-info-tech-goa": [
-          1,
+          4,
           0
         ],
         "org-department-information-technology": [
-          3,
+          4,
           0
         ],
         "org-municipal-councils": [
-          9,
-          52619263
+          18,
+          75746952
         ],
         "org-river-navigation-department": [
           1,
@@ -15808,24 +16036,24 @@
           0
         ],
         "org-village-panchayats": [
-          10,
-          5705799
+          12,
+          7306815
         ],
         "org-water-resource-department": [
-          39,
-          77596617
+          42,
+          88116713
         ],
         "org-zilla-panchayats": [
           38,
           38398569
         ],
         "org-haryana-government": [
-          864,
-          9108867887
+          916,
+          9819080556
         ],
         "org-haryana-board": [
-          404,
-          2377048751
+          416,
+          2400936800
         ],
         "org-baddi-barotiwala-nalagarh-development-authority": [
           5,
@@ -15860,8 +16088,8 @@
           0
         ],
         "org-himachal-urban-development-authority": [
-          10,
-          77414752
+          13,
+          85565986
         ],
         "org-hp-agro-industries": [
           1,
@@ -15880,8 +16108,8 @@
           0
         ],
         "org-hp-irrigation-public-health": [
-          211,
-          461761172
+          213,
+          462302072
         ],
         "org-hp-horticultural-produce-marketing-processing": [
           11,
@@ -15896,8 +16124,8 @@
           0
         ],
         "org-hpsebl": [
-          283,
-          611490629
+          285,
+          612414009
         ],
         "org-h-p-state-electronics-development": [
           1,
@@ -15915,13 +16143,17 @@
           1,
           0
         ],
+        "org-non-conventional-energy-sources": [
+          1,
+          640000000
+        ],
         "org-shree-naina-devi-ji-temple-trust": [
           3,
           2669862
         ],
         "org-pwd": [
-          1195,
-          5733372878
+          1255,
+          5838982790
         ],
         "org-shimla-jal-prabandhan-nigam": [
           4,
@@ -15936,8 +16168,8 @@
           621821
         ],
         "org-indianoil": [
-          233,
-          11198437080
+          255,
+          11555707174
         ],
         "org-agriculture-production-department": [
           2,
@@ -15948,16 +16180,16 @@
           735000
         ],
         "org-forest-department": [
-          71,
-          99847936
+          73,
+          100210936
         ],
         "org-fire-emergency-services": [
           1,
           0
         ],
         "org-haudd": [
-          72,
-          513682519
+          79,
+          612879094
         ],
         "org-health-medical-education": [
           40,
@@ -15972,8 +16204,8 @@
           168300
         ],
         "org-i-fc": [
-          86,
-          234608664
+          91,
+          234796336
         ],
         "org-jandk-state-cable-car": [
           2,
@@ -15984,16 +16216,16 @@
           0
         ],
         "org-dc-pdd": [
-          70,
-          737822523
+          75,
+          743125523
         ],
         "org-phe": [
-          320,
-          298485969
+          343,
+          337210372
         ],
         "org-rural-development-panchayati-raj": [
-          251,
-          92660724
+          252,
+          92663697
         ],
         "org-shri-amarnathji-shrine-board": [
           2,
@@ -16004,7 +16236,7 @@
           24783000
         ],
         "org-shri-mata-vaishno-devi-shrine-board": [
-          5,
+          7,
           87498742
         ],
         "org-shri-mata-vaishno-devi-university": [
@@ -16012,8 +16244,8 @@
           25421489
         ],
         "org-jkspdc": [
-          40,
-          88393263
+          43,
+          91977263
         ],
         "org-j-k-state-sports-council": [
           2,
@@ -16040,8 +16272,8 @@
           17443014
         ],
         "org-bcd-einc": [
-          25,
-          437700961
+          27,
+          455177161
         ],
         "org-rcd-einc": [
           19,
@@ -16052,8 +16284,8 @@
           0
         ],
         "org-dwsd-einc": [
-          43,
-          142394093
+          45,
+          143411360
         ],
         "org-energy-cee": [
           20,
@@ -16075,9 +16307,17 @@
           1,
           0
         ],
+        "org-it-dept": [
+          1,
+          0
+        ],
         "org-jail-inspectorate": [
           12,
           31357316
+        ],
+        "org-jharkhand-bhawan-new-delhi": [
+          1,
+          0
         ],
         "org-jharkhand-flying-institute": [
           1,
@@ -16088,12 +16328,12 @@
           1876654
         ],
         "org-jharkhand-state-building-construction": [
-          9,
+          13,
           0
         ],
         "org-jseb": [
-          42,
-          112873749
+          47,
+          177216208
         ],
         "org-jharkhand-state-livelihood-promotion-society": [
           2,
@@ -16144,32 +16384,32 @@
           0
         ],
         "org-rdd-special-division": [
-          77,
-          414193998
+          82,
+          437854166
         ],
         "org-rajendra-institute-medical-sciences": [
           1,
           0
         ],
         "org-rwd-einc": [
-          21,
-          219953968
+          25,
+          248793328
         ],
         "org-udd-secretary": [
-          151,
-          636000301
+          152,
+          636878801
         ],
         "org-wrd-einc-major-med-n-minor": [
-          53,
-          395465095
+          60,
+          403219051
         ],
         "org-zila-parishad-chatra": [
-          15,
+          20,
           0
         ],
         "org-zila-parishad-dhanbad": [
-          39,
-          28931397
+          52,
+          40986588
         ],
         "org-zila-parishad-godda": [
           1,
@@ -16199,8 +16439,12 @@
           1,
           5544865
         ],
+        "org-agency-for-development-aquaculture-kerala": [
+          5,
+          0
+        ],
         "org-directorate-panchayat": [
-          41,
+          42,
           24145489
         ],
         "org-kerala-electrical-allied-engineering": [
@@ -16208,8 +16452,8 @@
           3315245
         ],
         "org-local-self-government-department": [
-          449,
-          265980338
+          470,
+          275741119
         ],
         "org-malabar-cements": [
           2,
@@ -16224,8 +16468,8 @@
           0
         ],
         "org-department-agriculture": [
-          56,
-          2199190687
+          60,
+          2239594451
         ],
         "org-anert": [
           4,
@@ -16243,10 +16487,6 @@
           1,
           0
         ],
-        "org-rural-development-department": [
-          50,
-          16864067
-        ],
         "org-cochin-university-science-technology": [
           1,
           2118306
@@ -16260,19 +16500,19 @@
           32618361
         ],
         "org-directorate-medical-education": [
-          16,
-          56000000
+          20,
+          57250000
         ],
         "org-district-nirmithikendra-ernakulam": [
-          4,
-          13038000
+          5,
+          20788000
         ],
         "org-district-nirmithi-kendra-malappuram": [
           1,
           4290000
         ],
         "org-directorate-technical-education": [
-          167,
+          182,
           4477500
         ],
         "org-electronics-technology-park-kerala": [
@@ -16296,8 +16536,8 @@
           362700
         ],
         "org-harbour-engineering-department": [
-          4,
-          22406985
+          5,
+          28283165
         ],
         "org-kerala-state-homoeopathic-operative-pharmacy": [
           1,
@@ -16308,8 +16548,8 @@
           92505
         ],
         "org-kerala-artisans-development": [
-          1,
-          868000
+          5,
+          9718364
         ],
         "org-kerala-agro-industries": [
           2,
@@ -16344,8 +16584,8 @@
           0
         ],
         "org-kerala-health-research-welfare-society": [
-          5,
-          13538883
+          7,
+          22309189
         ],
         "org-kannur-international-airport": [
           3,
@@ -16392,8 +16632,8 @@
           0
         ],
         "org-kerala-state-electricity-board": [
-          66,
-          530065288
+          69,
+          531285196
         ],
         "org-kerala-state-electronics-development": [
           6,
@@ -16420,8 +16660,12 @@
           0
         ],
         "org-kerala-water-authority": [
-          88,
-          139210303
+          92,
+          148301051
+        ],
+        "org-kannur-university": [
+          1,
+          0
         ],
         "org-mar-athanasius-college-engineering": [
           1,
@@ -16436,7 +16680,7 @@
           0
         ],
         "org-plantation-kerala": [
-          24,
+          27,
           4366
         ],
         "org-regional-cancer-centre": [
@@ -16444,8 +16688,8 @@
           0
         ],
         "org-kerala-small-industries-development": [
-          3,
-          1899021
+          4,
+          9899021
         ],
         "org-steel-industrial-forgings": [
           3,
@@ -16480,7 +16724,7 @@
           0
         ],
         "org-transformers-electricals-kerala": [
-          5,
+          6,
           0
         ],
         "org-secretary-thiruvananthapuram-district-panchayath": [
@@ -16496,8 +16740,8 @@
           2371508
         ],
         "org-united-electrical-industries": [
-          7,
-          0
+          8,
+          808400
         ],
         "org-university-calicut": [
           1,
@@ -16512,8 +16756,8 @@
           3077497474
         ],
         "org-madhya-pradesh-power-generating": [
-          165,
-          2679526017
+          181,
+          3417813763
         ],
         "org-m-p-rajya-sahakari-bank-maryadit-bhopal": [
           1,
@@ -16522,6 +16766,10 @@
         "org-capital-project-administration": [
           3,
           5940000
+        ],
+        "org-devi-ahilya-vishwavidyalaya-indore": [
+          1,
+          800000
         ],
         "org-district-collectorate": [
           7,
@@ -16532,8 +16780,8 @@
           0
         ],
         "org-director-general-prisons-correctional-services": [
-          47,
-          55721527
+          48,
+          56021527
         ],
         "org-directorate-industries": [
           8,
@@ -16572,7 +16820,7 @@
           10800000
         ],
         "org-gwalior-vyapar-mela-pradhikaran-gvmp": [
-          2,
+          4,
           0
         ],
         "org-jiwaji-university-gwalior": [
@@ -16584,8 +16832,8 @@
           81563395
         ],
         "org-madhya-pradesh-madhya-kshetra-vidyut-vitaran": [
-          60,
-          356518352
+          70,
+          3375821752
         ],
         "org-shree-mahakaleshwar-mandir-prabandh-samiti-ujjain": [
           3,
@@ -16612,8 +16860,8 @@
           132689000
         ],
         "org-mp-forest-department": [
-          67,
-          65165002
+          72,
+          68765002
         ],
         "org-high-court-madhya-pradesh": [
           5,
@@ -16624,19 +16872,19 @@
           0
         ],
         "org-mp-housing-infrastructure-development-board": [
-          5,
-          105792440
+          6,
+          111177926
         ],
         "org-mp-police-housing-infrastructure-development": [
           16,
           175904490
         ],
         "org-madhya-pradesh-paschim-kshetra-vidyut-vitran": [
-          63,
-          1476993927
+          69,
+          1725338307
         ],
         "org-madhya-pradesh-power-management-jabalpur": [
-          3,
+          4,
           0
         ],
         "org-madhya-pradesh-public-service-commission": [
@@ -16644,12 +16892,12 @@
           0
         ],
         "org-mp-power-transmission": [
-          24,
-          54065583
+          28,
+          59404648
         ],
         "org-mp-police": [
-          32,
-          185500
+          34,
+          2018500
         ],
         "org-madhya-pradesh-road-development": [
           8,
@@ -16704,12 +16952,16 @@
           27759706
         ],
         "org-madhya-pradesh-public-health-services": [
-          5,
+          6,
           0
         ],
         "org-madhya-pradesh-poorv-kshetra-vidyut-vitaran": [
-          49,
-          1416804258
+          51,
+          1419238258
+        ],
+        "org-principal-revenue-commissioner": [
+          1,
+          0
         ],
         "org-pt-s-n-shukla-unverversity-shehdol": [
           2,
@@ -16768,8 +17020,8 @@
           244712230
         ],
         "org-department-agriculture-world-bank-tenders": [
-          67,
-          94974360
+          70,
+          101044360
         ],
         "org-aurangabad-district-operative-milk-producers-union": [
           2,
@@ -16792,8 +17044,8 @@
           0
         ],
         "org-rdd-ceo-aurangabad": [
-          4,
-          0
+          6,
+          1400000
         ],
         "org-rdd-ceo-beed": [
           1,
@@ -16812,15 +17064,15 @@
           0
         ],
         "org-rdd-ceo-buldhana": [
-          32,
-          15566849
+          35,
+          16666849
         ],
         "org-commissioner-animal-husbandry-pune": [
           1,
           0
         ],
         "org-rdd-ceo-chandrapur": [
-          10,
+          11,
           0
         ],
         "org-chandrapur-municipal": [
@@ -16860,12 +17112,12 @@
           0
         ],
         "org-rdd-ceo-dhule": [
-          18,
-          5540060
+          19,
+          6039060
         ],
         "org-directorate-municipal-administration": [
-          47,
-          162152850
+          48,
+          165402737
         ],
         "org-dhule-municipal-dhule": [
           8,
@@ -16888,8 +17140,8 @@
           4956000
         ],
         "org-rdd-ceo-gadchiroli": [
-          19,
-          10273481
+          21,
+          12273481
         ],
         "org-collector-gadchiroli": [
           1,
@@ -16932,8 +17184,8 @@
           23013438
         ],
         "org-rdd-ceo-kolhapur": [
-          59,
-          124598508
+          65,
+          135043507
         ],
         "org-rdd-ceo-latur": [
           1,
@@ -16948,7 +17200,7 @@
           65949784
         ],
         "org-municipal-greater-mumbai": [
-          307,
+          316,
           490735255
         ],
         "org-maharashtra-energy-development-agency-pune": [
@@ -17012,7 +17264,7 @@
           4500000
         ],
         "org-rdd-ceo-nashik": [
-          2,
+          3,
           41064000
         ],
         "org-nashik-municipal": [
@@ -17079,6 +17331,10 @@
           15,
           18146557
         ],
+        "org-state-project-directorate": [
+          1,
+          0
+        ],
         "org-rdd-ceo-satara": [
           18,
           66154095
@@ -17104,8 +17360,8 @@
           55000000
         ],
         "org-rdd-ceo-solapur": [
-          11,
-          386688157
+          15,
+          387136886
         ],
         "org-swami-ramanand-teerth-marathwada-university-nanded": [
           1,
@@ -17128,8 +17384,8 @@
           3200000
         ],
         "org-rdd-ceo-thane": [
-          14,
-          27788843
+          44,
+          78645101
         ],
         "org-ce-tapi-irrigation-development-jalgaon": [
           1,
@@ -17160,8 +17416,8 @@
           10402420
         ],
         "org-rdd-ceo-yavatmal": [
-          30,
-          7074700
+          36,
+          8474700
         ],
         "org-directorate-information-public-relations": [
           6,
@@ -17188,8 +17444,8 @@
           138465221
         ],
         "org-ce": [
-          60,
-          1539228819
+          66,
+          1579793646
         ],
         "org-chief-engineer-buildings-other-departments": [
           1,
@@ -17216,15 +17472,15 @@
           49713487
         ],
         "ntpc": [
-          707,
-          4025248124
+          735,
+          4025347324
         ],
         "org-bhartiya-rail-bijlee": [
-          14,
-          3542202
+          17,
+          21718286
         ],
         "org-patratu-vidyut-utpadan-nigam": [
-          21,
+          23,
           0
         ],
         "org-directorate-agriculture-food-production": [
@@ -17240,8 +17496,8 @@
           5664844
         ],
         "org-ce-bm": [
-          14,
-          304015690
+          18,
+          420786514
         ],
         "org-chief-engineer-mech-wr-bhubaneswar": [
           5,
@@ -17252,8 +17508,8 @@
           4413102
         ],
         "org-forest-environment-climate-change-department": [
-          2,
-          1679826
+          3,
+          3429826
         ],
         "org-director-horticulture": [
           1,
@@ -17264,8 +17520,8 @@
           0
         ],
         "org-eic-civil": [
-          94,
-          999260655
+          106,
+          1025437384
         ],
         "org-watco-bhubaneswar": [
           11,
@@ -17280,8 +17536,8 @@
           310243680
         ],
         "org-idco": [
-          3,
-          684740
+          4,
+          1568025
         ],
         "org-odisha-power-generation": [
           7,
@@ -17295,6 +17551,10 @@
           5,
           203685503
         ],
+        "org-nbcc": [
+          3,
+          465868779
+        ],
         "org-national-projects-construction-npcc": [
           2,
           271023364
@@ -17304,11 +17564,11 @@
           20288147
         ],
         "org-orissa-bridge-construction": [
-          5,
+          6,
           839730
         ],
         "org-odisha-construction": [
-          1,
+          2,
           0
         ],
         "org-dg-odisha-police-cuttack": [
@@ -17316,7 +17576,7 @@
           0
         ],
         "org-odisha-hydro-power": [
-          1,
+          3,
           0
         ],
         "org-orissa-lift-irrigation": [
@@ -17328,16 +17588,16 @@
           7793000
         ],
         "org-odisha-state-milk-producers-federation": [
-          6,
-          135500000
+          8,
+          146300000
         ],
         "org-opepa-bhubaneswar": [
           6,
           341692264
         ],
         "org-municipal-bodies": [
-          374,
-          456508235
+          377,
+          462488635
         ],
         "org-odisha-state-agricultural-marketing-board": [
           4,
@@ -17352,7 +17612,7 @@
           54450798
         ],
         "org-odisha-small-industries": [
-          1,
+          2,
           0
         ],
         "org-orissa-state-police-housing-welfare": [
@@ -17392,8 +17652,12 @@
           2796000
         ],
         "org-ce-bm-baitarani-basin-kenojhar": [
-          4,
-          4685135
+          27,
+          65369802
+        ],
+        "org-cce-brutang-hadua-irrigation-project-dasapalla": [
+          7,
+          43980752
         ],
         "org-odisha-cooperative-tasar-silk-federation": [
           2,
@@ -17419,6 +17683,10 @@
           4,
           0
         ],
+        "org-directorate-survey-land-records-puducherry": [
+          1,
+          0
+        ],
         "org-department-health-family-welfare-services": [
           7,
           5428466
@@ -17436,15 +17704,15 @@
           0
         ],
         "org-department-water-resources": [
-          484,
-          2776660586
+          498,
+          2804065473
         ],
         "org-ce-pwd": [
-          12,
-          253821138
+          13,
+          254918866
         ],
         "org-department-cooperation": [
-          11,
+          16,
           1
         ],
         "org-department-animal-husbandry": [
@@ -17460,8 +17728,8 @@
           0
         ],
         "org-department-local-government": [
-          125,
-          15224289985
+          144,
+          15381055871
         ],
         "org-unknown-organisation": [
           49,
@@ -17480,8 +17748,8 @@
           0
         ],
         "org-water-supply-sanitation": [
-          11,
-          29315988
+          13,
+          37491960
         ],
         "org-ajmer-development-authority": [
           5,
@@ -17492,8 +17760,8 @@
           950000
         ],
         "org-ajmer-vvnl-md": [
-          24,
-          53620000
+          25,
+          97120000
         ],
         "org-amber-development-authority": [
           2,
@@ -17516,8 +17784,8 @@
           2815000
         ],
         "org-directorate-agriculture-marketing-jaipur": [
-          2,
-          3230000
+          4,
+          6280000
         ],
         "org-directorate-economics-statistics": [
           1,
@@ -17528,8 +17796,8 @@
           0
         ],
         "org-dlb": [
-          173,
-          987214850
+          175,
+          989428850
         ],
         "org-department-minority-affairs": [
           3,
@@ -17596,8 +17864,8 @@
           4500000
         ],
         "org-medical-health": [
-          23,
-          101260000
+          24,
+          105760000
         ],
         "org-marwar-medical-university-jodhpur": [
           1,
@@ -17620,24 +17888,24 @@
           39612703
         ],
         "org-panchayati-raj-department": [
-          898,
-          3463867669
+          958,
+          3611317414
         ],
         "org-raj-bhawan": [
           2,
           3250000
         ],
         "org-rajasthan-state-operative-bank": [
-          1,
-          79650000
+          2,
+          81614000
         ],
         "org-rcdf-md": [
           20,
           103710655
         ],
         "org-rajasthan-council-school-education": [
-          5,
-          11646000
+          9,
+          27202000
         ],
         "org-rajasthan-housing-board-ce": [
           2,
@@ -17648,8 +17916,8 @@
           77309388
         ],
         "org-md": [
-          57,
-          3592870558
+          60,
+          3657458400
         ],
         "org-rajasthan-state-operative-marketing-federation": [
           1,
@@ -17672,8 +17940,8 @@
           179921649
         ],
         "org-rrvun-cmd": [
-          84,
-          631477666
+          85,
+          636095006
         ],
         "org-rsamb": [
           11,
@@ -17764,16 +18032,16 @@
           2300000
         ],
         "org-deptt-watershed-dev-soil-conservation": [
-          28,
-          96544154
+          29,
+          100367154
         ],
         "org-women-empowerment": [
           5,
           9816000
         ],
         "org-wrd-ce-as": [
-          5,
-          24080915
+          6,
+          25677770
         ],
         "org-commerce-industries-department": [
           1,
@@ -17800,7 +18068,7 @@
           0
         ],
         "org-fisheries-fishermen-welfare-department": [
-          32,
+          44,
           1069133
         ],
         "org-cmwss-board": [
@@ -17828,28 +18096,28 @@
           0
         ],
         "org-director-medical-rural-health-services": [
-          15,
-          10445000
+          17,
+          11345000
         ],
         "org-directorate-town-panchayats": [
-          43,
-          7711000
+          51,
+          16211000
         ],
         "org-tneb": [
-          157,
-          86496448
+          161,
+          87456448
         ],
         "org-elcot": [
           1,
           0
         ],
         "org-higher-education": [
-          15,
+          18,
           0
         ],
         "org-hindu-religious-charitable-endowments": [
-          11,
-          294001136
+          12,
+          303205136
         ],
         "org-maws": [
           230,
@@ -17868,8 +18136,8 @@
           25074856
         ],
         "org-tamilnadu-op-milk-producers-federation": [
-          25,
-          47130000
+          27,
+          48477945
         ],
         "org-tamil-nadu-civil-supplies": [
           11,
@@ -17880,7 +18148,7 @@
           0
         ],
         "org-department-sugar": [
-          196,
+          203,
           328682000
         ],
         "org-tamilnadu-forest-department": [
@@ -17888,7 +18156,7 @@
           0
         ],
         "org-tamil-nadu-housing-board": [
-          21,
+          33,
           16150100
         ],
         "org-tamil-nadu-health-systems-project": [
@@ -17908,28 +18176,32 @@
           0
         ],
         "org-tamilnadu-state-transport": [
-          13,
-          4920000
+          15,
+          15420000
         ],
         "org-tampcol": [
           4,
           883000
+        ],
+        "org-tamilnadu-tea-plantation": [
+          2,
+          0
         ],
         "org-twad": [
           1,
           0
         ],
         "org-chief-engineer": [
-          340,
-          3077738158
+          386,
+          3167673700
         ],
         "org-gomati-cooperative-milk-producers-union": [
           3,
           0
         ],
         "org-director-agriculture": [
-          23,
-          207471960
+          27,
+          211113157
         ],
         "org-society-for-tresp-piu-agri-horti": [
           1,
@@ -17975,6 +18247,10 @@
           2,
           2297080
         ],
+        "org-director-scert": [
+          1,
+          1320000
+        ],
         "org-commisioner-excise": [
           12,
           46277065
@@ -17995,23 +18271,39 @@
           1,
           500000
         ],
+        "org-directorate-handloom-handicrafts-sericulture": [
+          1,
+          18000000
+        ],
+        "org-managing-director": [
+          2,
+          1965360
+        ],
         "org-state-health-family-welfare-society": [
           4,
           7260838
         ],
+        "org-director-health-services": [
+          1,
+          200000
+        ],
         "org-chairman-cum-md": [
-          15,
-          249954801
+          16,
+          290267597
         ],
         "org-mayor-agartala-municipal": [
           27,
           29249753
         ],
         "org-addl-director-general-police": [
-          1,
-          250000
+          2,
+          1198442
         ],
         "org-chief-executive-officer-thcb": [
+          1,
+          0
+        ],
+        "org-ministry-industries-commerce": [
           1,
           0
         ],
@@ -18032,8 +18324,8 @@
           800000
         ],
         "org-md-bridcul": [
-          3,
-          67636000
+          4,
+          70176000
         ],
         "org-ceo": [
           27,
@@ -18074,6 +18366,10 @@
         "org-executive-director": [
           26,
           0
+        ],
+        "org-executive-officer-nagar-palika-parishad-badahaat-uttarkashi": [
+          1,
+          31700000
         ],
         "org-principal-government-medical-college-haldwani": [
           1,
@@ -18172,11 +18468,11 @@
           0
         ],
         "org-pms-district-hospital-almora": [
-          1,
-          1000000
+          2,
+          2000000
         ],
         "org-res-chief-engineer": [
-          10,
+          12,
           91114948
         ],
         "org-regional-food-controller-garhwal": [
@@ -18207,16 +18503,20 @@
           14,
           28450000
         ],
+        "org-project-management-unit-ucrrfp": [
+          1,
+          0
+        ],
         "org-chief-administrator-uttarakhand-housing-urban-development-authority-dehradun": [
           3,
           14591000
         ],
         "org-md-ujvn": [
-          10,
-          2638104345
+          11,
+          2643064171
         ],
         "org-cgm": [
-          10,
+          11,
           13294768
         ],
         "org-chairman-uttarakhand-medical-service-selection-board-dehradun": [
@@ -18224,20 +18524,24 @@
           5000000
         ],
         "org-md-upcl": [
-          83,
-          307116541
+          102,
+          406520635
         ],
         "org-se-upcl-corporate": [
-          3,
-          33838000
+          5,
+          53206292
+        ],
+        "org-md-updcc": [
+          1,
+          0
         ],
         "org-directorate-local-bodies-up": [
-          375,
-          1658152432
+          399,
+          1680833759
         ],
         "org-up-power-transmission": [
-          44,
-          37037464
+          49,
+          37310600
         ],
         "org-allahabad-development-authority": [
           1,
@@ -18280,7 +18584,7 @@
           394970000
         ],
         "org-cheif-engineer-kanpur-zone-pwd-kanpur": [
-          4,
+          9,
           29800000
         ],
         "org-chief-engineer-moradabad-zone-pwd-moradabad-up": [
@@ -18288,12 +18592,12 @@
           41300000
         ],
         "org-cheif-engineer-meerut-zone-pwd-meerut": [
-          3,
+          8,
           3000000
         ],
         "org-chief-engineer-mirzapur-zone-pwd-mirzapur": [
-          12,
-          18075000
+          13,
+          22466000
         ],
         "org-office-chief-electoral-officer": [
           1,
@@ -18304,20 +18608,20 @@
           2400000
         ],
         "org-chief-engineer-pwd-central-zone": [
-          12,
-          12175000
+          14,
+          15175000
         ],
         "org-chief-engineer-pwd-faizabad-zone": [
           18,
           191201000
         ],
         "org-chief-engineer-pwd-varanasi-zone": [
-          1,
-          2800000
+          2,
+          3025000
         ],
         "org-up-rajya-nirman-evam-sharam-vikash-sahkari-sangh-lucknow": [
-          19,
-          43743000
+          20,
+          55995000
         ],
         "org-director-general-medical-education-training-hq": [
           4,
@@ -18328,8 +18632,8 @@
           5001180
         ],
         "org-directorate-social-welfare-up": [
-          9,
-          222103000
+          11,
+          246259000
         ],
         "org-dakshinanchal-vidyut-vitran-nigam": [
           35,
@@ -18356,12 +18660,12 @@
           808874000
         ],
         "org-department-msme-export-promotion": [
-          7,
-          28431702
+          8,
+          34783377
         ],
         "org-madhyanchal-vidyut-vitran-nigam": [
-          62,
-          61707936
+          68,
+          68569378
         ],
         "org-kanpur-municipal": [
           1,
@@ -18380,8 +18684,8 @@
           14077304
         ],
         "org-paschimanchal-vidyut-vitran-nigam": [
-          93,
-          202842331
+          94,
+          205842331
         ],
         "org-purvanchal-vidyut-vitran-nigam-varanasi": [
           35,
@@ -18392,19 +18696,19 @@
           2700000
         ],
         "org-commissioner-rural-development-up": [
-          5,
-          5148000
+          10,
+          12481000
         ],
         "org-director-cum-chief-engineer-red": [
-          144,
-          967325378
+          147,
+          971892478
         ],
         "org-rajya-krishi-utpadan-mandi-parishad": [
           1,
           858550
         ],
         "org-u-p-state-construction-infrastructure-development": [
-          46,
+          47,
           223455078
         ],
         "org-up-state-tourism-development": [
@@ -18448,12 +18752,12 @@
           0
         ],
         "org-u-p-housing-development-board": [
-          10,
-          114070576
+          14,
+          123382196
         ],
         "org-u-p-irrigation-department": [
-          139,
-          190838136
+          143,
+          222508136
         ],
         "org-jhansi-development-authority-jhansi": [
           1,
@@ -18484,8 +18788,8 @@
           37356000
         ],
         "org-uttar-pradesh-rajya-nirman-sahkari-sangh": [
-          11,
-          87715000
+          14,
+          104981849
         ],
         "org-up-state-bridge": [
           1,
@@ -18496,8 +18800,8 @@
           0
         ],
         "org-zilla-parishad": [
-          559,
-          133856015
+          585,
+          137926580
         ],
         "org-animal-resources-development-department": [
           5,
@@ -18543,6 +18847,10 @@
           20,
           0
         ],
+        "org-department-school-education": [
+          4,
+          0
+        ],
         "org-west-bengal-forest-development": [
           11,
           28070850
@@ -18550,6 +18858,14 @@
         "org-greater-gas-supply": [
           1,
           181475
+        ],
+        "org-wb-hidco": [
+          1,
+          231008
+        ],
+        "org-hooghly-river-bridge-commissioners": [
+          2,
+          1091221
         ],
         "org-housing-directorate": [
           24,
@@ -18560,20 +18876,20 @@
           450000
         ],
         "org-irrigation-waterways-dept": [
-          67,
-          620008403
+          74,
+          824354492
         ],
         "org-kolkata-municipal": [
-          186,
-          63295731
+          193,
+          65481295
         ],
         "org-kolkata-metropolitan-development-authority": [
-          20,
-          21576564
+          21,
+          22056913
         ],
         "org-kolkata-police": [
-          7,
-          2715792
+          9,
+          3236555
         ],
         "org-west-bengal-khadi-village-industries-board": [
           2,
@@ -18636,16 +18952,20 @@
           0
         ],
         "org-west-bengal-medical-services": [
-          28,
+          29,
           21296113
         ],
         "org-west-bengal-power-development": [
-          64,
-          175399129
+          68,
+          178668199
+        ],
+        "org-west-bengal-police": [
+          1,
+          23950000
         ],
         "org-west-bengal-state-electricity-distribution": [
-          27,
-          119739150
+          30,
+          121652750
         ],
         "org-west-bengal-state-handicrafts-operative-society": [
           1,

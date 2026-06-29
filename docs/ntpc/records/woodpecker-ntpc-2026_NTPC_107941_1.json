@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_107941_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107941_1",
+      "id": "woodpecker-ntpc-2026_NTPC_107941_1-0001",
+      "date": "2026-05-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_107941_1",
+        "title": "Procurement of SIEMENS make PLC spares for FGD AT NTPC Darlipali STPP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-29T00:00:00Z"
+        },
+        "description": "Procurement of SIEMENS make PLC spares for FGD AT NTPC Darlipali STPP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107941_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_107941_1",
+          "url": "/files/feb02dfa97e4ad07275612a36becb6e591c2fb5f60af32a08a1e69c50db2773e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Shnkanp%2FSF15oklZQwiJmuA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "feb02dfa97e4ad07275612a36becb6e591c2fb5f60af32a08a1e69c50db2773e",
+          "format": "text/plain",
+          "textUrl": "/files/feb02dfa97e4ad07275612a36becb6e591c2fb5f60af32a08a1e69c50db2773e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107941_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Shnkanp%2FSF15oklZQwiJmuA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_107941_1",
+    "tender": {
+      "id": "2026_NTPC_107941_1",
+      "title": "Procurement of SIEMENS make PLC spares for FGD AT NTPC Darlipali STPP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-29T00:00:00Z"
+      },
+      "description": "Procurement of SIEMENS make PLC spares for FGD AT NTPC Darlipali STPP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-05-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107941_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_107941_1",
+        "url": "/files/feb02dfa97e4ad07275612a36becb6e591c2fb5f60af32a08a1e69c50db2773e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Shnkanp%2FSF15oklZQwiJmuA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "feb02dfa97e4ad07275612a36becb6e591c2fb5f60af32a08a1e69c50db2773e",
+        "format": "text/plain",
+        "textUrl": "/files/feb02dfa97e4ad07275612a36becb6e591c2fb5f60af32a08a1e69c50db2773e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107941_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Shnkanp%2FSF15oklZQwiJmuA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107941_1",
+      "observedAt": "2026-06-29T03:21:23Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "a9e9da3ee55e3b289611df7b63bb237debfdf788ad587aadda94992863529c2b",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107941_1-0001-record",
+          "sha256": "feb02dfa97e4ad07275612a36becb6e591c2fb5f60af32a08a1e69c50db2773e"
+        }
+      ],
+      "snapshotUrl": "/files/77f514527b15b907dda65ad65bf3ab410704aed2056767961ad07af440c05693.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-29T03:21:23Z",
+    "lastObserved": "2026-06-29T03:21:23Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

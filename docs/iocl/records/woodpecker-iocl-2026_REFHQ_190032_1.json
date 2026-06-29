@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_REFHQ_190032_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_190032_1",
+      "id": "woodpecker-iocl-2026_REFHQ_190032_1-0001",
+      "date": "2026-05-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "tender": {
+        "id": "2026_REFHQ_190032_1",
+        "title": "Rate Contract for Procurement of Organic Peroxide for IOCL PNC and Paradip Refinery Units",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Refineries HQ||Materials",
+          "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-06-29T00:00:00Z"
+        },
+        "description": "Rate Contract for Procurement of Organic Peroxide for IOCL PNC and Paradip Refinery Units"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190032_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_REFHQ_190032_1",
+          "url": "/files/061159b3c2d5bfd450e877926fda8bb12dc846080e374e253cd062efaa81a927.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCjU7fxrcyk45eVAdGsI9VQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "061159b3c2d5bfd450e877926fda8bb12dc846080e374e253cd062efaa81a927",
+          "format": "text/plain",
+          "textUrl": "/files/061159b3c2d5bfd450e877926fda8bb12dc846080e374e253cd062efaa81a927.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190032_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCjU7fxrcyk45eVAdGsI9VQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_REFHQ_190032_1",
+    "tender": {
+      "id": "2026_REFHQ_190032_1",
+      "title": "Rate Contract for Procurement of Organic Peroxide for IOCL PNC and Paradip Refinery Units",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-06-29T00:00:00Z"
+      },
+      "description": "Rate Contract for Procurement of Organic Peroxide for IOCL PNC and Paradip Refinery Units"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Refineries HQ||Materials",
+      "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+    },
+    "date": "2026-05-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_190032_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_REFHQ_190032_1",
+        "url": "/files/061159b3c2d5bfd450e877926fda8bb12dc846080e374e253cd062efaa81a927.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCjU7fxrcyk45eVAdGsI9VQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "061159b3c2d5bfd450e877926fda8bb12dc846080e374e253cd062efaa81a927",
+        "format": "text/plain",
+        "textUrl": "/files/061159b3c2d5bfd450e877926fda8bb12dc846080e374e253cd062efaa81a927.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_190032_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCjU7fxrcyk45eVAdGsI9VQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_190032_1",
+      "observedAt": "2026-06-29T03:31:01Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "2cf019a4583b5faa876fccae6df9952ef71c86392409eb9e672a199985174d46",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190032_1-0001-record",
+          "sha256": "061159b3c2d5bfd450e877926fda8bb12dc846080e374e253cd062efaa81a927"
+        }
+      ],
+      "snapshotUrl": "/files/8d7e9748d4b5d3bc629135e9d78d92a4416501365f3fad6ed9e7cee780cd6c22.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-29T03:31:01Z",
+    "lastObserved": "2026-06-29T03:31:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
