@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_ESIC_902281_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_ESIC_902281_1",
+      "id": "woodpecker-cppp-2026_ESIC_902281_1-0001",
+      "date": "2026-03-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Employees State Insurance Corporation||ESIC Hqrs. Office - New Delhi",
+        "id": "IN-ORG-employees-state-insurance-corporation-es"
+      },
+      "tender": {
+        "id": "2026_ESIC_902281_1",
+        "title": "As per Tender Document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Employees State Insurance Corporation||ESIC Hqrs. Office - New Delhi",
+          "id": "IN-ORG-employees-state-insurance-corporation-es"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-01T00:00:00Z"
+        },
+        "description": "As per Tender Document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ESIC_902281_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ESIC_902281_1",
+          "url": "/files/f29c33ea92251f5da542c0890e2ad6793cb8ae0d2f80161714091a48ce4e5f93.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWq4nl4RM2JTiWv75%2Fh%2FK7Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f29c33ea92251f5da542c0890e2ad6793cb8ae0d2f80161714091a48ce4e5f93",
+          "format": "text/plain",
+          "textUrl": "/files/f29c33ea92251f5da542c0890e2ad6793cb8ae0d2f80161714091a48ce4e5f93.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_ESIC_902281_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWq4nl4RM2JTiWv75%2Fh%2FK7Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_ESIC_902281_1",
+    "tender": {
+      "id": "2026_ESIC_902281_1",
+      "title": "As per Tender Document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Employees State Insurance Corporation||ESIC Hqrs. Office - New Delhi",
+        "id": "IN-ORG-employees-state-insurance-corporation-es"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-01T00:00:00Z"
+      },
+      "description": "As per Tender Document"
+    },
+    "buyer": {
+      "name": "Employees State Insurance Corporation||ESIC Hqrs. Office - New Delhi",
+      "id": "IN-ORG-employees-state-insurance-corporation-es"
+    },
+    "date": "2026-03-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_ESIC_902281_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ESIC_902281_1",
+        "url": "/files/f29c33ea92251f5da542c0890e2ad6793cb8ae0d2f80161714091a48ce4e5f93.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWq4nl4RM2JTiWv75%2Fh%2FK7Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f29c33ea92251f5da542c0890e2ad6793cb8ae0d2f80161714091a48ce4e5f93",
+        "format": "text/plain",
+        "textUrl": "/files/f29c33ea92251f5da542c0890e2ad6793cb8ae0d2f80161714091a48ce4e5f93.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_ESIC_902281_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWq4nl4RM2JTiWv75%2Fh%2FK7Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_ESIC_902281_1",
+      "observedAt": "2026-07-01T01:46:18Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "39f5ef668640e775e5ecd0cc00699c981c7511ea20ec9d47879fb9bc3127e918",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ESIC_902281_1-0001-record",
+          "sha256": "f29c33ea92251f5da542c0890e2ad6793cb8ae0d2f80161714091a48ce4e5f93"
+        }
+      ],
+      "snapshotUrl": "/files/a78bcbc4d1159f26a2d1ec2fac342be28dc1c25be5dfef698f61247b105e827c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-01T01:46:18Z",
+    "lastObserved": "2026-07-01T01:46:18Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

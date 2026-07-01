@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DLB_568899_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_568899_1",
+      "id": "woodpecker-rajasthan-2026_DLB_568899_1-0001",
+      "date": "2026-06-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DLB||Dy.DR-Jodhpur||EO-Jaitaran",
+        "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-jaitaran"
+      },
+      "tender": {
+        "id": "2026_DLB_568899_1",
+        "title": "Construction of a block road at the Bhairuji Temple in Ward No. 18.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DLB||Dy.DR-Jodhpur||EO-Jaitaran",
+          "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-jaitaran"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 931000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-01T00:00:00Z"
+        },
+        "description": "Construction of a block road at the Bhairuji Temple in Ward No. 18."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_568899_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DLB_568899_1",
+          "url": "/files/db8db1beef619a6a3b735088cad396ffe2d1d29c36c4a35d94839f309c0545ef.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIRg%2FEWLqu5%2Bq2mLAccYBNw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "db8db1beef619a6a3b735088cad396ffe2d1d29c36c4a35d94839f309c0545ef",
+          "format": "text/plain",
+          "textUrl": "/files/db8db1beef619a6a3b735088cad396ffe2d1d29c36c4a35d94839f309c0545ef.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_568899_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIRg%2FEWLqu5%2Bq2mLAccYBNw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DLB_568899_1",
+    "tender": {
+      "id": "2026_DLB_568899_1",
+      "title": "Construction of a block road at the Bhairuji Temple in Ward No. 18.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DLB||Dy.DR-Jodhpur||EO-Jaitaran",
+        "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-jaitaran"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 931000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-01T00:00:00Z"
+      },
+      "description": "Construction of a block road at the Bhairuji Temple in Ward No. 18."
+    },
+    "buyer": {
+      "name": "DLB||Dy.DR-Jodhpur||EO-Jaitaran",
+      "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-jaitaran"
+    },
+    "date": "2026-06-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_568899_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DLB_568899_1",
+        "url": "/files/db8db1beef619a6a3b735088cad396ffe2d1d29c36c4a35d94839f309c0545ef.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIRg%2FEWLqu5%2Bq2mLAccYBNw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "db8db1beef619a6a3b735088cad396ffe2d1d29c36c4a35d94839f309c0545ef",
+        "format": "text/plain",
+        "textUrl": "/files/db8db1beef619a6a3b735088cad396ffe2d1d29c36c4a35d94839f309c0545ef.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_568899_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIRg%2FEWLqu5%2Bq2mLAccYBNw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_568899_1",
+      "observedAt": "2026-07-01T03:16:59Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "a2acee822195274728b3363bafd9a4c4cb3107f5a9166d2b1900d4d26435fced",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_568899_1-0001-record",
+          "sha256": "db8db1beef619a6a3b735088cad396ffe2d1d29c36c4a35d94839f309c0545ef"
+        }
+      ],
+      "snapshotUrl": "/files/cdc789a813d5c9971fb040cbcc319ee3cfcf98ed15de3d7122534bd2ad0a50ad.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-01T03:16:59Z",
+    "lastObserved": "2026-07-01T03:16:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

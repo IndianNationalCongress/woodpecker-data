@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-goa-2026_DAG_29910_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-goa-2026_DAG_29910_1",
+      "id": "woodpecker-goa-2026_DAG_29910_1-0001",
+      "date": "2026-06-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DIRECTORATE OF AGRICULTURE||NORTH GOA||DEPUTY DIRECTOR (ADMINSTRATION)||HORTICULTURE SECTION",
+        "id": "IN-ORG-directorate-of-agriculture-north-goa-dep"
+      },
+      "tender": {
+        "id": "2026_DAG_29910_1",
+        "title": "Construction of Tali in Cuncoliem Village of Ponda Taluka in Survey No.49/1-E",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DIRECTORATE OF AGRICULTURE||NORTH GOA||DEPUTY DIRECTOR (ADMINSTRATION)||HORTICULTURE SECTION",
+          "id": "IN-ORG-directorate-of-agriculture-north-goa-dep"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1317736,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-01T00:00:00Z"
+        },
+        "description": "Construction of Tali in Cuncoliem Village of Ponda Taluka in Survey No.49/1-E"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_DAG_29910_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DAG_29910_1",
+          "url": "/files/6c9a8a0d72717602191388089b97f5388ccff195fe8fdb0880eb1ba5737850ee.txt",
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4yL%2Bx2elB%2BAQvxysU2x15g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6c9a8a0d72717602191388089b97f5388ccff195fe8fdb0880eb1ba5737850ee",
+          "format": "text/plain",
+          "textUrl": "/files/6c9a8a0d72717602191388089b97f5388ccff195fe8fdb0880eb1ba5737850ee.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-goa-2026_DAG_29910_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4yL%2Bx2elB%2BAQvxysU2x15g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-goa-2026_DAG_29910_1",
+    "tender": {
+      "id": "2026_DAG_29910_1",
+      "title": "Construction of Tali in Cuncoliem Village of Ponda Taluka in Survey No.49/1-E",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DIRECTORATE OF AGRICULTURE||NORTH GOA||DEPUTY DIRECTOR (ADMINSTRATION)||HORTICULTURE SECTION",
+        "id": "IN-ORG-directorate-of-agriculture-north-goa-dep"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1317736,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-01T00:00:00Z"
+      },
+      "description": "Construction of Tali in Cuncoliem Village of Ponda Taluka in Survey No.49/1-E"
+    },
+    "buyer": {
+      "name": "DIRECTORATE OF AGRICULTURE||NORTH GOA||DEPUTY DIRECTOR (ADMINSTRATION)||HORTICULTURE SECTION",
+      "id": "IN-ORG-directorate-of-agriculture-north-goa-dep"
+    },
+    "date": "2026-06-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-goa-2026_DAG_29910_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DAG_29910_1",
+        "url": "/files/6c9a8a0d72717602191388089b97f5388ccff195fe8fdb0880eb1ba5737850ee.txt",
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4yL%2Bx2elB%2BAQvxysU2x15g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6c9a8a0d72717602191388089b97f5388ccff195fe8fdb0880eb1ba5737850ee",
+        "format": "text/plain",
+        "textUrl": "/files/6c9a8a0d72717602191388089b97f5388ccff195fe8fdb0880eb1ba5737850ee.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-goa-2026_DAG_29910_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4yL%2Bx2elB%2BAQvxysU2x15g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-goa-2026_DAG_29910_1",
+      "observedAt": "2026-07-01T02:59:46Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "75b6bc6bfcb636360730e2ba22deee09f562abc3b20f68dc1e2630e84ef59912",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_DAG_29910_1-0001-record",
+          "sha256": "6c9a8a0d72717602191388089b97f5388ccff195fe8fdb0880eb1ba5737850ee"
+        }
+      ],
+      "snapshotUrl": "/files/31ee590f32bf1f79f2f843f112a8d6455c117b6b74b038f21b4cb11d89a5d26d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-01T02:59:46Z",
+    "lastObserved": "2026-07-01T02:59:46Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
