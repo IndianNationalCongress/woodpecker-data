@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109603_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109603_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109603_1-0001",
+      "date": "2026-06-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109603_1",
+        "title": "Procurement of VFD Module for StageIII Coal Feeders AT NTPC Rihand",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-02T00:00:00Z"
+        },
+        "description": "Procurement of VFD Module for StageIII Coal Feeders AT NTPC Rihand"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109603_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109603_1",
+          "url": "/files/ec6f8e71b24f0f632192269b3210cf3138e24a71e1a13afa3478e76987cf683c.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2G5RZipa7GsaggVHAZe7zA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ec6f8e71b24f0f632192269b3210cf3138e24a71e1a13afa3478e76987cf683c",
+          "format": "text/plain",
+          "textUrl": "/files/ec6f8e71b24f0f632192269b3210cf3138e24a71e1a13afa3478e76987cf683c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109603_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2G5RZipa7GsaggVHAZe7zA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109603_1",
+    "tender": {
+      "id": "2026_NTPC_109603_1",
+      "title": "Procurement of VFD Module for StageIII Coal Feeders AT NTPC Rihand",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-02T00:00:00Z"
+      },
+      "description": "Procurement of VFD Module for StageIII Coal Feeders AT NTPC Rihand"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109603_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109603_1",
+        "url": "/files/ec6f8e71b24f0f632192269b3210cf3138e24a71e1a13afa3478e76987cf683c.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2G5RZipa7GsaggVHAZe7zA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ec6f8e71b24f0f632192269b3210cf3138e24a71e1a13afa3478e76987cf683c",
+        "format": "text/plain",
+        "textUrl": "/files/ec6f8e71b24f0f632192269b3210cf3138e24a71e1a13afa3478e76987cf683c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109603_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2G5RZipa7GsaggVHAZe7zA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109603_1",
+      "observedAt": "2026-07-02T03:05:21Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "33e5b3b0f666cfc1436d4a9b99d6f1ab36d8d71a7d169a9e26a476a8cb3b6ba4",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109603_1-0001-record",
+          "sha256": "ec6f8e71b24f0f632192269b3210cf3138e24a71e1a13afa3478e76987cf683c"
+        }
+      ],
+      "snapshotUrl": "/files/857ba064cdf36d716be0fdebd9a2938da8d549b4254043c49ee2f124e8a60e39.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-02T03:05:21Z",
+    "lastObserved": "2026-07-02T03:05:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
