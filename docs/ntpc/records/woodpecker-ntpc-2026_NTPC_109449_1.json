@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109449_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109449_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109449_1-0001",
+      "date": "2026-06-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109449_1",
+        "title": "Procurement of APH spares for NSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-03T00:00:00Z"
+        },
+        "description": "Procurement of APH spares for NSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109449_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109449_1",
+          "url": "/files/80f07dd0120a7f661428116401e900674dfe27eebf50ab56862afd9e7774af64.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyY9k2WYqXiYSpTi7Nyi%2F3A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "80f07dd0120a7f661428116401e900674dfe27eebf50ab56862afd9e7774af64",
+          "format": "text/plain",
+          "textUrl": "/files/80f07dd0120a7f661428116401e900674dfe27eebf50ab56862afd9e7774af64.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109449_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyY9k2WYqXiYSpTi7Nyi%2F3A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109449_1",
+    "tender": {
+      "id": "2026_NTPC_109449_1",
+      "title": "Procurement of APH spares for NSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-03T00:00:00Z"
+      },
+      "description": "Procurement of APH spares for NSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109449_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109449_1",
+        "url": "/files/80f07dd0120a7f661428116401e900674dfe27eebf50ab56862afd9e7774af64.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyY9k2WYqXiYSpTi7Nyi%2F3A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "80f07dd0120a7f661428116401e900674dfe27eebf50ab56862afd9e7774af64",
+        "format": "text/plain",
+        "textUrl": "/files/80f07dd0120a7f661428116401e900674dfe27eebf50ab56862afd9e7774af64.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109449_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyY9k2WYqXiYSpTi7Nyi%2F3A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109449_1",
+      "observedAt": "2026-07-03T02:47:06Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "2c3fe41722edadf048b4857b4b24a7677be14b859aefa9e5754e9573128d839a",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109449_1-0001-record",
+          "sha256": "80f07dd0120a7f661428116401e900674dfe27eebf50ab56862afd9e7774af64"
+        }
+      ],
+      "snapshotUrl": "/files/e9ca7b4b6dfbf719aeda4c6d9e07186695c8aba08bd9b7d4e6cf728c4e4acf2f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-03T02:47:06Z",
+    "lastObserved": "2026-07-03T02:47:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
