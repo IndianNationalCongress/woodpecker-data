@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-kerala-2026_INKEL_857090_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-kerala-2026_INKEL_857090_1",
+      "id": "woodpecker-kerala-2026_INKEL_857090_1-0001",
+      "date": "2026-06-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "INKEL Limited",
+        "id": "IN-ORG-inkel-limited"
+      },
+      "tender": {
+        "id": "2026_INKEL_857090_1",
+        "title": "Supply of Chairs",
+        "status": "active",
+        "procuringEntity": {
+          "name": "INKEL Limited",
+          "id": "IN-ORG-inkel-limited"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 3671534,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "description": "Supply of Chairs"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-kerala-2026_INKEL_857090_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_INKEL_857090_1",
+          "url": "/files/0b984ea54c1dcb48f42b0a1edcbd9302e901de906fd066ae2b82681f94e3b63f.txt",
+          "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVotD53Uwx19UvaX5gn7LAw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0b984ea54c1dcb48f42b0a1edcbd9302e901de906fd066ae2b82681f94e3b63f",
+          "format": "text/plain",
+          "textUrl": "/files/0b984ea54c1dcb48f42b0a1edcbd9302e901de906fd066ae2b82681f94e3b63f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-kerala-2026_INKEL_857090_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVotD53Uwx19UvaX5gn7LAw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-kerala-2026_INKEL_857090_1",
+    "tender": {
+      "id": "2026_INKEL_857090_1",
+      "title": "Supply of Chairs",
+      "status": "active",
+      "procuringEntity": {
+        "name": "INKEL Limited",
+        "id": "IN-ORG-inkel-limited"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 3671534,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "description": "Supply of Chairs"
+    },
+    "buyer": {
+      "name": "INKEL Limited",
+      "id": "IN-ORG-inkel-limited"
+    },
+    "date": "2026-06-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-kerala-2026_INKEL_857090_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_INKEL_857090_1",
+        "url": "/files/0b984ea54c1dcb48f42b0a1edcbd9302e901de906fd066ae2b82681f94e3b63f.txt",
+        "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVotD53Uwx19UvaX5gn7LAw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0b984ea54c1dcb48f42b0a1edcbd9302e901de906fd066ae2b82681f94e3b63f",
+        "format": "text/plain",
+        "textUrl": "/files/0b984ea54c1dcb48f42b0a1edcbd9302e901de906fd066ae2b82681f94e3b63f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-kerala-2026_INKEL_857090_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVotD53Uwx19UvaX5gn7LAw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-kerala-2026_INKEL_857090_1",
+      "observedAt": "2026-07-06T01:55:37Z",
+      "witness": "woodpecker:kerala",
+      "availability": "present",
+      "stateHash": "715bd908dd3cdd20c933714d67ae77f5b128a4f13b14fbb6bf68be913c0f1bc4",
+      "documents": [
+        {
+          "id": "woodpecker-kerala-2026_INKEL_857090_1-0001-record",
+          "sha256": "0b984ea54c1dcb48f42b0a1edcbd9302e901de906fd066ae2b82681f94e3b63f"
+        }
+      ],
+      "snapshotUrl": "/files/61f2cba9946de8a2940ba052fee36cac5e336709a2a203313d5e0aa30eedac06.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-06T01:55:37Z",
+    "lastObserved": "2026-07-06T01:55:37Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
