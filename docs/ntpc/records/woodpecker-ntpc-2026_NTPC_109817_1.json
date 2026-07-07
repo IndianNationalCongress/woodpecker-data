@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109817_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109817_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109817_1-0001",
+      "date": "2026-07-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109817_1",
+        "title": "PROCUREMENT OF LIMITORQUE ACTUATORS FOR NTPC KORBA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-07T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF LIMITORQUE ACTUATORS FOR NTPC KORBA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109817_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109817_1",
+          "url": "/files/f5983251b74c3d22a11facb643113b43a3e63d8581e837c231083d66b19ab2c1.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDOVQ2OtKwpPEAkznefV0tQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f5983251b74c3d22a11facb643113b43a3e63d8581e837c231083d66b19ab2c1",
+          "format": "text/plain",
+          "textUrl": "/files/f5983251b74c3d22a11facb643113b43a3e63d8581e837c231083d66b19ab2c1.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109817_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDOVQ2OtKwpPEAkznefV0tQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109817_1",
+    "tender": {
+      "id": "2026_NTPC_109817_1",
+      "title": "PROCUREMENT OF LIMITORQUE ACTUATORS FOR NTPC KORBA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-07T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF LIMITORQUE ACTUATORS FOR NTPC KORBA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109817_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109817_1",
+        "url": "/files/f5983251b74c3d22a11facb643113b43a3e63d8581e837c231083d66b19ab2c1.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDOVQ2OtKwpPEAkznefV0tQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f5983251b74c3d22a11facb643113b43a3e63d8581e837c231083d66b19ab2c1",
+        "format": "text/plain",
+        "textUrl": "/files/f5983251b74c3d22a11facb643113b43a3e63d8581e837c231083d66b19ab2c1.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109817_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDOVQ2OtKwpPEAkznefV0tQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109817_1",
+      "observedAt": "2026-07-07T02:46:30Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "e5393e75189ab80864d2fa8112e16e37c9049eeebbd4c8ba300e35e6ebd06d3b",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109817_1-0001-record",
+          "sha256": "f5983251b74c3d22a11facb643113b43a3e63d8581e837c231083d66b19ab2c1"
+        }
+      ],
+      "snapshotUrl": "/files/d26f0460fbbc81fa6af8afa3cede238a0ed763725490ed231880ffe5d50f7ffe.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-07T02:46:30Z",
+    "lastObserved": "2026-07-07T02:46:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
