@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_ASI_913769_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_ASI_913769_1",
+      "id": "woodpecker-cppp-2026_ASI_913769_1-0001",
+      "date": "2026-06-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Archaeological Survey of India||O/o SA-ASI-Patna Circle-Patna",
+        "id": "IN-ORG-archaeological-survey-of-india-o-o-sa-as"
+      },
+      "tender": {
+        "id": "2026_ASI_913769_1",
+        "title": "as per tender document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Archaeological Survey of India||O/o SA-ASI-Patna Circle-Patna",
+          "id": "IN-ORG-archaeological-survey-of-india-o-o-sa-as"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 4621417,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-09T00:00:00Z"
+        },
+        "description": "as per tender document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ASI_913769_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ASI_913769_1",
+          "url": "/files/0b0f0a89461a4da08691b6f6956c7717b28345df8dcb13e4c7e7901989c1eb46.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYL%2F76sTFtTvcrevYf1xVhg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0b0f0a89461a4da08691b6f6956c7717b28345df8dcb13e4c7e7901989c1eb46",
+          "format": "text/plain",
+          "textUrl": "/files/0b0f0a89461a4da08691b6f6956c7717b28345df8dcb13e4c7e7901989c1eb46.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_ASI_913769_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYL%2F76sTFtTvcrevYf1xVhg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_ASI_913769_1",
+    "tender": {
+      "id": "2026_ASI_913769_1",
+      "title": "as per tender document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Archaeological Survey of India||O/o SA-ASI-Patna Circle-Patna",
+        "id": "IN-ORG-archaeological-survey-of-india-o-o-sa-as"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 4621417,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-09T00:00:00Z"
+      },
+      "description": "as per tender document"
+    },
+    "buyer": {
+      "name": "Archaeological Survey of India||O/o SA-ASI-Patna Circle-Patna",
+      "id": "IN-ORG-archaeological-survey-of-india-o-o-sa-as"
+    },
+    "date": "2026-06-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_ASI_913769_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ASI_913769_1",
+        "url": "/files/0b0f0a89461a4da08691b6f6956c7717b28345df8dcb13e4c7e7901989c1eb46.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYL%2F76sTFtTvcrevYf1xVhg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0b0f0a89461a4da08691b6f6956c7717b28345df8dcb13e4c7e7901989c1eb46",
+        "format": "text/plain",
+        "textUrl": "/files/0b0f0a89461a4da08691b6f6956c7717b28345df8dcb13e4c7e7901989c1eb46.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_ASI_913769_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYL%2F76sTFtTvcrevYf1xVhg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_ASI_913769_1",
+      "observedAt": "2026-07-09T01:15:13Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "82de8b9aa1fd1a773fb7918f155546fabc401bc7e2fdb03c0afff40b8642fb58",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ASI_913769_1-0001-record",
+          "sha256": "0b0f0a89461a4da08691b6f6956c7717b28345df8dcb13e4c7e7901989c1eb46"
+        }
+      ],
+      "snapshotUrl": "/files/1e083d36465c4c04863e88c436be660c1b07ab7f9a5ae6fa3b293684ffd6a1c2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-09T01:15:13Z",
+    "lastObserved": "2026-07-09T01:15:13Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

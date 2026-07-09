@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109808_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109808_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109808_1-0001",
+      "date": "2026-07-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109808_1",
+        "title": "Biennial Maintenance contract of Honeywell PLC at NTPC Ramagundam",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-09T00:00:00Z"
+        },
+        "description": "Biennial Maintenance contract of Honeywell PLC at NTPC Ramagundam"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109808_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109808_1",
+          "url": "/files/b33a99bcdc0dcbcd2dfcf247addc4b705ee36041d7fe6c91383df1b954eb37fb.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SemMq8HB5fCQ3QidEgLOV0w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b33a99bcdc0dcbcd2dfcf247addc4b705ee36041d7fe6c91383df1b954eb37fb",
+          "format": "text/plain",
+          "textUrl": "/files/b33a99bcdc0dcbcd2dfcf247addc4b705ee36041d7fe6c91383df1b954eb37fb.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109808_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SemMq8HB5fCQ3QidEgLOV0w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109808_1",
+    "tender": {
+      "id": "2026_NTPC_109808_1",
+      "title": "Biennial Maintenance contract of Honeywell PLC at NTPC Ramagundam",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-09T00:00:00Z"
+      },
+      "description": "Biennial Maintenance contract of Honeywell PLC at NTPC Ramagundam"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109808_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109808_1",
+        "url": "/files/b33a99bcdc0dcbcd2dfcf247addc4b705ee36041d7fe6c91383df1b954eb37fb.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SemMq8HB5fCQ3QidEgLOV0w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b33a99bcdc0dcbcd2dfcf247addc4b705ee36041d7fe6c91383df1b954eb37fb",
+        "format": "text/plain",
+        "textUrl": "/files/b33a99bcdc0dcbcd2dfcf247addc4b705ee36041d7fe6c91383df1b954eb37fb.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109808_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SemMq8HB5fCQ3QidEgLOV0w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109808_1",
+      "observedAt": "2026-07-09T02:42:42Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "2b5f1133b5f4a6ad2238b4e2ccf3a0ac2210f34b58e70e36020b63e0723cacff",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109808_1-0001-record",
+          "sha256": "b33a99bcdc0dcbcd2dfcf247addc4b705ee36041d7fe6c91383df1b954eb37fb"
+        }
+      ],
+      "snapshotUrl": "/files/3a8e81ca04398486edebda7dbe299dff8abd7a343239e4e77a01b16b57936326.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-09T02:42:42Z",
+    "lastObserved": "2026-07-09T02:42:42Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
