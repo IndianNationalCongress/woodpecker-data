@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109694_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109694_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109694_1-0001",
+      "date": "2026-07-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109694_1",
+        "title": "Procurement of spares of ERV installed in Boiler at NTPC Nabinagar",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-10T00:00:00Z"
+        },
+        "description": "Procurement of spares of ERV installed in Boiler at NTPC Nabinagar"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109694_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109694_1",
+          "url": "/files/6c2bff87cfe7e6c175f5fd459bae7200e1d1d4c0fabd322938a69725301c06a7.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSAorSoKaXmtigoP2R9RlLQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6c2bff87cfe7e6c175f5fd459bae7200e1d1d4c0fabd322938a69725301c06a7",
+          "format": "text/plain",
+          "textUrl": "/files/6c2bff87cfe7e6c175f5fd459bae7200e1d1d4c0fabd322938a69725301c06a7.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109694_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSAorSoKaXmtigoP2R9RlLQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109694_1",
+    "tender": {
+      "id": "2026_NTPC_109694_1",
+      "title": "Procurement of spares of ERV installed in Boiler at NTPC Nabinagar",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-10T00:00:00Z"
+      },
+      "description": "Procurement of spares of ERV installed in Boiler at NTPC Nabinagar"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109694_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109694_1",
+        "url": "/files/6c2bff87cfe7e6c175f5fd459bae7200e1d1d4c0fabd322938a69725301c06a7.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSAorSoKaXmtigoP2R9RlLQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6c2bff87cfe7e6c175f5fd459bae7200e1d1d4c0fabd322938a69725301c06a7",
+        "format": "text/plain",
+        "textUrl": "/files/6c2bff87cfe7e6c175f5fd459bae7200e1d1d4c0fabd322938a69725301c06a7.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109694_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSAorSoKaXmtigoP2R9RlLQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109694_1",
+      "observedAt": "2026-07-10T02:44:45Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "a0c2b476d63c52e21082fbf84888998a6f0017e002712daf82dbf27029972185",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109694_1-0001-record",
+          "sha256": "6c2bff87cfe7e6c175f5fd459bae7200e1d1d4c0fabd322938a69725301c06a7"
+        }
+      ],
+      "snapshotUrl": "/files/463c473e1677551f806b176800885ab06c7a98796417e6a6b87085ceda0db70c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-10T02:44:45Z",
+    "lastObserved": "2026-07-10T02:44:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

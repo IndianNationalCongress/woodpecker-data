@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109680_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109680_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109680_1-0001",
+      "date": "2026-07-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109680_1",
+        "title": "Procurement of KOSO Make Actuator Spares for NTPC Vindhyachal.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-10T00:00:00Z"
+        },
+        "description": "Procurement of KOSO Make Actuator Spares for NTPC Vindhyachal."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109680_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109680_1",
+          "url": "/files/08e07fa364cb99be5820b7786ed52212a4c601941c0d8853a1985bfa008091f3.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnCd3ue7UcVkKTvMa8th%2FQg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "08e07fa364cb99be5820b7786ed52212a4c601941c0d8853a1985bfa008091f3",
+          "format": "text/plain",
+          "textUrl": "/files/08e07fa364cb99be5820b7786ed52212a4c601941c0d8853a1985bfa008091f3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109680_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnCd3ue7UcVkKTvMa8th%2FQg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109680_1",
+    "tender": {
+      "id": "2026_NTPC_109680_1",
+      "title": "Procurement of KOSO Make Actuator Spares for NTPC Vindhyachal.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-10T00:00:00Z"
+      },
+      "description": "Procurement of KOSO Make Actuator Spares for NTPC Vindhyachal."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109680_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109680_1",
+        "url": "/files/08e07fa364cb99be5820b7786ed52212a4c601941c0d8853a1985bfa008091f3.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnCd3ue7UcVkKTvMa8th%2FQg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "08e07fa364cb99be5820b7786ed52212a4c601941c0d8853a1985bfa008091f3",
+        "format": "text/plain",
+        "textUrl": "/files/08e07fa364cb99be5820b7786ed52212a4c601941c0d8853a1985bfa008091f3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109680_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnCd3ue7UcVkKTvMa8th%2FQg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109680_1",
+      "observedAt": "2026-07-10T02:44:45Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "c5635a56cd61b1c0a9ba0ecdf938a6cb1e9466fbd1f20caec5abc4b048e4cecf",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109680_1-0001-record",
+          "sha256": "08e07fa364cb99be5820b7786ed52212a4c601941c0d8853a1985bfa008091f3"
+        }
+      ],
+      "snapshotUrl": "/files/0f30fe699f2530773f240e060d8795fc9bcc60d2799a1098e7f0d654d680b825.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-10T02:44:45Z",
+    "lastObserved": "2026-07-10T02:44:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
