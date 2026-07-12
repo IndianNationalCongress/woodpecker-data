@@ -75,12 +75,25 @@ def files_arg(a):
         return [f for f in out if "/records/" in f and f.endswith(".json") and os.path.exists(f)]
     return a.files
 
+# Row-count ceiling for the forward-pass. The daily cron runs `--since HEAD~1` (a handful of
+# rows); a bad diff (rebase/mass touch) or an accidental `--all` (~228k rows, each amplified by
+# the tenders indexes) could balloon into a large, unintended D1 write. Abort above this unless
+# --force. Sized well above a normal day but far below a full-corpus reload.
+DEFAULT_MAX_ROWS = 50_000
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("files", nargs="*")
     ap.add_argument("--since"); ap.add_argument("--all", action="store_true")
     ap.add_argument("--db", default="woodpecker"); ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--max-rows", type=int, default=DEFAULT_MAX_ROWS,
+                    help="abort if the forward-pass would upsert more than this many rows (0=unlimited)")
+    ap.add_argument("--force", action="store_true", help="bypass the --max-rows ceiling")
     a = ap.parse_args()
+    if a.all and not a.force:
+        print("REFUSING: --all re-syncs the entire corpus (unbounded). Re-run with --force if intended,"
+              "\nor use --since <ref> for an incremental forward-pass.", file=sys.stderr)
+        raise SystemExit(2)
     files = files_arg(a)
     if not files:
         print("no records to sync"); return
@@ -92,6 +105,11 @@ def main():
         except Exception as e:
             print(f"skip {f}: {e}", file=sys.stderr)
     print(f"{len(rows)} live tenders -> D1 upsert")
+    if a.max_rows and len(rows) > a.max_rows and not a.force:
+        print(f"ABORT: {len(rows):,} rows exceeds --max-rows={a.max_rows:,} (guards a runaway forward-pass)."
+              "\nRe-run with --force or a tighter --since if this volume is genuinely intended.",
+              file=sys.stderr)
+        raise SystemExit(2)
     if not rows or a.dry_run:
         if a.dry_run and rows: print("sample:", {k: rows[0][k] for k in ("ocid","org_name","entity_id","value_amount","has_award")})
         return
