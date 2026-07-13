@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_PR_190491_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_190491_1",
+      "id": "woodpecker-iocl-2026_PR_190491_1-0001",
+      "date": "2026-07-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_PR_190491_1",
+        "title": "Procurement of 19 MT of Alumina Powder (PB950)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-13T00:00:00Z"
+        },
+        "description": "Procurement of 19 MT of Alumina Powder (PB950)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_190491_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PR_190491_1",
+          "url": "/files/180c2d8aed73abbeab26a9e92cf2de849f8d2c2a1ac7437be2710e8bc1a8e4fc.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyLBeq60xleMfXqJ9QI3A%2FA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "180c2d8aed73abbeab26a9e92cf2de849f8d2c2a1ac7437be2710e8bc1a8e4fc",
+          "format": "text/plain",
+          "textUrl": "/files/180c2d8aed73abbeab26a9e92cf2de849f8d2c2a1ac7437be2710e8bc1a8e4fc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_PR_190491_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyLBeq60xleMfXqJ9QI3A%2FA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_PR_190491_1",
+    "tender": {
+      "id": "2026_PR_190491_1",
+      "title": "Procurement of 19 MT of Alumina Powder (PB950)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-13T00:00:00Z"
+      },
+      "description": "Procurement of 19 MT of Alumina Powder (PB950)"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+    },
+    "date": "2026-07-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_PR_190491_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PR_190491_1",
+        "url": "/files/180c2d8aed73abbeab26a9e92cf2de849f8d2c2a1ac7437be2710e8bc1a8e4fc.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyLBeq60xleMfXqJ9QI3A%2FA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "180c2d8aed73abbeab26a9e92cf2de849f8d2c2a1ac7437be2710e8bc1a8e4fc",
+        "format": "text/plain",
+        "textUrl": "/files/180c2d8aed73abbeab26a9e92cf2de849f8d2c2a1ac7437be2710e8bc1a8e4fc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_PR_190491_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyLBeq60xleMfXqJ9QI3A%2FA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_190491_1",
+      "observedAt": "2026-07-13T03:00:33Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "c249f0c12aca2b59d1a64d520a41c08e2024d39619f20593be199fcd21fd44fa",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_190491_1-0001-record",
+          "sha256": "180c2d8aed73abbeab26a9e92cf2de849f8d2c2a1ac7437be2710e8bc1a8e4fc"
+        }
+      ],
+      "snapshotUrl": "/files/dad4d952b9885ad9870bd4e25e721f61765cc24f10c462bd29b3563abd00e903.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-13T03:00:33Z",
+    "lastObserved": "2026-07-13T03:00:33Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

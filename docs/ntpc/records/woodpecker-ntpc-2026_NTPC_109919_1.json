@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109919_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109919_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109919_1-0001",
+      "date": "2026-07-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109919_1",
+        "title": "Procurement of spares of DG set stage I(3X660MW) units at NTPC Barh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-13T00:00:00Z"
+        },
+        "description": "Procurement of spares of DG set stage I(3X660MW) units at NTPC Barh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109919_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109919_1",
+          "url": "/files/965fa91d480b0daa44c6d451699b860842bdaa07fd6e7570868974093366e9fb.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFRgbi9p6wLo36csmJGHDpg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "965fa91d480b0daa44c6d451699b860842bdaa07fd6e7570868974093366e9fb",
+          "format": "text/plain",
+          "textUrl": "/files/965fa91d480b0daa44c6d451699b860842bdaa07fd6e7570868974093366e9fb.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109919_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFRgbi9p6wLo36csmJGHDpg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109919_1",
+    "tender": {
+      "id": "2026_NTPC_109919_1",
+      "title": "Procurement of spares of DG set stage I(3X660MW) units at NTPC Barh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-13T00:00:00Z"
+      },
+      "description": "Procurement of spares of DG set stage I(3X660MW) units at NTPC Barh"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109919_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109919_1",
+        "url": "/files/965fa91d480b0daa44c6d451699b860842bdaa07fd6e7570868974093366e9fb.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFRgbi9p6wLo36csmJGHDpg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "965fa91d480b0daa44c6d451699b860842bdaa07fd6e7570868974093366e9fb",
+        "format": "text/plain",
+        "textUrl": "/files/965fa91d480b0daa44c6d451699b860842bdaa07fd6e7570868974093366e9fb.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109919_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFRgbi9p6wLo36csmJGHDpg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109919_1",
+      "observedAt": "2026-07-13T02:50:35Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "90c4a77810d420093efc6ee2e19e4452bb848483585f74c473bc7896c1afb399",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109919_1-0001-record",
+          "sha256": "965fa91d480b0daa44c6d451699b860842bdaa07fd6e7570868974093366e9fb"
+        }
+      ],
+      "snapshotUrl": "/files/54d9cdcfeb233106797b1b40140a15d3036f41b3c0ccc3ef25a816c6a3ec5930.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-13T02:50:35Z",
+    "lastObserved": "2026-07-13T02:50:35Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

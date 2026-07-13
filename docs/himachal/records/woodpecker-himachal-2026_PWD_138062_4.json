@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_138062_4",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_138062_4",
+      "id": "woodpecker-himachal-2026_PWD_138062_4-0001",
+      "date": "2026-07-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_138062_4",
+        "title": "Restoration of rain damages",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 210800,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-13T00:00:00Z"
+        },
+        "description": "Restoration of rain damages"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_138062_4-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_138062_4",
+          "url": "/files/8f40a0622dfc0490e95c9db1b1c96d0a191b983047925717f29929343fc895b6.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZ6ZaiRKdDzGDlgdo7obNRg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "8f40a0622dfc0490e95c9db1b1c96d0a191b983047925717f29929343fc895b6",
+          "format": "text/plain",
+          "textUrl": "/files/8f40a0622dfc0490e95c9db1b1c96d0a191b983047925717f29929343fc895b6.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_138062_4-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZ6ZaiRKdDzGDlgdo7obNRg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_138062_4",
+    "tender": {
+      "id": "2026_PWD_138062_4",
+      "title": "Restoration of rain damages",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 210800,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-13T00:00:00Z"
+      },
+      "description": "Restoration of rain damages"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-07-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_138062_4-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_138062_4",
+        "url": "/files/8f40a0622dfc0490e95c9db1b1c96d0a191b983047925717f29929343fc895b6.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZ6ZaiRKdDzGDlgdo7obNRg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "8f40a0622dfc0490e95c9db1b1c96d0a191b983047925717f29929343fc895b6",
+        "format": "text/plain",
+        "textUrl": "/files/8f40a0622dfc0490e95c9db1b1c96d0a191b983047925717f29929343fc895b6.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_138062_4-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZ6ZaiRKdDzGDlgdo7obNRg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_138062_4",
+      "observedAt": "2026-07-13T01:57:30Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "2be62da57919176fae41fab39f82ef043425dc691fcc2c2483de25b96a89fe2f",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_138062_4-0001-record",
+          "sha256": "8f40a0622dfc0490e95c9db1b1c96d0a191b983047925717f29929343fc895b6"
+        }
+      ],
+      "snapshotUrl": "/files/66891c7a30d85dea6f93e2f3bd24f76573578f700f20d5985fcf71056db7fd0d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-13T01:57:30Z",
+    "lastObserved": "2026-07-13T01:57:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

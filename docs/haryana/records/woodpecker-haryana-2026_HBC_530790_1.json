@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-haryana-2026_HBC_530790_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_530790_1",
+      "id": "woodpecker-haryana-2026_HBC_530790_1-0001",
+      "date": "2026-06-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Rewari",
+        "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+      },
+      "tender": {
+        "id": "2026_HBC_530790_1",
+        "title": "Construction of Boundary wall at 220 kv Substation Narnaul",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Rewari",
+          "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 15695536,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-13T00:00:00Z"
+        },
+        "description": "Construction of Boundary wall at 220 kv Substation Narnaul"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_530790_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HBC_530790_1",
+          "url": "/files/70f15fa56909d716b68e0f315a1fcb9a5e128c4dc718319f44a8d4e2d40cc5f8.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sd%2Fo6LSxS4LYx2sZ1hVndzQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "70f15fa56909d716b68e0f315a1fcb9a5e128c4dc718319f44a8d4e2d40cc5f8",
+          "format": "text/plain",
+          "textUrl": "/files/70f15fa56909d716b68e0f315a1fcb9a5e128c4dc718319f44a8d4e2d40cc5f8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HBC_530790_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sd%2Fo6LSxS4LYx2sZ1hVndzQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HBC_530790_1",
+    "tender": {
+      "id": "2026_HBC_530790_1",
+      "title": "Construction of Boundary wall at 220 kv Substation Narnaul",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Rewari",
+        "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 15695536,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-13T00:00:00Z"
+      },
+      "description": "Construction of Boundary wall at 220 kv Substation Narnaul"
+    },
+    "buyer": {
+      "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Rewari",
+      "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+    },
+    "date": "2026-06-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HBC_530790_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HBC_530790_1",
+        "url": "/files/70f15fa56909d716b68e0f315a1fcb9a5e128c4dc718319f44a8d4e2d40cc5f8.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sd%2Fo6LSxS4LYx2sZ1hVndzQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "70f15fa56909d716b68e0f315a1fcb9a5e128c4dc718319f44a8d4e2d40cc5f8",
+        "format": "text/plain",
+        "textUrl": "/files/70f15fa56909d716b68e0f315a1fcb9a5e128c4dc718319f44a8d4e2d40cc5f8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HBC_530790_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sd%2Fo6LSxS4LYx2sZ1hVndzQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_530790_1",
+      "observedAt": "2026-07-13T02:19:16Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "414433c1c7a44bff48f0f12664513907ca10ebd45632620dda52648ba6bc904e",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_530790_1-0001-record",
+          "sha256": "70f15fa56909d716b68e0f315a1fcb9a5e128c4dc718319f44a8d4e2d40cc5f8"
+        }
+      ],
+      "snapshotUrl": "/files/14bcaf904833fa49b82b59455739c08bb2c1125d5132d37aa4f2f7b7eb84e6c0.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-13T02:19:16Z",
+    "lastObserved": "2026-07-13T02:19:16Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

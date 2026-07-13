@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_ELECT_572553_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_ELECT_572553_1",
+      "id": "woodpecker-rajasthan-2026_ELECT_572553_1-0001",
+      "date": "2026-07-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Election Department||CEO||DEO- JODHPUR",
+        "id": "IN-ORG-election-department-ceo-deo-jodhpur"
+      },
+      "tender": {
+        "id": "2026_ELECT_572553_1",
+        "title": "Printing Works",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Election Department||CEO||DEO- JODHPUR",
+          "id": "IN-ORG-election-department-ceo-deo-jodhpur"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 1000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-13T00:00:00Z"
+        },
+        "description": "Printing Works"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_ELECT_572553_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ELECT_572553_1",
+          "url": "/files/58ab35c283742ec26c2c1162d2f857c22a4b2e7e898cb5384109d6246bd9ae6a.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STkeuMFmvYCu9b0pakxaFXA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "58ab35c283742ec26c2c1162d2f857c22a4b2e7e898cb5384109d6246bd9ae6a",
+          "format": "text/plain",
+          "textUrl": "/files/58ab35c283742ec26c2c1162d2f857c22a4b2e7e898cb5384109d6246bd9ae6a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_ELECT_572553_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STkeuMFmvYCu9b0pakxaFXA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_ELECT_572553_1",
+    "tender": {
+      "id": "2026_ELECT_572553_1",
+      "title": "Printing Works",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Election Department||CEO||DEO- JODHPUR",
+        "id": "IN-ORG-election-department-ceo-deo-jodhpur"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 1000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-13T00:00:00Z"
+      },
+      "description": "Printing Works"
+    },
+    "buyer": {
+      "name": "Election Department||CEO||DEO- JODHPUR",
+      "id": "IN-ORG-election-department-ceo-deo-jodhpur"
+    },
+    "date": "2026-07-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_ELECT_572553_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ELECT_572553_1",
+        "url": "/files/58ab35c283742ec26c2c1162d2f857c22a4b2e7e898cb5384109d6246bd9ae6a.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STkeuMFmvYCu9b0pakxaFXA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "58ab35c283742ec26c2c1162d2f857c22a4b2e7e898cb5384109d6246bd9ae6a",
+        "format": "text/plain",
+        "textUrl": "/files/58ab35c283742ec26c2c1162d2f857c22a4b2e7e898cb5384109d6246bd9ae6a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_ELECT_572553_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STkeuMFmvYCu9b0pakxaFXA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_ELECT_572553_1",
+      "observedAt": "2026-07-13T02:40:49Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "d6bfb3e61ebcbe80bf00b9bc9b7117d1c78ee722b9bb85bda769c5e0427e95a6",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_ELECT_572553_1-0001-record",
+          "sha256": "58ab35c283742ec26c2c1162d2f857c22a4b2e7e898cb5384109d6246bd9ae6a"
+        }
+      ],
+      "snapshotUrl": "/files/af3abb800a39801b921daddb871c203985ff7972edb38a8a0d57b133bc448944.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-13T02:40:49Z",
+    "lastObserved": "2026-07-13T02:40:49Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

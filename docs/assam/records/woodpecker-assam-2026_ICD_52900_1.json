@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-assam-2026_ICD_52900_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-assam-2026_ICD_52900_1",
+      "id": "woodpecker-assam-2026_ICD_52900_1-0001",
+      "date": "2026-06-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Industries and Commerce Department||Assam Industrial Infrastructure Development Corporation",
+        "id": "IN-ORG-industries-and-commerce-department-assam"
+      },
+      "tender": {
+        "id": "2026_ICD_52900_1",
+        "title": "Upgradation of MIE Moran Dibrugarh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Industries and Commerce Department||Assam Industrial Infrastructure Development Corporation",
+          "id": "IN-ORG-industries-and-commerce-department-assam"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 9409826,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-13T00:00:00Z"
+        },
+        "description": "Upgradation of MIE Moran Dibrugarh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_ICD_52900_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ICD_52900_1",
+          "url": "/files/7dad29a635747b048a797d21e7dabc859c2781c23f1cf2cd39c2e8894f1ebc9a.txt",
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StrDKN0qjr0%2B4wK%2F18Fg8zw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7dad29a635747b048a797d21e7dabc859c2781c23f1cf2cd39c2e8894f1ebc9a",
+          "format": "text/plain",
+          "textUrl": "/files/7dad29a635747b048a797d21e7dabc859c2781c23f1cf2cd39c2e8894f1ebc9a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-assam-2026_ICD_52900_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StrDKN0qjr0%2B4wK%2F18Fg8zw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-assam-2026_ICD_52900_1",
+    "tender": {
+      "id": "2026_ICD_52900_1",
+      "title": "Upgradation of MIE Moran Dibrugarh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Industries and Commerce Department||Assam Industrial Infrastructure Development Corporation",
+        "id": "IN-ORG-industries-and-commerce-department-assam"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 9409826,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-13T00:00:00Z"
+      },
+      "description": "Upgradation of MIE Moran Dibrugarh"
+    },
+    "buyer": {
+      "name": "Industries and Commerce Department||Assam Industrial Infrastructure Development Corporation",
+      "id": "IN-ORG-industries-and-commerce-department-assam"
+    },
+    "date": "2026-06-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-assam-2026_ICD_52900_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ICD_52900_1",
+        "url": "/files/7dad29a635747b048a797d21e7dabc859c2781c23f1cf2cd39c2e8894f1ebc9a.txt",
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StrDKN0qjr0%2B4wK%2F18Fg8zw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7dad29a635747b048a797d21e7dabc859c2781c23f1cf2cd39c2e8894f1ebc9a",
+        "format": "text/plain",
+        "textUrl": "/files/7dad29a635747b048a797d21e7dabc859c2781c23f1cf2cd39c2e8894f1ebc9a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-assam-2026_ICD_52900_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StrDKN0qjr0%2B4wK%2F18Fg8zw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-assam-2026_ICD_52900_1",
+      "observedAt": "2026-07-13T01:59:14Z",
+      "witness": "woodpecker:assam",
+      "availability": "present",
+      "stateHash": "98adf8b6f6bd99bc01861caac3be5a197c65126088f5392d39969608cc19f0a5",
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_ICD_52900_1-0001-record",
+          "sha256": "7dad29a635747b048a797d21e7dabc859c2781c23f1cf2cd39c2e8894f1ebc9a"
+        }
+      ],
+      "snapshotUrl": "/files/c0e029710cc4b3335f7ace4ca4c9aa6200b4d476d01e03cd2e8ec4cf68a1e1d0.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-13T01:59:14Z",
+    "lastObserved": "2026-07-13T01:59:14Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
