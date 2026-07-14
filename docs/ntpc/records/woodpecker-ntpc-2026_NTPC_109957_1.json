@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109957_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109957_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109957_1-0001",
+      "date": "2026-07-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109957_1",
+        "title": "Procurement of GEPIL make ESP Spares for Stage 2, NTPC Unchahar",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-14T00:00:00Z"
+        },
+        "description": "Procurement of GEPIL make ESP Spares for Stage 2, NTPC Unchahar"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109957_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109957_1",
+          "url": "/files/2de9841320104bce199702d635e2f3c86989f2ad34d4d6614946017adf2e65f8.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4mDO7jfS8dSTLYztYrb4Uw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2de9841320104bce199702d635e2f3c86989f2ad34d4d6614946017adf2e65f8",
+          "format": "text/plain",
+          "textUrl": "/files/2de9841320104bce199702d635e2f3c86989f2ad34d4d6614946017adf2e65f8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109957_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4mDO7jfS8dSTLYztYrb4Uw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109957_1",
+    "tender": {
+      "id": "2026_NTPC_109957_1",
+      "title": "Procurement of GEPIL make ESP Spares for Stage 2, NTPC Unchahar",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-14T00:00:00Z"
+      },
+      "description": "Procurement of GEPIL make ESP Spares for Stage 2, NTPC Unchahar"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109957_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109957_1",
+        "url": "/files/2de9841320104bce199702d635e2f3c86989f2ad34d4d6614946017adf2e65f8.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4mDO7jfS8dSTLYztYrb4Uw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2de9841320104bce199702d635e2f3c86989f2ad34d4d6614946017adf2e65f8",
+        "format": "text/plain",
+        "textUrl": "/files/2de9841320104bce199702d635e2f3c86989f2ad34d4d6614946017adf2e65f8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109957_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4mDO7jfS8dSTLYztYrb4Uw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109957_1",
+      "observedAt": "2026-07-14T02:30:20Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "7553b2f3c245eef46ce15dce20921fcc310549ae9ae24258c923db690fb52ec9",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109957_1-0001-record",
+          "sha256": "2de9841320104bce199702d635e2f3c86989f2ad34d4d6614946017adf2e65f8"
+        }
+      ],
+      "snapshotUrl": "/files/0a584d499a7df04410856d54f21a7be35f5d368d20902541a0c84e67a4575e5b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-14T02:30:20Z",
+    "lastObserved": "2026-07-14T02:30:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
