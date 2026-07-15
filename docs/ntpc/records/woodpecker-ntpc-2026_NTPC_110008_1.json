@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110008_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110008_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110008_1-0001",
+      "date": "2026-07-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110008_1",
+        "title": "PROCUREMENT OF COMPRESSOR FOR TAD FOR ST III(1X210 MW) NTPC UNCHAHAR",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-15T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF COMPRESSOR FOR TAD FOR ST III(1X210 MW) NTPC UNCHAHAR"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110008_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110008_1",
+          "url": "/files/3b7fbfd9beda51b8baac486360370231fdffcd596a86ecf81f27d769543df0ef.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHT3OyQSGXgw7jqBxDF2Itw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3b7fbfd9beda51b8baac486360370231fdffcd596a86ecf81f27d769543df0ef",
+          "format": "text/plain",
+          "textUrl": "/files/3b7fbfd9beda51b8baac486360370231fdffcd596a86ecf81f27d769543df0ef.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110008_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHT3OyQSGXgw7jqBxDF2Itw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110008_1",
+    "tender": {
+      "id": "2026_NTPC_110008_1",
+      "title": "PROCUREMENT OF COMPRESSOR FOR TAD FOR ST III(1X210 MW) NTPC UNCHAHAR",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-15T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF COMPRESSOR FOR TAD FOR ST III(1X210 MW) NTPC UNCHAHAR"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110008_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110008_1",
+        "url": "/files/3b7fbfd9beda51b8baac486360370231fdffcd596a86ecf81f27d769543df0ef.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHT3OyQSGXgw7jqBxDF2Itw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3b7fbfd9beda51b8baac486360370231fdffcd596a86ecf81f27d769543df0ef",
+        "format": "text/plain",
+        "textUrl": "/files/3b7fbfd9beda51b8baac486360370231fdffcd596a86ecf81f27d769543df0ef.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110008_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHT3OyQSGXgw7jqBxDF2Itw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110008_1",
+      "observedAt": "2026-07-15T02:32:14Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "8e0f4c4b7a69bbefc4c84d3f0c677e0440bd3ebb409df7c9a3b4041f18941db3",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110008_1-0001-record",
+          "sha256": "3b7fbfd9beda51b8baac486360370231fdffcd596a86ecf81f27d769543df0ef"
+        }
+      ],
+      "snapshotUrl": "/files/c273db43de6d194da351dd333c7027ee85a0895967564a81e8de3e8078fff59b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-15T02:32:14Z",
+    "lastObserved": "2026-07-15T02:32:14Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
