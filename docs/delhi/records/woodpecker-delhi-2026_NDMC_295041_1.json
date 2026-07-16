@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-delhi-2026_NDMC_295041_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_NDMC_295041_1",
+      "id": "woodpecker-delhi-2026_NDMC_295041_1-0001",
+      "date": "2026-07-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "New Delhi Municipal Council||Electric-II||BM-I",
+        "id": "IN-ORG-new-delhi-municipal-council-electric-ii-"
+      },
+      "tender": {
+        "id": "2026_NDMC_295041_1",
+        "title": "As per NIT",
+        "status": "active",
+        "procuringEntity": {
+          "name": "New Delhi Municipal Council||Electric-II||BM-I",
+          "id": "IN-ORG-new-delhi-municipal-council-electric-ii-"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-07-16T00:00:00Z"
+        },
+        "description": "As per NIT"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_NDMC_295041_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NDMC_295041_1",
+          "url": "/files/1e589289d5b237087ba4beadaf1235649f1584bf1aff14b2f7eb25088c255e67.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScgU5IgAPxtKW6cBQHW11Yg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1e589289d5b237087ba4beadaf1235649f1584bf1aff14b2f7eb25088c255e67",
+          "format": "text/plain",
+          "textUrl": "/files/1e589289d5b237087ba4beadaf1235649f1584bf1aff14b2f7eb25088c255e67.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_NDMC_295041_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScgU5IgAPxtKW6cBQHW11Yg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_NDMC_295041_1",
+    "tender": {
+      "id": "2026_NDMC_295041_1",
+      "title": "As per NIT",
+      "status": "active",
+      "procuringEntity": {
+        "name": "New Delhi Municipal Council||Electric-II||BM-I",
+        "id": "IN-ORG-new-delhi-municipal-council-electric-ii-"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-07-16T00:00:00Z"
+      },
+      "description": "As per NIT"
+    },
+    "buyer": {
+      "name": "New Delhi Municipal Council||Electric-II||BM-I",
+      "id": "IN-ORG-new-delhi-municipal-council-electric-ii-"
+    },
+    "date": "2026-07-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_NDMC_295041_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NDMC_295041_1",
+        "url": "/files/1e589289d5b237087ba4beadaf1235649f1584bf1aff14b2f7eb25088c255e67.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScgU5IgAPxtKW6cBQHW11Yg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1e589289d5b237087ba4beadaf1235649f1584bf1aff14b2f7eb25088c255e67",
+        "format": "text/plain",
+        "textUrl": "/files/1e589289d5b237087ba4beadaf1235649f1584bf1aff14b2f7eb25088c255e67.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_NDMC_295041_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScgU5IgAPxtKW6cBQHW11Yg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_NDMC_295041_1",
+      "observedAt": "2026-07-16T02:07:33Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "40530d03c40d4e5477253a374d066c6876622ab12ba11673bcea7d35147914c2",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_NDMC_295041_1-0001-record",
+          "sha256": "1e589289d5b237087ba4beadaf1235649f1584bf1aff14b2f7eb25088c255e67"
+        }
+      ],
+      "snapshotUrl": "/files/4738c623365937194f6d23785e3a2cb75d93b7aa932583e2a397ca79f5ae14c3.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-16T02:07:33Z",
+    "lastObserved": "2026-07-16T02:07:33Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

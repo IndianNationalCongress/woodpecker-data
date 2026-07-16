@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110068_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110068_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110068_1-0001",
+      "date": "2026-07-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110068_1",
+        "title": "BMC of HP or LP Bypass System service for Stage I and II 2026 28",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-16T00:00:00Z"
+        },
+        "description": "BMC of HP or LP Bypass System service for Stage I and II 2026 28"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110068_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110068_1",
+          "url": "/files/d28c16d73338bca866b110fc0101cd79ac9c2a6c9ad5717dee5a2bd86711acad.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE5wnOxWGnX8OYYRJQIqL%2Bw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d28c16d73338bca866b110fc0101cd79ac9c2a6c9ad5717dee5a2bd86711acad",
+          "format": "text/plain",
+          "textUrl": "/files/d28c16d73338bca866b110fc0101cd79ac9c2a6c9ad5717dee5a2bd86711acad.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110068_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE5wnOxWGnX8OYYRJQIqL%2Bw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110068_1",
+    "tender": {
+      "id": "2026_NTPC_110068_1",
+      "title": "BMC of HP or LP Bypass System service for Stage I and II 2026 28",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-16T00:00:00Z"
+      },
+      "description": "BMC of HP or LP Bypass System service for Stage I and II 2026 28"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110068_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110068_1",
+        "url": "/files/d28c16d73338bca866b110fc0101cd79ac9c2a6c9ad5717dee5a2bd86711acad.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE5wnOxWGnX8OYYRJQIqL%2Bw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d28c16d73338bca866b110fc0101cd79ac9c2a6c9ad5717dee5a2bd86711acad",
+        "format": "text/plain",
+        "textUrl": "/files/d28c16d73338bca866b110fc0101cd79ac9c2a6c9ad5717dee5a2bd86711acad.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110068_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SE5wnOxWGnX8OYYRJQIqL%2Bw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110068_1",
+      "observedAt": "2026-07-16T02:27:48Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "4817667b0594b7d933c67353ddf66e2429beb89161768cb9be1ca3ed16d247d3",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110068_1-0001-record",
+          "sha256": "d28c16d73338bca866b110fc0101cd79ac9c2a6c9ad5717dee5a2bd86711acad"
+        }
+      ],
+      "snapshotUrl": "/files/c93c1db174ba58a5e1e37178fb1cfd6af5972ce2f188527d18a31852113de22d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-16T02:27:48Z",
+    "lastObserved": "2026-07-16T02:27:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
