@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_138628_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_138628_1",
+      "id": "woodpecker-himachal-2026_PWD_138628_1-0001",
+      "date": "2026-07-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_138628_1",
+        "title": "Restoration of rain damages on various roads under Dalash Sub-Division",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 200000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-17T00:00:00Z"
+        },
+        "description": "Restoration of rain damages on various roads under Dalash Sub-Division"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_138628_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_138628_1",
+          "url": "/files/01dc697543942b61fb799f095c06750c056b1dfa9e11d1dea987d352bc30d010.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmOy9rv6qNugknukiU7cYMQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "01dc697543942b61fb799f095c06750c056b1dfa9e11d1dea987d352bc30d010",
+          "format": "text/plain",
+          "textUrl": "/files/01dc697543942b61fb799f095c06750c056b1dfa9e11d1dea987d352bc30d010.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_138628_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmOy9rv6qNugknukiU7cYMQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_138628_1",
+    "tender": {
+      "id": "2026_PWD_138628_1",
+      "title": "Restoration of rain damages on various roads under Dalash Sub-Division",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 200000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-17T00:00:00Z"
+      },
+      "description": "Restoration of rain damages on various roads under Dalash Sub-Division"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-07-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_138628_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_138628_1",
+        "url": "/files/01dc697543942b61fb799f095c06750c056b1dfa9e11d1dea987d352bc30d010.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmOy9rv6qNugknukiU7cYMQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "01dc697543942b61fb799f095c06750c056b1dfa9e11d1dea987d352bc30d010",
+        "format": "text/plain",
+        "textUrl": "/files/01dc697543942b61fb799f095c06750c056b1dfa9e11d1dea987d352bc30d010.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_138628_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmOy9rv6qNugknukiU7cYMQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_138628_1",
+      "observedAt": "2026-07-17T01:52:44Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "b20f366c50174fda4b3bcf0768d41cb7851d3ff7e52219cb2cc6d7323ddc3d4f",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_138628_1-0001-record",
+          "sha256": "01dc697543942b61fb799f095c06750c056b1dfa9e11d1dea987d352bc30d010"
+        }
+      ],
+      "snapshotUrl": "/files/dc471f40efc349e08da963683b43a9f6829c4277b91e4bdaa617768baf7fe3d1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-17T01:52:44Z",
+    "lastObserved": "2026-07-17T01:52:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

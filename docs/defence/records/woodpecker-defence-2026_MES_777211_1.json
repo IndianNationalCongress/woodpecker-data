@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_777211_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_777211_1",
+      "id": "woodpecker-defence-2026_MES_777211_1-0001",
+      "date": "2026-07-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_777211_1",
+        "title": "Dash Cam including all accessories complete with 32 GB SD make CP Plus at GE 969 EWS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-17T00:00:00Z"
+        },
+        "description": "Dash Cam including all accessories complete with 32 GB SD make CP Plus at GE 969 EWS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_777211_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_777211_1",
+          "url": "/files/880b411a8ea4dcb48fa3651fe80057feeffe1011ed4756ad59e462dbc73e0d64.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKG%2Btcr8alduJvOLh%2BMH0ww%3D%3D",
+          "sourceAlive": true,
+          "sha256": "880b411a8ea4dcb48fa3651fe80057feeffe1011ed4756ad59e462dbc73e0d64",
+          "format": "text/plain",
+          "textUrl": "/files/880b411a8ea4dcb48fa3651fe80057feeffe1011ed4756ad59e462dbc73e0d64.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_777211_1",
+    "tender": {
+      "id": "2026_MES_777211_1",
+      "title": "Dash Cam including all accessories complete with 32 GB SD make CP Plus at GE 969 EWS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-17T00:00:00Z"
+      },
+      "description": "Dash Cam including all accessories complete with 32 GB SD make CP Plus at GE 969 EWS"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-07-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_777211_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_777211_1",
+        "url": "/files/880b411a8ea4dcb48fa3651fe80057feeffe1011ed4756ad59e462dbc73e0d64.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKG%2Btcr8alduJvOLh%2BMH0ww%3D%3D",
+        "sourceAlive": true,
+        "sha256": "880b411a8ea4dcb48fa3651fe80057feeffe1011ed4756ad59e462dbc73e0d64",
+        "format": "text/plain",
+        "textUrl": "/files/880b411a8ea4dcb48fa3651fe80057feeffe1011ed4756ad59e462dbc73e0d64.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_777211_1",
+      "observedAt": "2026-07-17T02:00:58Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "a6fb528b845fd2f5427827292cdba965c4f7960ec621ffbd5cbbe22aa9ee3765",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_777211_1-0001-record",
+          "sha256": "880b411a8ea4dcb48fa3651fe80057feeffe1011ed4756ad59e462dbc73e0d64"
+        }
+      ],
+      "snapshotUrl": "/files/ef7444357571866fc0a6ea3e27ce4e0e49dc830cdf57c513467756964f67c511.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-17T02:00:58Z",
+    "lastObserved": "2026-07-17T02:00:58Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110078_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110078_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110078_1-0001",
+      "date": "2026-07-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110078_1",
+        "title": "PROCUREMENT OF VERTIV UPS and SCVS MAKE SPARES FOR NTPC SINGRAULI SSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-17T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF VERTIV UPS and SCVS MAKE SPARES FOR NTPC SINGRAULI SSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110078_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110078_1",
+          "url": "/files/b609b95d409c203eb13d574e089ce7356fab0275b5160ee317f1d8d3656f1b2b.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SirMqvBOLPkwePlqaYP0SDg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b609b95d409c203eb13d574e089ce7356fab0275b5160ee317f1d8d3656f1b2b",
+          "format": "text/plain",
+          "textUrl": "/files/b609b95d409c203eb13d574e089ce7356fab0275b5160ee317f1d8d3656f1b2b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110078_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SirMqvBOLPkwePlqaYP0SDg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110078_1",
+    "tender": {
+      "id": "2026_NTPC_110078_1",
+      "title": "PROCUREMENT OF VERTIV UPS and SCVS MAKE SPARES FOR NTPC SINGRAULI SSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-17T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF VERTIV UPS and SCVS MAKE SPARES FOR NTPC SINGRAULI SSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110078_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110078_1",
+        "url": "/files/b609b95d409c203eb13d574e089ce7356fab0275b5160ee317f1d8d3656f1b2b.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SirMqvBOLPkwePlqaYP0SDg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b609b95d409c203eb13d574e089ce7356fab0275b5160ee317f1d8d3656f1b2b",
+        "format": "text/plain",
+        "textUrl": "/files/b609b95d409c203eb13d574e089ce7356fab0275b5160ee317f1d8d3656f1b2b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110078_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SirMqvBOLPkwePlqaYP0SDg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110078_1",
+      "observedAt": "2026-07-17T02:41:49Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "0b7032fbaed5817a5b592887d1783c3024bd68fff88d853a3edabbba9be3c740",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110078_1-0001-record",
+          "sha256": "b609b95d409c203eb13d574e089ce7356fab0275b5160ee317f1d8d3656f1b2b"
+        }
+      ],
+      "snapshotUrl": "/files/991c40160fa612aea2c98ea782a833ad8bc94201fa2fa8b74a4007545ca08d14.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-17T02:41:49Z",
+    "lastObserved": "2026-07-17T02:41:49Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
