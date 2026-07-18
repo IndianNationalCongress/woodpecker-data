@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110022_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110022_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110022_1-0001",
+      "date": "2026-07-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110022_1",
+        "title": "PROCUREMENT OF RC pump coupling and spares for FGD area at NTPC Simhadri",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-18T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF RC pump coupling and spares for FGD area at NTPC Simhadri"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110022_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110022_1",
+          "url": "/files/d8464c315a983aff7556e3f8026fa05fa923acba85153964217a18b5997bbe3a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sk4i8RYCy8yypUYAKDASlXQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d8464c315a983aff7556e3f8026fa05fa923acba85153964217a18b5997bbe3a",
+          "format": "text/plain",
+          "textUrl": "/files/d8464c315a983aff7556e3f8026fa05fa923acba85153964217a18b5997bbe3a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110022_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sk4i8RYCy8yypUYAKDASlXQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110022_1",
+    "tender": {
+      "id": "2026_NTPC_110022_1",
+      "title": "PROCUREMENT OF RC pump coupling and spares for FGD area at NTPC Simhadri",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-18T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF RC pump coupling and spares for FGD area at NTPC Simhadri"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110022_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110022_1",
+        "url": "/files/d8464c315a983aff7556e3f8026fa05fa923acba85153964217a18b5997bbe3a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sk4i8RYCy8yypUYAKDASlXQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d8464c315a983aff7556e3f8026fa05fa923acba85153964217a18b5997bbe3a",
+        "format": "text/plain",
+        "textUrl": "/files/d8464c315a983aff7556e3f8026fa05fa923acba85153964217a18b5997bbe3a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110022_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sk4i8RYCy8yypUYAKDASlXQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110022_1",
+      "observedAt": "2026-07-18T02:24:44Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9fa086d5ba1ea9ed44d7c9a0a74d97b51e7ccbd91b0c70e4695f63b29cf5ae99",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110022_1-0001-record",
+          "sha256": "d8464c315a983aff7556e3f8026fa05fa923acba85153964217a18b5997bbe3a"
+        }
+      ],
+      "snapshotUrl": "/files/ff34abd0622c9eb3cdbadf095bb895ef72e8493a9d2e842b2cf7f743c6f37bfa.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-18T02:24:44Z",
+    "lastObserved": "2026-07-18T02:24:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
