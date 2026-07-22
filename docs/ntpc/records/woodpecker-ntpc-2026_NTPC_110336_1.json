@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110336_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110336_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110336_1-0001",
+      "date": "2026-07-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110336_1",
+        "title": "Transportation of Sulphuric Acid from Indian Oil Corporation Ltd site to NTPC Barh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-22T00:00:00Z"
+        },
+        "description": "Transportation of Sulphuric Acid from Indian Oil Corporation Ltd site to NTPC Barh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110336_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110336_1",
+          "url": "/files/fae2f60ba150471c68918da9784b064bc2be8413e116e1a8ea44c1a5d7ffa947.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGWTfhuLcnr4oDWpCquuodg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "fae2f60ba150471c68918da9784b064bc2be8413e116e1a8ea44c1a5d7ffa947",
+          "format": "text/plain",
+          "textUrl": "/files/fae2f60ba150471c68918da9784b064bc2be8413e116e1a8ea44c1a5d7ffa947.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110336_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGWTfhuLcnr4oDWpCquuodg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110336_1",
+    "tender": {
+      "id": "2026_NTPC_110336_1",
+      "title": "Transportation of Sulphuric Acid from Indian Oil Corporation Ltd site to NTPC Barh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-22T00:00:00Z"
+      },
+      "description": "Transportation of Sulphuric Acid from Indian Oil Corporation Ltd site to NTPC Barh"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110336_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110336_1",
+        "url": "/files/fae2f60ba150471c68918da9784b064bc2be8413e116e1a8ea44c1a5d7ffa947.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGWTfhuLcnr4oDWpCquuodg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "fae2f60ba150471c68918da9784b064bc2be8413e116e1a8ea44c1a5d7ffa947",
+        "format": "text/plain",
+        "textUrl": "/files/fae2f60ba150471c68918da9784b064bc2be8413e116e1a8ea44c1a5d7ffa947.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110336_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGWTfhuLcnr4oDWpCquuodg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110336_1",
+      "observedAt": "2026-07-22T02:28:39Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "36472e76e4d601d2cf6028a4d849e3b5c5855be73eacd8cc25cfe8ffffcb96fe",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110336_1-0001-record",
+          "sha256": "fae2f60ba150471c68918da9784b064bc2be8413e116e1a8ea44c1a5d7ffa947"
+        }
+      ],
+      "snapshotUrl": "/files/68ad1371239f0d8a62b356698c0ec1bc0504a1e036abc71f398bc882a1638b1d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-22T02:28:39Z",
+    "lastObserved": "2026-07-22T02:28:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

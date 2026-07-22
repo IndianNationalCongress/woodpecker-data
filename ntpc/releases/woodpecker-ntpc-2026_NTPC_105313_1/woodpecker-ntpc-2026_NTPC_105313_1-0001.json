@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_105313_1",
+  "id": "woodpecker-ntpc-2026_NTPC_105313_1-0001",
+  "date": "2026-04-03T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+    "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+  },
+  "tender": {
+    "id": "2026_NTPC_105313_1",
+    "title": "As per tender documents",
+    "status": "active",
+    "procuringEntity": {
+      "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+    },
+    "mainProcurementCategory": "works",
+    "tenderPeriod": {
+      "endDate": "2026-07-22T00:00:00Z"
+    },
+    "description": "As per tender documents"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_105313_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_NTPC_105313_1",
+      "url": "/files/3763bd197ac35a3ea01ee72bb61dc63c7c8d21ff5e4d7d1d3f0c1fc9ccf3c6e9.txt",
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC2AV5Bbh9zjqYUHjmEU7tw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "3763bd197ac35a3ea01ee72bb61dc63c7c8d21ff5e4d7d1d3f0c1fc9ccf3c6e9",
+      "format": "text/plain",
+      "textUrl": "/files/3763bd197ac35a3ea01ee72bb61dc63c7c8d21ff5e4d7d1d3f0c1fc9ccf3c6e9.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_105313_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC2AV5Bbh9zjqYUHjmEU7tw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
