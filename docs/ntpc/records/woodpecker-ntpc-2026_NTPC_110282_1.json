@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110282_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110282_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110282_1-0001",
+      "date": "2026-07-20T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110282_1",
+        "title": "Procurement of KGV Spares Bray Make for Ash handling maintenance Non RC",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-23T00:00:00Z"
+        },
+        "description": "Procurement of KGV Spares Bray Make for Ash handling maintenance Non RC"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110282_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110282_1",
+          "url": "/files/fa16d9fd44a288dfe349e9ad043c3b7784c4502dd9092498bbf6373d22fddfc9.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx9dvh6t%2BJh3Yf4VQJqza9w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "fa16d9fd44a288dfe349e9ad043c3b7784c4502dd9092498bbf6373d22fddfc9",
+          "format": "text/plain",
+          "textUrl": "/files/fa16d9fd44a288dfe349e9ad043c3b7784c4502dd9092498bbf6373d22fddfc9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110282_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx9dvh6t%2BJh3Yf4VQJqza9w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110282_1",
+    "tender": {
+      "id": "2026_NTPC_110282_1",
+      "title": "Procurement of KGV Spares Bray Make for Ash handling maintenance Non RC",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-23T00:00:00Z"
+      },
+      "description": "Procurement of KGV Spares Bray Make for Ash handling maintenance Non RC"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-20T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110282_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110282_1",
+        "url": "/files/fa16d9fd44a288dfe349e9ad043c3b7784c4502dd9092498bbf6373d22fddfc9.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx9dvh6t%2BJh3Yf4VQJqza9w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "fa16d9fd44a288dfe349e9ad043c3b7784c4502dd9092498bbf6373d22fddfc9",
+        "format": "text/plain",
+        "textUrl": "/files/fa16d9fd44a288dfe349e9ad043c3b7784c4502dd9092498bbf6373d22fddfc9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110282_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx9dvh6t%2BJh3Yf4VQJqza9w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110282_1",
+      "observedAt": "2026-07-23T02:35:57Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5b612dbf5e7d61f75af2eb2dbed27a405f41fa671cfa2e3134a4c99a86824513",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110282_1-0001-record",
+          "sha256": "fa16d9fd44a288dfe349e9ad043c3b7784c4502dd9092498bbf6373d22fddfc9"
+        }
+      ],
+      "snapshotUrl": "/files/948e435fc9f9378c80dde8e2d16b7739b32b3f73a00ce0ee3934d4cffd69f59f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-23T02:35:57Z",
+    "lastObserved": "2026-07-23T02:35:57Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

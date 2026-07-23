@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110263_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110263_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110263_1-0001",
+      "date": "2026-07-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110263_1",
+        "title": "PROCUREMENT OF FRF CONDITIONER VACUUM PUMP STG 1 TMD NTPC RIHAND",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-23T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF FRF CONDITIONER VACUUM PUMP STG 1 TMD NTPC RIHAND"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110263_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110263_1",
+          "url": "/files/0b846ccf89cb1bc00595047d65f338dfed5714a1af077b54f456d268c7a77285.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFjemPeRd9KlyenNd5QU2VQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0b846ccf89cb1bc00595047d65f338dfed5714a1af077b54f456d268c7a77285",
+          "format": "text/plain",
+          "textUrl": "/files/0b846ccf89cb1bc00595047d65f338dfed5714a1af077b54f456d268c7a77285.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110263_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFjemPeRd9KlyenNd5QU2VQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110263_1",
+    "tender": {
+      "id": "2026_NTPC_110263_1",
+      "title": "PROCUREMENT OF FRF CONDITIONER VACUUM PUMP STG 1 TMD NTPC RIHAND",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-23T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF FRF CONDITIONER VACUUM PUMP STG 1 TMD NTPC RIHAND"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110263_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110263_1",
+        "url": "/files/0b846ccf89cb1bc00595047d65f338dfed5714a1af077b54f456d268c7a77285.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFjemPeRd9KlyenNd5QU2VQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0b846ccf89cb1bc00595047d65f338dfed5714a1af077b54f456d268c7a77285",
+        "format": "text/plain",
+        "textUrl": "/files/0b846ccf89cb1bc00595047d65f338dfed5714a1af077b54f456d268c7a77285.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110263_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFjemPeRd9KlyenNd5QU2VQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110263_1",
+      "observedAt": "2026-07-23T02:35:57Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "d3a08abe8e237eca553ba05a7079a1ef9f6629b339085521dd7d9a7e66962eaf",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110263_1-0001-record",
+          "sha256": "0b846ccf89cb1bc00595047d65f338dfed5714a1af077b54f456d268c7a77285"
+        }
+      ],
+      "snapshotUrl": "/files/e37c6231998e52054e5a75b6e9a3cdf205b2dd48b46e44470e0b13805c7bc981.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-23T02:35:57Z",
+    "lastObserved": "2026-07-23T02:35:57Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
