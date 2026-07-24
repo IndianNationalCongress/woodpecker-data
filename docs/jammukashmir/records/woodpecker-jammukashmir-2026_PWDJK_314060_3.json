@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-jammukashmir-2026_PWDJK_314060_3",
+  "releases": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_PWDJK_314060_3",
+      "id": "woodpecker-jammukashmir-2026_PWDJK_314060_3-0001",
+      "date": "2026-06-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_PWDJK_314060_3",
+        "title": "Macadamization of road to Saharan and Bhulley chak",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-24T00:00:00Z"
+        },
+        "description": "Macadamization of road to Saharan and Bhulley chak"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_PWDJK_314060_3-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWDJK_314060_3",
+          "url": "/files/b3ad24e6ce9baaa84f9ef324c0b45493e0f326d05f14a492e0b31110197b7a3c.txt",
+          "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SpjTqaPNV51rVN7h1reUzrg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b3ad24e6ce9baaa84f9ef324c0b45493e0f326d05f14a492e0b31110197b7a3c",
+          "format": "text/plain",
+          "textUrl": "/files/b3ad24e6ce9baaa84f9ef324c0b45493e0f326d05f14a492e0b31110197b7a3c.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jammukashmir-2026_PWDJK_314060_3",
+    "tender": {
+      "id": "2026_PWDJK_314060_3",
+      "title": "Macadamization of road to Saharan and Bhulley chak",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-24T00:00:00Z"
+      },
+      "description": "Macadamization of road to Saharan and Bhulley chak"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-06-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jammukashmir-2026_PWDJK_314060_3-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWDJK_314060_3",
+        "url": "/files/b3ad24e6ce9baaa84f9ef324c0b45493e0f326d05f14a492e0b31110197b7a3c.txt",
+        "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SpjTqaPNV51rVN7h1reUzrg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b3ad24e6ce9baaa84f9ef324c0b45493e0f326d05f14a492e0b31110197b7a3c",
+        "format": "text/plain",
+        "textUrl": "/files/b3ad24e6ce9baaa84f9ef324c0b45493e0f326d05f14a492e0b31110197b7a3c.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_PWDJK_314060_3",
+      "observedAt": "2026-07-24T02:23:45Z",
+      "witness": "woodpecker:jammukashmir",
+      "availability": "present",
+      "stateHash": "1def802befbbaa2b7c9ee81ff36417ad732ee7c13afb01c6b73c02a6fccd4f0b",
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_PWDJK_314060_3-0001-record",
+          "sha256": "b3ad24e6ce9baaa84f9ef324c0b45493e0f326d05f14a492e0b31110197b7a3c"
+        }
+      ],
+      "snapshotUrl": "/files/b9b8d6d7ff28e0da6de5f34034f9d6f3aada9255aa96c039b046d5d5690d95ee.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-24T02:23:45Z",
+    "lastObserved": "2026-07-24T02:23:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

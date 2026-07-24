@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-iocl-2026_WRRAJ_189998_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_WRRAJ_189998_1",
+      "id": "woodpecker-iocl-2026_WRRAJ_189998_1-0001",
+      "date": "2026-07-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Pipelines||WRPL Rajkot||Technical Services",
+        "id": "IN-ORG-indianoil-pipelines-wrpl-rajkot-technica"
+      },
+      "tender": {
+        "id": "2026_WRRAJ_189998_1",
+        "title": "PWRJT26014_Group-A_Electrical Annual Rate Contract (ARC) for IOCL Residential Colonies - WRPL Rajkot.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Pipelines||WRPL Rajkot||Technical Services",
+          "id": "IN-ORG-indianoil-pipelines-wrpl-rajkot-technica"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 5547912,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-24T00:00:00Z"
+        },
+        "description": "PWRJT26014_Group-A_Electrical Annual Rate Contract (ARC) for IOCL Residential Colonies - WRPL Rajkot."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_WRRAJ_189998_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WRRAJ_189998_1",
+          "url": "/files/48c745051e1bdf7b712dfcf8195ebb296351be7df248f3d167d8ae7d329a2d01.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDt124os%2F3aOpxkCoWzc26w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "48c745051e1bdf7b712dfcf8195ebb296351be7df248f3d167d8ae7d329a2d01",
+          "format": "text/plain",
+          "textUrl": "/files/48c745051e1bdf7b712dfcf8195ebb296351be7df248f3d167d8ae7d329a2d01.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_WRRAJ_189998_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDt124os%2F3aOpxkCoWzc26w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_WRRAJ_189998_1",
+    "tender": {
+      "id": "2026_WRRAJ_189998_1",
+      "title": "PWRJT26014_Group-A_Electrical Annual Rate Contract (ARC) for IOCL Residential Colonies - WRPL Rajkot.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Pipelines||WRPL Rajkot||Technical Services",
+        "id": "IN-ORG-indianoil-pipelines-wrpl-rajkot-technica"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 5547912,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-24T00:00:00Z"
+      },
+      "description": "PWRJT26014_Group-A_Electrical Annual Rate Contract (ARC) for IOCL Residential Colonies - WRPL Rajkot."
+    },
+    "buyer": {
+      "name": "IndianOil||Pipelines||WRPL Rajkot||Technical Services",
+      "id": "IN-ORG-indianoil-pipelines-wrpl-rajkot-technica"
+    },
+    "date": "2026-07-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_WRRAJ_189998_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WRRAJ_189998_1",
+        "url": "/files/48c745051e1bdf7b712dfcf8195ebb296351be7df248f3d167d8ae7d329a2d01.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDt124os%2F3aOpxkCoWzc26w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "48c745051e1bdf7b712dfcf8195ebb296351be7df248f3d167d8ae7d329a2d01",
+        "format": "text/plain",
+        "textUrl": "/files/48c745051e1bdf7b712dfcf8195ebb296351be7df248f3d167d8ae7d329a2d01.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_WRRAJ_189998_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDt124os%2F3aOpxkCoWzc26w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_WRRAJ_189998_1",
+      "observedAt": "2026-07-24T02:43:40Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "76b73343906e746449efcd9b0a435ca4dbab82f6d4c5cbac601b8938b0a51cb6",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_WRRAJ_189998_1-0001-record",
+          "sha256": "48c745051e1bdf7b712dfcf8195ebb296351be7df248f3d167d8ae7d329a2d01"
+        }
+      ],
+      "snapshotUrl": "/files/4b40d95dcb107c15ec7c8a88acee032f12a548dfaa05cd4ab2abf21d221b0e31.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-24T02:43:40Z",
+    "lastObserved": "2026-07-24T02:43:40Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-jammukashmir-2026_IFC_314514_6",
+  "releases": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_IFC_314514_6",
+      "id": "woodpecker-jammukashmir-2026_IFC_314514_6-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_IFC_314514_6",
+        "title": "Clearance of Chaksi Nallah.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-24T00:00:00Z"
+        },
+        "description": "Clearance of Chaksi Nallah."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_IFC_314514_6-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IFC_314514_6",
+          "url": "/files/e3fd8a7d9cad0ff6258506ed6d4b358e1a735bb6f7a529670786f9b31a9acc24.txt",
+          "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S8O20Uy%2BMW2Nhmd5kKZxHeQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e3fd8a7d9cad0ff6258506ed6d4b358e1a735bb6f7a529670786f9b31a9acc24",
+          "format": "text/plain",
+          "textUrl": "/files/e3fd8a7d9cad0ff6258506ed6d4b358e1a735bb6f7a529670786f9b31a9acc24.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jammukashmir-2026_IFC_314514_6",
+    "tender": {
+      "id": "2026_IFC_314514_6",
+      "title": "Clearance of Chaksi Nallah.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-24T00:00:00Z"
+      },
+      "description": "Clearance of Chaksi Nallah."
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jammukashmir-2026_IFC_314514_6-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IFC_314514_6",
+        "url": "/files/e3fd8a7d9cad0ff6258506ed6d4b358e1a735bb6f7a529670786f9b31a9acc24.txt",
+        "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S8O20Uy%2BMW2Nhmd5kKZxHeQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e3fd8a7d9cad0ff6258506ed6d4b358e1a735bb6f7a529670786f9b31a9acc24",
+        "format": "text/plain",
+        "textUrl": "/files/e3fd8a7d9cad0ff6258506ed6d4b358e1a735bb6f7a529670786f9b31a9acc24.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_IFC_314514_6",
+      "observedAt": "2026-07-24T02:23:45Z",
+      "witness": "woodpecker:jammukashmir",
+      "availability": "present",
+      "stateHash": "e8f6f1ee97a13ec65b6d2f89fbfda4820243c7fa58b5c9bba9c362f71c5308cc",
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_IFC_314514_6-0001-record",
+          "sha256": "e3fd8a7d9cad0ff6258506ed6d4b358e1a735bb6f7a529670786f9b31a9acc24"
+        }
+      ],
+      "snapshotUrl": "/files/2c87f0157382f9cf595ad86a33364c7a0dda2b708ca7a0696bfc670c48433aa5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-24T02:23:45Z",
+    "lastObserved": "2026-07-24T02:23:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
