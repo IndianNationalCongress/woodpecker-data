@@ -1,0 +1,154 @@
+{
+  "ocid": "woodpecker-cppp-2026_BSF_917155_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_BSF_917155_1",
+      "id": "woodpecker-cppp-2026_BSF_917155_1-0001",
+      "date": "2026-07-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DG,BSF,MHA||ANO FTR(Bangalore),BSF,MHA",
+        "id": "IN-ORG-dg-bsf-mha-ano-ftr-bangalore-bsf-mha"
+      },
+      "tender": {
+        "id": "2026_BSF_917155_1",
+        "title": "As per BOQ",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DG,BSF,MHA||ANO FTR(Bangalore),BSF,MHA",
+          "id": "IN-ORG-dg-bsf-mha-ano-ftr-bangalore-bsf-mha"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 125032,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-27T00:00:00Z"
+        },
+        "description": "As per BOQ"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_BSF_917155_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BSF_917155_1",
+          "url": "/files/e2d4de12c5ddf5317ffbb1003688f85910bef69edbae26a99216adbadd80c112.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4Nmd95hI%2F65lp8QM3vfRzw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e2d4de12c5ddf5317ffbb1003688f85910bef69edbae26a99216adbadd80c112",
+          "format": "text/plain",
+          "textUrl": "/files/e2d4de12c5ddf5317ffbb1003688f85910bef69edbae26a99216adbadd80c112.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_BSF_917155_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4Nmd95hI%2F65lp8QM3vfRzw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        },
+        {
+          "id": "woodpecker-cppp-2026_BSF_917155_1-0001-doc-2",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_2.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4Nmd95hI%2F65lp8QM3vfRzw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_BSF_917155_1",
+    "tender": {
+      "id": "2026_BSF_917155_1",
+      "title": "As per BOQ",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DG,BSF,MHA||ANO FTR(Bangalore),BSF,MHA",
+        "id": "IN-ORG-dg-bsf-mha-ano-ftr-bangalore-bsf-mha"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 125032,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-27T00:00:00Z"
+      },
+      "description": "As per BOQ"
+    },
+    "buyer": {
+      "name": "DG,BSF,MHA||ANO FTR(Bangalore),BSF,MHA",
+      "id": "IN-ORG-dg-bsf-mha-ano-ftr-bangalore-bsf-mha"
+    },
+    "date": "2026-07-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_BSF_917155_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BSF_917155_1",
+        "url": "/files/e2d4de12c5ddf5317ffbb1003688f85910bef69edbae26a99216adbadd80c112.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4Nmd95hI%2F65lp8QM3vfRzw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e2d4de12c5ddf5317ffbb1003688f85910bef69edbae26a99216adbadd80c112",
+        "format": "text/plain",
+        "textUrl": "/files/e2d4de12c5ddf5317ffbb1003688f85910bef69edbae26a99216adbadd80c112.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_BSF_917155_1-0001-doc-2",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_2.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4Nmd95hI%2F65lp8QM3vfRzw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_BSF_917155_1",
+      "observedAt": "2026-07-27T01:14:37Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "647de12ff8936a62a4d2ebe9c58e448d1c62b507e80dfb73880ec178344834be",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_BSF_917155_1-0001-record",
+          "sha256": "e2d4de12c5ddf5317ffbb1003688f85910bef69edbae26a99216adbadd80c112"
+        }
+      ],
+      "snapshotUrl": "/files/01471b74b9286343d88684d9496e36d4a58340bf91d1c4d5cc17f3591fcb1d8a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-27T01:14:37Z",
+    "lastObserved": "2026-07-27T01:14:37Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

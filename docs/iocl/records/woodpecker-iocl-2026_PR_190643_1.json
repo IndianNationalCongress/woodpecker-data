@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_PR_190643_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_190643_1",
+      "id": "woodpecker-iocl-2026_PR_190643_1-0001",
+      "date": "2026-07-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_PR_190643_1",
+        "title": "Procurement of 26.98 MT of LC-2253",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-27T00:00:00Z"
+        },
+        "description": "Procurement of 26.98 MT of LC-2253"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_190643_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PR_190643_1",
+          "url": "/files/971b9999a3d4d11ab85ecae31923098bfa8cac089d7dbb524ca9e66f6caf19ff.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZPEujRU54F20cJR2InmhVw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "971b9999a3d4d11ab85ecae31923098bfa8cac089d7dbb524ca9e66f6caf19ff",
+          "format": "text/plain",
+          "textUrl": "/files/971b9999a3d4d11ab85ecae31923098bfa8cac089d7dbb524ca9e66f6caf19ff.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_PR_190643_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZPEujRU54F20cJR2InmhVw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_PR_190643_1",
+    "tender": {
+      "id": "2026_PR_190643_1",
+      "title": "Procurement of 26.98 MT of LC-2253",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-27T00:00:00Z"
+      },
+      "description": "Procurement of 26.98 MT of LC-2253"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+    },
+    "date": "2026-07-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_PR_190643_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PR_190643_1",
+        "url": "/files/971b9999a3d4d11ab85ecae31923098bfa8cac089d7dbb524ca9e66f6caf19ff.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZPEujRU54F20cJR2InmhVw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "971b9999a3d4d11ab85ecae31923098bfa8cac089d7dbb524ca9e66f6caf19ff",
+        "format": "text/plain",
+        "textUrl": "/files/971b9999a3d4d11ab85ecae31923098bfa8cac089d7dbb524ca9e66f6caf19ff.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_PR_190643_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZPEujRU54F20cJR2InmhVw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_190643_1",
+      "observedAt": "2026-07-27T03:01:58Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "a9393194741d44cf7f30b7e21f3d29fabba97c7ebb24591c1d01dbe8b4f7ae25",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_190643_1-0001-record",
+          "sha256": "971b9999a3d4d11ab85ecae31923098bfa8cac089d7dbb524ca9e66f6caf19ff"
+        }
+      ],
+      "snapshotUrl": "/files/bca632e0c79589c058ab50ce7810735d74bebb01d44cf228a92ad36159b05ff3.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-27T03:01:58Z",
+    "lastObserved": "2026-07-27T03:01:58Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
