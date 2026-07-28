@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110417_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110417_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110417_1-0001",
+      "date": "2026-07-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110417_1",
+        "title": "Service Engineer deployment for Repair Replacement and Breakdownmaintenance of H2 dryers Make SPAN Mfg Company Pvt Ltd for 2 years atNTPC North Karanpura",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-28T00:00:00Z"
+        },
+        "description": "Service Engineer deployment for Repair Replacement and Breakdownmaintenance of H2 dryers Make SPAN Mfg Company Pvt Ltd for 2 years atNTPC North Karanpura"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110417_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110417_1",
+          "url": "/files/7ffca39723c7adfd2974f0531f68869cdc4257d09f238f8b136915d80240b24a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S23Qshtnr0ZHc%2BpdcU7FVLQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7ffca39723c7adfd2974f0531f68869cdc4257d09f238f8b136915d80240b24a",
+          "format": "text/plain",
+          "textUrl": "/files/7ffca39723c7adfd2974f0531f68869cdc4257d09f238f8b136915d80240b24a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110417_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S23Qshtnr0ZHc%2BpdcU7FVLQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110417_1",
+    "tender": {
+      "id": "2026_NTPC_110417_1",
+      "title": "Service Engineer deployment for Repair Replacement and Breakdownmaintenance of H2 dryers Make SPAN Mfg Company Pvt Ltd for 2 years atNTPC North Karanpura",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-28T00:00:00Z"
+      },
+      "description": "Service Engineer deployment for Repair Replacement and Breakdownmaintenance of H2 dryers Make SPAN Mfg Company Pvt Ltd for 2 years atNTPC North Karanpura"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110417_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110417_1",
+        "url": "/files/7ffca39723c7adfd2974f0531f68869cdc4257d09f238f8b136915d80240b24a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S23Qshtnr0ZHc%2BpdcU7FVLQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7ffca39723c7adfd2974f0531f68869cdc4257d09f238f8b136915d80240b24a",
+        "format": "text/plain",
+        "textUrl": "/files/7ffca39723c7adfd2974f0531f68869cdc4257d09f238f8b136915d80240b24a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110417_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S23Qshtnr0ZHc%2BpdcU7FVLQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110417_1",
+      "observedAt": "2026-07-28T02:33:06Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "79c9a9be705b2cd89954a6ad9e6437dc0f94f99bfd6cf7f0d55598491624e9ab",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110417_1-0001-record",
+          "sha256": "7ffca39723c7adfd2974f0531f68869cdc4257d09f238f8b136915d80240b24a"
+        }
+      ],
+      "snapshotUrl": "/files/a7706cc7c12e5d1e7ba30a3275801074f8beb8e83cc6c5427bd5e5926ba9ca98.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-28T02:33:06Z",
+    "lastObserved": "2026-07-28T02:33:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
