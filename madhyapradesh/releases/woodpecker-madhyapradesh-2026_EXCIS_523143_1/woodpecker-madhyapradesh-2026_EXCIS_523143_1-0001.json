@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-madhyapradesh-2026_EXCIS_523143_1",
+  "id": "woodpecker-madhyapradesh-2026_EXCIS_523143_1-0001",
+  "date": "2026-07-22T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "Excise Department||District Excise Office Rewa",
+    "id": "IN-ORG-excise-department-district-excise-office"
+  },
+  "tender": {
+    "id": "2026_EXCIS_523143_1",
+    "title": "Vehical Rent",
+    "status": "active",
+    "procuringEntity": {
+      "name": "Excise Department||District Excise Office Rewa",
+      "id": "IN-ORG-excise-department-district-excise-office"
+    },
+    "mainProcurementCategory": "services",
+    "value": {
+      "amount": 42000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-07-29T00:00:00Z"
+    },
+    "description": "Vehical Rent"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-madhyapradesh-2026_EXCIS_523143_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_EXCIS_523143_1",
+      "url": "/files/81a76e591381f27258f016c4a404e2ed6169ac25b27057aa7b84ffe0a66997be.txt",
+      "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sls5hpldHiFDJRGwFtKiyCw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "81a76e591381f27258f016c4a404e2ed6169ac25b27057aa7b84ffe0a66997be",
+      "format": "text/plain",
+      "textUrl": "/files/81a76e591381f27258f016c4a404e2ed6169ac25b27057aa7b84ffe0a66997be.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-madhyapradesh-2026_EXCIS_523143_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sls5hpldHiFDJRGwFtKiyCw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
