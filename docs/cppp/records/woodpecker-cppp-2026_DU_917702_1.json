@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_DU_917702_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DU_917702_1",
+      "id": "woodpecker-cppp-2026_DU_917702_1-0001",
+      "date": "2026-07-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Delhi University||Department of Physics - DU",
+        "id": "IN-ORG-delhi-university-department-of-physics-d"
+      },
+      "tender": {
+        "id": "2026_DU_917702_1",
+        "title": "Annual Maintenance Contract for Bruker Nuclear Magnetic Resonance (NMR)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Delhi University||Department of Physics - DU",
+          "id": "IN-ORG-delhi-university-department-of-physics-d"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-30T00:00:00Z"
+        },
+        "description": "Annual Maintenance Contract for Bruker Nuclear Magnetic Resonance (NMR)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DU_917702_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DU_917702_1",
+          "url": "/files/eeff645d424fa328dd4ba383c65717422d8285de6ecab1469c28155b22623769.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sljox8qMXbvHe1KfK5jmwKg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "eeff645d424fa328dd4ba383c65717422d8285de6ecab1469c28155b22623769",
+          "format": "text/plain",
+          "textUrl": "/files/eeff645d424fa328dd4ba383c65717422d8285de6ecab1469c28155b22623769.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DU_917702_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sljox8qMXbvHe1KfK5jmwKg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DU_917702_1",
+    "tender": {
+      "id": "2026_DU_917702_1",
+      "title": "Annual Maintenance Contract for Bruker Nuclear Magnetic Resonance (NMR)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Delhi University||Department of Physics - DU",
+        "id": "IN-ORG-delhi-university-department-of-physics-d"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-30T00:00:00Z"
+      },
+      "description": "Annual Maintenance Contract for Bruker Nuclear Magnetic Resonance (NMR)"
+    },
+    "buyer": {
+      "name": "Delhi University||Department of Physics - DU",
+      "id": "IN-ORG-delhi-university-department-of-physics-d"
+    },
+    "date": "2026-07-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DU_917702_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DU_917702_1",
+        "url": "/files/eeff645d424fa328dd4ba383c65717422d8285de6ecab1469c28155b22623769.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sljox8qMXbvHe1KfK5jmwKg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "eeff645d424fa328dd4ba383c65717422d8285de6ecab1469c28155b22623769",
+        "format": "text/plain",
+        "textUrl": "/files/eeff645d424fa328dd4ba383c65717422d8285de6ecab1469c28155b22623769.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DU_917702_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sljox8qMXbvHe1KfK5jmwKg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DU_917702_1",
+      "observedAt": "2026-07-30T01:00:00Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "f07db2c2ee35b615d43ad44d973792b20c4d1141f15d9b789090a9125cd1d76a",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DU_917702_1-0001-record",
+          "sha256": "eeff645d424fa328dd4ba383c65717422d8285de6ecab1469c28155b22623769"
+        }
+      ],
+      "snapshotUrl": "/files/8cca0545e3249da913f1cd625d0ad068bb98728813f5c665948e8d6ac6853ea2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-30T01:00:00Z",
+    "lastObserved": "2026-07-30T01:00:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
