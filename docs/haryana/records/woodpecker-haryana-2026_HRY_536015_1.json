@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-haryana-2026_HRY_536015_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HRY_536015_1",
+      "id": "woodpecker-haryana-2026_HRY_536015_1-0001",
+      "date": "2026-07-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Government||Panchayati Raj Haryana||XEN Panchayati Raj Gurugram",
+        "id": "IN-ORG-haryana-government-panchayati-raj-haryan"
+      },
+      "tender": {
+        "id": "2026_HRY_536015_1",
+        "title": "Brickwork ,R.C.C , Steel etc.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Government||Panchayati Raj Haryana||XEN Panchayati Raj Gurugram",
+          "id": "IN-ORG-haryana-government-panchayati-raj-haryan"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 5462522,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-31T00:00:00Z"
+        },
+        "description": "Brickwork ,R.C.C , Steel etc."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HRY_536015_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HRY_536015_1",
+          "url": "/files/62cb2c83391f8c0763454d97df8e6a6b3e8f1cfeb933b51f8ef713a1ad8b6a0a.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoAhqdSGNR1VeGFeqxFVnkw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "62cb2c83391f8c0763454d97df8e6a6b3e8f1cfeb933b51f8ef713a1ad8b6a0a",
+          "format": "text/plain",
+          "textUrl": "/files/62cb2c83391f8c0763454d97df8e6a6b3e8f1cfeb933b51f8ef713a1ad8b6a0a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HRY_536015_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoAhqdSGNR1VeGFeqxFVnkw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HRY_536015_1",
+    "tender": {
+      "id": "2026_HRY_536015_1",
+      "title": "Brickwork ,R.C.C , Steel etc.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Government||Panchayati Raj Haryana||XEN Panchayati Raj Gurugram",
+        "id": "IN-ORG-haryana-government-panchayati-raj-haryan"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 5462522,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-31T00:00:00Z"
+      },
+      "description": "Brickwork ,R.C.C , Steel etc."
+    },
+    "buyer": {
+      "name": "Haryana Government||Panchayati Raj Haryana||XEN Panchayati Raj Gurugram",
+      "id": "IN-ORG-haryana-government-panchayati-raj-haryan"
+    },
+    "date": "2026-07-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HRY_536015_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HRY_536015_1",
+        "url": "/files/62cb2c83391f8c0763454d97df8e6a6b3e8f1cfeb933b51f8ef713a1ad8b6a0a.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoAhqdSGNR1VeGFeqxFVnkw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "62cb2c83391f8c0763454d97df8e6a6b3e8f1cfeb933b51f8ef713a1ad8b6a0a",
+        "format": "text/plain",
+        "textUrl": "/files/62cb2c83391f8c0763454d97df8e6a6b3e8f1cfeb933b51f8ef713a1ad8b6a0a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HRY_536015_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoAhqdSGNR1VeGFeqxFVnkw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HRY_536015_1",
+      "observedAt": "2026-07-31T02:19:06Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "907730c2d20aa079b591c4b0dbbc4d601320e9dd015d253aa418cbfa4b0c99e0",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HRY_536015_1-0001-record",
+          "sha256": "62cb2c83391f8c0763454d97df8e6a6b3e8f1cfeb933b51f8ef713a1ad8b6a0a"
+        }
+      ],
+      "snapshotUrl": "/files/6e9b7ef6fef2a5094f01dab4c72cde91c0d7188484edb4361fc78da3e51a24be.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-31T02:19:06Z",
+    "lastObserved": "2026-07-31T02:19:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

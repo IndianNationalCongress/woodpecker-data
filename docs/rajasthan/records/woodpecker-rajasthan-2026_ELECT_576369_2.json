@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_ELECT_576369_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_ELECT_576369_2",
+      "id": "woodpecker-rajasthan-2026_ELECT_576369_2-0001",
+      "date": "2026-07-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Election Department||CEO||DEO-BEAWAR",
+        "id": "IN-ORG-election-department-ceo-deo-beawar"
+      },
+      "tender": {
+        "id": "2026_ELECT_576369_2",
+        "title": "CCTV",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Election Department||CEO||DEO-BEAWAR",
+          "id": "IN-ORG-election-department-ceo-deo-beawar"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 2000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-31T00:00:00Z"
+        },
+        "description": "CCTV"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_ELECT_576369_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ELECT_576369_2",
+          "url": "/files/cba7864e45e2a50e6c6ceb12a4e7dc0f97ae5799acbd93926e8417111523d32e.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuiORIXXpW7rEUbvsZrErnA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cba7864e45e2a50e6c6ceb12a4e7dc0f97ae5799acbd93926e8417111523d32e",
+          "format": "text/plain",
+          "textUrl": "/files/cba7864e45e2a50e6c6ceb12a4e7dc0f97ae5799acbd93926e8417111523d32e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_ELECT_576369_2-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuiORIXXpW7rEUbvsZrErnA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_ELECT_576369_2",
+    "tender": {
+      "id": "2026_ELECT_576369_2",
+      "title": "CCTV",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Election Department||CEO||DEO-BEAWAR",
+        "id": "IN-ORG-election-department-ceo-deo-beawar"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 2000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-31T00:00:00Z"
+      },
+      "description": "CCTV"
+    },
+    "buyer": {
+      "name": "Election Department||CEO||DEO-BEAWAR",
+      "id": "IN-ORG-election-department-ceo-deo-beawar"
+    },
+    "date": "2026-07-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_ELECT_576369_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ELECT_576369_2",
+        "url": "/files/cba7864e45e2a50e6c6ceb12a4e7dc0f97ae5799acbd93926e8417111523d32e.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuiORIXXpW7rEUbvsZrErnA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cba7864e45e2a50e6c6ceb12a4e7dc0f97ae5799acbd93926e8417111523d32e",
+        "format": "text/plain",
+        "textUrl": "/files/cba7864e45e2a50e6c6ceb12a4e7dc0f97ae5799acbd93926e8417111523d32e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_ELECT_576369_2-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuiORIXXpW7rEUbvsZrErnA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_ELECT_576369_2",
+      "observedAt": "2026-07-31T02:37:53Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "b558183596594a418ac2ae87fddf2d958a6cf0185637c904ef51494794977dcc",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_ELECT_576369_2-0001-record",
+          "sha256": "cba7864e45e2a50e6c6ceb12a4e7dc0f97ae5799acbd93926e8417111523d32e"
+        }
+      ],
+      "snapshotUrl": "/files/5b10898d6addb8e4c270cb1ce2f74d8fa712ecfacad46b7367601f05fbb7ae07.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-31T02:37:53Z",
+    "lastObserved": "2026-07-31T02:37:53Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
