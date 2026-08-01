@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-coalindia-2026_BCCL_362374_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-coalindia-2026_BCCL_362374_1",
+      "id": "woodpecker-coalindia-2026_BCCL_362374_1-0001",
+      "date": "2026-07-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Coking Coal Limited||BCCL_KATRAS AREA",
+        "id": "IN-ORG-bharat-coking-coal-limited-bccl-katras-a"
+      },
+      "tender": {
+        "id": "2026_BCCL_362374_1",
+        "title": "Repair and maintenance of A-Type qtr. No.84 at Matkuriya",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Coking Coal Limited||BCCL_KATRAS AREA",
+          "id": "IN-ORG-bharat-coking-coal-limited-bccl-katras-a"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 160062,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-01T00:00:00Z"
+        },
+        "description": "Repair and maintenance of A-Type qtr. No.84 at Matkuriya"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-coalindia-2026_BCCL_362374_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BCCL_362374_1",
+          "url": "/files/3d3a779264edcc28801f81b3e1292982c9c56baaed9818eac8bd8b5f02ea867f.txt",
+          "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sp8p6RG27cXmYv5dHZsJwwQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3d3a779264edcc28801f81b3e1292982c9c56baaed9818eac8bd8b5f02ea867f",
+          "format": "text/plain",
+          "textUrl": "/files/3d3a779264edcc28801f81b3e1292982c9c56baaed9818eac8bd8b5f02ea867f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-coalindia-2026_BCCL_362374_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sp8p6RG27cXmYv5dHZsJwwQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-coalindia-2026_BCCL_362374_1",
+    "tender": {
+      "id": "2026_BCCL_362374_1",
+      "title": "Repair and maintenance of A-Type qtr. No.84 at Matkuriya",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Coking Coal Limited||BCCL_KATRAS AREA",
+        "id": "IN-ORG-bharat-coking-coal-limited-bccl-katras-a"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 160062,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-01T00:00:00Z"
+      },
+      "description": "Repair and maintenance of A-Type qtr. No.84 at Matkuriya"
+    },
+    "buyer": {
+      "name": "Bharat Coking Coal Limited||BCCL_KATRAS AREA",
+      "id": "IN-ORG-bharat-coking-coal-limited-bccl-katras-a"
+    },
+    "date": "2026-07-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-coalindia-2026_BCCL_362374_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BCCL_362374_1",
+        "url": "/files/3d3a779264edcc28801f81b3e1292982c9c56baaed9818eac8bd8b5f02ea867f.txt",
+        "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sp8p6RG27cXmYv5dHZsJwwQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3d3a779264edcc28801f81b3e1292982c9c56baaed9818eac8bd8b5f02ea867f",
+        "format": "text/plain",
+        "textUrl": "/files/3d3a779264edcc28801f81b3e1292982c9c56baaed9818eac8bd8b5f02ea867f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-coalindia-2026_BCCL_362374_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sp8p6RG27cXmYv5dHZsJwwQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-coalindia-2026_BCCL_362374_1",
+      "observedAt": "2026-08-01T02:34:20Z",
+      "witness": "woodpecker:coalindia",
+      "availability": "present",
+      "stateHash": "e818f20a9d06643ee8f4fccf422c627c0384c5a18636bdf7c76923007305442f",
+      "documents": [
+        {
+          "id": "woodpecker-coalindia-2026_BCCL_362374_1-0001-record",
+          "sha256": "3d3a779264edcc28801f81b3e1292982c9c56baaed9818eac8bd8b5f02ea867f"
+        }
+      ],
+      "snapshotUrl": "/files/61b8db641793ebabb92ecc17ccef810150bbfbdcbc4ae88c09f234c7975354f4.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-01T02:34:20Z",
+    "lastObserved": "2026-08-01T02:34:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

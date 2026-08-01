@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-jharkhand-2026_HLTH_115723_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-jharkhand-2026_HLTH_115723_1",
+      "id": "woodpecker-jharkhand-2026_HLTH_115723_1-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Health CE",
+        "id": "IN-ORG-health-ce"
+      },
+      "tender": {
+        "id": "2026_HLTH_115723_1",
+        "title": "Rate contract for supply Medicine Materials, Machinery and Consumables",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Health CE",
+          "id": "IN-ORG-health-ce"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-01T00:00:00Z"
+        },
+        "description": "Rate contract for supply Medicine Materials, Machinery and Consumables"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jharkhand-2026_HLTH_115723_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HLTH_115723_1",
+          "url": "/files/3a90d8d7a456be698a889ffebea899a827734ab4e16357dd5daa9dee6c401bbc.txt",
+          "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm4H6ZsxMY9x%2Bdp9ydI4H5g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3a90d8d7a456be698a889ffebea899a827734ab4e16357dd5daa9dee6c401bbc",
+          "format": "text/plain",
+          "textUrl": "/files/3a90d8d7a456be698a889ffebea899a827734ab4e16357dd5daa9dee6c401bbc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-jharkhand-2026_HLTH_115723_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm4H6ZsxMY9x%2Bdp9ydI4H5g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jharkhand-2026_HLTH_115723_1",
+    "tender": {
+      "id": "2026_HLTH_115723_1",
+      "title": "Rate contract for supply Medicine Materials, Machinery and Consumables",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Health CE",
+        "id": "IN-ORG-health-ce"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-01T00:00:00Z"
+      },
+      "description": "Rate contract for supply Medicine Materials, Machinery and Consumables"
+    },
+    "buyer": {
+      "name": "Health CE",
+      "id": "IN-ORG-health-ce"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jharkhand-2026_HLTH_115723_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HLTH_115723_1",
+        "url": "/files/3a90d8d7a456be698a889ffebea899a827734ab4e16357dd5daa9dee6c401bbc.txt",
+        "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm4H6ZsxMY9x%2Bdp9ydI4H5g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3a90d8d7a456be698a889ffebea899a827734ab4e16357dd5daa9dee6c401bbc",
+        "format": "text/plain",
+        "textUrl": "/files/3a90d8d7a456be698a889ffebea899a827734ab4e16357dd5daa9dee6c401bbc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-jharkhand-2026_HLTH_115723_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm4H6ZsxMY9x%2Bdp9ydI4H5g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jharkhand-2026_HLTH_115723_1",
+      "observedAt": "2026-08-01T01:46:08Z",
+      "witness": "woodpecker:jharkhand",
+      "availability": "present",
+      "stateHash": "d5fc13e07f1d50f3a18bc625db49d049e1785d97aa02cadc1e62ca53f01f5868",
+      "documents": [
+        {
+          "id": "woodpecker-jharkhand-2026_HLTH_115723_1-0001-record",
+          "sha256": "3a90d8d7a456be698a889ffebea899a827734ab4e16357dd5daa9dee6c401bbc"
+        }
+      ],
+      "snapshotUrl": "/files/4cc6a57a5aaf3a2cb898954a8834895708d85f9eb4a943e31aeffa0c3d19ca39.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-01T01:46:08Z",
+    "lastObserved": "2026-08-01T01:46:08Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

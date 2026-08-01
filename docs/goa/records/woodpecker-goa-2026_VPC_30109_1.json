@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-goa-2026_VPC_30109_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-goa-2026_VPC_30109_1",
+      "id": "woodpecker-goa-2026_VPC_30109_1-0001",
+      "date": "2026-07-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "VIDYA PRABODHINI COLLEGE OF COMMERCE EDUCATION COMPUTER AND MANAGEMENT",
+        "id": "IN-ORG-vidya-prabodhini-college-of-commerce-edu"
+      },
+      "tender": {
+        "id": "2026_VPC_30109_1",
+        "title": "Procurement, Installation and Maintenance of Audio-Visual Infrastructure",
+        "status": "active",
+        "procuringEntity": {
+          "name": "VIDYA PRABODHINI COLLEGE OF COMMERCE EDUCATION COMPUTER AND MANAGEMENT",
+          "id": "IN-ORG-vidya-prabodhini-college-of-commerce-edu"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-08-01T00:00:00Z"
+        },
+        "description": "Procurement, Installation and Maintenance of Audio-Visual Infrastructure"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_VPC_30109_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_VPC_30109_1",
+          "url": "/files/e0acc96c9a416a59dcdde23eb63e974fc95b3a8c8f9f3fa899b107f6ce8325df.txt",
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnBHDNwNXcpo8JkwJr9FIbg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e0acc96c9a416a59dcdde23eb63e974fc95b3a8c8f9f3fa899b107f6ce8325df",
+          "format": "text/plain",
+          "textUrl": "/files/e0acc96c9a416a59dcdde23eb63e974fc95b3a8c8f9f3fa899b107f6ce8325df.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-goa-2026_VPC_30109_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnBHDNwNXcpo8JkwJr9FIbg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-goa-2026_VPC_30109_1",
+    "tender": {
+      "id": "2026_VPC_30109_1",
+      "title": "Procurement, Installation and Maintenance of Audio-Visual Infrastructure",
+      "status": "active",
+      "procuringEntity": {
+        "name": "VIDYA PRABODHINI COLLEGE OF COMMERCE EDUCATION COMPUTER AND MANAGEMENT",
+        "id": "IN-ORG-vidya-prabodhini-college-of-commerce-edu"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-08-01T00:00:00Z"
+      },
+      "description": "Procurement, Installation and Maintenance of Audio-Visual Infrastructure"
+    },
+    "buyer": {
+      "name": "VIDYA PRABODHINI COLLEGE OF COMMERCE EDUCATION COMPUTER AND MANAGEMENT",
+      "id": "IN-ORG-vidya-prabodhini-college-of-commerce-edu"
+    },
+    "date": "2026-07-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-goa-2026_VPC_30109_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_VPC_30109_1",
+        "url": "/files/e0acc96c9a416a59dcdde23eb63e974fc95b3a8c8f9f3fa899b107f6ce8325df.txt",
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnBHDNwNXcpo8JkwJr9FIbg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e0acc96c9a416a59dcdde23eb63e974fc95b3a8c8f9f3fa899b107f6ce8325df",
+        "format": "text/plain",
+        "textUrl": "/files/e0acc96c9a416a59dcdde23eb63e974fc95b3a8c8f9f3fa899b107f6ce8325df.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-goa-2026_VPC_30109_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnBHDNwNXcpo8JkwJr9FIbg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-goa-2026_VPC_30109_1",
+      "observedAt": "2026-08-01T02:11:10Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "485f448ffaf9beae65631147c40415eec44b14b99cf7c1fb1cac24e3ee1aa303",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_VPC_30109_1-0001-record",
+          "sha256": "e0acc96c9a416a59dcdde23eb63e974fc95b3a8c8f9f3fa899b107f6ce8325df"
+        }
+      ],
+      "snapshotUrl": "/files/1dd12445092bd98c1e3862e91891771e78b8f876c306180f36c7fde7ce17f0ff.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-01T02:11:10Z",
+    "lastObserved": "2026-08-01T02:11:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
