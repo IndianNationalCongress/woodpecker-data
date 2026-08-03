@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_781003_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_781003_1",
+      "id": "woodpecker-defence-2026_MES_781003_1-0001",
+      "date": "2026-07-27T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE NEW DELHI-MES||GE NEW DELHI-MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_781003_1",
+        "title": "Repair to vehicle TATA LPT 19D 209510N under GE New Delhi",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE NEW DELHI-MES||GE NEW DELHI-MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-03T00:00:00Z"
+        },
+        "description": "Repair to vehicle TATA LPT 19D 209510N under GE New Delhi"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_781003_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_781003_1",
+          "url": "/files/9f981c8f732e71131007769a47c30b490f8a13ed78c949aa3588999ce1d4833e.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU0zgpA1raIRxgjBVD6AowQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9f981c8f732e71131007769a47c30b490f8a13ed78c949aa3588999ce1d4833e",
+          "format": "text/plain",
+          "textUrl": "/files/9f981c8f732e71131007769a47c30b490f8a13ed78c949aa3588999ce1d4833e.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_781003_1",
+    "tender": {
+      "id": "2026_MES_781003_1",
+      "title": "Repair to vehicle TATA LPT 19D 209510N under GE New Delhi",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE NEW DELHI-MES||GE NEW DELHI-MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-03T00:00:00Z"
+      },
+      "description": "Repair to vehicle TATA LPT 19D 209510N under GE New Delhi"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE NEW DELHI-MES||GE NEW DELHI-MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-07-27T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_781003_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_781003_1",
+        "url": "/files/9f981c8f732e71131007769a47c30b490f8a13ed78c949aa3588999ce1d4833e.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU0zgpA1raIRxgjBVD6AowQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9f981c8f732e71131007769a47c30b490f8a13ed78c949aa3588999ce1d4833e",
+        "format": "text/plain",
+        "textUrl": "/files/9f981c8f732e71131007769a47c30b490f8a13ed78c949aa3588999ce1d4833e.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_781003_1",
+      "observedAt": "2026-08-03T02:07:07Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "9c4fc8549043ffff0f91d6ebc066c1692298d6a4ee8a557c8ef194f2444641a7",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_781003_1-0001-record",
+          "sha256": "9f981c8f732e71131007769a47c30b490f8a13ed78c949aa3588999ce1d4833e"
+        }
+      ],
+      "snapshotUrl": "/files/9c0dcf1a0243be96da02140c4dad5b4e8b476ce31aa386f155d7cf95c39be8da.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-03T02:07:07Z",
+    "lastObserved": "2026-08-03T02:07:07Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

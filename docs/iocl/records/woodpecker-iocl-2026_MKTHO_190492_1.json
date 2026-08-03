@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_MKTHO_190492_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_MKTHO_190492_1",
+      "id": "woodpecker-iocl-2026_MKTHO_190492_1-0001",
+      "date": "2026-07-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Marketing||Marketing HO||Contract Cell",
+        "id": "IN-ORG-indianoil-marketing-marketing-ho-contrac"
+      },
+      "tender": {
+        "id": "2026_MKTHO_190492_1",
+        "title": "Appointment of Service Providers for implementation of IOC Pay Payment Management Solution (IPPMS)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Marketing||Marketing HO||Contract Cell",
+          "id": "IN-ORG-indianoil-marketing-marketing-ho-contrac"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-03T00:00:00Z"
+        },
+        "description": "Appointment of Service Providers for implementation of IOC Pay Payment Management Solution (IPPMS)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_MKTHO_190492_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MKTHO_190492_1",
+          "url": "/files/5475212c1ef996a82814a78bcec6bb38a4d05490b742c74e7c249a69ebf4c89f.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzZVEsGCZZ3HJOvMuF%2BJfWA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5475212c1ef996a82814a78bcec6bb38a4d05490b742c74e7c249a69ebf4c89f",
+          "format": "text/plain",
+          "textUrl": "/files/5475212c1ef996a82814a78bcec6bb38a4d05490b742c74e7c249a69ebf4c89f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_MKTHO_190492_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzZVEsGCZZ3HJOvMuF%2BJfWA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_MKTHO_190492_1",
+    "tender": {
+      "id": "2026_MKTHO_190492_1",
+      "title": "Appointment of Service Providers for implementation of IOC Pay Payment Management Solution (IPPMS)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Marketing||Marketing HO||Contract Cell",
+        "id": "IN-ORG-indianoil-marketing-marketing-ho-contrac"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-03T00:00:00Z"
+      },
+      "description": "Appointment of Service Providers for implementation of IOC Pay Payment Management Solution (IPPMS)"
+    },
+    "buyer": {
+      "name": "IndianOil||Marketing||Marketing HO||Contract Cell",
+      "id": "IN-ORG-indianoil-marketing-marketing-ho-contrac"
+    },
+    "date": "2026-07-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_MKTHO_190492_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MKTHO_190492_1",
+        "url": "/files/5475212c1ef996a82814a78bcec6bb38a4d05490b742c74e7c249a69ebf4c89f.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzZVEsGCZZ3HJOvMuF%2BJfWA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5475212c1ef996a82814a78bcec6bb38a4d05490b742c74e7c249a69ebf4c89f",
+        "format": "text/plain",
+        "textUrl": "/files/5475212c1ef996a82814a78bcec6bb38a4d05490b742c74e7c249a69ebf4c89f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_MKTHO_190492_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzZVEsGCZZ3HJOvMuF%2BJfWA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_MKTHO_190492_1",
+      "observedAt": "2026-08-03T02:59:25Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "604aa545ce02f56fcc1b8bb18b7983857d54916ad3b8e93f6a27f4909df6d491",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_MKTHO_190492_1-0001-record",
+          "sha256": "5475212c1ef996a82814a78bcec6bb38a4d05490b742c74e7c249a69ebf4c89f"
+        }
+      ],
+      "snapshotUrl": "/files/50465d6820baddec808d0df006a2b906189201251f944f728fd24fc35b5512a7.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-03T02:59:25Z",
+    "lastObserved": "2026-08-03T02:59:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
