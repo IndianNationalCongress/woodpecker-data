@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_REFHQ_190773_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_190773_1",
+      "id": "woodpecker-iocl-2026_REFHQ_190773_1-0001",
+      "date": "2026-07-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "tender": {
+        "id": "2026_REFHQ_190773_1",
+        "title": "Rate Contract for Procurement of Refractories for IOCL Refinery units.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Refineries HQ||Materials",
+          "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-04T00:00:00Z"
+        },
+        "description": "Rate Contract for Procurement of Refractories for IOCL Refinery units."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190773_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_REFHQ_190773_1",
+          "url": "/files/a8988ef3810ed88c74d05d90b6125045fd32297a72316ffad82a4d0194150c12.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6Paq4E0l1mrPP6oY5oSqYw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a8988ef3810ed88c74d05d90b6125045fd32297a72316ffad82a4d0194150c12",
+          "format": "text/plain",
+          "textUrl": "/files/a8988ef3810ed88c74d05d90b6125045fd32297a72316ffad82a4d0194150c12.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190773_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6Paq4E0l1mrPP6oY5oSqYw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_REFHQ_190773_1",
+    "tender": {
+      "id": "2026_REFHQ_190773_1",
+      "title": "Rate Contract for Procurement of Refractories for IOCL Refinery units.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-04T00:00:00Z"
+      },
+      "description": "Rate Contract for Procurement of Refractories for IOCL Refinery units."
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Refineries HQ||Materials",
+      "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+    },
+    "date": "2026-07-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_190773_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_REFHQ_190773_1",
+        "url": "/files/a8988ef3810ed88c74d05d90b6125045fd32297a72316ffad82a4d0194150c12.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6Paq4E0l1mrPP6oY5oSqYw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a8988ef3810ed88c74d05d90b6125045fd32297a72316ffad82a4d0194150c12",
+        "format": "text/plain",
+        "textUrl": "/files/a8988ef3810ed88c74d05d90b6125045fd32297a72316ffad82a4d0194150c12.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_190773_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6Paq4E0l1mrPP6oY5oSqYw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_190773_1",
+      "observedAt": "2026-08-04T02:43:40Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "420237f3bc20052a23714a9a2d89efd8266394e328a46bc0050b43aff236ab88",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190773_1-0001-record",
+          "sha256": "a8988ef3810ed88c74d05d90b6125045fd32297a72316ffad82a4d0194150c12"
+        }
+      ],
+      "snapshotUrl": "/files/5867d51efd1224d29a527aeedf5957327d01acf1fe232d85792db178a4e3aebf.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-04T02:43:40Z",
+    "lastObserved": "2026-08-04T02:43:40Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

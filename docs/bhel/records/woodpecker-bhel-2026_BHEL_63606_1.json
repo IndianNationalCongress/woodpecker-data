@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-bhel-2026_BHEL_63606_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_63606_1",
+      "id": "woodpecker-bhel-2026_BHEL_63606_1-0001",
+      "date": "2026-08-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SCPV",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "tender": {
+        "id": "2026_BHEL_63606_1",
+        "title": "VL 1 Bearing reconditioning",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SCPV",
+          "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 122220,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-04T00:00:00Z"
+        },
+        "description": "VL 1 Bearing reconditioning"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_63606_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BHEL_63606_1",
+          "url": "/files/db7a31b67c3097832a4385cc5944d7db197f768f287b631091fc8fd1b104d2cc.txt",
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScQ6ezVrJF7qeOOfq2TdnmQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "db7a31b67c3097832a4385cc5944d7db197f768f287b631091fc8fd1b104d2cc",
+          "format": "text/plain",
+          "textUrl": "/files/db7a31b67c3097832a4385cc5944d7db197f768f287b631091fc8fd1b104d2cc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bhel-2026_BHEL_63606_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScQ6ezVrJF7qeOOfq2TdnmQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bhel-2026_BHEL_63606_1",
+    "tender": {
+      "id": "2026_BHEL_63606_1",
+      "title": "VL 1 Bearing reconditioning",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SCPV",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 122220,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-04T00:00:00Z"
+      },
+      "description": "VL 1 Bearing reconditioning"
+    },
+    "buyer": {
+      "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SCPV",
+      "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+    },
+    "date": "2026-08-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bhel-2026_BHEL_63606_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BHEL_63606_1",
+        "url": "/files/db7a31b67c3097832a4385cc5944d7db197f768f287b631091fc8fd1b104d2cc.txt",
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScQ6ezVrJF7qeOOfq2TdnmQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "db7a31b67c3097832a4385cc5944d7db197f768f287b631091fc8fd1b104d2cc",
+        "format": "text/plain",
+        "textUrl": "/files/db7a31b67c3097832a4385cc5944d7db197f768f287b631091fc8fd1b104d2cc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bhel-2026_BHEL_63606_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScQ6ezVrJF7qeOOfq2TdnmQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_63606_1",
+      "observedAt": "2026-08-04T02:38:41Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "6621a7d1da559b7c1ca26f908e242bf06a591296ac498560884830e4c05facaf",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_63606_1-0001-record",
+          "sha256": "db7a31b67c3097832a4385cc5944d7db197f768f287b631091fc8fd1b104d2cc"
+        }
+      ],
+      "snapshotUrl": "/files/075978d6696ed3e6ef90e4b96100789f42b05543d47341693f053aa9d6ce9ab2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-04T02:38:41Z",
+    "lastObserved": "2026-08-04T02:38:41Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

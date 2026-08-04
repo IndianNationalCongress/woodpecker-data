@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-odisha-2026_WATCO_133590_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-odisha-2026_WATCO_133590_1",
+      "id": "woodpecker-odisha-2026_WATCO_133590_1-0001",
+      "date": "2026-06-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "WATCO Bhubaneswar",
+        "id": "IN-ORG-watco-bhubaneswar"
+      },
+      "tender": {
+        "id": "2026_WATCO_133590_1",
+        "title": "Consultancy Services",
+        "status": "active",
+        "procuringEntity": {
+          "name": "WATCO Bhubaneswar",
+          "id": "IN-ORG-watco-bhubaneswar"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-04T00:00:00Z"
+        },
+        "description": "Consultancy Services"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_WATCO_133590_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WATCO_133590_1",
+          "url": "/files/2e10eb98a493460616e25958f3800056d8ef43a7351868399670f642015812c0.txt",
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMkc53VPtiTUfZLeoaoQMRw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2e10eb98a493460616e25958f3800056d8ef43a7351868399670f642015812c0",
+          "format": "text/plain",
+          "textUrl": "/files/2e10eb98a493460616e25958f3800056d8ef43a7351868399670f642015812c0.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-odisha-2026_WATCO_133590_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMkc53VPtiTUfZLeoaoQMRw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-odisha-2026_WATCO_133590_1",
+    "tender": {
+      "id": "2026_WATCO_133590_1",
+      "title": "Consultancy Services",
+      "status": "active",
+      "procuringEntity": {
+        "name": "WATCO Bhubaneswar",
+        "id": "IN-ORG-watco-bhubaneswar"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-04T00:00:00Z"
+      },
+      "description": "Consultancy Services"
+    },
+    "buyer": {
+      "name": "WATCO Bhubaneswar",
+      "id": "IN-ORG-watco-bhubaneswar"
+    },
+    "date": "2026-06-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-odisha-2026_WATCO_133590_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WATCO_133590_1",
+        "url": "/files/2e10eb98a493460616e25958f3800056d8ef43a7351868399670f642015812c0.txt",
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMkc53VPtiTUfZLeoaoQMRw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2e10eb98a493460616e25958f3800056d8ef43a7351868399670f642015812c0",
+        "format": "text/plain",
+        "textUrl": "/files/2e10eb98a493460616e25958f3800056d8ef43a7351868399670f642015812c0.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-odisha-2026_WATCO_133590_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMkc53VPtiTUfZLeoaoQMRw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-odisha-2026_WATCO_133590_1",
+      "observedAt": "2026-08-04T01:28:56Z",
+      "witness": "woodpecker:odisha",
+      "availability": "present",
+      "stateHash": "f84d82b37bb6c0a64a3db5ca83c291e5cd064332aa0f9b826b0bc12096e4770b",
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_WATCO_133590_1-0001-record",
+          "sha256": "2e10eb98a493460616e25958f3800056d8ef43a7351868399670f642015812c0"
+        }
+      ],
+      "snapshotUrl": "/files/cab2eac094083cd17fb7283c49d93675911b7a8b7b1af4158bccc4bccdb8c3d4.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-04T01:28:56Z",
+    "lastObserved": "2026-08-04T01:28:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
