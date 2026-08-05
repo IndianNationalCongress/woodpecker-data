@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_JR_190816_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_JR_190816_1",
+      "id": "woodpecker-iocl-2026_JR_190816_1-0001",
+      "date": "2026-08-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_JR_190816_1",
+        "title": "Muffle block burner spares",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-05T00:00:00Z"
+        },
+        "description": "Muffle block burner spares"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_JR_190816_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_JR_190816_1",
+          "url": "/files/9c7cb96300f2454301388570aa9439caadba9a2e6b515c8ac0d334b02938570b.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StdwVXkcmRWvp3DXUj50IYg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9c7cb96300f2454301388570aa9439caadba9a2e6b515c8ac0d334b02938570b",
+          "format": "text/plain",
+          "textUrl": "/files/9c7cb96300f2454301388570aa9439caadba9a2e6b515c8ac0d334b02938570b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_JR_190816_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StdwVXkcmRWvp3DXUj50IYg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_JR_190816_1",
+    "tender": {
+      "id": "2026_JR_190816_1",
+      "title": "Muffle block burner spares",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-05T00:00:00Z"
+      },
+      "description": "Muffle block burner spares"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+    },
+    "date": "2026-08-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_JR_190816_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_JR_190816_1",
+        "url": "/files/9c7cb96300f2454301388570aa9439caadba9a2e6b515c8ac0d334b02938570b.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StdwVXkcmRWvp3DXUj50IYg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9c7cb96300f2454301388570aa9439caadba9a2e6b515c8ac0d334b02938570b",
+        "format": "text/plain",
+        "textUrl": "/files/9c7cb96300f2454301388570aa9439caadba9a2e6b515c8ac0d334b02938570b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_JR_190816_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StdwVXkcmRWvp3DXUj50IYg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_JR_190816_1",
+      "observedAt": "2026-08-05T02:41:34Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "e7a9e3776cde4116098c484bfdca447327573aff80f8269b8b7ba97db62d8296",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_JR_190816_1-0001-record",
+          "sha256": "9c7cb96300f2454301388570aa9439caadba9a2e6b515c8ac0d334b02938570b"
+        }
+      ],
+      "snapshotUrl": "/files/76fbab845d5389e5cb42115ceb988d92885dfd4dd5f7580c1ce2961c63d4461b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-05T02:41:34Z",
+    "lastObserved": "2026-08-05T02:41:34Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

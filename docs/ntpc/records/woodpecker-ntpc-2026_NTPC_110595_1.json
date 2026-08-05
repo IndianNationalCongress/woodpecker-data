@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110595_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110595_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110595_1-0001",
+      "date": "2026-08-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110595_1",
+        "title": "Procurement of Heroald Beck make actuarors for Dadri Th.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-05T00:00:00Z"
+        },
+        "description": "Procurement of Heroald Beck make actuarors for Dadri Th."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110595_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110595_1",
+          "url": "/files/c2468bf1706439c4ac9c8a3b8a7afe1eb36532bec6eb68ea8d577279328b5e1a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sn2TPnTKMCgpbVpahC3hu3g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c2468bf1706439c4ac9c8a3b8a7afe1eb36532bec6eb68ea8d577279328b5e1a",
+          "format": "text/plain",
+          "textUrl": "/files/c2468bf1706439c4ac9c8a3b8a7afe1eb36532bec6eb68ea8d577279328b5e1a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110595_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sn2TPnTKMCgpbVpahC3hu3g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110595_1",
+    "tender": {
+      "id": "2026_NTPC_110595_1",
+      "title": "Procurement of Heroald Beck make actuarors for Dadri Th.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-05T00:00:00Z"
+      },
+      "description": "Procurement of Heroald Beck make actuarors for Dadri Th."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110595_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110595_1",
+        "url": "/files/c2468bf1706439c4ac9c8a3b8a7afe1eb36532bec6eb68ea8d577279328b5e1a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sn2TPnTKMCgpbVpahC3hu3g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c2468bf1706439c4ac9c8a3b8a7afe1eb36532bec6eb68ea8d577279328b5e1a",
+        "format": "text/plain",
+        "textUrl": "/files/c2468bf1706439c4ac9c8a3b8a7afe1eb36532bec6eb68ea8d577279328b5e1a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110595_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sn2TPnTKMCgpbVpahC3hu3g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110595_1",
+      "observedAt": "2026-08-05T02:36:22Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "218ccde2a5ee80c5760addc80c13f54b68519c9595360955e14717ffb4890a72",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110595_1-0001-record",
+          "sha256": "c2468bf1706439c4ac9c8a3b8a7afe1eb36532bec6eb68ea8d577279328b5e1a"
+        }
+      ],
+      "snapshotUrl": "/files/a267977baa8f17c4987527e69f981a6e01dd30dcaad46746a6c56fe68bb05193.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-05T02:36:22Z",
+    "lastObserved": "2026-08-05T02:36:22Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
