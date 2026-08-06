@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110186_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110186_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110186_1-0001",
+      "date": "2026-07-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110186_1",
+        "title": "Procurement of GCB Spares for Unit 2 of NTPC Simhadri",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-06T00:00:00Z"
+        },
+        "description": "Procurement of GCB Spares for Unit 2 of NTPC Simhadri"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110186_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110186_1",
+          "url": "/files/1508c78a3cb749b27546336c1e95dc26479c19112605754a7e4bdd6c87e07d71.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEE%2BDUaiWUsjP6a6oi2XrQg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1508c78a3cb749b27546336c1e95dc26479c19112605754a7e4bdd6c87e07d71",
+          "format": "text/plain",
+          "textUrl": "/files/1508c78a3cb749b27546336c1e95dc26479c19112605754a7e4bdd6c87e07d71.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110186_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEE%2BDUaiWUsjP6a6oi2XrQg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110186_1",
+    "tender": {
+      "id": "2026_NTPC_110186_1",
+      "title": "Procurement of GCB Spares for Unit 2 of NTPC Simhadri",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-06T00:00:00Z"
+      },
+      "description": "Procurement of GCB Spares for Unit 2 of NTPC Simhadri"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110186_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110186_1",
+        "url": "/files/1508c78a3cb749b27546336c1e95dc26479c19112605754a7e4bdd6c87e07d71.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEE%2BDUaiWUsjP6a6oi2XrQg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1508c78a3cb749b27546336c1e95dc26479c19112605754a7e4bdd6c87e07d71",
+        "format": "text/plain",
+        "textUrl": "/files/1508c78a3cb749b27546336c1e95dc26479c19112605754a7e4bdd6c87e07d71.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110186_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEE%2BDUaiWUsjP6a6oi2XrQg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110186_1",
+      "observedAt": "2026-08-06T02:33:48Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9cefd88498cf0200c360de7e4955b5ff22205bd766da69baab9956c04fd911a3",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110186_1-0001-record",
+          "sha256": "1508c78a3cb749b27546336c1e95dc26479c19112605754a7e4bdd6c87e07d71"
+        }
+      ],
+      "snapshotUrl": "/files/d36d7c4f170b1f2884b093619e53d242d5480ef1b049da3bc4ecc05c63de6927.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-06T02:33:48Z",
+    "lastObserved": "2026-08-06T02:33:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
