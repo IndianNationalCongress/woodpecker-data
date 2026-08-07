@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-odisha-2026_OMFED_135794_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-odisha-2026_OMFED_135794_1",
+      "id": "woodpecker-odisha-2026_OMFED_135794_1-0001",
+      "date": "2026-07-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Odisha State Co. Milk Producers Federation Ltd.",
+        "id": "IN-ORG-odisha-state-co-milk-producers-federatio"
+      },
+      "tender": {
+        "id": "2026_OMFED_135794_1",
+        "title": "supply of Milk Pouch Crate",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Odisha State Co. Milk Producers Federation Ltd.",
+          "id": "IN-ORG-odisha-state-co-milk-producers-federatio"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 6300000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-07T00:00:00Z"
+        },
+        "description": "supply of Milk Pouch Crate"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_OMFED_135794_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_OMFED_135794_1",
+          "url": "/files/d77bd4acfa549e5ef400b9d43cdd451c0aeeee5e81a8d59cdabd0908ed372528.txt",
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCrEwrxdQPlRe9%2Bfmh2TPtA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d77bd4acfa549e5ef400b9d43cdd451c0aeeee5e81a8d59cdabd0908ed372528",
+          "format": "text/plain",
+          "textUrl": "/files/d77bd4acfa549e5ef400b9d43cdd451c0aeeee5e81a8d59cdabd0908ed372528.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-odisha-2026_OMFED_135794_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCrEwrxdQPlRe9%2Bfmh2TPtA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-odisha-2026_OMFED_135794_1",
+    "tender": {
+      "id": "2026_OMFED_135794_1",
+      "title": "supply of Milk Pouch Crate",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Odisha State Co. Milk Producers Federation Ltd.",
+        "id": "IN-ORG-odisha-state-co-milk-producers-federatio"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 6300000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-07T00:00:00Z"
+      },
+      "description": "supply of Milk Pouch Crate"
+    },
+    "buyer": {
+      "name": "Odisha State Co. Milk Producers Federation Ltd.",
+      "id": "IN-ORG-odisha-state-co-milk-producers-federatio"
+    },
+    "date": "2026-07-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-odisha-2026_OMFED_135794_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_OMFED_135794_1",
+        "url": "/files/d77bd4acfa549e5ef400b9d43cdd451c0aeeee5e81a8d59cdabd0908ed372528.txt",
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCrEwrxdQPlRe9%2Bfmh2TPtA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d77bd4acfa549e5ef400b9d43cdd451c0aeeee5e81a8d59cdabd0908ed372528",
+        "format": "text/plain",
+        "textUrl": "/files/d77bd4acfa549e5ef400b9d43cdd451c0aeeee5e81a8d59cdabd0908ed372528.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-odisha-2026_OMFED_135794_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCrEwrxdQPlRe9%2Bfmh2TPtA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-odisha-2026_OMFED_135794_1",
+      "observedAt": "2026-08-07T02:25:01Z",
+      "witness": "woodpecker:odisha",
+      "availability": "present",
+      "stateHash": "9fc860ad11736bdd88e7e0cbb8b3b88a8271ea7ab5415ea19d21a36a653a8515",
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_OMFED_135794_1-0001-record",
+          "sha256": "d77bd4acfa549e5ef400b9d43cdd451c0aeeee5e81a8d59cdabd0908ed372528"
+        }
+      ],
+      "snapshotUrl": "/files/fa1b603474f4b9d001e22e3ba4f081f62ff2769ce278d9142039443469d7f6e0.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-07T02:25:01Z",
+    "lastObserved": "2026-08-07T02:25:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

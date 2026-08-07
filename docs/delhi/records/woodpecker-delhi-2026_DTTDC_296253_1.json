@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_DTTDC_296253_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_DTTDC_296253_1",
+      "id": "woodpecker-delhi-2026_DTTDC_296253_1-0001",
+      "date": "2026-07-31T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DTTDC||Engineering||EE (MB-I)",
+        "id": "IN-ORG-dttdc-engineering-ee-mb-i"
+      },
+      "tender": {
+        "id": "2026_DTTDC_296253_1",
+        "title": "Consultancy work",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DTTDC||Engineering||EE (MB-I)",
+          "id": "IN-ORG-dttdc-engineering-ee-mb-i"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 2000000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-07T00:00:00Z"
+        },
+        "description": "Consultancy work"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DTTDC_296253_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DTTDC_296253_1",
+          "url": "/files/2c471c420c23e75b35b6e790ed6b60c76e29712dd210b8e8ee08ae123c15bf70.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4mjRGYY8%2F9Y7T43MvJiJuA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2c471c420c23e75b35b6e790ed6b60c76e29712dd210b8e8ee08ae123c15bf70",
+          "format": "text/plain",
+          "textUrl": "/files/2c471c420c23e75b35b6e790ed6b60c76e29712dd210b8e8ee08ae123c15bf70.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_DTTDC_296253_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4mjRGYY8%2F9Y7T43MvJiJuA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_DTTDC_296253_1",
+    "tender": {
+      "id": "2026_DTTDC_296253_1",
+      "title": "Consultancy work",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DTTDC||Engineering||EE (MB-I)",
+        "id": "IN-ORG-dttdc-engineering-ee-mb-i"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 2000000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-07T00:00:00Z"
+      },
+      "description": "Consultancy work"
+    },
+    "buyer": {
+      "name": "DTTDC||Engineering||EE (MB-I)",
+      "id": "IN-ORG-dttdc-engineering-ee-mb-i"
+    },
+    "date": "2026-07-31T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_DTTDC_296253_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DTTDC_296253_1",
+        "url": "/files/2c471c420c23e75b35b6e790ed6b60c76e29712dd210b8e8ee08ae123c15bf70.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4mjRGYY8%2F9Y7T43MvJiJuA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2c471c420c23e75b35b6e790ed6b60c76e29712dd210b8e8ee08ae123c15bf70",
+        "format": "text/plain",
+        "textUrl": "/files/2c471c420c23e75b35b6e790ed6b60c76e29712dd210b8e8ee08ae123c15bf70.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_DTTDC_296253_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4mjRGYY8%2F9Y7T43MvJiJuA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_DTTDC_296253_1",
+      "observedAt": "2026-08-07T03:12:31Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "a0aa1c47fc0ffa07b1d0cb41c7d5601b726300dcc8db7540924f6cb5f5ecd0d0",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DTTDC_296253_1-0001-record",
+          "sha256": "2c471c420c23e75b35b6e790ed6b60c76e29712dd210b8e8ee08ae123c15bf70"
+        }
+      ],
+      "snapshotUrl": "/files/e73f9442d046e26b1b00db0304d3007540bbd6914cf19e6fdddd9e5c93e174ca.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-07T03:12:31Z",
+    "lastObserved": "2026-08-07T03:12:31Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

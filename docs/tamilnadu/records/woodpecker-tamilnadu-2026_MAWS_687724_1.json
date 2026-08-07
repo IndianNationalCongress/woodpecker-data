@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-tamilnadu-2026_MAWS_687724_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-tamilnadu-2026_MAWS_687724_1",
+      "id": "woodpecker-tamilnadu-2026_MAWS_687724_1-0001",
+      "date": "2026-07-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "MAWS||Mettur Municipality",
+        "id": "IN-ORG-maws-mettur-municipality"
+      },
+      "tender": {
+        "id": "2026_MAWS_687724_1",
+        "title": "Bus Stand Shop No 47 Auction",
+        "status": "active",
+        "procuringEntity": {
+          "name": "MAWS||Mettur Municipality",
+          "id": "IN-ORG-maws-mettur-municipality"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-08-07T00:00:00Z"
+        },
+        "description": "Bus Stand Shop No 47 Auction"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-tamilnadu-2026_MAWS_687724_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MAWS_687724_1",
+          "url": "/files/829d779dedceeae938572a79d48f9d7eab9793df40b549aa663cc1741c5e697f.txt",
+          "sourceUrl": "https://tntenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIXYx0xn46woJRQ6akaLvXg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "829d779dedceeae938572a79d48f9d7eab9793df40b549aa663cc1741c5e697f",
+          "format": "text/plain",
+          "textUrl": "/files/829d779dedceeae938572a79d48f9d7eab9793df40b549aa663cc1741c5e697f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-tamilnadu-2026_MAWS_687724_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tntenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIXYx0xn46woJRQ6akaLvXg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-tamilnadu-2026_MAWS_687724_1",
+    "tender": {
+      "id": "2026_MAWS_687724_1",
+      "title": "Bus Stand Shop No 47 Auction",
+      "status": "active",
+      "procuringEntity": {
+        "name": "MAWS||Mettur Municipality",
+        "id": "IN-ORG-maws-mettur-municipality"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-08-07T00:00:00Z"
+      },
+      "description": "Bus Stand Shop No 47 Auction"
+    },
+    "buyer": {
+      "name": "MAWS||Mettur Municipality",
+      "id": "IN-ORG-maws-mettur-municipality"
+    },
+    "date": "2026-07-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-tamilnadu-2026_MAWS_687724_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MAWS_687724_1",
+        "url": "/files/829d779dedceeae938572a79d48f9d7eab9793df40b549aa663cc1741c5e697f.txt",
+        "sourceUrl": "https://tntenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIXYx0xn46woJRQ6akaLvXg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "829d779dedceeae938572a79d48f9d7eab9793df40b549aa663cc1741c5e697f",
+        "format": "text/plain",
+        "textUrl": "/files/829d779dedceeae938572a79d48f9d7eab9793df40b549aa663cc1741c5e697f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-tamilnadu-2026_MAWS_687724_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://tntenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIXYx0xn46woJRQ6akaLvXg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-tamilnadu-2026_MAWS_687724_1",
+      "observedAt": "2026-08-07T02:10:00Z",
+      "witness": "woodpecker:tamilnadu",
+      "availability": "present",
+      "stateHash": "a057faa241e07b4a7b738c4ae11ca982e7478b8ac44615d891449c0ab1a5cf4a",
+      "documents": [
+        {
+          "id": "woodpecker-tamilnadu-2026_MAWS_687724_1-0001-record",
+          "sha256": "829d779dedceeae938572a79d48f9d7eab9793df40b549aa663cc1741c5e697f"
+        }
+      ],
+      "snapshotUrl": "/files/490eac81489a8b55aeca56aab313c6d8127400d359a535e0f951ae3412477c2b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-07T02:10:00Z",
+    "lastObserved": "2026-08-07T02:10:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
