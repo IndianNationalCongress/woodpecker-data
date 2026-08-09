@@ -1,25 +1,25 @@
 {
-  "generated": "2026-08-08T01:28:55Z",
-  "totalTenders": 273556,
+  "generated": "2026-08-09T00:07:43Z",
+  "totalTenders": 273675,
   "dateRange": {
     "from": "2012-03-09T00:00:00Z",
     "to": "2026-08-28T00:00:00Z"
   },
-  "totalValue": 1798909221039,
-  "withValue": 81169,
+  "totalValue": 1799440526241,
+  "withValue": 81268,
   "sources": 1777,
   "byCategory": {
     "works": {
-      "count": 104061,
-      "value": 1501476722321
+      "count": 104169,
+      "value": 1501976529270
     },
     "goods": {
-      "count": 27817,
-      "value": 145568612769
+      "count": 27825,
+      "value": 145594798769
     },
     "services": {
-      "count": 10414,
-      "value": 151863885949
+      "count": 10417,
+      "value": 151869198202
     },
     "other": {
       "count": 131264,
@@ -36,7 +36,7 @@
     {
       "id": "mes",
       "label": "Military Engineer Services",
-      "count": 28039,
+      "count": 28040,
       "value": 16412124874
     },
     {
@@ -48,8 +48,8 @@
     {
       "id": "coal-india",
       "label": "Coal India & subsidiaries",
-      "count": 15517,
-      "value": 8584569473
+      "count": 15519,
+      "value": 8585079556
     },
     {
       "id": "npcil",
@@ -78,8 +78,8 @@
     {
       "id": "org-pwd",
       "label": "Pwd",
-      "count": 5417,
-      "value": 25317322902
+      "count": 5447,
+      "value": 25403352213
     },
     {
       "id": "hpcl",
@@ -120,13 +120,13 @@
     {
       "id": "org-panchayati-raj-department",
       "label": "Panchayati Raj Department",
-      "count": 2346,
-      "value": 7241686167
+      "count": 2377,
+      "value": 7295674988
     },
     {
       "id": "org-haryana-government",
       "label": "Haryana Government",
-      "count": 2296,
+      "count": 2297,
       "value": 24660925540
     },
     {
@@ -204,8 +204,8 @@
     {
       "id": "org-directorate-urban-administration-development",
       "label": "Directorate Urban Administration Development",
-      "count": 1124,
-      "value": 7205019037
+      "count": 1125,
+      "value": 7207519037
     },
     {
       "id": "org-dg",
@@ -312,20 +312,20 @@
     {
       "id": "org-municipal-bodies",
       "label": "Municipal Bodies",
-      "count": 687,
-      "value": 1429494924
+      "count": 689,
+      "value": 1431395924
+    },
+    {
+      "id": "org-dlb",
+      "label": "Dlb",
+      "count": 666,
+      "value": 3536161718
     },
     {
       "id": "org-bharatiya-nabhikiya-vidyut-nigam",
       "label": "Bharatiya Nabhikiya Vidyut Nigam",
       "count": 660,
       "value": 0
-    },
-    {
-      "id": "org-dlb",
-      "label": "Dlb",
-      "count": 647,
-      "value": 3445299718
     },
     {
       "id": "org-guwahati-municipal",
@@ -1042,6 +1042,12 @@
       "value": 0
     },
     {
+      "id": "org-department-agriculture-world-bank-tenders",
+      "label": "Department Agriculture World Bank Tenders",
+      "count": 126,
+      "value": 198933706
+    },
+    {
       "id": "org-water-resource-department",
       "label": "Water Resource Department",
       "count": 125,
@@ -1052,12 +1058,6 @@
       "label": "Jseb",
       "count": 125,
       "value": 679619823
-    },
-    {
-      "id": "org-department-agriculture-world-bank-tenders",
-      "label": "Department Agriculture World Bank Tenders",
-      "count": 125,
-      "value": 198933706
     },
     {
       "id": "org-assam-power-generation",
@@ -1268,6 +1268,12 @@
       "label": "Ce Mrrda",
       "count": 101,
       "value": 7442391
+    },
+    {
+      "id": "org-deptt-watershed-dev-soil-conservation",
+      "label": "Deptt Watershed Dev Soil Conservation",
+      "count": 100,
+      "value": 607850072
     },
     {
       "id": "org-health-medical-education",
@@ -1492,12 +1498,6 @@
       "value": 395072277
     },
     {
-      "id": "org-deptt-watershed-dev-soil-conservation",
-      "label": "Deptt Watershed Dev Soil Conservation",
-      "count": 83,
-      "value": 570939744
-    },
-    {
       "id": "org-department-health",
       "label": "Department Health",
       "count": 82,
@@ -1708,6 +1708,18 @@
       "value": 0
     },
     {
+      "id": "org-forest-pccf",
+      "label": "Forest Pccf",
+      "count": 65,
+      "value": 225445815
+    },
+    {
+      "id": "org-phed-chief-engineer",
+      "label": "Phed Chief Engineer",
+      "count": 65,
+      "value": 305131991
+    },
+    {
       "id": "org-madras-fertilizers",
       "label": "Madras Fertilizers",
       "count": 64,
@@ -1718,18 +1730,6 @@
       "label": "Ce Bm",
       "count": 64,
       "value": 1747505305
-    },
-    {
-      "id": "org-forest-pccf",
-      "label": "Forest Pccf",
-      "count": 64,
-      "value": 222445815
-    },
-    {
-      "id": "org-phed-chief-engineer",
-      "label": "Phed Chief Engineer",
-      "count": 64,
-      "value": 304248991
     },
     {
       "id": "org-west-bengal-state-electricity-distribution",
@@ -2074,6 +2074,12 @@
       "value": 434089346
     },
     {
+      "id": "org-medical-health",
+      "label": "Medical Health",
+      "count": 45,
+      "value": 574960000
+    },
+    {
       "id": "org-rcdf-md",
       "label": "Rcdf Md",
       "count": 45,
@@ -2146,16 +2152,16 @@
       "value": 32238727
     },
     {
-      "id": "org-medical-health",
-      "label": "Medical Health",
-      "count": 43,
-      "value": 341960000
-    },
-    {
       "id": "org-rrvpn-cmd",
       "label": "Rrvpn Cmd",
       "count": 43,
       "value": 338606475
+    },
+    {
+      "id": "org-numaligarh-refinery",
+      "label": "Numaligarh Refinery",
+      "count": 42,
+      "value": 0
     },
     {
       "id": "org-rdd-ceo-satara",
@@ -2182,12 +2188,6 @@
       "value": 1039647933
     },
     {
-      "id": "org-numaligarh-refinery",
-      "label": "Numaligarh Refinery",
-      "count": 41,
-      "value": 0
-    },
-    {
       "id": "org-rdd-ceo-pune",
       "label": "Rdd Ceo Pune",
       "count": 41,
@@ -2210,6 +2210,12 @@
       "label": "Finance Department World Bank Tenders",
       "count": 40,
       "value": 933755000
+    },
+    {
+      "id": "org-nuclear-recycle-board",
+      "label": "Nuclear Recycle Board",
+      "count": 40,
+      "value": 153864159
     },
     {
       "id": "org-hscc",
@@ -2290,12 +2296,6 @@
       "value": 0
     },
     {
-      "id": "org-nuclear-recycle-board",
-      "label": "Nuclear Recycle Board",
-      "count": 38,
-      "value": 152365965
-    },
-    {
       "id": "org-heavy-vehicle-factory",
       "label": "Heavy Vehicle Factory",
       "count": 38,
@@ -2374,6 +2374,12 @@
       "value": 6003360
     },
     {
+      "id": "org-rdd-ceo-hingoli",
+      "label": "Rdd Ceo Hingoli",
+      "count": 36,
+      "value": 16176590
+    },
+    {
       "id": "org-rdd-ceo-jalgaon",
       "label": "Rdd Ceo Jalgaon",
       "count": 36,
@@ -2402,12 +2408,6 @@
       "label": "Mecon",
       "count": 35,
       "value": 0
-    },
-    {
-      "id": "org-rdd-ceo-hingoli",
-      "label": "Rdd Ceo Hingoli",
-      "count": 35,
-      "value": 16176590
     },
     {
       "id": "org-public-works-department-mantralaya",
@@ -3556,6 +3556,12 @@
       "value": 235969354
     },
     {
+      "id": "org-jodhpur-development-authority",
+      "label": "Jodhpur Development Authority",
+      "count": 15,
+      "value": 174900123
+    },
+    {
       "id": "org-commisioner-excise",
       "label": "Commisioner Excise",
       "count": 15,
@@ -3934,6 +3940,12 @@
       "value": 367060139
     },
     {
+      "id": "org-municipal-commissioner-nagar-nigam-roorkee",
+      "label": "Municipal Commissioner Nagar Nigam Roorkee",
+      "count": 12,
+      "value": 535508598
+    },
+    {
       "id": "org-mohabani-development-authority",
       "label": "Mohabani Development Authority",
       "count": 12,
@@ -4058,12 +4070,6 @@
       "label": "Kanupur Irrigation Project",
       "count": 11,
       "value": 225400188
-    },
-    {
-      "id": "org-jodhpur-development-authority",
-      "label": "Jodhpur Development Authority",
-      "count": 11,
-      "value": 161414123
     },
     {
       "id": "org-mbm-university-jodhpur",
@@ -4262,12 +4268,6 @@
       "label": "Rajasthan Council School Education",
       "count": 10,
       "value": 28436000
-    },
-    {
-      "id": "org-municipal-commissioner-nagar-nigam-roorkee",
-      "label": "Municipal Commissioner Nagar Nigam Roorkee",
-      "count": 10,
-      "value": 528772133
     },
     {
       "id": "org-webel-technology",
@@ -10691,13 +10691,13 @@
     }
   ],
   "byValueBand": {
-    "lt1cr": 61383,
-    "1to10cr": 17423,
-    "gt10cr": 2363,
-    "none": 192387
+    "lt1cr": 61479,
+    "1to10cr": 17425,
+    "gt10cr": 2364,
+    "none": 192407
   },
   "byStatus": {
-    "active": 87559,
+    "active": 87678,
     "completed": 8296,
     "cancelled": 4996,
     "unsuccessful": 542,
@@ -10822,8 +10822,8 @@
     "2026-04": 695,
     "2026-05": 8197,
     "2026-06": 29467,
-    "2026-07": 27715,
-    "2026-08": 663
+    "2026-07": 27782,
+    "2026-08": 715
   },
   "byYear": {
     "2012": 15,
@@ -10839,7 +10839,7 @@
     "2023": 1,
     "2024": 1,
     "2025": 92,
-    "2026": 67213
+    "2026": 67332
   },
   "yearBuckets": {
     "2012": {
@@ -17463,21 +17463,21 @@
       }
     },
     "2026": {
-      "count": 67213,
-      "value": 617073443622,
+      "count": 67332,
+      "value": 617604748824,
       "archive": 0,
       "cat": {
         "works": [
-          50776,
-          449165375308
+          50884,
+          449665182257
         ],
         "goods": [
-          10408,
-          56261442413
+          10416,
+          56287628413
         ],
         "services": [
-          5918,
-          111646625901
+          5921,
+          111651938154
         ],
         "other": [
           111,
@@ -17485,10 +17485,10 @@
         ]
       },
       "band": {
-        "none": 17762,
-        "lt1cr": 43733,
-        "1to10cr": 4930,
-        "gt10cr": 788
+        "none": 17782,
+        "lt1cr": 43829,
+        "1to10cr": 4932,
+        "gt10cr": 789
       },
       "src": {
         "org-arunachal-pradesh-police": [
@@ -17800,8 +17800,8 @@
           762608000
         ],
         "coal-india": [
-          1821,
-          8584569473
+          1823,
+          8585079556
         ],
         "org-central-mine-planning-design-institute": [
           18,
@@ -18544,11 +18544,11 @@
           1061840564
         ],
         "org-nuclear-recycle-board": [
-          38,
-          152365965
+          40,
+          153864159
         ],
         "org-numaligarh-refinery": [
-          41,
+          42,
           0
         ],
         "org-national-institute-technology-silchar": [
@@ -18688,7 +18688,7 @@
           2253595946
         ],
         "mes": [
-          2591,
+          2592,
           16400456874
         ],
         "bro": [
@@ -19004,7 +19004,7 @@
           113338030
         ],
         "org-haryana-government": [
-          2296,
+          2297,
           24660925540
         ],
         "org-haryana-board": [
@@ -19164,8 +19164,8 @@
           5140243
         ],
         "org-pwd": [
-          3339,
-          15136064215
+          3369,
+          15222093526
         ],
         "org-ropeway-rapid-transport-system-development": [
           3,
@@ -19992,8 +19992,8 @@
           15500125
         ],
         "org-directorate-urban-administration-development": [
-          1123,
-          7205019037
+          1124,
+          7207519037
         ],
         "org-madhya-pradesh-power-generating": [
           428,
@@ -20364,7 +20364,7 @@
           326051620
         ],
         "org-department-agriculture-world-bank-tenders": [
-          125,
+          126,
           198933706
         ],
         "org-maharashtra-state-road-transport": [
@@ -20548,7 +20548,7 @@
           19351419
         ],
         "org-rdd-ceo-hingoli": [
-          35,
+          36,
           16176590
         ],
         "org-ichalkaranji-municipal": [
@@ -21192,8 +21192,8 @@
           410811543
         ],
         "org-municipal-bodies": [
-          687,
-          1429494924
+          689,
+          1431395924
         ],
         "org-odisha-state-agricultural-marketing-board": [
           10,
@@ -21460,8 +21460,8 @@
           0
         ],
         "org-dlb": [
-          647,
-          3445299718
+          666,
+          3536161718
         ],
         "org-department-minority-affairs": [
           5,
@@ -21508,8 +21508,8 @@
           20000000
         ],
         "org-forest-pccf": [
-          64,
-          222445815
+          65,
+          225445815
         ],
         "org-general-administrative-department": [
           4,
@@ -21528,8 +21528,8 @@
           5372000
         ],
         "org-jodhpur-development-authority": [
-          11,
-          161414123
+          15,
+          174900123
         ],
         "org-jaipur-development-authority": [
           3,
@@ -21572,8 +21572,8 @@
           4500000
         ],
         "org-medical-health": [
-          43,
-          341960000
+          45,
+          574960000
         ],
         "org-maharaja-ganga-singh-university-bikaner": [
           2,
@@ -21600,16 +21600,16 @@
           148895000
         ],
         "org-phed-chief-engineer": [
-          64,
-          304248991
+          65,
+          305131991
         ],
         "org-phed-c-e": [
           29,
           63289423
         ],
         "org-panchayati-raj-department": [
-          2346,
-          7241686167
+          2377,
+          7295674988
         ],
         "org-rajasthan-state-archives-department-bikaner": [
           1,
@@ -21828,8 +21828,8 @@
           2300000
         ],
         "org-deptt-watershed-dev-soil-conservation": [
-          83,
-          570939744
+          100,
+          607850072
         ],
         "org-women-empowerment": [
           7,
@@ -22388,8 +22388,8 @@
           37748834
         ],
         "org-municipal-commissioner-nagar-nigam-roorkee": [
-          10,
-          528772133
+          12,
+          535508598
         ],
         "org-municipal-commissioner-srinagar": [
           1,

@@ -22,9 +22,9 @@
       "label": "Military Engineer Services",
       "central": true,
       "state": null,
-      "tenders": 28039,
+      "tenders": 28040,
       "archive": 25446,
-      "observed": 2593,
+      "observed": 2594,
       "months": [
         "2026",
         "2025",
@@ -57,9 +57,9 @@
       "label": "Coal India & subsidiaries",
       "central": true,
       "state": null,
-      "tenders": 15517,
+      "tenders": 15519,
       "archive": 13696,
-      "observed": 1821,
+      "observed": 1823,
       "months": [
         "2026",
         "2017",
@@ -142,9 +142,9 @@
       "label": "Pwd",
       "central": false,
       "state": "Himachal Pradesh",
-      "tenders": 5417,
+      "tenders": 5447,
       "archive": 2068,
-      "observed": 3349,
+      "observed": 3379,
       "months": [
         "2026",
         "2025",
@@ -266,9 +266,9 @@
       "label": "Panchayati Raj Department",
       "central": false,
       "state": "Rajasthan",
-      "tenders": 2346,
+      "tenders": 2377,
       "archive": 0,
-      "observed": 2346,
+      "observed": 2377,
       "months": [
         "2026"
       ]
@@ -278,9 +278,9 @@
       "label": "Haryana Government",
       "central": false,
       "state": "Haryana",
-      "tenders": 2296,
+      "tenders": 2297,
       "archive": 0,
-      "observed": 2296,
+      "observed": 2297,
       "months": [
         "2026"
       ]
@@ -472,9 +472,9 @@
       "label": "Directorate Urban Administration Development",
       "central": false,
       "state": "Madhya Pradesh",
-      "tenders": 1124,
+      "tenders": 1125,
       "archive": 0,
-      "observed": 1124,
+      "observed": 1125,
       "months": [
         "2026",
         "2020"
@@ -751,9 +751,21 @@
       "label": "Municipal Bodies",
       "central": false,
       "state": "Odisha",
-      "tenders": 687,
+      "tenders": 689,
       "archive": 0,
-      "observed": 687,
+      "observed": 689,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-dlb",
+      "label": "Dlb",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 666,
+      "archive": 0,
+      "observed": 666,
       "months": [
         "2026"
       ]
@@ -772,18 +784,6 @@
         "2015",
         "2014",
         "2013"
-      ]
-    },
-    {
-      "id": "org-dlb",
-      "label": "Dlb",
-      "central": false,
-      "state": "Rajasthan",
-      "tenders": 647,
-      "archive": 0,
-      "observed": 647,
-      "months": [
-        "2026"
       ]
     },
     {
@@ -2511,6 +2511,18 @@
       ]
     },
     {
+      "id": "org-department-agriculture-world-bank-tenders",
+      "label": "Department Agriculture World Bank Tenders",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 126,
+      "archive": 0,
+      "observed": 126,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-water-resource-department",
       "label": "Water Resource Department",
       "central": false,
@@ -2527,18 +2539,6 @@
       "label": "Jseb",
       "central": false,
       "state": "Jharkhand",
-      "tenders": 125,
-      "archive": 0,
-      "observed": 125,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-department-agriculture-world-bank-tenders",
-      "label": "Department Agriculture World Bank Tenders",
-      "central": false,
-      "state": "Maharashtra",
       "tenders": 125,
       "archive": 0,
       "observed": 125,
@@ -3026,6 +3026,18 @@
         "2015",
         "2014",
         "2013"
+      ]
+    },
+    {
+      "id": "org-deptt-watershed-dev-soil-conservation",
+      "label": "Deptt Watershed Dev Soil Conservation",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 100,
+      "archive": 0,
+      "observed": 100,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -3537,18 +3549,6 @@
       ]
     },
     {
-      "id": "org-deptt-watershed-dev-soil-conservation",
-      "label": "Deptt Watershed Dev Soil Conservation",
-      "central": false,
-      "state": "Rajasthan",
-      "tenders": 83,
-      "archive": 0,
-      "observed": 83,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-department-health",
       "label": "Department Health",
       "central": true,
@@ -4040,6 +4040,30 @@
       ]
     },
     {
+      "id": "org-forest-pccf",
+      "label": "Forest Pccf",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 65,
+      "archive": 0,
+      "observed": 65,
+      "months": [
+        "2026"
+      ]
+    },
+    {
+      "id": "org-phed-chief-engineer",
+      "label": "Phed Chief Engineer",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 65,
+      "archive": 0,
+      "observed": 65,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-madras-fertilizers",
       "label": "Madras Fertilizers",
       "central": true,
@@ -4059,30 +4083,6 @@
       "label": "Ce Bm",
       "central": false,
       "state": "Odisha",
-      "tenders": 64,
-      "archive": 0,
-      "observed": 64,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-forest-pccf",
-      "label": "Forest Pccf",
-      "central": false,
-      "state": "Rajasthan",
-      "tenders": 64,
-      "archive": 0,
-      "observed": 64,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-phed-chief-engineer",
-      "label": "Phed Chief Engineer",
-      "central": false,
-      "state": "Rajasthan",
       "tenders": 64,
       "archive": 0,
       "observed": 64,
@@ -4857,6 +4857,18 @@
       ]
     },
     {
+      "id": "org-medical-health",
+      "label": "Medical Health",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 45,
+      "archive": 0,
+      "observed": 45,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-rcdf-md",
       "label": "Rcdf Md",
       "central": false,
@@ -5029,8 +5041,8 @@
       ]
     },
     {
-      "id": "org-medical-health",
-      "label": "Medical Health",
+      "id": "org-rrvpn-cmd",
+      "label": "Rrvpn Cmd",
       "central": false,
       "state": "Rajasthan",
       "tenders": 43,
@@ -5041,13 +5053,13 @@
       ]
     },
     {
-      "id": "org-rrvpn-cmd",
-      "label": "Rrvpn Cmd",
-      "central": false,
-      "state": "Rajasthan",
-      "tenders": 43,
+      "id": "org-numaligarh-refinery",
+      "label": "Numaligarh Refinery",
+      "central": true,
+      "state": null,
+      "tenders": 42,
       "archive": 0,
-      "observed": 43,
+      "observed": 42,
       "months": [
         "2026"
       ]
@@ -5102,18 +5114,6 @@
       ]
     },
     {
-      "id": "org-numaligarh-refinery",
-      "label": "Numaligarh Refinery",
-      "central": true,
-      "state": null,
-      "tenders": 41,
-      "archive": 0,
-      "observed": 41,
-      "months": [
-        "2026"
-      ]
-    },
-    {
       "id": "org-rdd-ceo-pune",
       "label": "Rdd Ceo Pune",
       "central": false,
@@ -5165,6 +5165,18 @@
         "2020",
         "2019",
         "2018"
+      ]
+    },
+    {
+      "id": "org-nuclear-recycle-board",
+      "label": "Nuclear Recycle Board",
+      "central": true,
+      "state": null,
+      "tenders": 40,
+      "archive": 0,
+      "observed": 40,
+      "months": [
+        "2026"
       ]
     },
     {
@@ -5341,18 +5353,6 @@
         "2019",
         "2018",
         "2017"
-      ]
-    },
-    {
-      "id": "org-nuclear-recycle-board",
-      "label": "Nuclear Recycle Board",
-      "central": true,
-      "state": null,
-      "tenders": 38,
-      "archive": 0,
-      "observed": 38,
-      "months": [
-        "2026"
       ]
     },
     {
@@ -5542,6 +5542,18 @@
       ]
     },
     {
+      "id": "org-rdd-ceo-hingoli",
+      "label": "Rdd Ceo Hingoli",
+      "central": false,
+      "state": "Maharashtra",
+      "tenders": 36,
+      "archive": 0,
+      "observed": 36,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-rdd-ceo-jalgaon",
       "label": "Rdd Ceo Jalgaon",
       "central": false,
@@ -5600,18 +5612,6 @@
       "months": [
         "2014",
         "2013"
-      ]
-    },
-    {
-      "id": "org-rdd-ceo-hingoli",
-      "label": "Rdd Ceo Hingoli",
-      "central": false,
-      "state": "Maharashtra",
-      "tenders": 35,
-      "archive": 0,
-      "observed": 35,
-      "months": [
-        "2026"
       ]
     },
     {
@@ -8068,6 +8068,18 @@
       ]
     },
     {
+      "id": "org-jodhpur-development-authority",
+      "label": "Jodhpur Development Authority",
+      "central": false,
+      "state": "Rajasthan",
+      "tenders": 15,
+      "archive": 0,
+      "observed": 15,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-commisioner-excise",
       "label": "Commisioner Excise",
       "central": false,
@@ -8870,6 +8882,18 @@
       ]
     },
     {
+      "id": "org-municipal-commissioner-nagar-nigam-roorkee",
+      "label": "Municipal Commissioner Nagar Nigam Roorkee",
+      "central": false,
+      "state": "Uttarakhand",
+      "tenders": 12,
+      "archive": 0,
+      "observed": 12,
+      "months": [
+        "2026"
+      ]
+    },
+    {
       "id": "org-mohabani-development-authority",
       "label": "Mohabani Development Authority",
       "central": false,
@@ -9123,18 +9147,6 @@
       "label": "Kanupur Irrigation Project",
       "central": false,
       "state": "Odisha",
-      "tenders": 11,
-      "archive": 0,
-      "observed": 11,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-jodhpur-development-authority",
-      "label": "Jodhpur Development Authority",
-      "central": false,
-      "state": "Rajasthan",
       "tenders": 11,
       "archive": 0,
       "observed": 11,
@@ -9548,18 +9560,6 @@
       "label": "Rajasthan Council School Education",
       "central": false,
       "state": "Rajasthan",
-      "tenders": 10,
-      "archive": 0,
-      "observed": 10,
-      "months": [
-        "2026"
-      ]
-    },
-    {
-      "id": "org-municipal-commissioner-nagar-nigam-roorkee",
-      "label": "Municipal Commissioner Nagar Nigam Roorkee",
-      "central": false,
-      "state": "Uttarakhand",
       "tenders": 10,
       "archive": 0,
       "observed": 10,
@@ -22550,5 +22550,5 @@
       ]
     }
   ],
-  "generated": "2026-08-08T01:28:55Z"
+  "generated": "2026-08-09T00:07:43Z"
 }
