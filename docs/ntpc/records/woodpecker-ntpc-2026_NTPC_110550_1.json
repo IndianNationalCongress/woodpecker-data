@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110550_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110550_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110550_1-0001",
+      "date": "2026-07-31T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_110550_1",
+        "title": "Biennial Civil Maintenance work for Ash Dyke NKSTPP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-08-11T00:00:00Z"
+        },
+        "description": "Biennial Civil Maintenance work for Ash Dyke NKSTPP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110550_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110550_1",
+          "url": "/files/0b16f1e27e84db5d570925b6229b46eb7495d1c2cf1696b09b9103439b270e4d.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Suk3SxuAQ2tEWNib8AskXyg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0b16f1e27e84db5d570925b6229b46eb7495d1c2cf1696b09b9103439b270e4d",
+          "format": "text/plain",
+          "textUrl": "/files/0b16f1e27e84db5d570925b6229b46eb7495d1c2cf1696b09b9103439b270e4d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110550_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Suk3SxuAQ2tEWNib8AskXyg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110550_1",
+    "tender": {
+      "id": "2026_NTPC_110550_1",
+      "title": "Biennial Civil Maintenance work for Ash Dyke NKSTPP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-08-11T00:00:00Z"
+      },
+      "description": "Biennial Civil Maintenance work for Ash Dyke NKSTPP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-07-31T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110550_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110550_1",
+        "url": "/files/0b16f1e27e84db5d570925b6229b46eb7495d1c2cf1696b09b9103439b270e4d.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Suk3SxuAQ2tEWNib8AskXyg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0b16f1e27e84db5d570925b6229b46eb7495d1c2cf1696b09b9103439b270e4d",
+        "format": "text/plain",
+        "textUrl": "/files/0b16f1e27e84db5d570925b6229b46eb7495d1c2cf1696b09b9103439b270e4d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110550_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Suk3SxuAQ2tEWNib8AskXyg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110550_1",
+      "observedAt": "2026-08-11T01:32:36Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9ed681a8af786f0262da218a120718cc2d7a4f776039c98418c5ad1ce22dcdd8",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110550_1-0001-record",
+          "sha256": "0b16f1e27e84db5d570925b6229b46eb7495d1c2cf1696b09b9103439b270e4d"
+        }
+      ],
+      "snapshotUrl": "/files/9120851187855e71f8c668d8e7477ad700d489c4e0187e159f22eda4cb3aaedf.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-11T01:32:36Z",
+    "lastObserved": "2026-08-11T01:32:36Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

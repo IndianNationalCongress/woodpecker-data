@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1",
+      "id": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1-0001",
+      "date": "2026-08-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Uttar Pradesh Rajya Nirman Sahkari Sangh Limited",
+        "id": "IN-ORG-uttar-pradesh-rajya-nirman-sahkari-sangh"
+      },
+      "tender": {
+        "id": "2026_UPRNS_1173954_1",
+        "title": "WORK",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Uttar Pradesh Rajya Nirman Sahkari Sangh Limited",
+          "id": "IN-ORG-uttar-pradesh-rajya-nirman-sahkari-sangh"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 43705000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-11T00:00:00Z"
+        },
+        "description": "WORK"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_UPRNS_1173954_1",
+          "url": "/files/5100f8342a4712390cc99039c6e3ff1c0d381f856ed1301fbfdd49a9837d3a0a.txt",
+          "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmgsCufS4fo9OKNhInVgarw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5100f8342a4712390cc99039c6e3ff1c0d381f856ed1301fbfdd49a9837d3a0a",
+          "format": "text/plain",
+          "textUrl": "/files/5100f8342a4712390cc99039c6e3ff1c0d381f856ed1301fbfdd49a9837d3a0a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmgsCufS4fo9OKNhInVgarw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1",
+    "tender": {
+      "id": "2026_UPRNS_1173954_1",
+      "title": "WORK",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Uttar Pradesh Rajya Nirman Sahkari Sangh Limited",
+        "id": "IN-ORG-uttar-pradesh-rajya-nirman-sahkari-sangh"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 43705000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-11T00:00:00Z"
+      },
+      "description": "WORK"
+    },
+    "buyer": {
+      "name": "Uttar Pradesh Rajya Nirman Sahkari Sangh Limited",
+      "id": "IN-ORG-uttar-pradesh-rajya-nirman-sahkari-sangh"
+    },
+    "date": "2026-08-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_UPRNS_1173954_1",
+        "url": "/files/5100f8342a4712390cc99039c6e3ff1c0d381f856ed1301fbfdd49a9837d3a0a.txt",
+        "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmgsCufS4fo9OKNhInVgarw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5100f8342a4712390cc99039c6e3ff1c0d381f856ed1301fbfdd49a9837d3a0a",
+        "format": "text/plain",
+        "textUrl": "/files/5100f8342a4712390cc99039c6e3ff1c0d381f856ed1301fbfdd49a9837d3a0a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmgsCufS4fo9OKNhInVgarw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1",
+      "observedAt": "2026-08-11T01:00:24Z",
+      "witness": "woodpecker:uttarpradesh",
+      "availability": "present",
+      "stateHash": "7070277e0401d73af0570ddf0251df5b1da9eb1e172193ae68db36767224c23d",
+      "documents": [
+        {
+          "id": "woodpecker-uttarpradesh-2026_UPRNS_1173954_1-0001-record",
+          "sha256": "5100f8342a4712390cc99039c6e3ff1c0d381f856ed1301fbfdd49a9837d3a0a"
+        }
+      ],
+      "snapshotUrl": "/files/8d64b89ba10d5ca271a67d986efd45cda75ca08d1d7143855bc4b6e4b948855f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-11T01:00:24Z",
+    "lastObserved": "2026-08-11T01:00:24Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
