@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-haryana-2026_HBC_535807_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_535807_1",
+      "id": "woodpecker-haryana-2026_HBC_535807_1-0001",
+      "date": "2026-07-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Board Corporation||Haryana SugarFed||Shahbad Coop. Sugar Mill",
+        "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+      },
+      "tender": {
+        "id": "2026_HBC_535807_1",
+        "title": "Sale approx. 50000Q of Molasses",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Board Corporation||Haryana SugarFed||Shahbad Coop. Sugar Mill",
+          "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-12T00:00:00Z"
+        },
+        "description": "Sale approx. 50000Q of Molasses"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_535807_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HBC_535807_1",
+          "url": "/files/c756df08ef2318100f5d8b85d8f58646ebec096dd503ebf86efb923a25463ef6.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SI%2FGqm7pIUQfxbTCqvJcd1Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c756df08ef2318100f5d8b85d8f58646ebec096dd503ebf86efb923a25463ef6",
+          "format": "text/plain",
+          "textUrl": "/files/c756df08ef2318100f5d8b85d8f58646ebec096dd503ebf86efb923a25463ef6.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HBC_535807_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SI%2FGqm7pIUQfxbTCqvJcd1Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HBC_535807_1",
+    "tender": {
+      "id": "2026_HBC_535807_1",
+      "title": "Sale approx. 50000Q of Molasses",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Board Corporation||Haryana SugarFed||Shahbad Coop. Sugar Mill",
+        "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-12T00:00:00Z"
+      },
+      "description": "Sale approx. 50000Q of Molasses"
+    },
+    "buyer": {
+      "name": "Haryana Board Corporation||Haryana SugarFed||Shahbad Coop. Sugar Mill",
+      "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+    },
+    "date": "2026-07-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HBC_535807_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HBC_535807_1",
+        "url": "/files/c756df08ef2318100f5d8b85d8f58646ebec096dd503ebf86efb923a25463ef6.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SI%2FGqm7pIUQfxbTCqvJcd1Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c756df08ef2318100f5d8b85d8f58646ebec096dd503ebf86efb923a25463ef6",
+        "format": "text/plain",
+        "textUrl": "/files/c756df08ef2318100f5d8b85d8f58646ebec096dd503ebf86efb923a25463ef6.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HBC_535807_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SI%2FGqm7pIUQfxbTCqvJcd1Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_535807_1",
+      "observedAt": "2026-08-12T01:20:48Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "b400eb0b214f333b533cc578bc147dd1a00d4c9429a37e6041a889803bd390ca",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_535807_1-0001-record",
+          "sha256": "c756df08ef2318100f5d8b85d8f58646ebec096dd503ebf86efb923a25463ef6"
+        }
+      ],
+      "snapshotUrl": "/files/6e561e34e14fd20a756129a31580b50874396ab09a01e2c48471a8cdd0b7a5da.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-12T01:20:48Z",
+    "lastObserved": "2026-08-12T01:20:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
