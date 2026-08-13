@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110557_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110557_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110557_1-0001",
+      "date": "2026-07-31T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110557_1",
+        "title": "PROCUREMENT OF FCU 29 COMPLETE ASSEMBLY FOR NTPC RIHAND",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-13T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF FCU 29 COMPLETE ASSEMBLY FOR NTPC RIHAND"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110557_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110557_1",
+          "url": "/files/2f135734a676933fe134c40a9e9fbc0a6db780a1156583c52c175e5c70ecd9e6.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S37EkrdYenpqMc6e5yw0YRg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2f135734a676933fe134c40a9e9fbc0a6db780a1156583c52c175e5c70ecd9e6",
+          "format": "text/plain",
+          "textUrl": "/files/2f135734a676933fe134c40a9e9fbc0a6db780a1156583c52c175e5c70ecd9e6.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110557_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S37EkrdYenpqMc6e5yw0YRg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110557_1",
+    "tender": {
+      "id": "2026_NTPC_110557_1",
+      "title": "PROCUREMENT OF FCU 29 COMPLETE ASSEMBLY FOR NTPC RIHAND",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-13T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF FCU 29 COMPLETE ASSEMBLY FOR NTPC RIHAND"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-31T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110557_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110557_1",
+        "url": "/files/2f135734a676933fe134c40a9e9fbc0a6db780a1156583c52c175e5c70ecd9e6.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S37EkrdYenpqMc6e5yw0YRg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2f135734a676933fe134c40a9e9fbc0a6db780a1156583c52c175e5c70ecd9e6",
+        "format": "text/plain",
+        "textUrl": "/files/2f135734a676933fe134c40a9e9fbc0a6db780a1156583c52c175e5c70ecd9e6.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110557_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S37EkrdYenpqMc6e5yw0YRg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110557_1",
+      "observedAt": "2026-08-13T01:47:22Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "c340778329504ae5aa0a05ee9dbffe618488b973ceecb33faa41dd7ecd65e9a8",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110557_1-0001-record",
+          "sha256": "2f135734a676933fe134c40a9e9fbc0a6db780a1156583c52c175e5c70ecd9e6"
+        }
+      ],
+      "snapshotUrl": "/files/75177a933e19db1b821ce8eb424e0b64e1e22d7a584b068bc3c0dbd13201f06c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-13T01:47:22Z",
+    "lastObserved": "2026-08-13T01:47:22Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

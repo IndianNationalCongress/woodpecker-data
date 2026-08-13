@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110695_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110695_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110695_1-0001",
+      "date": "2026-08-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110695_1",
+        "title": "Procurement of Avcon make SOV spares for NTPC Gadarwara.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-13T00:00:00Z"
+        },
+        "description": "Procurement of Avcon make SOV spares for NTPC Gadarwara."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110695_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110695_1",
+          "url": "/files/b011ce8ded76b276f4f8b377393d35f33c957c5f3460927cafacf4b1d2fbc3ec.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMbg0bKkQ1QrdAzEvut6JQg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b011ce8ded76b276f4f8b377393d35f33c957c5f3460927cafacf4b1d2fbc3ec",
+          "format": "text/plain",
+          "textUrl": "/files/b011ce8ded76b276f4f8b377393d35f33c957c5f3460927cafacf4b1d2fbc3ec.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110695_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMbg0bKkQ1QrdAzEvut6JQg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110695_1",
+    "tender": {
+      "id": "2026_NTPC_110695_1",
+      "title": "Procurement of Avcon make SOV spares for NTPC Gadarwara.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-13T00:00:00Z"
+      },
+      "description": "Procurement of Avcon make SOV spares for NTPC Gadarwara."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110695_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110695_1",
+        "url": "/files/b011ce8ded76b276f4f8b377393d35f33c957c5f3460927cafacf4b1d2fbc3ec.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMbg0bKkQ1QrdAzEvut6JQg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b011ce8ded76b276f4f8b377393d35f33c957c5f3460927cafacf4b1d2fbc3ec",
+        "format": "text/plain",
+        "textUrl": "/files/b011ce8ded76b276f4f8b377393d35f33c957c5f3460927cafacf4b1d2fbc3ec.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110695_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMbg0bKkQ1QrdAzEvut6JQg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110695_1",
+      "observedAt": "2026-08-13T01:47:22Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "97fc9bd184542c0760eba7d007d16922d0ff0f51f8fe913439980917243c870c",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110695_1-0001-record",
+          "sha256": "b011ce8ded76b276f4f8b377393d35f33c957c5f3460927cafacf4b1d2fbc3ec"
+        }
+      ],
+      "snapshotUrl": "/files/90a55a1397629f7fce9f9f4c9279825da51d17ee07d3dd53d29a8064bfbc5fd9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-13T01:47:22Z",
+    "lastObserved": "2026-08-13T01:47:22Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
