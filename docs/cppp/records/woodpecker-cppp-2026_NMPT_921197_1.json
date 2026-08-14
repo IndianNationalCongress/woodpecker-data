@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_NMPT_921197_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_NMPT_921197_1",
+      "id": "woodpecker-cppp-2026_NMPT_921197_1-0001",
+      "date": "2026-08-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "New Mangalore Port Trust||Finance Department-HQ - NMPT",
+        "id": "IN-ORG-new-mangalore-port-trust-finance-departm"
+      },
+      "tender": {
+        "id": "2026_NMPT_921197_1",
+        "title": "Interest rate quote",
+        "status": "active",
+        "procuringEntity": {
+          "name": "New Mangalore Port Trust||Finance Department-HQ - NMPT",
+          "id": "IN-ORG-new-mangalore-port-trust-finance-departm"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 550000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-14T00:00:00Z"
+        },
+        "description": "Interest rate quote"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NMPT_921197_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NMPT_921197_1",
+          "url": "/files/3b4f8c42e402de8cbb9e6ab18356f7119c0ccf68b6368b71e63122a1b4d1745d.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S8UtHB8hGfRyK4tA4dZOg2g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3b4f8c42e402de8cbb9e6ab18356f7119c0ccf68b6368b71e63122a1b4d1745d",
+          "format": "text/plain",
+          "textUrl": "/files/3b4f8c42e402de8cbb9e6ab18356f7119c0ccf68b6368b71e63122a1b4d1745d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_NMPT_921197_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S8UtHB8hGfRyK4tA4dZOg2g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_NMPT_921197_1",
+    "tender": {
+      "id": "2026_NMPT_921197_1",
+      "title": "Interest rate quote",
+      "status": "active",
+      "procuringEntity": {
+        "name": "New Mangalore Port Trust||Finance Department-HQ - NMPT",
+        "id": "IN-ORG-new-mangalore-port-trust-finance-departm"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 550000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-14T00:00:00Z"
+      },
+      "description": "Interest rate quote"
+    },
+    "buyer": {
+      "name": "New Mangalore Port Trust||Finance Department-HQ - NMPT",
+      "id": "IN-ORG-new-mangalore-port-trust-finance-departm"
+    },
+    "date": "2026-08-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_NMPT_921197_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NMPT_921197_1",
+        "url": "/files/3b4f8c42e402de8cbb9e6ab18356f7119c0ccf68b6368b71e63122a1b4d1745d.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S8UtHB8hGfRyK4tA4dZOg2g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3b4f8c42e402de8cbb9e6ab18356f7119c0ccf68b6368b71e63122a1b4d1745d",
+        "format": "text/plain",
+        "textUrl": "/files/3b4f8c42e402de8cbb9e6ab18356f7119c0ccf68b6368b71e63122a1b4d1745d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_NMPT_921197_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S8UtHB8hGfRyK4tA4dZOg2g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_NMPT_921197_1",
+      "observedAt": "2026-08-14T00:13:00Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "8e6bc719441b54c16d3f043e584c66bdf49a5595c4d61395c5faced94d410119",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NMPT_921197_1-0001-record",
+          "sha256": "3b4f8c42e402de8cbb9e6ab18356f7119c0ccf68b6368b71e63122a1b4d1745d"
+        }
+      ],
+      "snapshotUrl": "/files/9cda34e05c212a8245df5209e41383892645a050ad9ab3a3aa9ac4494d7d641f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-14T00:13:00Z",
+    "lastObserved": "2026-08-14T00:13:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

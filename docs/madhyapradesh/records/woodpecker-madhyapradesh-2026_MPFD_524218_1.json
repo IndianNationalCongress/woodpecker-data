@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-madhyapradesh-2026_MPFD_524218_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-madhyapradesh-2026_MPFD_524218_1",
+      "id": "woodpecker-madhyapradesh-2026_MPFD_524218_1-0001",
+      "date": "2026-07-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "MP Forest Department||MP Forest - Khandwa Circle||Division Burhanpur",
+        "id": "IN-ORG-mp-forest-department-mp-forest-khandwa-c"
+      },
+      "tender": {
+        "id": "2026_MPFD_524218_1",
+        "title": "Building Material Tender",
+        "status": "active",
+        "procuringEntity": {
+          "name": "MP Forest Department||MP Forest - Khandwa Circle||Division Burhanpur",
+          "id": "IN-ORG-mp-forest-department-mp-forest-khandwa-c"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 10000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-14T00:00:00Z"
+        },
+        "description": "Building Material Tender"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-madhyapradesh-2026_MPFD_524218_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MPFD_524218_1",
+          "url": "/files/219f9305606d93f85347a37e50741d1b846dcb6f06a44836f19134ce970836a1.txt",
+          "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SF6nKmcV4q36ZvSDIhMI7tA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "219f9305606d93f85347a37e50741d1b846dcb6f06a44836f19134ce970836a1",
+          "format": "text/plain",
+          "textUrl": "/files/219f9305606d93f85347a37e50741d1b846dcb6f06a44836f19134ce970836a1.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-madhyapradesh-2026_MPFD_524218_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SF6nKmcV4q36ZvSDIhMI7tA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-madhyapradesh-2026_MPFD_524218_1",
+    "tender": {
+      "id": "2026_MPFD_524218_1",
+      "title": "Building Material Tender",
+      "status": "active",
+      "procuringEntity": {
+        "name": "MP Forest Department||MP Forest - Khandwa Circle||Division Burhanpur",
+        "id": "IN-ORG-mp-forest-department-mp-forest-khandwa-c"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 10000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-14T00:00:00Z"
+      },
+      "description": "Building Material Tender"
+    },
+    "buyer": {
+      "name": "MP Forest Department||MP Forest - Khandwa Circle||Division Burhanpur",
+      "id": "IN-ORG-mp-forest-department-mp-forest-khandwa-c"
+    },
+    "date": "2026-07-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-madhyapradesh-2026_MPFD_524218_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MPFD_524218_1",
+        "url": "/files/219f9305606d93f85347a37e50741d1b846dcb6f06a44836f19134ce970836a1.txt",
+        "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SF6nKmcV4q36ZvSDIhMI7tA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "219f9305606d93f85347a37e50741d1b846dcb6f06a44836f19134ce970836a1",
+        "format": "text/plain",
+        "textUrl": "/files/219f9305606d93f85347a37e50741d1b846dcb6f06a44836f19134ce970836a1.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-madhyapradesh-2026_MPFD_524218_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SF6nKmcV4q36ZvSDIhMI7tA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-madhyapradesh-2026_MPFD_524218_1",
+      "observedAt": "2026-08-14T00:30:31Z",
+      "witness": "woodpecker:madhyapradesh",
+      "availability": "present",
+      "stateHash": "ea7306049adf0249d024fc8b41da44665647f3c5d24e4973d0ed479344077c53",
+      "documents": [
+        {
+          "id": "woodpecker-madhyapradesh-2026_MPFD_524218_1-0001-record",
+          "sha256": "219f9305606d93f85347a37e50741d1b846dcb6f06a44836f19134ce970836a1"
+        }
+      ],
+      "snapshotUrl": "/files/d34ce8ed9042d41b11f555274235146bcdad1203b2eaf439924c016a46476cfc.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-14T00:30:31Z",
+    "lastObserved": "2026-08-14T00:30:31Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

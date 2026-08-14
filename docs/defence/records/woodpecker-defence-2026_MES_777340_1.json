@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_777340_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_777340_1",
+      "id": "woodpecker-defence-2026_MES_777340_1-0001",
+      "date": "2026-07-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SHILLONG ZONE - MES||CWE Likabali - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_777340_1",
+        "title": "REPAIR AND MAINTENANCE OF BLACK TOP ROAD AT ALONG MIL STN",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SHILLONG ZONE - MES||CWE Likabali - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 2000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-14T00:00:00Z"
+        },
+        "description": "REPAIR AND MAINTENANCE OF BLACK TOP ROAD AT ALONG MIL STN"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_777340_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_777340_1",
+          "url": "/files/74d4f20cbdf0de7c6933ab93f98dd006eddcf8ccb0b27e4cb44675f32f4ded3f.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMiqafaEQ1kml1yIR3wiGKA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "74d4f20cbdf0de7c6933ab93f98dd006eddcf8ccb0b27e4cb44675f32f4ded3f",
+          "format": "text/plain",
+          "textUrl": "/files/74d4f20cbdf0de7c6933ab93f98dd006eddcf8ccb0b27e4cb44675f32f4ded3f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-defence-2026_MES_777340_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMiqafaEQ1kml1yIR3wiGKA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_777340_1",
+    "tender": {
+      "id": "2026_MES_777340_1",
+      "title": "REPAIR AND MAINTENANCE OF BLACK TOP ROAD AT ALONG MIL STN",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SHILLONG ZONE - MES||CWE Likabali - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 2000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-14T00:00:00Z"
+      },
+      "description": "REPAIR AND MAINTENANCE OF BLACK TOP ROAD AT ALONG MIL STN"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SHILLONG ZONE - MES||CWE Likabali - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-07-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_777340_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_777340_1",
+        "url": "/files/74d4f20cbdf0de7c6933ab93f98dd006eddcf8ccb0b27e4cb44675f32f4ded3f.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMiqafaEQ1kml1yIR3wiGKA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "74d4f20cbdf0de7c6933ab93f98dd006eddcf8ccb0b27e4cb44675f32f4ded3f",
+        "format": "text/plain",
+        "textUrl": "/files/74d4f20cbdf0de7c6933ab93f98dd006eddcf8ccb0b27e4cb44675f32f4ded3f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-defence-2026_MES_777340_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMiqafaEQ1kml1yIR3wiGKA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_777340_1",
+      "observedAt": "2026-08-14T01:06:29Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "367881833d7b2e36e2ec8a77187960d75b70ed5ff5074c642fd9ec980146f79d",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_777340_1-0001-record",
+          "sha256": "74d4f20cbdf0de7c6933ab93f98dd006eddcf8ccb0b27e4cb44675f32f4ded3f"
+        }
+      ],
+      "snapshotUrl": "/files/39f4e7994eb50e58cd07a459a26eb83cfa05767bafecdd3e654310831c7518d9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-14T01:06:29Z",
+    "lastObserved": "2026-08-14T01:06:29Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
