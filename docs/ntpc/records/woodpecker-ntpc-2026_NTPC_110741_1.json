@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110741_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110741_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110741_1-0001",
+      "date": "2026-08-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110741_1",
+        "title": "Repair of megger make instruments",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-15T00:00:00Z"
+        },
+        "description": "Repair of megger make instruments"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110741_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110741_1",
+          "url": "/files/bc4adefc858a20082720bbb293b65a9ba2cd02cfe28e757d53080472506e1556.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJYJSfdz1y2qoVxW0ydwQBQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "bc4adefc858a20082720bbb293b65a9ba2cd02cfe28e757d53080472506e1556",
+          "format": "text/plain",
+          "textUrl": "/files/bc4adefc858a20082720bbb293b65a9ba2cd02cfe28e757d53080472506e1556.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110741_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJYJSfdz1y2qoVxW0ydwQBQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110741_1",
+    "tender": {
+      "id": "2026_NTPC_110741_1",
+      "title": "Repair of megger make instruments",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-15T00:00:00Z"
+      },
+      "description": "Repair of megger make instruments"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110741_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110741_1",
+        "url": "/files/bc4adefc858a20082720bbb293b65a9ba2cd02cfe28e757d53080472506e1556.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJYJSfdz1y2qoVxW0ydwQBQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "bc4adefc858a20082720bbb293b65a9ba2cd02cfe28e757d53080472506e1556",
+        "format": "text/plain",
+        "textUrl": "/files/bc4adefc858a20082720bbb293b65a9ba2cd02cfe28e757d53080472506e1556.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110741_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJYJSfdz1y2qoVxW0ydwQBQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110741_1",
+      "observedAt": "2026-08-15T00:33:24Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "6ff4d44f67a9efea06da7bb33737677f5dd4832318b8014d7985df6dcb714698",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110741_1-0001-record",
+          "sha256": "bc4adefc858a20082720bbb293b65a9ba2cd02cfe28e757d53080472506e1556"
+        }
+      ],
+      "snapshotUrl": "/files/e295d94da5763a5bd02a0165fe34716a9d43acf4c7764f03f036b20a4ef732db.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-15T00:33:24Z",
+    "lastObserved": "2026-08-15T00:33:24Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
