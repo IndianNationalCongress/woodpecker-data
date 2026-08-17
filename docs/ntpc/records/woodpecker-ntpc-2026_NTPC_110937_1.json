@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110937_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110937_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110937_1-0001",
+      "date": "2026-08-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110937_1",
+        "title": "procurement of Danfoss make compressor for TAC drier",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-17T00:00:00Z"
+        },
+        "description": "procurement of Danfoss make compressor for TAC drier"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110937_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110937_1",
+          "url": "/files/165ddeaa2027efd7052e5b6ce33be6bd52be9e2f9feeed1588f4c9302d9c79ad.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmyAy%2F%2F2sDxK9o4qaWolQZw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "165ddeaa2027efd7052e5b6ce33be6bd52be9e2f9feeed1588f4c9302d9c79ad",
+          "format": "text/plain",
+          "textUrl": "/files/165ddeaa2027efd7052e5b6ce33be6bd52be9e2f9feeed1588f4c9302d9c79ad.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110937_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmyAy%2F%2F2sDxK9o4qaWolQZw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110937_1",
+    "tender": {
+      "id": "2026_NTPC_110937_1",
+      "title": "procurement of Danfoss make compressor for TAC drier",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-17T00:00:00Z"
+      },
+      "description": "procurement of Danfoss make compressor for TAC drier"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110937_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110937_1",
+        "url": "/files/165ddeaa2027efd7052e5b6ce33be6bd52be9e2f9feeed1588f4c9302d9c79ad.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmyAy%2F%2F2sDxK9o4qaWolQZw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "165ddeaa2027efd7052e5b6ce33be6bd52be9e2f9feeed1588f4c9302d9c79ad",
+        "format": "text/plain",
+        "textUrl": "/files/165ddeaa2027efd7052e5b6ce33be6bd52be9e2f9feeed1588f4c9302d9c79ad.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110937_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmyAy%2F%2F2sDxK9o4qaWolQZw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110937_1",
+      "observedAt": "2026-08-17T01:23:28Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "c2683a379db1d22d9fd3bf16fb9cf83b8b3566fbbec3de47fcda78a1a4f5821e",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110937_1-0001-record",
+          "sha256": "165ddeaa2027efd7052e5b6ce33be6bd52be9e2f9feeed1588f4c9302d9c79ad"
+        }
+      ],
+      "snapshotUrl": "/files/a14d9f1c224aaafca4f1308a91391f736c1f00517ee11ed1fb09a01f42a48bce.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-17T01:23:28Z",
+    "lastObserved": "2026-08-17T01:23:28Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
