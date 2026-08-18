@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111040_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111040_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111040_1-0001",
+      "date": "2026-08-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111040_1",
+        "title": "Procurement of St4 FGD Ball Mill Feeder Spares for NTPC UNCHAHAR",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-18T00:00:00Z"
+        },
+        "description": "Procurement of St4 FGD Ball Mill Feeder Spares for NTPC UNCHAHAR"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111040_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111040_1",
+          "url": "/files/4ad1466eb6772b27d90a5856b7b9e318788cc642cb493c17e39726ddde9e5924.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SreAtEysxjqdEfDtSma1G1A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4ad1466eb6772b27d90a5856b7b9e318788cc642cb493c17e39726ddde9e5924",
+          "format": "text/plain",
+          "textUrl": "/files/4ad1466eb6772b27d90a5856b7b9e318788cc642cb493c17e39726ddde9e5924.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111040_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SreAtEysxjqdEfDtSma1G1A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111040_1",
+    "tender": {
+      "id": "2026_NTPC_111040_1",
+      "title": "Procurement of St4 FGD Ball Mill Feeder Spares for NTPC UNCHAHAR",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-18T00:00:00Z"
+      },
+      "description": "Procurement of St4 FGD Ball Mill Feeder Spares for NTPC UNCHAHAR"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111040_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111040_1",
+        "url": "/files/4ad1466eb6772b27d90a5856b7b9e318788cc642cb493c17e39726ddde9e5924.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SreAtEysxjqdEfDtSma1G1A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4ad1466eb6772b27d90a5856b7b9e318788cc642cb493c17e39726ddde9e5924",
+        "format": "text/plain",
+        "textUrl": "/files/4ad1466eb6772b27d90a5856b7b9e318788cc642cb493c17e39726ddde9e5924.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111040_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SreAtEysxjqdEfDtSma1G1A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111040_1",
+      "observedAt": "2026-08-18T01:33:17Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5e20b3f609e5cc613a7521de9c2bc9114b01848be9286f4358a23b5afb051ad0",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111040_1-0001-record",
+          "sha256": "4ad1466eb6772b27d90a5856b7b9e318788cc642cb493c17e39726ddde9e5924"
+        }
+      ],
+      "snapshotUrl": "/files/4530f929640d74d57ebd55a00e74b593884f412dba44fdef6852382bd6088cf2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-18T01:33:17Z",
+    "lastObserved": "2026-08-18T01:33:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
