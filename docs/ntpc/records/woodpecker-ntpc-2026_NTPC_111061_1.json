@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111061_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111061_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111061_1-0001",
+      "date": "2026-08-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111061_1",
+        "title": "Procurement of ABB make Numerical Relay for switchgears of NTPC Rihand",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-19T00:00:00Z"
+        },
+        "description": "Procurement of ABB make Numerical Relay for switchgears of NTPC Rihand"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111061_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111061_1",
+          "url": "/files/8e0a776ffba81447cec6ed0342ab840f9c9eda53a23a88363300622352e8fdef.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BVhtdBNg7mV8aE7awiX9Jg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "8e0a776ffba81447cec6ed0342ab840f9c9eda53a23a88363300622352e8fdef",
+          "format": "text/plain",
+          "textUrl": "/files/8e0a776ffba81447cec6ed0342ab840f9c9eda53a23a88363300622352e8fdef.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111061_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BVhtdBNg7mV8aE7awiX9Jg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111061_1",
+    "tender": {
+      "id": "2026_NTPC_111061_1",
+      "title": "Procurement of ABB make Numerical Relay for switchgears of NTPC Rihand",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-19T00:00:00Z"
+      },
+      "description": "Procurement of ABB make Numerical Relay for switchgears of NTPC Rihand"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111061_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111061_1",
+        "url": "/files/8e0a776ffba81447cec6ed0342ab840f9c9eda53a23a88363300622352e8fdef.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BVhtdBNg7mV8aE7awiX9Jg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "8e0a776ffba81447cec6ed0342ab840f9c9eda53a23a88363300622352e8fdef",
+        "format": "text/plain",
+        "textUrl": "/files/8e0a776ffba81447cec6ed0342ab840f9c9eda53a23a88363300622352e8fdef.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111061_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BVhtdBNg7mV8aE7awiX9Jg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111061_1",
+      "observedAt": "2026-08-19T01:24:50Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "4c4d4dc36780b8fa4ea561895e63a2da99ae183836835ee6a9fc632da97b8aa0",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111061_1-0001-record",
+          "sha256": "8e0a776ffba81447cec6ed0342ab840f9c9eda53a23a88363300622352e8fdef"
+        }
+      ],
+      "snapshotUrl": "/files/851fbdef836bddf1e53f6968eee454e6b3b488485ff597c0b4bda0bc2e60b908.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-19T01:24:50Z",
+    "lastObserved": "2026-08-19T01:24:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
