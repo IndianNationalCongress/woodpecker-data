@@ -291,13 +291,16 @@ def finalize(out):
     out.execute("""UPDATE tenders SET entity_id=org_map.eid, central=org_map.central, state=org_map.state
                    FROM org_map WHERE org_map.org=tenders.org_name""")
 
+    # LEAN index set — kept in lockstep with export_d1.INDEXES (the set actually shipped to D1).
+    # These 4 are exactly what the serving Worker queries need; see export_d1.py for the rationale
+    # (dropped ix_winner/ix_year/ix_awards_sup; upgraded ix_state -> composite with published_date).
+    # ix_winner used to speed the suppliers rollup below; that GROUP BY now sorts instead — a
+    # one-time local cost, not a D1 write, so it stays dropped.
     print("  finalize: indexes...", flush=True)
     for ix in ["CREATE INDEX IF NOT EXISTS ix_entity ON tenders(entity_id,published_date)",
-               "CREATE INDEX IF NOT EXISTS ix_value ON tenders(value_amount)",
-               "CREATE INDEX IF NOT EXISTS ix_winner ON tenders(winner_id)",
+               "CREATE INDEX IF NOT EXISTS ix_state ON tenders(state,published_date)",
                "CREATE INDEX IF NOT EXISTS ix_cat ON tenders(category,year)",
-               "CREATE INDEX IF NOT EXISTS ix_year ON tenders(year)",
-               "CREATE INDEX IF NOT EXISTS ix_state ON tenders(state)"]:
+               "CREATE INDEX IF NOT EXISTS ix_value ON tenders(value_amount)"]:
         out.execute(ix)
 
     print("  finalize: entities rollup...", flush=True)
@@ -316,7 +319,9 @@ def finalize(out):
 
     print("  finalize: FTS...", flush=True)
     out.execute("DROP TABLE IF EXISTS tenders_fts")
-    out.execute("CREATE VIRTUAL TABLE tenders_fts USING fts5(title,description,org_name,winner_name,content='')")
+    # columnsize=0 drops the %_docsize shadow table (one write/doc): the Worker ranks by keyset
+    # order, never bm25(), so per-column length data is dead weight. Mirrors export_d1.FTS_CREATE.
+    out.execute("CREATE VIRTUAL TABLE tenders_fts USING fts5(title,description,org_name,winner_name,content='',columnsize=0)")
     out.execute("""INSERT INTO tenders_fts(rowid,title,description,org_name,winner_name)
         SELECT rowid,title,description,org_name,winner_name FROM tenders""")
 
