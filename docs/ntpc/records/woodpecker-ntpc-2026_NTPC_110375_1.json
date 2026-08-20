@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110375_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110375_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110375_1-0001",
+      "date": "2026-08-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_110375_1",
+        "title": "Procurement of Non Source standardised electrodes Simhadri.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-20T00:00:00Z"
+        },
+        "description": "Procurement of Non Source standardised electrodes Simhadri."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110375_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110375_1",
+          "url": "/files/2cc29e6661f5729538a584011523a446d6182601af93f2e937a85508a3cbbba9.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYR39Dy%2BKUXk98ocL3%2Fx0%2BA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2cc29e6661f5729538a584011523a446d6182601af93f2e937a85508a3cbbba9",
+          "format": "text/plain",
+          "textUrl": "/files/2cc29e6661f5729538a584011523a446d6182601af93f2e937a85508a3cbbba9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110375_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYR39Dy%2BKUXk98ocL3%2Fx0%2BA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110375_1",
+    "tender": {
+      "id": "2026_NTPC_110375_1",
+      "title": "Procurement of Non Source standardised electrodes Simhadri.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-20T00:00:00Z"
+      },
+      "description": "Procurement of Non Source standardised electrodes Simhadri."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-08-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110375_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110375_1",
+        "url": "/files/2cc29e6661f5729538a584011523a446d6182601af93f2e937a85508a3cbbba9.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYR39Dy%2BKUXk98ocL3%2Fx0%2BA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2cc29e6661f5729538a584011523a446d6182601af93f2e937a85508a3cbbba9",
+        "format": "text/plain",
+        "textUrl": "/files/2cc29e6661f5729538a584011523a446d6182601af93f2e937a85508a3cbbba9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110375_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYR39Dy%2BKUXk98ocL3%2Fx0%2BA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110375_1",
+      "observedAt": "2026-08-20T01:40:31Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "7ff5a038eb74c098d63a8bacc1d1819fbde76ca2fcf059048ed23d25792668ad",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110375_1-0001-record",
+          "sha256": "2cc29e6661f5729538a584011523a446d6182601af93f2e937a85508a3cbbba9"
+        }
+      ],
+      "snapshotUrl": "/files/50b441e1a5902ac21b36d52f507f184dbac59021bf80343196f474e04ebf7084.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-20T01:40:31Z",
+    "lastObserved": "2026-08-20T01:40:31Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

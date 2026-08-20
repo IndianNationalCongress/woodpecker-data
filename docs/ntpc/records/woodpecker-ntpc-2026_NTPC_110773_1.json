@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110773_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110773_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110773_1-0001",
+      "date": "2026-08-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110773_1",
+        "title": "PROCURMENT OF SPARES OF ELECON MAKE GB MODEL AT NTPC TELANGANA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-20T00:00:00Z"
+        },
+        "description": "PROCURMENT OF SPARES OF ELECON MAKE GB MODEL AT NTPC TELANGANA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110773_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110773_1",
+          "url": "/files/abccb418b39528d9316edf4589f0b248b6233be1712b1914653364139310584a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2B0oyAT5ysXFq3LtB%2FoOB4w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "abccb418b39528d9316edf4589f0b248b6233be1712b1914653364139310584a",
+          "format": "text/plain",
+          "textUrl": "/files/abccb418b39528d9316edf4589f0b248b6233be1712b1914653364139310584a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110773_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2B0oyAT5ysXFq3LtB%2FoOB4w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110773_1",
+    "tender": {
+      "id": "2026_NTPC_110773_1",
+      "title": "PROCURMENT OF SPARES OF ELECON MAKE GB MODEL AT NTPC TELANGANA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-20T00:00:00Z"
+      },
+      "description": "PROCURMENT OF SPARES OF ELECON MAKE GB MODEL AT NTPC TELANGANA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110773_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110773_1",
+        "url": "/files/abccb418b39528d9316edf4589f0b248b6233be1712b1914653364139310584a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2B0oyAT5ysXFq3LtB%2FoOB4w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "abccb418b39528d9316edf4589f0b248b6233be1712b1914653364139310584a",
+        "format": "text/plain",
+        "textUrl": "/files/abccb418b39528d9316edf4589f0b248b6233be1712b1914653364139310584a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110773_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2B0oyAT5ysXFq3LtB%2FoOB4w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110773_1",
+      "observedAt": "2026-08-20T01:40:31Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "3998384815c449d9b768046b848a3cade8e7f3a038983e9bf82cfaf0aa6771d9",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110773_1-0001-record",
+          "sha256": "abccb418b39528d9316edf4589f0b248b6233be1712b1914653364139310584a"
+        }
+      ],
+      "snapshotUrl": "/files/52483b8547b00a5bcd98f378a8a7b632afc0a2d627ddae885ea4e27fc8b9e359.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-20T01:40:31Z",
+    "lastObserved": "2026-08-20T01:40:31Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

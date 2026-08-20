@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_NDMC_296071_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_NDMC_296071_1",
+      "id": "woodpecker-delhi-2026_NDMC_296071_1-0001",
+      "date": "2026-07-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "New Delhi Municipal Council||Welfare Department",
+        "id": "IN-ORG-new-delhi-municipal-council-welfare-depa"
+      },
+      "tender": {
+        "id": "2026_NDMC_296071_1",
+        "title": "Providing Canteen Services at Shop Nos. 30 , 32 , and 33, Shaheed Bhagat Singh Place, Gole Market New Delhi-110001",
+        "status": "active",
+        "procuringEntity": {
+          "name": "New Delhi Municipal Council||Welfare Department",
+          "id": "IN-ORG-new-delhi-municipal-council-welfare-depa"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 10800000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-20T00:00:00Z"
+        },
+        "description": "Providing Canteen Services at Shop Nos. 30 , 32 , and 33, Shaheed Bhagat Singh Place, Gole Market New Delhi-110001"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_NDMC_296071_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NDMC_296071_1",
+          "url": "/files/dce9d2f05e4fbe1d7efc6bae743b2950ebc138878d939c6dbce44ff66584f7ca.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbpG4Y9ILj759fwxZUfOxXg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "dce9d2f05e4fbe1d7efc6bae743b2950ebc138878d939c6dbce44ff66584f7ca",
+          "format": "text/plain",
+          "textUrl": "/files/dce9d2f05e4fbe1d7efc6bae743b2950ebc138878d939c6dbce44ff66584f7ca.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_NDMC_296071_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbpG4Y9ILj759fwxZUfOxXg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_NDMC_296071_1",
+    "tender": {
+      "id": "2026_NDMC_296071_1",
+      "title": "Providing Canteen Services at Shop Nos. 30 , 32 , and 33, Shaheed Bhagat Singh Place, Gole Market New Delhi-110001",
+      "status": "active",
+      "procuringEntity": {
+        "name": "New Delhi Municipal Council||Welfare Department",
+        "id": "IN-ORG-new-delhi-municipal-council-welfare-depa"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 10800000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-20T00:00:00Z"
+      },
+      "description": "Providing Canteen Services at Shop Nos. 30 , 32 , and 33, Shaheed Bhagat Singh Place, Gole Market New Delhi-110001"
+    },
+    "buyer": {
+      "name": "New Delhi Municipal Council||Welfare Department",
+      "id": "IN-ORG-new-delhi-municipal-council-welfare-depa"
+    },
+    "date": "2026-07-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_NDMC_296071_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NDMC_296071_1",
+        "url": "/files/dce9d2f05e4fbe1d7efc6bae743b2950ebc138878d939c6dbce44ff66584f7ca.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbpG4Y9ILj759fwxZUfOxXg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "dce9d2f05e4fbe1d7efc6bae743b2950ebc138878d939c6dbce44ff66584f7ca",
+        "format": "text/plain",
+        "textUrl": "/files/dce9d2f05e4fbe1d7efc6bae743b2950ebc138878d939c6dbce44ff66584f7ca.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_NDMC_296071_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbpG4Y9ILj759fwxZUfOxXg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_NDMC_296071_1",
+      "observedAt": "2026-08-20T01:16:14Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "85b8703f47c7791b90eb5abe34ef85b54751df9b9ef505ece51a3a8630918bc4",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_NDMC_296071_1-0001-record",
+          "sha256": "dce9d2f05e4fbe1d7efc6bae743b2950ebc138878d939c6dbce44ff66584f7ca"
+        }
+      ],
+      "snapshotUrl": "/files/6cb895f97b521f74dc1a3af0e523cce164ccf803ed0b9e52ec23720c92a057bd.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-20T01:16:14Z",
+    "lastObserved": "2026-08-20T01:16:14Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

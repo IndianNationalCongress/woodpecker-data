@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_TEZU_922080_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_TEZU_922080_1",
+      "id": "woodpecker-cppp-2026_TEZU_922080_1-0001",
+      "date": "2026-08-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Tezpur University",
+        "id": "IN-ORG-tezpur-university"
+      },
+      "tender": {
+        "id": "2026_TEZU_922080_1",
+        "title": "As per Tender",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Tezpur University",
+          "id": "IN-ORG-tezpur-university"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 2500000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-20T00:00:00Z"
+        },
+        "description": "As per Tender"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_TEZU_922080_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_TEZU_922080_1",
+          "url": "/files/7569899428c8492de8bd2fac9a7b35b842cd59b60b0d09eccb0869a0e15b1de3.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S55d0Q7sdsr5BOhClgJsoVg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7569899428c8492de8bd2fac9a7b35b842cd59b60b0d09eccb0869a0e15b1de3",
+          "format": "text/plain",
+          "textUrl": "/files/7569899428c8492de8bd2fac9a7b35b842cd59b60b0d09eccb0869a0e15b1de3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_TEZU_922080_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S55d0Q7sdsr5BOhClgJsoVg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_TEZU_922080_1",
+    "tender": {
+      "id": "2026_TEZU_922080_1",
+      "title": "As per Tender",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Tezpur University",
+        "id": "IN-ORG-tezpur-university"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 2500000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-20T00:00:00Z"
+      },
+      "description": "As per Tender"
+    },
+    "buyer": {
+      "name": "Tezpur University",
+      "id": "IN-ORG-tezpur-university"
+    },
+    "date": "2026-08-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_TEZU_922080_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_TEZU_922080_1",
+        "url": "/files/7569899428c8492de8bd2fac9a7b35b842cd59b60b0d09eccb0869a0e15b1de3.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S55d0Q7sdsr5BOhClgJsoVg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7569899428c8492de8bd2fac9a7b35b842cd59b60b0d09eccb0869a0e15b1de3",
+        "format": "text/plain",
+        "textUrl": "/files/7569899428c8492de8bd2fac9a7b35b842cd59b60b0d09eccb0869a0e15b1de3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_TEZU_922080_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S55d0Q7sdsr5BOhClgJsoVg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_TEZU_922080_1",
+      "observedAt": "2026-08-19T23:52:50Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "669078314db44fd30b8091133c14a43bac9b758f4af60e20778597d0d2745b03",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_TEZU_922080_1-0001-record",
+          "sha256": "7569899428c8492de8bd2fac9a7b35b842cd59b60b0d09eccb0869a0e15b1de3"
+        }
+      ],
+      "snapshotUrl": "/files/3ad5f593c2af12778bb6a8ba11c8fe7394e06f987cf717340e246a635f7c6094.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-19T23:52:50Z",
+    "lastObserved": "2026-08-19T23:52:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
