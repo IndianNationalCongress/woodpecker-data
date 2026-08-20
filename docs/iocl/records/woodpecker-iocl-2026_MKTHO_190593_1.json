@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_MKTHO_190593_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_MKTHO_190593_1",
+      "id": "woodpecker-iocl-2026_MKTHO_190593_1-0001",
+      "date": "2026-07-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Marketing||Marketing HO||Contract Cell",
+        "id": "IN-ORG-indianoil-marketing-marketing-ho-contrac"
+      },
+      "tender": {
+        "id": "2026_MKTHO_190593_1",
+        "title": "Procurement of additive package ST1304 and ST1350 OR ST1411 and ST1467",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Marketing||Marketing HO||Contract Cell",
+          "id": "IN-ORG-indianoil-marketing-marketing-ho-contrac"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-31T00:00:00Z"
+        },
+        "description": "Procurement of additive package ST1304 and ST1350 OR ST1411 and ST1467"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_MKTHO_190593_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MKTHO_190593_1",
+          "url": "/files/1a4d9893d30c80769e590c6086b5b44106aedc3e603f134bf84f305f9c5b846b.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShoGOyktzgK4VyL37eEv4FQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1a4d9893d30c80769e590c6086b5b44106aedc3e603f134bf84f305f9c5b846b",
+          "format": "text/plain",
+          "textUrl": "/files/1a4d9893d30c80769e590c6086b5b44106aedc3e603f134bf84f305f9c5b846b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_MKTHO_190593_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShoGOyktzgK4VyL37eEv4FQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_MKTHO_190593_1",
+    "tender": {
+      "id": "2026_MKTHO_190593_1",
+      "title": "Procurement of additive package ST1304 and ST1350 OR ST1411 and ST1467",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Marketing||Marketing HO||Contract Cell",
+        "id": "IN-ORG-indianoil-marketing-marketing-ho-contrac"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-31T00:00:00Z"
+      },
+      "description": "Procurement of additive package ST1304 and ST1350 OR ST1411 and ST1467"
+    },
+    "buyer": {
+      "name": "IndianOil||Marketing||Marketing HO||Contract Cell",
+      "id": "IN-ORG-indianoil-marketing-marketing-ho-contrac"
+    },
+    "date": "2026-07-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_MKTHO_190593_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MKTHO_190593_1",
+        "url": "/files/1a4d9893d30c80769e590c6086b5b44106aedc3e603f134bf84f305f9c5b846b.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShoGOyktzgK4VyL37eEv4FQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1a4d9893d30c80769e590c6086b5b44106aedc3e603f134bf84f305f9c5b846b",
+        "format": "text/plain",
+        "textUrl": "/files/1a4d9893d30c80769e590c6086b5b44106aedc3e603f134bf84f305f9c5b846b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_MKTHO_190593_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShoGOyktzgK4VyL37eEv4FQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_MKTHO_190593_1",
+      "observedAt": "2026-07-31T02:53:08Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "0d293e222078838f8ff91a2750df866f954a0ff94f8d6abab068f8c21f2acf10",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_MKTHO_190593_1-0001-record",
+          "sha256": "1a4d9893d30c80769e590c6086b5b44106aedc3e603f134bf84f305f9c5b846b"
+        }
+      ],
+      "snapshotUrl": "/files/c1ae10610f961485bad389b8bfaf6b4ad06c5653b78135d4f8b9174fad778781.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-31T02:53:08Z",
+    "lastObserved": "2026-07-31T02:53:08Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

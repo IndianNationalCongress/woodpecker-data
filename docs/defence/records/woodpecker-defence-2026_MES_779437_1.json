@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_779437_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_779437_1",
+      "id": "woodpecker-defence-2026_MES_779437_1-0001",
+      "date": "2026-07-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_779437_1",
+        "title": "Soil Investigation for Provision of LPG Shed with SWT and allied infrastructure at A Company ASC (Sup) Type C",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-05T00:00:00Z"
+        },
+        "description": "Soil Investigation for Provision of LPG Shed with SWT and allied infrastructure at A Company ASC (Sup) Type C"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_779437_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_779437_1",
+          "url": "/files/8facc6378cca387a699d4562bce9767929fb3986258c238c4a79b4afc514feca.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGiDVh4%2B5PtMyGPM7qofGlg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "8facc6378cca387a699d4562bce9767929fb3986258c238c4a79b4afc514feca",
+          "format": "text/plain",
+          "textUrl": "/files/8facc6378cca387a699d4562bce9767929fb3986258c238c4a79b4afc514feca.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_779437_1",
+    "tender": {
+      "id": "2026_MES_779437_1",
+      "title": "Soil Investigation for Provision of LPG Shed with SWT and allied infrastructure at A Company ASC (Sup) Type C",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-05T00:00:00Z"
+      },
+      "description": "Soil Investigation for Provision of LPG Shed with SWT and allied infrastructure at A Company ASC (Sup) Type C"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-07-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_779437_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_779437_1",
+        "url": "/files/8facc6378cca387a699d4562bce9767929fb3986258c238c4a79b4afc514feca.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGiDVh4%2B5PtMyGPM7qofGlg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "8facc6378cca387a699d4562bce9767929fb3986258c238c4a79b4afc514feca",
+        "format": "text/plain",
+        "textUrl": "/files/8facc6378cca387a699d4562bce9767929fb3986258c238c4a79b4afc514feca.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_779437_1",
+      "observedAt": "2026-08-05T01:56:01Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "8eeaf97d442b111bea22ec34ca326126510910c4bbcd0408213bd30bc377d376",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_779437_1-0001-record",
+          "sha256": "8facc6378cca387a699d4562bce9767929fb3986258c238c4a79b4afc514feca"
+        }
+      ],
+      "snapshotUrl": "/files/da0169810a32ad837e0397e7801df344e6b9c84e4de1f1f19f16848588cec5bd.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-05T01:56:01Z",
+    "lastObserved": "2026-08-05T01:56:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

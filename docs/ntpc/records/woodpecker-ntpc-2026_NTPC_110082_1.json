@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110082_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110082_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110082_1-0001",
+      "date": "2026-07-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110082_1",
+        "title": "Procurement of E and H spares for NTPC Solapur",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-28T00:00:00Z"
+        },
+        "description": "Procurement of E and H spares for NTPC Solapur"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110082_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110082_1",
+          "url": "/files/e31f4c3d826a7ff60d4da93190df846d97c5c7761ffb306ad1cb20237562cb75.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGOgeu%2Fkwg%2Bua599EG%2F8x5Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e31f4c3d826a7ff60d4da93190df846d97c5c7761ffb306ad1cb20237562cb75",
+          "format": "text/plain",
+          "textUrl": "/files/e31f4c3d826a7ff60d4da93190df846d97c5c7761ffb306ad1cb20237562cb75.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110082_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGOgeu%2Fkwg%2Bua599EG%2F8x5Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110082_1",
+    "tender": {
+      "id": "2026_NTPC_110082_1",
+      "title": "Procurement of E and H spares for NTPC Solapur",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-28T00:00:00Z"
+      },
+      "description": "Procurement of E and H spares for NTPC Solapur"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110082_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110082_1",
+        "url": "/files/e31f4c3d826a7ff60d4da93190df846d97c5c7761ffb306ad1cb20237562cb75.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGOgeu%2Fkwg%2Bua599EG%2F8x5Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e31f4c3d826a7ff60d4da93190df846d97c5c7761ffb306ad1cb20237562cb75",
+        "format": "text/plain",
+        "textUrl": "/files/e31f4c3d826a7ff60d4da93190df846d97c5c7761ffb306ad1cb20237562cb75.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110082_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGOgeu%2Fkwg%2Bua599EG%2F8x5Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110082_1",
+      "observedAt": "2026-07-28T02:33:06Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "2488dbd848404a1a2324f9fdb02d7abb8fbd06bed90e0a75e37a35ae2a1cd37e",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110082_1-0001-record",
+          "sha256": "e31f4c3d826a7ff60d4da93190df846d97c5c7761ffb306ad1cb20237562cb75"
+        }
+      ],
+      "snapshotUrl": "/files/3cdaf99c2a4a85a7e1f8f44ed6c529437aa0bcb07d05cc653e6d5bba48c155bc.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-28T02:33:06Z",
+    "lastObserved": "2026-07-28T02:33:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

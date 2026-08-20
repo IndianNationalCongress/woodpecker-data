@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110498_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110498_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110498_1-0001",
+      "date": "2026-07-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110498_1",
+        "title": "Procurement of APH Main Drive-5APC Gear Box Spares",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-03T00:00:00Z"
+        },
+        "description": "Procurement of APH Main Drive-5APC Gear Box Spares"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110498_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110498_1",
+          "url": "/files/e42bf12c0af949e7ffc61aab32c88a3a12fe2b398f1749a4658da4e6ea30f546.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScjimdeN8r3S2x%2BlfXRS3%2Bg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e42bf12c0af949e7ffc61aab32c88a3a12fe2b398f1749a4658da4e6ea30f546",
+          "format": "text/plain",
+          "textUrl": "/files/e42bf12c0af949e7ffc61aab32c88a3a12fe2b398f1749a4658da4e6ea30f546.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110498_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScjimdeN8r3S2x%2BlfXRS3%2Bg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110498_1",
+    "tender": {
+      "id": "2026_NTPC_110498_1",
+      "title": "Procurement of APH Main Drive-5APC Gear Box Spares",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-03T00:00:00Z"
+      },
+      "description": "Procurement of APH Main Drive-5APC Gear Box Spares"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110498_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110498_1",
+        "url": "/files/e42bf12c0af949e7ffc61aab32c88a3a12fe2b398f1749a4658da4e6ea30f546.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScjimdeN8r3S2x%2BlfXRS3%2Bg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e42bf12c0af949e7ffc61aab32c88a3a12fe2b398f1749a4658da4e6ea30f546",
+        "format": "text/plain",
+        "textUrl": "/files/e42bf12c0af949e7ffc61aab32c88a3a12fe2b398f1749a4658da4e6ea30f546.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110498_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScjimdeN8r3S2x%2BlfXRS3%2Bg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110498_1",
+      "observedAt": "2026-08-03T02:48:54Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "7b084c136708faa648fad79dc884919fa6f8f5a7213edc951b217ebcb5d9379f",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110498_1-0001-record",
+          "sha256": "e42bf12c0af949e7ffc61aab32c88a3a12fe2b398f1749a4658da4e6ea30f546"
+        }
+      ],
+      "snapshotUrl": "/files/9183ea4630e8877c4faf6ab62ed8ef84199db8548a06ec36cbb3b88e25e56ca7.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-03T02:48:54Z",
+    "lastObserved": "2026-08-03T02:48:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

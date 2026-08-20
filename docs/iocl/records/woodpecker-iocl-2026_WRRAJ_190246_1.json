@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-iocl-2026_WRRAJ_190246_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_WRRAJ_190246_1",
+      "id": "woodpecker-iocl-2026_WRRAJ_190246_1-0001",
+      "date": "2026-06-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Pipelines||WRPL Rajkot||Technical Services",
+        "id": "IN-ORG-indianoil-pipelines-wrpl-rajkot-technica"
+      },
+      "tender": {
+        "id": "2026_WRRAJ_190246_1",
+        "title": "PWRJT26017 Crude Oil Line fill Evacuation and Line Flushing of Old MPPL under Service Conversion Project",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Pipelines||WRPL Rajkot||Technical Services",
+          "id": "IN-ORG-indianoil-pipelines-wrpl-rajkot-technica"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 364092184,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-15T00:00:00Z"
+        },
+        "description": "PWRJT26017 Crude Oil Line fill Evacuation and Line Flushing of Old MPPL under Service Conversion Project"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_WRRAJ_190246_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WRRAJ_190246_1",
+          "url": "/files/6d1d1ab540053a2450effbe2533e92d646ae1522baa91b506847d821d44c998b.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnLmx5W9BfkXzIoRc084YwQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6d1d1ab540053a2450effbe2533e92d646ae1522baa91b506847d821d44c998b",
+          "format": "text/plain",
+          "textUrl": "/files/6d1d1ab540053a2450effbe2533e92d646ae1522baa91b506847d821d44c998b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_WRRAJ_190246_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnLmx5W9BfkXzIoRc084YwQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_WRRAJ_190246_1",
+    "tender": {
+      "id": "2026_WRRAJ_190246_1",
+      "title": "PWRJT26017 Crude Oil Line fill Evacuation and Line Flushing of Old MPPL under Service Conversion Project",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Pipelines||WRPL Rajkot||Technical Services",
+        "id": "IN-ORG-indianoil-pipelines-wrpl-rajkot-technica"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 364092184,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-15T00:00:00Z"
+      },
+      "description": "PWRJT26017 Crude Oil Line fill Evacuation and Line Flushing of Old MPPL under Service Conversion Project"
+    },
+    "buyer": {
+      "name": "IndianOil||Pipelines||WRPL Rajkot||Technical Services",
+      "id": "IN-ORG-indianoil-pipelines-wrpl-rajkot-technica"
+    },
+    "date": "2026-06-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_WRRAJ_190246_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WRRAJ_190246_1",
+        "url": "/files/6d1d1ab540053a2450effbe2533e92d646ae1522baa91b506847d821d44c998b.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnLmx5W9BfkXzIoRc084YwQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6d1d1ab540053a2450effbe2533e92d646ae1522baa91b506847d821d44c998b",
+        "format": "text/plain",
+        "textUrl": "/files/6d1d1ab540053a2450effbe2533e92d646ae1522baa91b506847d821d44c998b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_WRRAJ_190246_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnLmx5W9BfkXzIoRc084YwQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_WRRAJ_190246_1",
+      "observedAt": "2026-07-15T02:36:08Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "590845109dc5b17cf6ae34a73091b0e5b65cafe5eda4a2cae82a720fd5c9cf1b",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_WRRAJ_190246_1-0001-record",
+          "sha256": "6d1d1ab540053a2450effbe2533e92d646ae1522baa91b506847d821d44c998b"
+        }
+      ],
+      "snapshotUrl": "/files/d6bf0d7f8ff8385a264a5e3f76368cc202d0beedc75f7fc800b63fdc4c94fe93.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-15T02:36:08Z",
+    "lastObserved": "2026-07-15T02:36:08Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

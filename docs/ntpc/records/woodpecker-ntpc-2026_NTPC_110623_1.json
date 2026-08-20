@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110623_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110623_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110623_1-0001",
+      "date": "2026-08-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110623_1",
+        "title": "Procurement of flow switch for Crusher and Conveyor for NTPC Simhadri",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-07T00:00:00Z"
+        },
+        "description": "Procurement of flow switch for Crusher and Conveyor for NTPC Simhadri"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110623_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110623_1",
+          "url": "/files/908bfea645a6c32d1b37289cb1bcb57ee12b5c9e69fc6fb1ca6bb7752cd66db4.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYv11aYejFD8CWfftoILoAA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "908bfea645a6c32d1b37289cb1bcb57ee12b5c9e69fc6fb1ca6bb7752cd66db4",
+          "format": "text/plain",
+          "textUrl": "/files/908bfea645a6c32d1b37289cb1bcb57ee12b5c9e69fc6fb1ca6bb7752cd66db4.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110623_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYv11aYejFD8CWfftoILoAA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110623_1",
+    "tender": {
+      "id": "2026_NTPC_110623_1",
+      "title": "Procurement of flow switch for Crusher and Conveyor for NTPC Simhadri",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-07T00:00:00Z"
+      },
+      "description": "Procurement of flow switch for Crusher and Conveyor for NTPC Simhadri"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110623_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110623_1",
+        "url": "/files/908bfea645a6c32d1b37289cb1bcb57ee12b5c9e69fc6fb1ca6bb7752cd66db4.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYv11aYejFD8CWfftoILoAA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "908bfea645a6c32d1b37289cb1bcb57ee12b5c9e69fc6fb1ca6bb7752cd66db4",
+        "format": "text/plain",
+        "textUrl": "/files/908bfea645a6c32d1b37289cb1bcb57ee12b5c9e69fc6fb1ca6bb7752cd66db4.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110623_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYv11aYejFD8CWfftoILoAA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110623_1",
+      "observedAt": "2026-08-07T03:31:48Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "bb98ae34db536393c1fa0113105024b5c01b717961be8bc0b9962f031899f3b4",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110623_1-0001-record",
+          "sha256": "908bfea645a6c32d1b37289cb1bcb57ee12b5c9e69fc6fb1ca6bb7752cd66db4"
+        }
+      ],
+      "snapshotUrl": "/files/fedab32a4c55eeb92e49d408083dddd9d0e1521bc0b3c590634b14b216f5c6c0.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-07T03:31:48Z",
+    "lastObserved": "2026-08-07T03:31:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

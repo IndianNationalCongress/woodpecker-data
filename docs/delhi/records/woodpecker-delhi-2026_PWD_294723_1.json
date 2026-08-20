@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_PWD_294723_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_294723_1",
+      "id": "woodpecker-delhi-2026_PWD_294723_1-0001",
+      "date": "2026-07-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Public Works Department||CE/SE/B2-B24||EE/B242(N)",
+        "id": "IN-ORG-public-works-department-ce-se-b2-b24-ee-"
+      },
+      "tender": {
+        "id": "2026_PWD_294723_1",
+        "title": "Energy Audit Charges",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Public Works Department||CE/SE/B2-B24||EE/B242(N)",
+          "id": "IN-ORG-public-works-department-ce-se-b2-b24-ee-"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 556794,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-09T00:00:00Z"
+        },
+        "description": "Energy Audit Charges"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_294723_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_294723_1",
+          "url": "/files/bf9cd974a56245f2132c944d744dfad09cf8e7540e13325c038a802db72ff0ac.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShgaYv1zW9r80iXaQZPeUhg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "bf9cd974a56245f2132c944d744dfad09cf8e7540e13325c038a802db72ff0ac",
+          "format": "text/plain",
+          "textUrl": "/files/bf9cd974a56245f2132c944d744dfad09cf8e7540e13325c038a802db72ff0ac.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_PWD_294723_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShgaYv1zW9r80iXaQZPeUhg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_PWD_294723_1",
+    "tender": {
+      "id": "2026_PWD_294723_1",
+      "title": "Energy Audit Charges",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Public Works Department||CE/SE/B2-B24||EE/B242(N)",
+        "id": "IN-ORG-public-works-department-ce-se-b2-b24-ee-"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 556794,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-09T00:00:00Z"
+      },
+      "description": "Energy Audit Charges"
+    },
+    "buyer": {
+      "name": "Public Works Department||CE/SE/B2-B24||EE/B242(N)",
+      "id": "IN-ORG-public-works-department-ce-se-b2-b24-ee-"
+    },
+    "date": "2026-07-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_PWD_294723_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_294723_1",
+        "url": "/files/bf9cd974a56245f2132c944d744dfad09cf8e7540e13325c038a802db72ff0ac.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShgaYv1zW9r80iXaQZPeUhg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "bf9cd974a56245f2132c944d744dfad09cf8e7540e13325c038a802db72ff0ac",
+        "format": "text/plain",
+        "textUrl": "/files/bf9cd974a56245f2132c944d744dfad09cf8e7540e13325c038a802db72ff0ac.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_PWD_294723_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShgaYv1zW9r80iXaQZPeUhg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_294723_1",
+      "observedAt": "2026-07-09T02:25:34Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "993e822a7c3a8b42d3f3854e356afdf77b2c28abf969df13fe1cc2c9ee3449d5",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_294723_1-0001-record",
+          "sha256": "bf9cd974a56245f2132c944d744dfad09cf8e7540e13325c038a802db72ff0ac"
+        }
+      ],
+      "snapshotUrl": "/files/b08f83061225cb6265c7a61fe6a5137b4884e083da1c3f6dbc5df89d7bc0d555.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-09T02:25:34Z",
+    "lastObserved": "2026-07-09T02:25:34Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

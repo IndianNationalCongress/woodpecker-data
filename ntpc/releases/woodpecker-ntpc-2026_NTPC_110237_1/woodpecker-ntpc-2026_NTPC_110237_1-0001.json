@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110237_1",
+  "id": "woodpecker-ntpc-2026_NTPC_110237_1-0001",
+  "date": "2026-07-18T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+    "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+  },
+  "tender": {
+    "id": "2026_NTPC_110237_1",
+    "title": "BULK PROCUREMENT OF MCB",
+    "status": "active",
+    "procuringEntity": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+    },
+    "mainProcurementCategory": "goods",
+    "tenderPeriod": {
+      "endDate": "2026-08-03T00:00:00Z"
+    },
+    "description": "BULK PROCUREMENT OF MCB"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_110237_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_NTPC_110237_1",
+      "url": "/files/e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7.txt",
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlkmZY05oZwxcsXPtlFbvXw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7",
+      "format": "text/plain",
+      "textUrl": "/files/e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_110237_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlkmZY05oZwxcsXPtlFbvXw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110219_1",
+  "id": "woodpecker-ntpc-2026_NTPC_110219_1-0001",
+  "date": "2026-07-17T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "NTPC Limited||Corporate Centre||Corporate Materials",
+    "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+  },
+  "tender": {
+    "id": "2026_NTPC_110219_1",
+    "title": "On Premise SAP SRM Database License HANA",
+    "status": "active",
+    "procuringEntity": {
+      "name": "NTPC Limited||Corporate Centre||Corporate Materials",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+    },
+    "mainProcurementCategory": "services",
+    "tenderPeriod": {
+      "endDate": "2026-07-27T00:00:00Z"
+    },
+    "description": "On Premise SAP SRM Database License HANA"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_110219_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_NTPC_110219_1",
+      "url": "/files/0b28b3ac30b74c668340d8fe906a72d41e9d045990e7fe2deceaa319a29a0499.txt",
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6VOOo8teeUehU2HxvXRGEg%3D%3D",
+      "sourceAlive": true,
+      "sha256": "0b28b3ac30b74c668340d8fe906a72d41e9d045990e7fe2deceaa319a29a0499",
+      "format": "text/plain",
+      "textUrl": "/files/0b28b3ac30b74c668340d8fe906a72d41e9d045990e7fe2deceaa319a29a0499.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_110219_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6VOOo8teeUehU2HxvXRGEg%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

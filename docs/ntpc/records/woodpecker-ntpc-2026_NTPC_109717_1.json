@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109717_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109717_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109717_1-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109717_1",
+        "title": "Procurement of Spares and Consumables for ABB make Flame Scanners",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-07T00:00:00Z"
+        },
+        "description": "Procurement of Spares and Consumables for ABB make Flame Scanners"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109717_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109717_1",
+          "url": "/files/ec1d78478873f7e49f812299a02a93e0150e205b7322a1b53ec21252c3928765.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyQLG%2FfOyfCwk4kCwZjTVFQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ec1d78478873f7e49f812299a02a93e0150e205b7322a1b53ec21252c3928765",
+          "format": "text/plain",
+          "textUrl": "/files/ec1d78478873f7e49f812299a02a93e0150e205b7322a1b53ec21252c3928765.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109717_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyQLG%2FfOyfCwk4kCwZjTVFQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109717_1",
+    "tender": {
+      "id": "2026_NTPC_109717_1",
+      "title": "Procurement of Spares and Consumables for ABB make Flame Scanners",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-07T00:00:00Z"
+      },
+      "description": "Procurement of Spares and Consumables for ABB make Flame Scanners"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109717_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109717_1",
+        "url": "/files/ec1d78478873f7e49f812299a02a93e0150e205b7322a1b53ec21252c3928765.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyQLG%2FfOyfCwk4kCwZjTVFQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ec1d78478873f7e49f812299a02a93e0150e205b7322a1b53ec21252c3928765",
+        "format": "text/plain",
+        "textUrl": "/files/ec1d78478873f7e49f812299a02a93e0150e205b7322a1b53ec21252c3928765.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109717_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyQLG%2FfOyfCwk4kCwZjTVFQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109717_1",
+      "observedAt": "2026-07-07T02:46:30Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "92af3be040c8a6a2b3d72f6ec6d59c6d2a12a90054f1f6b2c70636afb27990c1",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109717_1-0001-record",
+          "sha256": "ec1d78478873f7e49f812299a02a93e0150e205b7322a1b53ec21252c3928765"
+        }
+      ],
+      "snapshotUrl": "/files/0d6b999d364efb9c6056ab64820e11e2fbbb0a16cdbe896b25aaf7c80335a538.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-07T02:46:30Z",
+    "lastObserved": "2026-07-07T02:46:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

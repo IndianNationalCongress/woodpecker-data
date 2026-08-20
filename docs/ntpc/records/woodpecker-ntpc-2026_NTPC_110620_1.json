@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110620_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110620_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110620_1-0001",
+      "date": "2026-08-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110620_1",
+        "title": "Procurement of VBF spares for FGD at NTPC Telangana",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-06T00:00:00Z"
+        },
+        "description": "Procurement of VBF spares for FGD at NTPC Telangana"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110620_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110620_1",
+          "url": "/files/4ca8ad55a1f22fbf7080dcb019c0c64cfc6fd3e6756a1d711cd36af3d30e8577.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0uktht2766WhVMvshETeFg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4ca8ad55a1f22fbf7080dcb019c0c64cfc6fd3e6756a1d711cd36af3d30e8577",
+          "format": "text/plain",
+          "textUrl": "/files/4ca8ad55a1f22fbf7080dcb019c0c64cfc6fd3e6756a1d711cd36af3d30e8577.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110620_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0uktht2766WhVMvshETeFg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110620_1",
+    "tender": {
+      "id": "2026_NTPC_110620_1",
+      "title": "Procurement of VBF spares for FGD at NTPC Telangana",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-06T00:00:00Z"
+      },
+      "description": "Procurement of VBF spares for FGD at NTPC Telangana"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110620_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110620_1",
+        "url": "/files/4ca8ad55a1f22fbf7080dcb019c0c64cfc6fd3e6756a1d711cd36af3d30e8577.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0uktht2766WhVMvshETeFg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4ca8ad55a1f22fbf7080dcb019c0c64cfc6fd3e6756a1d711cd36af3d30e8577",
+        "format": "text/plain",
+        "textUrl": "/files/4ca8ad55a1f22fbf7080dcb019c0c64cfc6fd3e6756a1d711cd36af3d30e8577.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110620_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0uktht2766WhVMvshETeFg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110620_1",
+      "observedAt": "2026-08-06T02:33:48Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "78c1cad015a744091a6d056a03c5c76457b958025b1f835871aa10064fba3efc",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110620_1-0001-record",
+          "sha256": "4ca8ad55a1f22fbf7080dcb019c0c64cfc6fd3e6756a1d711cd36af3d30e8577"
+        }
+      ],
+      "snapshotUrl": "/files/3cb22c3ff468e2b72ab3fb29c9cfe87ad0d02fb3c75f9746184ab0e055a8002f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-06T02:33:48Z",
+    "lastObserved": "2026-08-06T02:33:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-jammukashmir-2026_IFC_314514_4",
+  "releases": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_IFC_314514_4",
+      "id": "woodpecker-jammukashmir-2026_IFC_314514_4-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_IFC_314514_4",
+        "title": "Construction of baricade on FSC at Shariefabad.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-24T00:00:00Z"
+        },
+        "description": "Construction of baricade on FSC at Shariefabad."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_IFC_314514_4-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IFC_314514_4",
+          "url": "/files/b882022bfa34a477d71fb88705c332aed6489c3a2c2e4acd8c01d2d4a8a5c075.txt",
+          "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG91pjy05ID8pxvX0TiElxA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b882022bfa34a477d71fb88705c332aed6489c3a2c2e4acd8c01d2d4a8a5c075",
+          "format": "text/plain",
+          "textUrl": "/files/b882022bfa34a477d71fb88705c332aed6489c3a2c2e4acd8c01d2d4a8a5c075.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jammukashmir-2026_IFC_314514_4",
+    "tender": {
+      "id": "2026_IFC_314514_4",
+      "title": "Construction of baricade on FSC at Shariefabad.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-24T00:00:00Z"
+      },
+      "description": "Construction of baricade on FSC at Shariefabad."
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jammukashmir-2026_IFC_314514_4-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IFC_314514_4",
+        "url": "/files/b882022bfa34a477d71fb88705c332aed6489c3a2c2e4acd8c01d2d4a8a5c075.txt",
+        "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG91pjy05ID8pxvX0TiElxA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b882022bfa34a477d71fb88705c332aed6489c3a2c2e4acd8c01d2d4a8a5c075",
+        "format": "text/plain",
+        "textUrl": "/files/b882022bfa34a477d71fb88705c332aed6489c3a2c2e4acd8c01d2d4a8a5c075.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_IFC_314514_4",
+      "observedAt": "2026-07-24T02:23:45Z",
+      "witness": "woodpecker:jammukashmir",
+      "availability": "present",
+      "stateHash": "8fb5899e452d1d04ee7e773d19fa82f33769d886778c870cd8c949cdf4277c90",
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_IFC_314514_4-0001-record",
+          "sha256": "b882022bfa34a477d71fb88705c332aed6489c3a2c2e4acd8c01d2d4a8a5c075"
+        }
+      ],
+      "snapshotUrl": "/files/ebed346681eb42438d2edb7bb781059a418be4f0143b245414521ca7b057c04a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-24T02:23:45Z",
+    "lastObserved": "2026-07-24T02:23:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

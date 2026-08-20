@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110541_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110541_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110541_1-0001",
+      "date": "2026-07-31T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110541_1",
+        "title": "PROCUREMENT OF SPARES FOR HPDP OF STAGE I OF FSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-11T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF SPARES FOR HPDP OF STAGE I OF FSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110541_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110541_1",
+          "url": "/files/e49e18a4a68a4ce021d79275f1bce0928465aad01e251397b1adab7f1990c5f6.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScmEJzv3kNc0UstUQWRsnoA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e49e18a4a68a4ce021d79275f1bce0928465aad01e251397b1adab7f1990c5f6",
+          "format": "text/plain",
+          "textUrl": "/files/e49e18a4a68a4ce021d79275f1bce0928465aad01e251397b1adab7f1990c5f6.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110541_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScmEJzv3kNc0UstUQWRsnoA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110541_1",
+    "tender": {
+      "id": "2026_NTPC_110541_1",
+      "title": "PROCUREMENT OF SPARES FOR HPDP OF STAGE I OF FSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-11T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF SPARES FOR HPDP OF STAGE I OF FSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-31T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110541_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110541_1",
+        "url": "/files/e49e18a4a68a4ce021d79275f1bce0928465aad01e251397b1adab7f1990c5f6.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScmEJzv3kNc0UstUQWRsnoA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e49e18a4a68a4ce021d79275f1bce0928465aad01e251397b1adab7f1990c5f6",
+        "format": "text/plain",
+        "textUrl": "/files/e49e18a4a68a4ce021d79275f1bce0928465aad01e251397b1adab7f1990c5f6.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110541_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScmEJzv3kNc0UstUQWRsnoA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110541_1",
+      "observedAt": "2026-08-11T01:32:36Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "503f921e66bda478c2368ae68c120e8cadbb3e91ade7b37428684b31aaeaf5fd",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110541_1-0001-record",
+          "sha256": "e49e18a4a68a4ce021d79275f1bce0928465aad01e251397b1adab7f1990c5f6"
+        }
+      ],
+      "snapshotUrl": "/files/7e2c038ff5813ebe3e8394b23a737c98f34c248b15b1223139b5b6ddd24e09a5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-11T01:32:36Z",
+    "lastObserved": "2026-08-11T01:32:36Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

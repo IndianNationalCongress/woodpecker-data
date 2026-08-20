@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-jharkhand-2026_HLTH_116221_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-jharkhand-2026_HLTH_116221_1",
+      "id": "woodpecker-jharkhand-2026_HLTH_116221_1-0001",
+      "date": "2026-07-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Health CE",
+        "id": "IN-ORG-health-ce"
+      },
+      "tender": {
+        "id": "2026_HLTH_116221_1",
+        "title": "supply of medicine and consumables",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Health CE",
+          "id": "IN-ORG-health-ce"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-03T00:00:00Z"
+        },
+        "description": "supply of medicine and consumables"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jharkhand-2026_HLTH_116221_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HLTH_116221_1",
+          "url": "/files/b774f8b53d6261abcc4ef0fe65307fa0d626f0d148dea187f4ca512d7e21c5fd.txt",
+          "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFC%2F7dyD30NUYFZTANAd%2FHQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b774f8b53d6261abcc4ef0fe65307fa0d626f0d148dea187f4ca512d7e21c5fd",
+          "format": "text/plain",
+          "textUrl": "/files/b774f8b53d6261abcc4ef0fe65307fa0d626f0d148dea187f4ca512d7e21c5fd.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-jharkhand-2026_HLTH_116221_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFC%2F7dyD30NUYFZTANAd%2FHQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jharkhand-2026_HLTH_116221_1",
+    "tender": {
+      "id": "2026_HLTH_116221_1",
+      "title": "supply of medicine and consumables",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Health CE",
+        "id": "IN-ORG-health-ce"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-03T00:00:00Z"
+      },
+      "description": "supply of medicine and consumables"
+    },
+    "buyer": {
+      "name": "Health CE",
+      "id": "IN-ORG-health-ce"
+    },
+    "date": "2026-07-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jharkhand-2026_HLTH_116221_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HLTH_116221_1",
+        "url": "/files/b774f8b53d6261abcc4ef0fe65307fa0d626f0d148dea187f4ca512d7e21c5fd.txt",
+        "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFC%2F7dyD30NUYFZTANAd%2FHQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b774f8b53d6261abcc4ef0fe65307fa0d626f0d148dea187f4ca512d7e21c5fd",
+        "format": "text/plain",
+        "textUrl": "/files/b774f8b53d6261abcc4ef0fe65307fa0d626f0d148dea187f4ca512d7e21c5fd.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-jharkhand-2026_HLTH_116221_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFC%2F7dyD30NUYFZTANAd%2FHQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jharkhand-2026_HLTH_116221_1",
+      "observedAt": "2026-08-03T01:51:03Z",
+      "witness": "woodpecker:jharkhand",
+      "availability": "present",
+      "stateHash": "23af5b0b5f8991c495febf82489313315c025bd6a650a7ee4d31d543164a0d41",
+      "documents": [
+        {
+          "id": "woodpecker-jharkhand-2026_HLTH_116221_1-0001-record",
+          "sha256": "b774f8b53d6261abcc4ef0fe65307fa0d626f0d148dea187f4ca512d7e21c5fd"
+        }
+      ],
+      "snapshotUrl": "/files/f2b8502b2f46a09e92b02c5593b97e20f6c1f5142774ac4116c4b8348ceef620.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-03T01:51:03Z",
+    "lastObserved": "2026-08-03T01:51:03Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

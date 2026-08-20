@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109727_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109727_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109727_1-0001",
+      "date": "2026-07-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109727_1",
+        "title": "PROCUREMENT OF ELECTRO MECHANICAL TSP RELAYS FOR STAGE 1 UNITS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-07T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF ELECTRO MECHANICAL TSP RELAYS FOR STAGE 1 UNITS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109727_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109727_1",
+          "url": "/files/bcd04ba6070fdb9aaadedb7c318c026db36fe2c0339f54b192f1e60c95616fee.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw5dyrBM5HQIvz5B5go4fkA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "bcd04ba6070fdb9aaadedb7c318c026db36fe2c0339f54b192f1e60c95616fee",
+          "format": "text/plain",
+          "textUrl": "/files/bcd04ba6070fdb9aaadedb7c318c026db36fe2c0339f54b192f1e60c95616fee.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109727_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw5dyrBM5HQIvz5B5go4fkA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109727_1",
+    "tender": {
+      "id": "2026_NTPC_109727_1",
+      "title": "PROCUREMENT OF ELECTRO MECHANICAL TSP RELAYS FOR STAGE 1 UNITS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-07T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF ELECTRO MECHANICAL TSP RELAYS FOR STAGE 1 UNITS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109727_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109727_1",
+        "url": "/files/bcd04ba6070fdb9aaadedb7c318c026db36fe2c0339f54b192f1e60c95616fee.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw5dyrBM5HQIvz5B5go4fkA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "bcd04ba6070fdb9aaadedb7c318c026db36fe2c0339f54b192f1e60c95616fee",
+        "format": "text/plain",
+        "textUrl": "/files/bcd04ba6070fdb9aaadedb7c318c026db36fe2c0339f54b192f1e60c95616fee.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109727_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw5dyrBM5HQIvz5B5go4fkA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109727_1",
+      "observedAt": "2026-07-07T02:46:30Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "53db363909c9ed91474dc67915b9e5cb8e9bbc550289f79ee4171686953900cc",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109727_1-0001-record",
+          "sha256": "bcd04ba6070fdb9aaadedb7c318c026db36fe2c0339f54b192f1e60c95616fee"
+        }
+      ],
+      "snapshotUrl": "/files/101baba33a98b7de7dbcb8fbfce85f028b3559ea785d3f2fac6f2e622ca495bb.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-07T02:46:30Z",
+    "lastObserved": "2026-07-07T02:46:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

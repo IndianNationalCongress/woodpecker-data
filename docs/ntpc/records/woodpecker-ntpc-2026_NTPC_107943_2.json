@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_107943_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107943_2",
+      "id": "woodpecker-ntpc-2026_NTPC_107943_2-0001",
+      "date": "2026-06-27T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_107943_2",
+        "title": "PROCUREMENT OF HP1103 MILL MOTOR COUPLING AT NTPC TELANGANA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-02T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF HP1103 MILL MOTOR COUPLING AT NTPC TELANGANA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107943_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_107943_2",
+          "url": "/files/0bc8c98d1bc9ed6a665ae4ad1be5d626091d325ff055060e9723e95d9fca7c6d.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SndeuaxRoJOHt1%2BijHVMtlg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0bc8c98d1bc9ed6a665ae4ad1be5d626091d325ff055060e9723e95d9fca7c6d",
+          "format": "text/plain",
+          "textUrl": "/files/0bc8c98d1bc9ed6a665ae4ad1be5d626091d325ff055060e9723e95d9fca7c6d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107943_2-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SndeuaxRoJOHt1%2BijHVMtlg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_107943_2",
+    "tender": {
+      "id": "2026_NTPC_107943_2",
+      "title": "PROCUREMENT OF HP1103 MILL MOTOR COUPLING AT NTPC TELANGANA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-02T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF HP1103 MILL MOTOR COUPLING AT NTPC TELANGANA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-27T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107943_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_107943_2",
+        "url": "/files/0bc8c98d1bc9ed6a665ae4ad1be5d626091d325ff055060e9723e95d9fca7c6d.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SndeuaxRoJOHt1%2BijHVMtlg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0bc8c98d1bc9ed6a665ae4ad1be5d626091d325ff055060e9723e95d9fca7c6d",
+        "format": "text/plain",
+        "textUrl": "/files/0bc8c98d1bc9ed6a665ae4ad1be5d626091d325ff055060e9723e95d9fca7c6d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107943_2-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SndeuaxRoJOHt1%2BijHVMtlg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107943_2",
+      "observedAt": "2026-07-02T03:05:21Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "68a22d328ec377c2f6a6fbda8ff6bd36b1410dcf59e413d801b60d96725d166d",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107943_2-0001-record",
+          "sha256": "0bc8c98d1bc9ed6a665ae4ad1be5d626091d325ff055060e9723e95d9fca7c6d"
+        }
+      ],
+      "snapshotUrl": "/files/cfa69438a63f6719eaa2a940330a6b4657ae7267d4701fe66e9908930c129364.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-02T03:05:21Z",
+    "lastObserved": "2026-07-02T03:05:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

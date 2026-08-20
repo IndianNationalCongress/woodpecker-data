@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_DJB_293916_4",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_DJB_293916_4",
+      "id": "woodpecker-delhi-2026_DJB_293916_4-0001",
+      "date": "2026-06-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Delhi Jal Board||Delhi Jal Board||DD(H)- SOUTH",
+        "id": "IN-ORG-delhi-jal-board-delhi-jal-board-dd-h-sou"
+      },
+      "tender": {
+        "id": "2026_DJB_293916_4",
+        "title": "NIT No. 01 (2026-27)/DD(H)-South, Item No. 4",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Delhi Jal Board||Delhi Jal Board||DD(H)- SOUTH",
+          "id": "IN-ORG-delhi-jal-board-delhi-jal-board-dd-h-sou"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 964249,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-27T00:00:00Z"
+        },
+        "description": "NIT No. 01 (2026-27)/DD(H)-South, Item No. 4"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DJB_293916_4-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DJB_293916_4",
+          "url": "/files/7234b1be3e59d92701995ed6ad32207f23e75ee34f87bc74e2f69a95d230c0d4.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScWtrMjBolT%2FZg2BXTXcPEQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7234b1be3e59d92701995ed6ad32207f23e75ee34f87bc74e2f69a95d230c0d4",
+          "format": "text/plain",
+          "textUrl": "/files/7234b1be3e59d92701995ed6ad32207f23e75ee34f87bc74e2f69a95d230c0d4.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_DJB_293916_4-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScWtrMjBolT%2FZg2BXTXcPEQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_DJB_293916_4",
+    "tender": {
+      "id": "2026_DJB_293916_4",
+      "title": "NIT No. 01 (2026-27)/DD(H)-South, Item No. 4",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Delhi Jal Board||Delhi Jal Board||DD(H)- SOUTH",
+        "id": "IN-ORG-delhi-jal-board-delhi-jal-board-dd-h-sou"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 964249,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-27T00:00:00Z"
+      },
+      "description": "NIT No. 01 (2026-27)/DD(H)-South, Item No. 4"
+    },
+    "buyer": {
+      "name": "Delhi Jal Board||Delhi Jal Board||DD(H)- SOUTH",
+      "id": "IN-ORG-delhi-jal-board-delhi-jal-board-dd-h-sou"
+    },
+    "date": "2026-06-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_DJB_293916_4-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DJB_293916_4",
+        "url": "/files/7234b1be3e59d92701995ed6ad32207f23e75ee34f87bc74e2f69a95d230c0d4.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScWtrMjBolT%2FZg2BXTXcPEQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7234b1be3e59d92701995ed6ad32207f23e75ee34f87bc74e2f69a95d230c0d4",
+        "format": "text/plain",
+        "textUrl": "/files/7234b1be3e59d92701995ed6ad32207f23e75ee34f87bc74e2f69a95d230c0d4.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_DJB_293916_4-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScWtrMjBolT%2FZg2BXTXcPEQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_DJB_293916_4",
+      "observedAt": "2026-06-27T02:41:01Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "a63aaad4289968b5b6b0d343d63149120cb26c119b93b20a97732840f8158f70",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DJB_293916_4-0001-record",
+          "sha256": "7234b1be3e59d92701995ed6ad32207f23e75ee34f87bc74e2f69a95d230c0d4"
+        }
+      ],
+      "snapshotUrl": "/files/638b3d65a116cf632193ce361f5e468b7546035d3ba9fe3329285cb3b21fb4e3.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-27T02:41:01Z",
+    "lastObserved": "2026-06-27T02:41:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

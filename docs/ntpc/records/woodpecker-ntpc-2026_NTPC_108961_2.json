@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108961_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108961_2",
+      "id": "woodpecker-ntpc-2026_NTPC_108961_2-0001",
+      "date": "2026-06-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_108961_2",
+        "title": "Procurement of GE BENTLEY make TSI SPARES for Main Turbine TDBFP MDBFP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-04T00:00:00Z"
+        },
+        "description": "Procurement of GE BENTLEY make TSI SPARES for Main Turbine TDBFP MDBFP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108961_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108961_2",
+          "url": "/files/08df52e722e632b291017a702090184fa889d9ccc85b332faf1b2b4fcc8e910f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFat9cf0KaoDHrsfNwijfgg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "08df52e722e632b291017a702090184fa889d9ccc85b332faf1b2b4fcc8e910f",
+          "format": "text/plain",
+          "textUrl": "/files/08df52e722e632b291017a702090184fa889d9ccc85b332faf1b2b4fcc8e910f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108961_2-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFat9cf0KaoDHrsfNwijfgg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108961_2",
+    "tender": {
+      "id": "2026_NTPC_108961_2",
+      "title": "Procurement of GE BENTLEY make TSI SPARES for Main Turbine TDBFP MDBFP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-04T00:00:00Z"
+      },
+      "description": "Procurement of GE BENTLEY make TSI SPARES for Main Turbine TDBFP MDBFP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108961_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108961_2",
+        "url": "/files/08df52e722e632b291017a702090184fa889d9ccc85b332faf1b2b4fcc8e910f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFat9cf0KaoDHrsfNwijfgg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "08df52e722e632b291017a702090184fa889d9ccc85b332faf1b2b4fcc8e910f",
+        "format": "text/plain",
+        "textUrl": "/files/08df52e722e632b291017a702090184fa889d9ccc85b332faf1b2b4fcc8e910f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108961_2-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFat9cf0KaoDHrsfNwijfgg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108961_2",
+      "observedAt": "2026-07-04T02:31:49Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9d93a919092e1bc5e649ca0f30167ba396d9a6a6fb52ebb49d83ed7cd1b41993",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108961_2-0001-record",
+          "sha256": "08df52e722e632b291017a702090184fa889d9ccc85b332faf1b2b4fcc8e910f"
+        }
+      ],
+      "snapshotUrl": "/files/9dcd1bc11ee59a740393236226756b21402b0f99df44142b2401c4f634a6917c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-04T02:31:49Z",
+    "lastObserved": "2026-07-04T02:31:49Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

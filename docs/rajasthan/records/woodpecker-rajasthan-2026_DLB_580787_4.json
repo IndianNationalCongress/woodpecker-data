@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DLB_580787_4",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_580787_4",
+      "id": "woodpecker-rajasthan-2026_DLB_580787_4-0001",
+      "date": "2026-08-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DLB||Dy.DR-Bikaner||EO-Shrivijaynagar",
+        "id": "IN-ORG-dlb-dy-dr-bikaner-eo-shrivijaynagar"
+      },
+      "tender": {
+        "id": "2026_DLB_580787_4",
+        "title": "Shed Work at Nagarpalika SriVijaynagar",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DLB||Dy.DR-Bikaner||EO-Shrivijaynagar",
+          "id": "IN-ORG-dlb-dy-dr-bikaner-eo-shrivijaynagar"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 903000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-07T00:00:00Z"
+        },
+        "description": "Shed Work at Nagarpalika SriVijaynagar"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_580787_4-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DLB_580787_4",
+          "url": "/files/c6225181890820ba2c8b6f96fb1a182462d8575c38bfcbcfaef9e03bd1a2792b.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGpZ0%2B6MzGZkcGeEp8iJKkQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c6225181890820ba2c8b6f96fb1a182462d8575c38bfcbcfaef9e03bd1a2792b",
+          "format": "text/plain",
+          "textUrl": "/files/c6225181890820ba2c8b6f96fb1a182462d8575c38bfcbcfaef9e03bd1a2792b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_580787_4-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGpZ0%2B6MzGZkcGeEp8iJKkQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DLB_580787_4",
+    "tender": {
+      "id": "2026_DLB_580787_4",
+      "title": "Shed Work at Nagarpalika SriVijaynagar",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DLB||Dy.DR-Bikaner||EO-Shrivijaynagar",
+        "id": "IN-ORG-dlb-dy-dr-bikaner-eo-shrivijaynagar"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 903000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-07T00:00:00Z"
+      },
+      "description": "Shed Work at Nagarpalika SriVijaynagar"
+    },
+    "buyer": {
+      "name": "DLB||Dy.DR-Bikaner||EO-Shrivijaynagar",
+      "id": "IN-ORG-dlb-dy-dr-bikaner-eo-shrivijaynagar"
+    },
+    "date": "2026-08-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_580787_4-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DLB_580787_4",
+        "url": "/files/c6225181890820ba2c8b6f96fb1a182462d8575c38bfcbcfaef9e03bd1a2792b.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGpZ0%2B6MzGZkcGeEp8iJKkQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c6225181890820ba2c8b6f96fb1a182462d8575c38bfcbcfaef9e03bd1a2792b",
+        "format": "text/plain",
+        "textUrl": "/files/c6225181890820ba2c8b6f96fb1a182462d8575c38bfcbcfaef9e03bd1a2792b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_580787_4-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGpZ0%2B6MzGZkcGeEp8iJKkQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_580787_4",
+      "observedAt": "2026-08-07T03:24:20Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "038bb2a3616f9133b8a072e5a7eeb585b459acef878cef039c12aab53be4762e",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_580787_4-0001-record",
+          "sha256": "c6225181890820ba2c8b6f96fb1a182462d8575c38bfcbcfaef9e03bd1a2792b"
+        }
+      ],
+      "snapshotUrl": "/files/bf5cfa7446bb9435bf3df66cb65fdfe359006e298f993419e2317b5b947421c4.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-07T03:24:20Z",
+    "lastObserved": "2026-08-07T03:24:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

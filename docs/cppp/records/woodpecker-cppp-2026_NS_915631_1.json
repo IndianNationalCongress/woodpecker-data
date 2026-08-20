@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_NS_915631_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_NS_915631_1",
+      "id": "woodpecker-cppp-2026_NS_915631_1-0001",
+      "date": "2026-07-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "National Institute of Technology Silchar",
+        "id": "IN-ORG-national-institute-of-technology-silchar"
+      },
+      "tender": {
+        "id": "2026_NS_915631_1",
+        "title": "Electrical Material Rate Contract",
+        "status": "active",
+        "procuringEntity": {
+          "name": "National Institute of Technology Silchar",
+          "id": "IN-ORG-national-institute-of-technology-silchar"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-21T00:00:00Z"
+        },
+        "description": "Electrical Material Rate Contract"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NS_915631_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NS_915631_1",
+          "url": "/files/8d34a26708ba50b16d2bcc6ffa925dd5de22186a86ac2c814822457338108af5.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYo25E2H1154HkTrQYjrBmA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "8d34a26708ba50b16d2bcc6ffa925dd5de22186a86ac2c814822457338108af5",
+          "format": "text/plain",
+          "textUrl": "/files/8d34a26708ba50b16d2bcc6ffa925dd5de22186a86ac2c814822457338108af5.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_NS_915631_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYo25E2H1154HkTrQYjrBmA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_NS_915631_1",
+    "tender": {
+      "id": "2026_NS_915631_1",
+      "title": "Electrical Material Rate Contract",
+      "status": "active",
+      "procuringEntity": {
+        "name": "National Institute of Technology Silchar",
+        "id": "IN-ORG-national-institute-of-technology-silchar"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-21T00:00:00Z"
+      },
+      "description": "Electrical Material Rate Contract"
+    },
+    "buyer": {
+      "name": "National Institute of Technology Silchar",
+      "id": "IN-ORG-national-institute-of-technology-silchar"
+    },
+    "date": "2026-07-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_NS_915631_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NS_915631_1",
+        "url": "/files/8d34a26708ba50b16d2bcc6ffa925dd5de22186a86ac2c814822457338108af5.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYo25E2H1154HkTrQYjrBmA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "8d34a26708ba50b16d2bcc6ffa925dd5de22186a86ac2c814822457338108af5",
+        "format": "text/plain",
+        "textUrl": "/files/8d34a26708ba50b16d2bcc6ffa925dd5de22186a86ac2c814822457338108af5.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_NS_915631_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYo25E2H1154HkTrQYjrBmA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_NS_915631_1",
+      "observedAt": "2026-07-21T01:04:00Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "552b02c46d9f55d4c2c5802b303883f676c1bbe0c4119f383767690bdaebda03",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NS_915631_1-0001-record",
+          "sha256": "8d34a26708ba50b16d2bcc6ffa925dd5de22186a86ac2c814822457338108af5"
+        }
+      ],
+      "snapshotUrl": "/files/a8437c8467051cc2f13fc7e0d9d919d01d5a4cc8d19be411f215ed9351b87454.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-21T01:04:00Z",
+    "lastObserved": "2026-07-21T01:04:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109941_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109941_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109941_1-0001",
+      "date": "2026-07-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109941_1",
+        "title": "Procurement of Delval Actuator",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-10T00:00:00Z"
+        },
+        "description": "Procurement of Delval Actuator"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109941_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109941_1",
+          "url": "/files/370a2f6ab1ae0ea8dd5dba6a00cc56cd8af8ad9262ad477b6fe13d4da47d8d52.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sxh7KU9iXC1gA%2F4yhEFeB0Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "370a2f6ab1ae0ea8dd5dba6a00cc56cd8af8ad9262ad477b6fe13d4da47d8d52",
+          "format": "text/plain",
+          "textUrl": "/files/370a2f6ab1ae0ea8dd5dba6a00cc56cd8af8ad9262ad477b6fe13d4da47d8d52.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109941_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sxh7KU9iXC1gA%2F4yhEFeB0Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109941_1",
+    "tender": {
+      "id": "2026_NTPC_109941_1",
+      "title": "Procurement of Delval Actuator",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-10T00:00:00Z"
+      },
+      "description": "Procurement of Delval Actuator"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109941_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109941_1",
+        "url": "/files/370a2f6ab1ae0ea8dd5dba6a00cc56cd8af8ad9262ad477b6fe13d4da47d8d52.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sxh7KU9iXC1gA%2F4yhEFeB0Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "370a2f6ab1ae0ea8dd5dba6a00cc56cd8af8ad9262ad477b6fe13d4da47d8d52",
+        "format": "text/plain",
+        "textUrl": "/files/370a2f6ab1ae0ea8dd5dba6a00cc56cd8af8ad9262ad477b6fe13d4da47d8d52.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109941_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sxh7KU9iXC1gA%2F4yhEFeB0Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109941_1",
+      "observedAt": "2026-07-10T02:44:45Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "d8457c9e592db345cf879bb56224a10893e07293e213851c202d40effdcaee27",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109941_1-0001-record",
+          "sha256": "370a2f6ab1ae0ea8dd5dba6a00cc56cd8af8ad9262ad477b6fe13d4da47d8d52"
+        }
+      ],
+      "snapshotUrl": "/files/75f981fbf34637711f2763e66d3638a5da2881ccfa314c1330b7521e12b06f68.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-10T02:44:45Z",
+    "lastObserved": "2026-07-10T02:44:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-jammukashmir-2026_PWDJK_314928_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_PWDJK_314928_1",
+      "id": "woodpecker-jammukashmir-2026_PWDJK_314928_1-0001",
+      "date": "2026-07-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_PWDJK_314928_1",
+        "title": "Construction of Assistant Executive Engineer Building 40X30 and all the associated equipment and allied items in the premises of Divisional Office at Khellani",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-24T00:00:00Z"
+        },
+        "description": "Construction of Assistant Executive Engineer Building 40X30 and all the associated equipment and allied items in the premises of Divisional Office at Khellani"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_PWDJK_314928_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWDJK_314928_1",
+          "url": "/files/a8af1ddbbbcb0bd499fdaf0e626a42e06d2df2c3425142cf3ef05479c693a6db.txt",
+          "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4hCs7Pav3OjzFL9gZ4dDmQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a8af1ddbbbcb0bd499fdaf0e626a42e06d2df2c3425142cf3ef05479c693a6db",
+          "format": "text/plain",
+          "textUrl": "/files/a8af1ddbbbcb0bd499fdaf0e626a42e06d2df2c3425142cf3ef05479c693a6db.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jammukashmir-2026_PWDJK_314928_1",
+    "tender": {
+      "id": "2026_PWDJK_314928_1",
+      "title": "Construction of Assistant Executive Engineer Building 40X30 and all the associated equipment and allied items in the premises of Divisional Office at Khellani",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-24T00:00:00Z"
+      },
+      "description": "Construction of Assistant Executive Engineer Building 40X30 and all the associated equipment and allied items in the premises of Divisional Office at Khellani"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-07-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jammukashmir-2026_PWDJK_314928_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWDJK_314928_1",
+        "url": "/files/a8af1ddbbbcb0bd499fdaf0e626a42e06d2df2c3425142cf3ef05479c693a6db.txt",
+        "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4hCs7Pav3OjzFL9gZ4dDmQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a8af1ddbbbcb0bd499fdaf0e626a42e06d2df2c3425142cf3ef05479c693a6db",
+        "format": "text/plain",
+        "textUrl": "/files/a8af1ddbbbcb0bd499fdaf0e626a42e06d2df2c3425142cf3ef05479c693a6db.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_PWDJK_314928_1",
+      "observedAt": "2026-07-24T02:23:45Z",
+      "witness": "woodpecker:jammukashmir",
+      "availability": "present",
+      "stateHash": "50cb4c880dc0b8527865ff07e587d16c69d3abec2cdf300e7dd3247f452192dc",
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_PWDJK_314928_1-0001-record",
+          "sha256": "a8af1ddbbbcb0bd499fdaf0e626a42e06d2df2c3425142cf3ef05479c693a6db"
+        }
+      ],
+      "snapshotUrl": "/files/63ffd0288660cfa63e0d71cec2f96c51d9514953a8a62d591d0a4ef00bf6d325.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-24T02:23:45Z",
+    "lastObserved": "2026-07-24T02:23:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

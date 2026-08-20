@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_DU_913417_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DU_913417_1",
+      "id": "woodpecker-cppp-2026_DU_913417_1-0001",
+      "date": "2026-06-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Delhi University||Vallabhbhai Patel Chest Institute - DU",
+        "id": "IN-ORG-delhi-university-vallabhbhai-patel-chest"
+      },
+      "tender": {
+        "id": "2026_DU_913417_1",
+        "title": "Procurement of Consumables Make Ms Promega Corporation USA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Delhi University||Vallabhbhai Patel Chest Institute - DU",
+          "id": "IN-ORG-delhi-university-vallabhbhai-patel-chest"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 473000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-07T00:00:00Z"
+        },
+        "description": "Procurement of Consumables Make Ms Promega Corporation USA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DU_913417_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DU_913417_1",
+          "url": "/files/a5d0c78cd68dafdfe81c3209b38f23428d44dc592e6f3695fef34e731ceff026.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZZAaGnvfxFRnWMfUXneHvQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a5d0c78cd68dafdfe81c3209b38f23428d44dc592e6f3695fef34e731ceff026",
+          "format": "text/plain",
+          "textUrl": "/files/a5d0c78cd68dafdfe81c3209b38f23428d44dc592e6f3695fef34e731ceff026.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DU_913417_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZZAaGnvfxFRnWMfUXneHvQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DU_913417_1",
+    "tender": {
+      "id": "2026_DU_913417_1",
+      "title": "Procurement of Consumables Make Ms Promega Corporation USA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Delhi University||Vallabhbhai Patel Chest Institute - DU",
+        "id": "IN-ORG-delhi-university-vallabhbhai-patel-chest"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 473000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-07T00:00:00Z"
+      },
+      "description": "Procurement of Consumables Make Ms Promega Corporation USA"
+    },
+    "buyer": {
+      "name": "Delhi University||Vallabhbhai Patel Chest Institute - DU",
+      "id": "IN-ORG-delhi-university-vallabhbhai-patel-chest"
+    },
+    "date": "2026-06-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DU_913417_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DU_913417_1",
+        "url": "/files/a5d0c78cd68dafdfe81c3209b38f23428d44dc592e6f3695fef34e731ceff026.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZZAaGnvfxFRnWMfUXneHvQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a5d0c78cd68dafdfe81c3209b38f23428d44dc592e6f3695fef34e731ceff026",
+        "format": "text/plain",
+        "textUrl": "/files/a5d0c78cd68dafdfe81c3209b38f23428d44dc592e6f3695fef34e731ceff026.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DU_913417_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZZAaGnvfxFRnWMfUXneHvQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DU_913417_1",
+      "observedAt": "2026-07-07T01:22:28Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "cbc605f7cb031971db927303a4e318244f567a638af0685dfb33a1e4b8145821",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DU_913417_1-0001-record",
+          "sha256": "a5d0c78cd68dafdfe81c3209b38f23428d44dc592e6f3695fef34e731ceff026"
+        }
+      ],
+      "snapshotUrl": "/files/a1e5ea628330df287e3a750ac852b4a7b2e458d63aaf89f7c2a94b71bacb788d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-07T01:22:28Z",
+    "lastObserved": "2026-07-07T01:22:28Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

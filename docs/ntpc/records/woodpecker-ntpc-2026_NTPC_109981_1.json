@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109981_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109981_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109981_1-0001",
+      "date": "2026-07-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109981_1",
+        "title": "QES Material spare procurement at NTPC Darlipali 2x800 MW",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-15T00:00:00Z"
+        },
+        "description": "QES Material spare procurement at NTPC Darlipali 2x800 MW"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109981_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109981_1",
+          "url": "/files/a669ad2d14b1733568b601b7c59749877412a294440b2d5d28826eab6ff1b8ab.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Si%2B782Bs4oOK%2B4XTQzpRPKQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a669ad2d14b1733568b601b7c59749877412a294440b2d5d28826eab6ff1b8ab",
+          "format": "text/plain",
+          "textUrl": "/files/a669ad2d14b1733568b601b7c59749877412a294440b2d5d28826eab6ff1b8ab.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109981_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Si%2B782Bs4oOK%2B4XTQzpRPKQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109981_1",
+    "tender": {
+      "id": "2026_NTPC_109981_1",
+      "title": "QES Material spare procurement at NTPC Darlipali 2x800 MW",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-15T00:00:00Z"
+      },
+      "description": "QES Material spare procurement at NTPC Darlipali 2x800 MW"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109981_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109981_1",
+        "url": "/files/a669ad2d14b1733568b601b7c59749877412a294440b2d5d28826eab6ff1b8ab.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Si%2B782Bs4oOK%2B4XTQzpRPKQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a669ad2d14b1733568b601b7c59749877412a294440b2d5d28826eab6ff1b8ab",
+        "format": "text/plain",
+        "textUrl": "/files/a669ad2d14b1733568b601b7c59749877412a294440b2d5d28826eab6ff1b8ab.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109981_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Si%2B782Bs4oOK%2B4XTQzpRPKQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109981_1",
+      "observedAt": "2026-07-15T02:32:14Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "c3c05644d36b51b53920ba57e5f6264cf8b466b4245faf387399b21476715a50",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109981_1-0001-record",
+          "sha256": "a669ad2d14b1733568b601b7c59749877412a294440b2d5d28826eab6ff1b8ab"
+        }
+      ],
+      "snapshotUrl": "/files/89088c8bc7980215b799281a4df4bc7847c7d7c90f69baf60822b6d46f716eb1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-15T02:32:14Z",
+    "lastObserved": "2026-07-15T02:32:14Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

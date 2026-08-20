@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-jammukashmir-2026_SPDC_314149_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_SPDC_314149_1",
+      "id": "woodpecker-jammukashmir-2026_SPDC_314149_1-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_SPDC_314149_1",
+        "title": "Annual Maintenance of Assets of JKSPDC Complex at Tipri Thathri",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-24T00:00:00Z"
+        },
+        "description": "Annual Maintenance of Assets of JKSPDC Complex at Tipri Thathri"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_SPDC_314149_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_SPDC_314149_1",
+          "url": "/files/123c9e85b272d9069b82e3dc9e7ad942232d42dfb67c483b22858e13d5bbf3cb.txt",
+          "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6s0v%2FTJKEIdDlCl%2BdP79NQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "123c9e85b272d9069b82e3dc9e7ad942232d42dfb67c483b22858e13d5bbf3cb",
+          "format": "text/plain",
+          "textUrl": "/files/123c9e85b272d9069b82e3dc9e7ad942232d42dfb67c483b22858e13d5bbf3cb.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jammukashmir-2026_SPDC_314149_1",
+    "tender": {
+      "id": "2026_SPDC_314149_1",
+      "title": "Annual Maintenance of Assets of JKSPDC Complex at Tipri Thathri",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-24T00:00:00Z"
+      },
+      "description": "Annual Maintenance of Assets of JKSPDC Complex at Tipri Thathri"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jammukashmir-2026_SPDC_314149_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_SPDC_314149_1",
+        "url": "/files/123c9e85b272d9069b82e3dc9e7ad942232d42dfb67c483b22858e13d5bbf3cb.txt",
+        "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6s0v%2FTJKEIdDlCl%2BdP79NQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "123c9e85b272d9069b82e3dc9e7ad942232d42dfb67c483b22858e13d5bbf3cb",
+        "format": "text/plain",
+        "textUrl": "/files/123c9e85b272d9069b82e3dc9e7ad942232d42dfb67c483b22858e13d5bbf3cb.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_SPDC_314149_1",
+      "observedAt": "2026-07-24T02:23:45Z",
+      "witness": "woodpecker:jammukashmir",
+      "availability": "present",
+      "stateHash": "29ab2046c8b5f2f1663ff5c4b21032fe9805b130c86f1ed35e5db2ef50b102db",
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_SPDC_314149_1-0001-record",
+          "sha256": "123c9e85b272d9069b82e3dc9e7ad942232d42dfb67c483b22858e13d5bbf3cb"
+        }
+      ],
+      "snapshotUrl": "/files/9f1d6049af509e31daf0774fd93ad6e0b3134dff4b5cd4c351879b07d6514236.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-24T02:23:45Z",
+    "lastObserved": "2026-07-24T02:23:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

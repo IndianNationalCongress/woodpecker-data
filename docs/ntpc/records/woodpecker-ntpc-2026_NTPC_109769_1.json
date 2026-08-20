@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109769_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109769_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109769_1-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109769_1",
+        "title": "AMC of TGA including essential spares and consumables for NTPC Darlipali",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-09T00:00:00Z"
+        },
+        "description": "AMC of TGA including essential spares and consumables for NTPC Darlipali"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109769_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109769_1",
+          "url": "/files/5168481904e02986d3d84e8f5ccfa9a55a2a149a9f4700e8a34285cfe2908cf6.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyfZlK1T1IO8M1bIbCuGxog%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5168481904e02986d3d84e8f5ccfa9a55a2a149a9f4700e8a34285cfe2908cf6",
+          "format": "text/plain",
+          "textUrl": "/files/5168481904e02986d3d84e8f5ccfa9a55a2a149a9f4700e8a34285cfe2908cf6.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109769_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyfZlK1T1IO8M1bIbCuGxog%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109769_1",
+    "tender": {
+      "id": "2026_NTPC_109769_1",
+      "title": "AMC of TGA including essential spares and consumables for NTPC Darlipali",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-09T00:00:00Z"
+      },
+      "description": "AMC of TGA including essential spares and consumables for NTPC Darlipali"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109769_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109769_1",
+        "url": "/files/5168481904e02986d3d84e8f5ccfa9a55a2a149a9f4700e8a34285cfe2908cf6.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyfZlK1T1IO8M1bIbCuGxog%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5168481904e02986d3d84e8f5ccfa9a55a2a149a9f4700e8a34285cfe2908cf6",
+        "format": "text/plain",
+        "textUrl": "/files/5168481904e02986d3d84e8f5ccfa9a55a2a149a9f4700e8a34285cfe2908cf6.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109769_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyfZlK1T1IO8M1bIbCuGxog%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109769_1",
+      "observedAt": "2026-07-09T02:42:42Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "6f5748d506eac2b8866f497886b9b0cc7c1eaa343729edf2d86a66022a75cba8",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109769_1-0001-record",
+          "sha256": "5168481904e02986d3d84e8f5ccfa9a55a2a149a9f4700e8a34285cfe2908cf6"
+        }
+      ],
+      "snapshotUrl": "/files/a1206372757b9c32e1d64a009d0f1b015e60826bba38722e88c493371b89393b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-09T02:42:42Z",
+    "lastObserved": "2026-07-09T02:42:42Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-bhel-2026_BHEL_62990_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62990_1",
+      "id": "woodpecker-bhel-2026_BHEL_62990_1-0001",
+      "date": "2026-07-14T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "tender": {
+        "id": "2026_BHEL_62990_1",
+        "title": "IC FPGA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+          "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-17T00:00:00Z"
+        },
+        "description": "IC FPGA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62990_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BHEL_62990_1",
+          "url": "/files/d82326b9a608744f5b95c6d8febcaa05fdc2acfb7a6249895544b871b45d3dee.txt",
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sna9e8flfgy6vi26gU0AdAw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d82326b9a608744f5b95c6d8febcaa05fdc2acfb7a6249895544b871b45d3dee",
+          "format": "text/plain",
+          "textUrl": "/files/d82326b9a608744f5b95c6d8febcaa05fdc2acfb7a6249895544b871b45d3dee.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62990_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sna9e8flfgy6vi26gU0AdAw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bhel-2026_BHEL_62990_1",
+    "tender": {
+      "id": "2026_BHEL_62990_1",
+      "title": "IC FPGA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-17T00:00:00Z"
+      },
+      "description": "IC FPGA"
+    },
+    "buyer": {
+      "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+      "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+    },
+    "date": "2026-07-14T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62990_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BHEL_62990_1",
+        "url": "/files/d82326b9a608744f5b95c6d8febcaa05fdc2acfb7a6249895544b871b45d3dee.txt",
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sna9e8flfgy6vi26gU0AdAw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d82326b9a608744f5b95c6d8febcaa05fdc2acfb7a6249895544b871b45d3dee",
+        "format": "text/plain",
+        "textUrl": "/files/d82326b9a608744f5b95c6d8febcaa05fdc2acfb7a6249895544b871b45d3dee.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62990_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sna9e8flfgy6vi26gU0AdAw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62990_1",
+      "observedAt": "2026-07-17T02:44:50Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "12779f59fbe7cffd711768c2328bcde9ac59bdf889cbdf96365a11ed92d414ef",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62990_1-0001-record",
+          "sha256": "d82326b9a608744f5b95c6d8febcaa05fdc2acfb7a6249895544b871b45d3dee"
+        }
+      ],
+      "snapshotUrl": "/files/b54b58e2bfd5b40761125c3873d0bc5f90c7dc91f360aa0a5875b92a2fc7aa71.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-17T02:44:50Z",
+    "lastObserved": "2026-07-17T02:44:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

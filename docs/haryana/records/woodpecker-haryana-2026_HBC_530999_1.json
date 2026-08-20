@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-haryana-2026_HBC_530999_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_530999_1",
+      "id": "woodpecker-haryana-2026_HBC_530999_1-0001",
+      "date": "2026-06-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Board Corporation||Haryana SugarFed||Karnal Coop. Sugar Mill",
+        "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+      },
+      "tender": {
+        "id": "2026_HBC_530999_1",
+        "title": "pumpspares",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Board Corporation||Haryana SugarFed||Karnal Coop. Sugar Mill",
+          "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "description": "pumpspares"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_530999_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HBC_530999_1",
+          "url": "/files/ae6bec73f62481b21dc9d2b1dc613e2eaea1e2073c8e58f5a6a7c3d396b3f54f.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIvBVfaMOfvwHY3yyOH2aVA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ae6bec73f62481b21dc9d2b1dc613e2eaea1e2073c8e58f5a6a7c3d396b3f54f",
+          "format": "text/plain",
+          "textUrl": "/files/ae6bec73f62481b21dc9d2b1dc613e2eaea1e2073c8e58f5a6a7c3d396b3f54f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HBC_530999_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIvBVfaMOfvwHY3yyOH2aVA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HBC_530999_1",
+    "tender": {
+      "id": "2026_HBC_530999_1",
+      "title": "pumpspares",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Board Corporation||Haryana SugarFed||Karnal Coop. Sugar Mill",
+        "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "description": "pumpspares"
+    },
+    "buyer": {
+      "name": "Haryana Board Corporation||Haryana SugarFed||Karnal Coop. Sugar Mill",
+      "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+    },
+    "date": "2026-06-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HBC_530999_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HBC_530999_1",
+        "url": "/files/ae6bec73f62481b21dc9d2b1dc613e2eaea1e2073c8e58f5a6a7c3d396b3f54f.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIvBVfaMOfvwHY3yyOH2aVA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ae6bec73f62481b21dc9d2b1dc613e2eaea1e2073c8e58f5a6a7c3d396b3f54f",
+        "format": "text/plain",
+        "textUrl": "/files/ae6bec73f62481b21dc9d2b1dc613e2eaea1e2073c8e58f5a6a7c3d396b3f54f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HBC_530999_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIvBVfaMOfvwHY3yyOH2aVA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_530999_1",
+      "observedAt": "2026-07-06T02:28:27Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "a7b48f7d97dbd9dbba7e766e4186dadbf6d98be83631f5631a1b0d51bff2166e",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_530999_1-0001-record",
+          "sha256": "ae6bec73f62481b21dc9d2b1dc613e2eaea1e2073c8e58f5a6a7c3d396b3f54f"
+        }
+      ],
+      "snapshotUrl": "/files/8dfbbfd7684c3dbd5f94356acf91fad95a4d5d063a5cfa1bb1dd18b159919426.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-06T02:28:27Z",
+    "lastObserved": "2026-07-06T02:28:27Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

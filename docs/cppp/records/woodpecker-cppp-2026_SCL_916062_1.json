@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_SCL_916062_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_SCL_916062_1",
+      "id": "woodpecker-cppp-2026_SCL_916062_1-0001",
+      "date": "2026-07-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Semi-Conductor Laboratory (SCL)",
+        "id": "IN-ORG-semi-conductor-laboratory-scl"
+      },
+      "tender": {
+        "id": "2026_SCL_916062_1",
+        "title": "ELM C30 or ELM C30T02",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Semi-Conductor Laboratory (SCL)",
+          "id": "IN-ORG-semi-conductor-laboratory-scl"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-03T00:00:00Z"
+        },
+        "description": "ELM C30 or ELM C30T02"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_SCL_916062_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_SCL_916062_1",
+          "url": "/files/8b48f91d6ab7b497dccccb5124dc6fdf1f1284c34bcbc276743eb0de28cc1c29.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFmCFcsMDeBpL%2BG%2BcsFnb4w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "8b48f91d6ab7b497dccccb5124dc6fdf1f1284c34bcbc276743eb0de28cc1c29",
+          "format": "text/plain",
+          "textUrl": "/files/8b48f91d6ab7b497dccccb5124dc6fdf1f1284c34bcbc276743eb0de28cc1c29.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_SCL_916062_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFmCFcsMDeBpL%2BG%2BcsFnb4w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_SCL_916062_1",
+    "tender": {
+      "id": "2026_SCL_916062_1",
+      "title": "ELM C30 or ELM C30T02",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Semi-Conductor Laboratory (SCL)",
+        "id": "IN-ORG-semi-conductor-laboratory-scl"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-03T00:00:00Z"
+      },
+      "description": "ELM C30 or ELM C30T02"
+    },
+    "buyer": {
+      "name": "Semi-Conductor Laboratory (SCL)",
+      "id": "IN-ORG-semi-conductor-laboratory-scl"
+    },
+    "date": "2026-07-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_SCL_916062_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_SCL_916062_1",
+        "url": "/files/8b48f91d6ab7b497dccccb5124dc6fdf1f1284c34bcbc276743eb0de28cc1c29.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFmCFcsMDeBpL%2BG%2BcsFnb4w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "8b48f91d6ab7b497dccccb5124dc6fdf1f1284c34bcbc276743eb0de28cc1c29",
+        "format": "text/plain",
+        "textUrl": "/files/8b48f91d6ab7b497dccccb5124dc6fdf1f1284c34bcbc276743eb0de28cc1c29.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_SCL_916062_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFmCFcsMDeBpL%2BG%2BcsFnb4w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_SCL_916062_1",
+      "observedAt": "2026-08-03T01:11:59Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "e5b6f7034b2ef3633d9ecf31d39986ca92b5a469ce6b9c46526b434ac57bbfa5",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_SCL_916062_1-0001-record",
+          "sha256": "8b48f91d6ab7b497dccccb5124dc6fdf1f1284c34bcbc276743eb0de28cc1c29"
+        }
+      ],
+      "snapshotUrl": "/files/d8e33395fa77db6e2cddeaf6baca186fed57fb9ba2712d19c486695d30db85f4.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-03T01:11:59Z",
+    "lastObserved": "2026-08-03T01:11:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

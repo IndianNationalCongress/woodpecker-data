@@ -1,0 +1,69 @@
+{
+  "ocid": "woodpecker-uttarpradesh-2026_CLDF_1160236_5",
+  "id": "woodpecker-uttarpradesh-2026_CLDF_1160236_5-0001",
+  "date": "2026-06-23T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "UP Rajya Nirman Evam Sharam Vikash Sahkari Sangh Ltd Lucknow",
+    "id": "IN-ORG-up-rajya-nirman-evam-sharam-vikash-sahka"
+  },
+  "tender": {
+    "id": "2026_CLDF_1160236_5",
+    "title": "Please Refer to tender document",
+    "status": "active",
+    "procuringEntity": {
+      "name": "UP Rajya Nirman Evam Sharam Vikash Sahkari Sangh Ltd Lucknow",
+      "id": "IN-ORG-up-rajya-nirman-evam-sharam-vikash-sahka"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 12252000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-06-29T00:00:00Z"
+    },
+    "description": "Please Refer to tender document"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-uttarpradesh-2026_CLDF_1160236_5-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_CLDF_1160236_5",
+      "url": "/files/f30a2226f1452fbe1ebc100244cf105d02f8a79c335fe8f375ac245191351cc6.txt",
+      "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaxSvpD2mMymMoJ6hdl5wQg%3D%3D",
+      "sourceAlive": true,
+      "sha256": "f30a2226f1452fbe1ebc100244cf105d02f8a79c335fe8f375ac245191351cc6",
+      "format": "text/plain",
+      "textUrl": "/files/f30a2226f1452fbe1ebc100244cf105d02f8a79c335fe8f375ac245191351cc6.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-uttarpradesh-2026_CLDF_1160236_5-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "pledge.pdf",
+      "url": null,
+      "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaxSvpD2mMymMoJ6hdl5wQg%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    },
+    {
+      "id": "woodpecker-uttarpradesh-2026_CLDF_1160236_5-0001-doc-2",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaxSvpD2mMymMoJ6hdl5wQg%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

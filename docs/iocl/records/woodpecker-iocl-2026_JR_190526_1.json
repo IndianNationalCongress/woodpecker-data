@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_JR_190526_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_JR_190526_1",
+      "id": "woodpecker-iocl-2026_JR_190526_1-0001",
+      "date": "2026-07-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_JR_190526_1",
+        "title": "Procurement of heavy duty high pressure high temp gland packings for DCU, VGO-HDT unit at IOCL, Gujarat Refinery.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-24T00:00:00Z"
+        },
+        "description": "Procurement of heavy duty high pressure high temp gland packings for DCU, VGO-HDT unit at IOCL, Gujarat Refinery."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_JR_190526_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_JR_190526_1",
+          "url": "/files/36b2edab22dd5668b08280f7c473819824a7efe1191ebef35d99a33340e2f042.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBtmqjNDf5ZrTGnctjvilZw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "36b2edab22dd5668b08280f7c473819824a7efe1191ebef35d99a33340e2f042",
+          "format": "text/plain",
+          "textUrl": "/files/36b2edab22dd5668b08280f7c473819824a7efe1191ebef35d99a33340e2f042.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_JR_190526_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBtmqjNDf5ZrTGnctjvilZw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_JR_190526_1",
+    "tender": {
+      "id": "2026_JR_190526_1",
+      "title": "Procurement of heavy duty high pressure high temp gland packings for DCU, VGO-HDT unit at IOCL, Gujarat Refinery.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-24T00:00:00Z"
+      },
+      "description": "Procurement of heavy duty high pressure high temp gland packings for DCU, VGO-HDT unit at IOCL, Gujarat Refinery."
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+    },
+    "date": "2026-07-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_JR_190526_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_JR_190526_1",
+        "url": "/files/36b2edab22dd5668b08280f7c473819824a7efe1191ebef35d99a33340e2f042.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBtmqjNDf5ZrTGnctjvilZw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "36b2edab22dd5668b08280f7c473819824a7efe1191ebef35d99a33340e2f042",
+        "format": "text/plain",
+        "textUrl": "/files/36b2edab22dd5668b08280f7c473819824a7efe1191ebef35d99a33340e2f042.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_JR_190526_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBtmqjNDf5ZrTGnctjvilZw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_JR_190526_1",
+      "observedAt": "2026-07-24T02:43:40Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "2228e1ef1baab0de61d6e859c2f69e0c3d064337a3582786c93548c759a42ad1",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_JR_190526_1-0001-record",
+          "sha256": "36b2edab22dd5668b08280f7c473819824a7efe1191ebef35d99a33340e2f042"
+        }
+      ],
+      "snapshotUrl": "/files/00e84cf824319c24254c4bea4adab93c0f0375d558cece8d3f3a29bcab4d0f2e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-24T02:43:40Z",
+    "lastObserved": "2026-07-24T02:43:40Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

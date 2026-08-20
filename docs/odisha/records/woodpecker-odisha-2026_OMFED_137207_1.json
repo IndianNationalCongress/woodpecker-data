@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-odisha-2026_OMFED_137207_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-odisha-2026_OMFED_137207_1",
+      "id": "woodpecker-odisha-2026_OMFED_137207_1-0001",
+      "date": "2026-07-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Odisha State Co. Milk Producers Federation Ltd.",
+        "id": "IN-ORG-odisha-state-co-milk-producers-federatio"
+      },
+      "tender": {
+        "id": "2026_OMFED_137207_1",
+        "title": "supply of Caustic Soda Lye and Nitric Acid",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Odisha State Co. Milk Producers Federation Ltd.",
+          "id": "IN-ORG-odisha-state-co-milk-producers-federatio"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 2500000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-17T00:00:00Z"
+        },
+        "description": "supply of Caustic Soda Lye and Nitric Acid"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_OMFED_137207_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_OMFED_137207_1",
+          "url": "/files/de15440cb466b65289275090aba97bc5a5c63abe30a858f4983ffc380e1ba786.txt",
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sed1WNDEL2yoFV7jWhTpRbw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "de15440cb466b65289275090aba97bc5a5c63abe30a858f4983ffc380e1ba786",
+          "format": "text/plain",
+          "textUrl": "/files/de15440cb466b65289275090aba97bc5a5c63abe30a858f4983ffc380e1ba786.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-odisha-2026_OMFED_137207_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sed1WNDEL2yoFV7jWhTpRbw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-odisha-2026_OMFED_137207_1",
+    "tender": {
+      "id": "2026_OMFED_137207_1",
+      "title": "supply of Caustic Soda Lye and Nitric Acid",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Odisha State Co. Milk Producers Federation Ltd.",
+        "id": "IN-ORG-odisha-state-co-milk-producers-federatio"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 2500000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-17T00:00:00Z"
+      },
+      "description": "supply of Caustic Soda Lye and Nitric Acid"
+    },
+    "buyer": {
+      "name": "Odisha State Co. Milk Producers Federation Ltd.",
+      "id": "IN-ORG-odisha-state-co-milk-producers-federatio"
+    },
+    "date": "2026-07-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-odisha-2026_OMFED_137207_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_OMFED_137207_1",
+        "url": "/files/de15440cb466b65289275090aba97bc5a5c63abe30a858f4983ffc380e1ba786.txt",
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sed1WNDEL2yoFV7jWhTpRbw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "de15440cb466b65289275090aba97bc5a5c63abe30a858f4983ffc380e1ba786",
+        "format": "text/plain",
+        "textUrl": "/files/de15440cb466b65289275090aba97bc5a5c63abe30a858f4983ffc380e1ba786.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-odisha-2026_OMFED_137207_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sed1WNDEL2yoFV7jWhTpRbw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-odisha-2026_OMFED_137207_1",
+      "observedAt": "2026-08-17T00:05:54Z",
+      "witness": "woodpecker:odisha",
+      "availability": "present",
+      "stateHash": "d10aaa639331e43931d4528822fcb8e3fce02eb036570dcf7996b2a8cb89532b",
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_OMFED_137207_1-0001-record",
+          "sha256": "de15440cb466b65289275090aba97bc5a5c63abe30a858f4983ffc380e1ba786"
+        }
+      ],
+      "snapshotUrl": "/files/87fcfda98cdf882829d0d18ebb5ad638138e4ac375c376e65e230de2056affc8.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-17T00:05:54Z",
+    "lastObserved": "2026-08-17T00:05:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

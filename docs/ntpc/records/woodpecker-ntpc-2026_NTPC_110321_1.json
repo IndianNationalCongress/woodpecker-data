@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110321_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110321_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110321_1-0001",
+      "date": "2026-07-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110321_1",
+        "title": "PA System servicing at Barauni Thermal Power Plant Project",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-24T00:00:00Z"
+        },
+        "description": "PA System servicing at Barauni Thermal Power Plant Project"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110321_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110321_1",
+          "url": "/files/d6347a7f5121e651b972208c15db16f718dda2caa302dd961c0454d66e3fa401.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdHT%2Fb1Yd9%2Fd77XtjnpDYtQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d6347a7f5121e651b972208c15db16f718dda2caa302dd961c0454d66e3fa401",
+          "format": "text/plain",
+          "textUrl": "/files/d6347a7f5121e651b972208c15db16f718dda2caa302dd961c0454d66e3fa401.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110321_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdHT%2Fb1Yd9%2Fd77XtjnpDYtQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110321_1",
+    "tender": {
+      "id": "2026_NTPC_110321_1",
+      "title": "PA System servicing at Barauni Thermal Power Plant Project",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-24T00:00:00Z"
+      },
+      "description": "PA System servicing at Barauni Thermal Power Plant Project"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110321_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110321_1",
+        "url": "/files/d6347a7f5121e651b972208c15db16f718dda2caa302dd961c0454d66e3fa401.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdHT%2Fb1Yd9%2Fd77XtjnpDYtQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d6347a7f5121e651b972208c15db16f718dda2caa302dd961c0454d66e3fa401",
+        "format": "text/plain",
+        "textUrl": "/files/d6347a7f5121e651b972208c15db16f718dda2caa302dd961c0454d66e3fa401.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110321_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdHT%2Fb1Yd9%2Fd77XtjnpDYtQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110321_1",
+      "observedAt": "2026-07-24T02:36:05Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "8bfa31d376b532fe93f7cae841c01f33adcbdd39d327e38340fd5c0b2293b18d",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110321_1-0001-record",
+          "sha256": "d6347a7f5121e651b972208c15db16f718dda2caa302dd961c0454d66e3fa401"
+        }
+      ],
+      "snapshotUrl": "/files/dd141188e4ad4959d8249a6672f429e4963286d57f3f9bbabaf8c4d12f388750.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-24T02:36:05Z",
+    "lastObserved": "2026-07-24T02:36:05Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

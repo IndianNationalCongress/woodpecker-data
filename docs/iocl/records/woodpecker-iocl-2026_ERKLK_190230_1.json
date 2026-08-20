@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-iocl-2026_ERKLK_190230_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERKLK_190230_1",
+      "id": "woodpecker-iocl-2026_ERKLK_190230_1-0001",
+      "date": "2026-06-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Pipelines||ERPL Kolkata||Materials",
+        "id": "IN-ORG-indianoil-pipelines-erpl-kolkata-materia"
+      },
+      "tender": {
+        "id": "2026_ERKLK_190230_1",
+        "title": "CSW Works Related to Replacement of Existing BP-05 of HMR at Haldia Pump Station",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Pipelines||ERPL Kolkata||Materials",
+          "id": "IN-ORG-indianoil-pipelines-erpl-kolkata-materia"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 8320558,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-08T00:00:00Z"
+        },
+        "description": "CSW Works Related to Replacement of Existing BP-05 of HMR at Haldia Pump Station"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERKLK_190230_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ERKLK_190230_1",
+          "url": "/files/f39b28801e81f2f12607b89834f9982bddec8074a1d0fa6af96d24e69137f089.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPDQ4Y2BafdH%2BctBe4o4Nag%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f39b28801e81f2f12607b89834f9982bddec8074a1d0fa6af96d24e69137f089",
+          "format": "text/plain",
+          "textUrl": "/files/f39b28801e81f2f12607b89834f9982bddec8074a1d0fa6af96d24e69137f089.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_ERKLK_190230_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPDQ4Y2BafdH%2BctBe4o4Nag%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_ERKLK_190230_1",
+    "tender": {
+      "id": "2026_ERKLK_190230_1",
+      "title": "CSW Works Related to Replacement of Existing BP-05 of HMR at Haldia Pump Station",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Pipelines||ERPL Kolkata||Materials",
+        "id": "IN-ORG-indianoil-pipelines-erpl-kolkata-materia"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 8320558,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-08T00:00:00Z"
+      },
+      "description": "CSW Works Related to Replacement of Existing BP-05 of HMR at Haldia Pump Station"
+    },
+    "buyer": {
+      "name": "IndianOil||Pipelines||ERPL Kolkata||Materials",
+      "id": "IN-ORG-indianoil-pipelines-erpl-kolkata-materia"
+    },
+    "date": "2026-06-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_ERKLK_190230_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ERKLK_190230_1",
+        "url": "/files/f39b28801e81f2f12607b89834f9982bddec8074a1d0fa6af96d24e69137f089.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPDQ4Y2BafdH%2BctBe4o4Nag%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f39b28801e81f2f12607b89834f9982bddec8074a1d0fa6af96d24e69137f089",
+        "format": "text/plain",
+        "textUrl": "/files/f39b28801e81f2f12607b89834f9982bddec8074a1d0fa6af96d24e69137f089.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_ERKLK_190230_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SPDQ4Y2BafdH%2BctBe4o4Nag%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERKLK_190230_1",
+      "observedAt": "2026-07-08T02:46:39Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "e2fff734a0e841176f47a55523d387608ebdc7aacd79b26bd54d2def7a5a971a",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERKLK_190230_1-0001-record",
+          "sha256": "f39b28801e81f2f12607b89834f9982bddec8074a1d0fa6af96d24e69137f089"
+        }
+      ],
+      "snapshotUrl": "/files/f4a9ce00949b2171f6c19d52d9c09601a5296573d5ecff04ffe548bd1c7bff35.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-08T02:46:39Z",
+    "lastObserved": "2026-07-08T02:46:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

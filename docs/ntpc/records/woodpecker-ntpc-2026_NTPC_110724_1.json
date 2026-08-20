@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110724_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110724_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110724_1-0001",
+      "date": "2026-08-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110724_1",
+        "title": "PURCHASE REQUISITION FOR SPARES OF INSTRUMENTATION LTD MAKE ACTUATORS.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-07T00:00:00Z"
+        },
+        "description": "PURCHASE REQUISITION FOR SPARES OF INSTRUMENTATION LTD MAKE ACTUATORS."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110724_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110724_1",
+          "url": "/files/45c131fa4dbc204b47984df1f548a2b49349c05657431f0b45cf6845f52b952d.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEVOFG5abWK3XqDfDnNxuVQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "45c131fa4dbc204b47984df1f548a2b49349c05657431f0b45cf6845f52b952d",
+          "format": "text/plain",
+          "textUrl": "/files/45c131fa4dbc204b47984df1f548a2b49349c05657431f0b45cf6845f52b952d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110724_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEVOFG5abWK3XqDfDnNxuVQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110724_1",
+    "tender": {
+      "id": "2026_NTPC_110724_1",
+      "title": "PURCHASE REQUISITION FOR SPARES OF INSTRUMENTATION LTD MAKE ACTUATORS.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-07T00:00:00Z"
+      },
+      "description": "PURCHASE REQUISITION FOR SPARES OF INSTRUMENTATION LTD MAKE ACTUATORS."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110724_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110724_1",
+        "url": "/files/45c131fa4dbc204b47984df1f548a2b49349c05657431f0b45cf6845f52b952d.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEVOFG5abWK3XqDfDnNxuVQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "45c131fa4dbc204b47984df1f548a2b49349c05657431f0b45cf6845f52b952d",
+        "format": "text/plain",
+        "textUrl": "/files/45c131fa4dbc204b47984df1f548a2b49349c05657431f0b45cf6845f52b952d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110724_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEVOFG5abWK3XqDfDnNxuVQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110724_1",
+      "observedAt": "2026-08-07T03:31:48Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "bf5e3bdbcab52e7f2235c8ee89a53c06934a5f9b9bf045257945d7a60fda5d39",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110724_1-0001-record",
+          "sha256": "45c131fa4dbc204b47984df1f548a2b49349c05657431f0b45cf6845f52b952d"
+        }
+      ],
+      "snapshotUrl": "/files/ede91a5af4a9b6dde761f45d44bf5e15a62d26835e889ba3daeb54d7b0aab2f1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-07T03:31:48Z",
+    "lastObserved": "2026-08-07T03:31:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

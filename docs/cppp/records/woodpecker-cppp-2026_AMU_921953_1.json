@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_AMU_921953_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_AMU_921953_1",
+      "id": "woodpecker-cppp-2026_AMU_921953_1-0001",
+      "date": "2026-08-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Aligarh Muslim University||Building Department||University Engineer",
+        "id": "IN-ORG-aligarh-muslim-university-building-depar"
+      },
+      "tender": {
+        "id": "2026_AMU_921953_1",
+        "title": "Renovation work in Institute of Persian",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Aligarh Muslim University||Building Department||University Engineer",
+          "id": "IN-ORG-aligarh-muslim-university-building-depar"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 73835,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-19T00:00:00Z"
+        },
+        "description": "Renovation work in Institute of Persian"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_AMU_921953_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_AMU_921953_1",
+          "url": "/files/c6f0c591313df318757fa654862ab405cfea83143c9484cc01becb31e4b1c989.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sei%2BV8opb8ypdIWt6USneWg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c6f0c591313df318757fa654862ab405cfea83143c9484cc01becb31e4b1c989",
+          "format": "text/plain",
+          "textUrl": "/files/c6f0c591313df318757fa654862ab405cfea83143c9484cc01becb31e4b1c989.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_AMU_921953_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sei%2BV8opb8ypdIWt6USneWg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_AMU_921953_1",
+    "tender": {
+      "id": "2026_AMU_921953_1",
+      "title": "Renovation work in Institute of Persian",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Aligarh Muslim University||Building Department||University Engineer",
+        "id": "IN-ORG-aligarh-muslim-university-building-depar"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 73835,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-19T00:00:00Z"
+      },
+      "description": "Renovation work in Institute of Persian"
+    },
+    "buyer": {
+      "name": "Aligarh Muslim University||Building Department||University Engineer",
+      "id": "IN-ORG-aligarh-muslim-university-building-depar"
+    },
+    "date": "2026-08-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_AMU_921953_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_AMU_921953_1",
+        "url": "/files/c6f0c591313df318757fa654862ab405cfea83143c9484cc01becb31e4b1c989.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sei%2BV8opb8ypdIWt6USneWg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c6f0c591313df318757fa654862ab405cfea83143c9484cc01becb31e4b1c989",
+        "format": "text/plain",
+        "textUrl": "/files/c6f0c591313df318757fa654862ab405cfea83143c9484cc01becb31e4b1c989.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_AMU_921953_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sei%2BV8opb8ypdIWt6USneWg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_AMU_921953_1",
+      "observedAt": "2026-08-18T23:53:39Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "ab27279d734bd4f2ec54d159f444703abcb884854acf25a10f6ddf98ecadf9e9",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_AMU_921953_1-0001-record",
+          "sha256": "c6f0c591313df318757fa654862ab405cfea83143c9484cc01becb31e4b1c989"
+        }
+      ],
+      "snapshotUrl": "/files/c8fecd223a839cc4bfae4f178b026c1fc82f5d2781f1dae1ab7941e9259e71d5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-18T23:53:39Z",
+    "lastObserved": "2026-08-18T23:53:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

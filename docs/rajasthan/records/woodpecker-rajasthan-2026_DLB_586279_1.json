@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DLB_586279_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_586279_1",
+      "id": "woodpecker-rajasthan-2026_DLB_586279_1-0001",
+      "date": "2026-08-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DLB||Dy.DR-Jodhpur||EO-Sadri",
+        "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-sadri"
+      },
+      "tender": {
+        "id": "2026_DLB_586279_1",
+        "title": "CIVIL WORK",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DLB||Dy.DR-Jodhpur||EO-Sadri",
+          "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-sadri"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 627000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-18T00:00:00Z"
+        },
+        "description": "CIVIL WORK"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_586279_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DLB_586279_1",
+          "url": "/files/9e804a6191295812ac88653a7e75654c0b1a83f4dd773250733735fd602c478f.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiaXxPc9%2BuFXuS2XkNDiLyg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9e804a6191295812ac88653a7e75654c0b1a83f4dd773250733735fd602c478f",
+          "format": "text/plain",
+          "textUrl": "/files/9e804a6191295812ac88653a7e75654c0b1a83f4dd773250733735fd602c478f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_586279_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiaXxPc9%2BuFXuS2XkNDiLyg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DLB_586279_1",
+    "tender": {
+      "id": "2026_DLB_586279_1",
+      "title": "CIVIL WORK",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DLB||Dy.DR-Jodhpur||EO-Sadri",
+        "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-sadri"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 627000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-18T00:00:00Z"
+      },
+      "description": "CIVIL WORK"
+    },
+    "buyer": {
+      "name": "DLB||Dy.DR-Jodhpur||EO-Sadri",
+      "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-sadri"
+    },
+    "date": "2026-08-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_586279_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DLB_586279_1",
+        "url": "/files/9e804a6191295812ac88653a7e75654c0b1a83f4dd773250733735fd602c478f.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiaXxPc9%2BuFXuS2XkNDiLyg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9e804a6191295812ac88653a7e75654c0b1a83f4dd773250733735fd602c478f",
+        "format": "text/plain",
+        "textUrl": "/files/9e804a6191295812ac88653a7e75654c0b1a83f4dd773250733735fd602c478f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_586279_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiaXxPc9%2BuFXuS2XkNDiLyg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_586279_1",
+      "observedAt": "2026-08-18T01:22:28Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "9e811de26babbb461d8c4c6980184ae1ec7c93babc79edce22df3f43158f0a10",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_586279_1-0001-record",
+          "sha256": "9e804a6191295812ac88653a7e75654c0b1a83f4dd773250733735fd602c478f"
+        }
+      ],
+      "snapshotUrl": "/files/bf316cffa9e82d157c7348cdc889629907e3dba92877c053e4bcd378066bafaf.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-18T01:22:28Z",
+    "lastObserved": "2026-08-18T01:22:28Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

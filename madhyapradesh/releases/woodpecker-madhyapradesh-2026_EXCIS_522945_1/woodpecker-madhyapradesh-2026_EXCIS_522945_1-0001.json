@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-madhyapradesh-2026_EXCIS_522945_1",
+  "id": "woodpecker-madhyapradesh-2026_EXCIS_522945_1-0001",
+  "date": "2026-07-21T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "Excise Department||District Excise Office Sidhi",
+    "id": "IN-ORG-excise-department-district-excise-office"
+  },
+  "tender": {
+    "id": "2026_EXCIS_522945_1",
+    "title": "Vehicle Contract 1",
+    "status": "active",
+    "procuringEntity": {
+      "name": "Excise Department||District Excise Office Sidhi",
+      "id": "IN-ORG-excise-department-district-excise-office"
+    },
+    "mainProcurementCategory": "services",
+    "value": {
+      "amount": 42000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-07-28T00:00:00Z"
+    },
+    "description": "Vehicle Contract 1"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-madhyapradesh-2026_EXCIS_522945_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_EXCIS_522945_1",
+      "url": "/files/4a6590f3624b070c1bc802ca80c5d3733d1b617edd79e347338f7edb7cf6e3c5.txt",
+      "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjZ5LFEyjL0Cfd2r9zhz8PQ%3D%3D",
+      "sourceAlive": true,
+      "sha256": "4a6590f3624b070c1bc802ca80c5d3733d1b617edd79e347338f7edb7cf6e3c5",
+      "format": "text/plain",
+      "textUrl": "/files/4a6590f3624b070c1bc802ca80c5d3733d1b617edd79e347338f7edb7cf6e3c5.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-madhyapradesh-2026_EXCIS_522945_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjZ5LFEyjL0Cfd2r9zhz8PQ%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

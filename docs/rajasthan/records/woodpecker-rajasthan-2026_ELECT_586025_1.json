@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_ELECT_586025_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_ELECT_586025_1",
+      "id": "woodpecker-rajasthan-2026_ELECT_586025_1-0001",
+      "date": "2026-08-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Election Department||CEO||DEO-DIDWANA-KUCHAMAN",
+        "id": "IN-ORG-election-department-ceo-deo-didwana-kuch"
+      },
+      "tender": {
+        "id": "2026_ELECT_586025_1",
+        "title": "computer,printer and ups",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Election Department||CEO||DEO-DIDWANA-KUCHAMAN",
+          "id": "IN-ORG-election-department-ceo-deo-didwana-kuch"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 5000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-18T00:00:00Z"
+        },
+        "description": "computer,printer and ups"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_ELECT_586025_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ELECT_586025_1",
+          "url": "/files/32944255e34c92bb6f348d736130bbbbdeacdf956d0656209dfbd2f13ecedbdc.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbELwipVbYTCaUHfdGIR15A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "32944255e34c92bb6f348d736130bbbbdeacdf956d0656209dfbd2f13ecedbdc",
+          "format": "text/plain",
+          "textUrl": "/files/32944255e34c92bb6f348d736130bbbbdeacdf956d0656209dfbd2f13ecedbdc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_ELECT_586025_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbELwipVbYTCaUHfdGIR15A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_ELECT_586025_1",
+    "tender": {
+      "id": "2026_ELECT_586025_1",
+      "title": "computer,printer and ups",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Election Department||CEO||DEO-DIDWANA-KUCHAMAN",
+        "id": "IN-ORG-election-department-ceo-deo-didwana-kuch"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 5000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-18T00:00:00Z"
+      },
+      "description": "computer,printer and ups"
+    },
+    "buyer": {
+      "name": "Election Department||CEO||DEO-DIDWANA-KUCHAMAN",
+      "id": "IN-ORG-election-department-ceo-deo-didwana-kuch"
+    },
+    "date": "2026-08-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_ELECT_586025_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ELECT_586025_1",
+        "url": "/files/32944255e34c92bb6f348d736130bbbbdeacdf956d0656209dfbd2f13ecedbdc.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbELwipVbYTCaUHfdGIR15A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "32944255e34c92bb6f348d736130bbbbdeacdf956d0656209dfbd2f13ecedbdc",
+        "format": "text/plain",
+        "textUrl": "/files/32944255e34c92bb6f348d736130bbbbdeacdf956d0656209dfbd2f13ecedbdc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_ELECT_586025_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbELwipVbYTCaUHfdGIR15A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_ELECT_586025_1",
+      "observedAt": "2026-08-18T01:22:28Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "681e70110782334d6c44ec8b8d0c2926bb55671c4a5147f4cc132cf6e58155e1",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_ELECT_586025_1-0001-record",
+          "sha256": "32944255e34c92bb6f348d736130bbbbdeacdf956d0656209dfbd2f13ecedbdc"
+        }
+      ],
+      "snapshotUrl": "/files/7a88fc10113d260b9aa697cbd2aee1285e2984e13c70a3f9886657ca1a79feb7.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-18T01:22:28Z",
+    "lastObserved": "2026-08-18T01:22:28Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

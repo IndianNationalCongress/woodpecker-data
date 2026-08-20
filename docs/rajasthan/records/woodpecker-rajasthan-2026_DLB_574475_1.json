@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DLB_574475_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_574475_1",
+      "id": "woodpecker-rajasthan-2026_DLB_574475_1-0001",
+      "date": "2026-07-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DLB||Dy.DR-Jaipur||Commissioner-Dausa",
+        "id": "IN-ORG-dlb-dy-dr-jaipur-commissioner-dausa"
+      },
+      "tender": {
+        "id": "2026_DLB_574475_1",
+        "title": "ManPower Supply",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DLB||Dy.DR-Jaipur||Commissioner-Dausa",
+          "id": "IN-ORG-dlb-dy-dr-jaipur-commissioner-dausa"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 990000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-15T00:00:00Z"
+        },
+        "description": "ManPower Supply"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_574475_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DLB_574475_1",
+          "url": "/files/e1a471eda8ed9f647aa885dc84a89a6963e40edff2af09416929ee49626bf86e.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFVnoC5LS345chvPgcQjg7g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e1a471eda8ed9f647aa885dc84a89a6963e40edff2af09416929ee49626bf86e",
+          "format": "text/plain",
+          "textUrl": "/files/e1a471eda8ed9f647aa885dc84a89a6963e40edff2af09416929ee49626bf86e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_574475_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFVnoC5LS345chvPgcQjg7g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DLB_574475_1",
+    "tender": {
+      "id": "2026_DLB_574475_1",
+      "title": "ManPower Supply",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DLB||Dy.DR-Jaipur||Commissioner-Dausa",
+        "id": "IN-ORG-dlb-dy-dr-jaipur-commissioner-dausa"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 990000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-15T00:00:00Z"
+      },
+      "description": "ManPower Supply"
+    },
+    "buyer": {
+      "name": "DLB||Dy.DR-Jaipur||Commissioner-Dausa",
+      "id": "IN-ORG-dlb-dy-dr-jaipur-commissioner-dausa"
+    },
+    "date": "2026-07-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_574475_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DLB_574475_1",
+        "url": "/files/e1a471eda8ed9f647aa885dc84a89a6963e40edff2af09416929ee49626bf86e.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFVnoC5LS345chvPgcQjg7g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e1a471eda8ed9f647aa885dc84a89a6963e40edff2af09416929ee49626bf86e",
+        "format": "text/plain",
+        "textUrl": "/files/e1a471eda8ed9f647aa885dc84a89a6963e40edff2af09416929ee49626bf86e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_574475_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFVnoC5LS345chvPgcQjg7g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_574475_1",
+      "observedAt": "2026-07-15T02:24:03Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "100eceb10fd08f2a2354c4b7adfdde1392ed9a08c5e63e732b164ccfa896cf9e",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_574475_1-0001-record",
+          "sha256": "e1a471eda8ed9f647aa885dc84a89a6963e40edff2af09416929ee49626bf86e"
+        }
+      ],
+      "snapshotUrl": "/files/0e62cfc4bd340f701840428db3dcf0e6fa956e8090f1fb94503fc401fc29b6ec.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-15T02:24:03Z",
+    "lastObserved": "2026-07-15T02:24:03Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

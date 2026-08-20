@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110600_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110600_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110600_1-0001",
+      "date": "2026-08-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110600_1",
+        "title": "Procurement of Emerson Ovation DCS Spares for NTPC Darlipali",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-06T00:00:00Z"
+        },
+        "description": "Procurement of Emerson Ovation DCS Spares for NTPC Darlipali"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110600_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110600_1",
+          "url": "/files/9d8bb71fd5d6fa41169ba59e1849e20ee6c11d55f7fa692a3b85787f47d00d5c.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIic%2BZSSSO9rGgyRT3nyFxA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9d8bb71fd5d6fa41169ba59e1849e20ee6c11d55f7fa692a3b85787f47d00d5c",
+          "format": "text/plain",
+          "textUrl": "/files/9d8bb71fd5d6fa41169ba59e1849e20ee6c11d55f7fa692a3b85787f47d00d5c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110600_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIic%2BZSSSO9rGgyRT3nyFxA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110600_1",
+    "tender": {
+      "id": "2026_NTPC_110600_1",
+      "title": "Procurement of Emerson Ovation DCS Spares for NTPC Darlipali",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-06T00:00:00Z"
+      },
+      "description": "Procurement of Emerson Ovation DCS Spares for NTPC Darlipali"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110600_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110600_1",
+        "url": "/files/9d8bb71fd5d6fa41169ba59e1849e20ee6c11d55f7fa692a3b85787f47d00d5c.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIic%2BZSSSO9rGgyRT3nyFxA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9d8bb71fd5d6fa41169ba59e1849e20ee6c11d55f7fa692a3b85787f47d00d5c",
+        "format": "text/plain",
+        "textUrl": "/files/9d8bb71fd5d6fa41169ba59e1849e20ee6c11d55f7fa692a3b85787f47d00d5c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110600_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIic%2BZSSSO9rGgyRT3nyFxA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110600_1",
+      "observedAt": "2026-08-06T02:33:48Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "3ba1d51ac0b2424ee8ffa645b96182e5c2a34df476134bdc1326c00e130267b8",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110600_1-0001-record",
+          "sha256": "9d8bb71fd5d6fa41169ba59e1849e20ee6c11d55f7fa692a3b85787f47d00d5c"
+        }
+      ],
+      "snapshotUrl": "/files/647d4c9d3fe86920c475ea8d649601c0e1e49abcb14052a41912ed4d8532ee9a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-06T02:33:48Z",
+    "lastObserved": "2026-08-06T02:33:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

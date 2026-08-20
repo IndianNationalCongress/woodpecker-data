@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-kerala-2026_IAV_858781_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-kerala-2026_IAV_858781_1",
+      "id": "woodpecker-kerala-2026_IAV_858781_1-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Institute of Advanced Virology",
+        "id": "IN-ORG-institute-of-advanced-virology"
+      },
+      "tender": {
+        "id": "2026_IAV_858781_1",
+        "title": "Supply of Laboratory Consumables",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Institute of Advanced Virology",
+          "id": "IN-ORG-institute-of-advanced-virology"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-14T00:00:00Z"
+        },
+        "description": "Supply of Laboratory Consumables"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-kerala-2026_IAV_858781_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IAV_858781_1",
+          "url": "/files/5595b1dfc011970e155fa906831b1c82cd109e201081bbf987dcdff48e330832.txt",
+          "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL0Qo%2FP4Y0d1CJ85EMq2pTw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5595b1dfc011970e155fa906831b1c82cd109e201081bbf987dcdff48e330832",
+          "format": "text/plain",
+          "textUrl": "/files/5595b1dfc011970e155fa906831b1c82cd109e201081bbf987dcdff48e330832.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-kerala-2026_IAV_858781_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL0Qo%2FP4Y0d1CJ85EMq2pTw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-kerala-2026_IAV_858781_1",
+    "tender": {
+      "id": "2026_IAV_858781_1",
+      "title": "Supply of Laboratory Consumables",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Institute of Advanced Virology",
+        "id": "IN-ORG-institute-of-advanced-virology"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-14T00:00:00Z"
+      },
+      "description": "Supply of Laboratory Consumables"
+    },
+    "buyer": {
+      "name": "Institute of Advanced Virology",
+      "id": "IN-ORG-institute-of-advanced-virology"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-kerala-2026_IAV_858781_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IAV_858781_1",
+        "url": "/files/5595b1dfc011970e155fa906831b1c82cd109e201081bbf987dcdff48e330832.txt",
+        "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL0Qo%2FP4Y0d1CJ85EMq2pTw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5595b1dfc011970e155fa906831b1c82cd109e201081bbf987dcdff48e330832",
+        "format": "text/plain",
+        "textUrl": "/files/5595b1dfc011970e155fa906831b1c82cd109e201081bbf987dcdff48e330832.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-kerala-2026_IAV_858781_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL0Qo%2FP4Y0d1CJ85EMq2pTw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-kerala-2026_IAV_858781_1",
+      "observedAt": "2026-07-14T01:36:04Z",
+      "witness": "woodpecker:kerala",
+      "availability": "present",
+      "stateHash": "d7d849f8ab91d5441e516f79dcbe69d80e2b976a9f3bc85c183bcceab2875049",
+      "documents": [
+        {
+          "id": "woodpecker-kerala-2026_IAV_858781_1-0001-record",
+          "sha256": "5595b1dfc011970e155fa906831b1c82cd109e201081bbf987dcdff48e330832"
+        }
+      ],
+      "snapshotUrl": "/files/0e916d943a44b59d8ac5358b04e349f08437492109f937914738bfb017757968.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-14T01:36:04Z",
+    "lastObserved": "2026-07-14T01:36:04Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

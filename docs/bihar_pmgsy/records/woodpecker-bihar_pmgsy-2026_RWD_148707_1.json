@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-bihar_pmgsy-2026_RWD_148707_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bihar_pmgsy-2026_RWD_148707_1",
+      "id": "woodpecker-bihar_pmgsy-2026_RWD_148707_1-0001",
+      "date": "2026-07-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Rural Works Department - Bihar",
+        "id": "IN-ORG-rural-works-department-bihar"
+      },
+      "tender": {
+        "id": "2026_RWD_148707_1",
+        "title": "BR-36R-240",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Rural Works Department - Bihar",
+          "id": "IN-ORG-rural-works-department-bihar"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 2943049,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-23T00:00:00Z"
+        },
+        "description": "BR-36R-240"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bihar_pmgsy-2026_RWD_148707_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_RWD_148707_1",
+          "url": "/files/aa61299b7f1657d19140d7f3f611fe9ca133a20e46d3e5b558b7665fe902a7b1.txt",
+          "sourceUrl": "https://pmgsytendersbih.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuYnTkHERxLcBv5YhGvwaFg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "aa61299b7f1657d19140d7f3f611fe9ca133a20e46d3e5b558b7665fe902a7b1",
+          "format": "text/plain",
+          "textUrl": "/files/aa61299b7f1657d19140d7f3f611fe9ca133a20e46d3e5b558b7665fe902a7b1.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bihar_pmgsy-2026_RWD_148707_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://pmgsytendersbih.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuYnTkHERxLcBv5YhGvwaFg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bihar_pmgsy-2026_RWD_148707_1",
+    "tender": {
+      "id": "2026_RWD_148707_1",
+      "title": "BR-36R-240",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Rural Works Department - Bihar",
+        "id": "IN-ORG-rural-works-department-bihar"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 2943049,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-23T00:00:00Z"
+      },
+      "description": "BR-36R-240"
+    },
+    "buyer": {
+      "name": "Rural Works Department - Bihar",
+      "id": "IN-ORG-rural-works-department-bihar"
+    },
+    "date": "2026-07-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bihar_pmgsy-2026_RWD_148707_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_RWD_148707_1",
+        "url": "/files/aa61299b7f1657d19140d7f3f611fe9ca133a20e46d3e5b558b7665fe902a7b1.txt",
+        "sourceUrl": "https://pmgsytendersbih.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuYnTkHERxLcBv5YhGvwaFg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "aa61299b7f1657d19140d7f3f611fe9ca133a20e46d3e5b558b7665fe902a7b1",
+        "format": "text/plain",
+        "textUrl": "/files/aa61299b7f1657d19140d7f3f611fe9ca133a20e46d3e5b558b7665fe902a7b1.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bihar_pmgsy-2026_RWD_148707_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://pmgsytendersbih.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuYnTkHERxLcBv5YhGvwaFg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bihar_pmgsy-2026_RWD_148707_1",
+      "observedAt": "2026-07-23T02:26:59Z",
+      "witness": "woodpecker:bihar_pmgsy",
+      "availability": "present",
+      "stateHash": "53e49be4f9fb29f23c4cc8ed4cc8d463cf50af357d9e9197e11b8890df91ccd2",
+      "documents": [
+        {
+          "id": "woodpecker-bihar_pmgsy-2026_RWD_148707_1-0001-record",
+          "sha256": "aa61299b7f1657d19140d7f3f611fe9ca133a20e46d3e5b558b7665fe902a7b1"
+        }
+      ],
+      "snapshotUrl": "/files/7d20ce4c7522ecbbd8619aedc4d395940f1a3fe4f3c61bf8b818b278727178c8.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-23T02:26:59Z",
+    "lastObserved": "2026-07-23T02:26:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

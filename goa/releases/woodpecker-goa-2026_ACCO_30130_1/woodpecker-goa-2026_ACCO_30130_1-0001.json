@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-goa-2026_ACCO_30130_1",
+  "id": "woodpecker-goa-2026_ACCO_30130_1-0001",
+  "date": "2026-07-07T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "DIRECTORATE OF ACCOUNTS",
+    "id": "IN-ORG-directorate-of-accounts"
+  },
+  "tender": {
+    "id": "2026_ACCO_30130_1",
+    "title": "tender for supply of stationery items",
+    "status": "active",
+    "procuringEntity": {
+      "name": "DIRECTORATE OF ACCOUNTS",
+      "id": "IN-ORG-directorate-of-accounts"
+    },
+    "mainProcurementCategory": "goods",
+    "value": {
+      "amount": 7967800,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-07-20T00:00:00Z"
+    },
+    "description": "tender for supply of stationery items"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-goa-2026_ACCO_30130_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_ACCO_30130_1",
+      "url": "/files/d2a8fe5d850cead8a66a6526817ca4efe66ec932ce31d547712752d37c32f4d4.txt",
+      "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYq%2BovSKbairQiaIJzvCGbQ%3D%3D",
+      "sourceAlive": true,
+      "sha256": "d2a8fe5d850cead8a66a6526817ca4efe66ec932ce31d547712752d37c32f4d4",
+      "format": "text/plain",
+      "textUrl": "/files/d2a8fe5d850cead8a66a6526817ca4efe66ec932ce31d547712752d37c32f4d4.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-goa-2026_ACCO_30130_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYq%2BovSKbairQiaIJzvCGbQ%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

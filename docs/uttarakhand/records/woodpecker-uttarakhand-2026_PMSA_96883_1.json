@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-uttarakhand-2026_PMSA_96883_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_PMSA_96883_1",
+      "id": "woodpecker-uttarakhand-2026_PMSA_96883_1-0001",
+      "date": "2026-06-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PMS District Hospital Almora",
+        "id": "IN-ORG-pms-district-hospital-almora"
+      },
+      "tender": {
+        "id": "2026_PMSA_96883_1",
+        "title": "Refer To Tender Document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PMS District Hospital Almora",
+          "id": "IN-ORG-pms-district-hospital-almora"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 1000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-06-29T00:00:00Z"
+        },
+        "description": "Refer To Tender Document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_PMSA_96883_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PMSA_96883_1",
+          "url": "/files/c67f302e1b22d6ee049e40786db7be02f07bb328e7fd8d9df6af7235c3a77deb.txt",
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6ZDeXy%2BuKG1b4Wc4gRQi%2Fg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c67f302e1b22d6ee049e40786db7be02f07bb328e7fd8d9df6af7235c3a77deb",
+          "format": "text/plain",
+          "textUrl": "/files/c67f302e1b22d6ee049e40786db7be02f07bb328e7fd8d9df6af7235c3a77deb.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-uttarakhand-2026_PMSA_96883_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6ZDeXy%2BuKG1b4Wc4gRQi%2Fg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-uttarakhand-2026_PMSA_96883_1",
+    "tender": {
+      "id": "2026_PMSA_96883_1",
+      "title": "Refer To Tender Document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PMS District Hospital Almora",
+        "id": "IN-ORG-pms-district-hospital-almora"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 1000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-06-29T00:00:00Z"
+      },
+      "description": "Refer To Tender Document"
+    },
+    "buyer": {
+      "name": "PMS District Hospital Almora",
+      "id": "IN-ORG-pms-district-hospital-almora"
+    },
+    "date": "2026-06-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-uttarakhand-2026_PMSA_96883_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PMSA_96883_1",
+        "url": "/files/c67f302e1b22d6ee049e40786db7be02f07bb328e7fd8d9df6af7235c3a77deb.txt",
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6ZDeXy%2BuKG1b4Wc4gRQi%2Fg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c67f302e1b22d6ee049e40786db7be02f07bb328e7fd8d9df6af7235c3a77deb",
+        "format": "text/plain",
+        "textUrl": "/files/c67f302e1b22d6ee049e40786db7be02f07bb328e7fd8d9df6af7235c3a77deb.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-uttarakhand-2026_PMSA_96883_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6ZDeXy%2BuKG1b4Wc4gRQi%2Fg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_PMSA_96883_1",
+      "observedAt": "2026-06-29T02:23:06Z",
+      "witness": "woodpecker:uttarakhand",
+      "availability": "present",
+      "stateHash": "e4f31f4d0d1cb7b852aa9efbc6d77509ec4638dfb3802c7fdab73e2f30974cc7",
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_PMSA_96883_1-0001-record",
+          "sha256": "c67f302e1b22d6ee049e40786db7be02f07bb328e7fd8d9df6af7235c3a77deb"
+        }
+      ],
+      "snapshotUrl": "/files/e9cc6c1c45666172bbbe61fd3af8fae67735ba284d72655037b08bea4de63e19.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-29T02:23:06Z",
+    "lastObserved": "2026-06-29T02:23:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

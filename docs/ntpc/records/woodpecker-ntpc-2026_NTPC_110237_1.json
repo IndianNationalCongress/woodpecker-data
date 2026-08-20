@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110237_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110237_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110237_1-0001",
+      "date": "2026-07-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "tender": {
+        "id": "2026_NTPC_110237_1",
+        "title": "BULK PROCUREMENT OF MCB",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-03T00:00:00Z"
+        },
+        "description": "BULK PROCUREMENT OF MCB"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110237_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110237_1",
+          "url": "/files/e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlkmZY05oZwxcsXPtlFbvXw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7",
+          "format": "text/plain",
+          "textUrl": "/files/e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110237_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlkmZY05oZwxcsXPtlFbvXw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110237_1",
+    "tender": {
+      "id": "2026_NTPC_110237_1",
+      "title": "BULK PROCUREMENT OF MCB",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-03T00:00:00Z"
+      },
+      "description": "BULK PROCUREMENT OF MCB"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+    },
+    "date": "2026-07-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110237_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110237_1",
+        "url": "/files/e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlkmZY05oZwxcsXPtlFbvXw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7",
+        "format": "text/plain",
+        "textUrl": "/files/e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110237_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SlkmZY05oZwxcsXPtlFbvXw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110237_1",
+      "observedAt": "2026-08-03T02:48:54Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "463d2529f359113ace9db6a5076c8a396bb63933ca6fe831ec04d1e717298c7a",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110237_1-0001-record",
+          "sha256": "e302a4747465a65df17bedd2ca7050c52e0203f0b50c08c6c5f1d90ceb8e00c7"
+        }
+      ],
+      "snapshotUrl": "/files/038a5860db9fffb6f6eaf2c4aeb8db38de730dc7ffc429d23d01358394d93269.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-03T02:48:54Z",
+    "lastObserved": "2026-08-03T02:48:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

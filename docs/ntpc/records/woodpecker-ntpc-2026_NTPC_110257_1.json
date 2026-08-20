@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110257_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110257_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110257_1-0001",
+      "date": "2026-07-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110257_1",
+        "title": "Procurement of APH stage 2 LOP NTPC Unchahar",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-31T00:00:00Z"
+        },
+        "description": "Procurement of APH stage 2 LOP NTPC Unchahar"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110257_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110257_1",
+          "url": "/files/78beda3c8a8656e0dad3ee6c88aef5fa7cec68d8305ce5b5b58dff89fb8ee1ea.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKZdAo42aMCiHILUzSpIzUg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "78beda3c8a8656e0dad3ee6c88aef5fa7cec68d8305ce5b5b58dff89fb8ee1ea",
+          "format": "text/plain",
+          "textUrl": "/files/78beda3c8a8656e0dad3ee6c88aef5fa7cec68d8305ce5b5b58dff89fb8ee1ea.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110257_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKZdAo42aMCiHILUzSpIzUg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110257_1",
+    "tender": {
+      "id": "2026_NTPC_110257_1",
+      "title": "Procurement of APH stage 2 LOP NTPC Unchahar",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-31T00:00:00Z"
+      },
+      "description": "Procurement of APH stage 2 LOP NTPC Unchahar"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110257_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110257_1",
+        "url": "/files/78beda3c8a8656e0dad3ee6c88aef5fa7cec68d8305ce5b5b58dff89fb8ee1ea.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKZdAo42aMCiHILUzSpIzUg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "78beda3c8a8656e0dad3ee6c88aef5fa7cec68d8305ce5b5b58dff89fb8ee1ea",
+        "format": "text/plain",
+        "textUrl": "/files/78beda3c8a8656e0dad3ee6c88aef5fa7cec68d8305ce5b5b58dff89fb8ee1ea.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110257_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKZdAo42aMCiHILUzSpIzUg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110257_1",
+      "observedAt": "2026-07-31T02:44:41Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "688084a1594f5af940acabb49eb99d9aec29d53dd8ee2856abf8d7b1c4d77ceb",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110257_1-0001-record",
+          "sha256": "78beda3c8a8656e0dad3ee6c88aef5fa7cec68d8305ce5b5b58dff89fb8ee1ea"
+        }
+      ],
+      "snapshotUrl": "/files/3557ce95535cd8557f8d7a8e63e3140c43c54fb4d280b6b6ae30888b0ee75673.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-31T02:44:41Z",
+    "lastObserved": "2026-07-31T02:44:41Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_140400_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_140400_1",
+      "id": "woodpecker-himachal-2026_PWD_140400_1-0001",
+      "date": "2026-08-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_140400_1",
+        "title": "SH- Plate load test for FATO work at Heliport",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 117500,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-09T00:00:00Z"
+        },
+        "description": "SH- Plate load test for FATO work at Heliport"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_140400_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_140400_1",
+          "url": "/files/5ce6bc4c64199b3acc8387c1aac348c22676917dad4b76c7fa4d15c3b3d22f68.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrmTndHsio3ipK6VGrmW%2BEA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5ce6bc4c64199b3acc8387c1aac348c22676917dad4b76c7fa4d15c3b3d22f68",
+          "format": "text/plain",
+          "textUrl": "/files/5ce6bc4c64199b3acc8387c1aac348c22676917dad4b76c7fa4d15c3b3d22f68.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_140400_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrmTndHsio3ipK6VGrmW%2BEA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_140400_1",
+    "tender": {
+      "id": "2026_PWD_140400_1",
+      "title": "SH- Plate load test for FATO work at Heliport",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 117500,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-09T00:00:00Z"
+      },
+      "description": "SH- Plate load test for FATO work at Heliport"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-08-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_140400_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_140400_1",
+        "url": "/files/5ce6bc4c64199b3acc8387c1aac348c22676917dad4b76c7fa4d15c3b3d22f68.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrmTndHsio3ipK6VGrmW%2BEA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5ce6bc4c64199b3acc8387c1aac348c22676917dad4b76c7fa4d15c3b3d22f68",
+        "format": "text/plain",
+        "textUrl": "/files/5ce6bc4c64199b3acc8387c1aac348c22676917dad4b76c7fa4d15c3b3d22f68.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_140400_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrmTndHsio3ipK6VGrmW%2BEA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_140400_1",
+      "observedAt": "2026-08-08T23:59:51Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "711d7094f3dd983e6111dd629002f2a3fb65a7d77d9ec826bebb9dc4a1a34961",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_140400_1-0001-record",
+          "sha256": "5ce6bc4c64199b3acc8387c1aac348c22676917dad4b76c7fa4d15c3b3d22f68"
+        }
+      ],
+      "snapshotUrl": "/files/8a67d7ae304af0ad4d9420b40b669b2e576f7e8b9753ac27987c63e4a764ba47.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-08T23:59:51Z",
+    "lastObserved": "2026-08-08T23:59:51Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

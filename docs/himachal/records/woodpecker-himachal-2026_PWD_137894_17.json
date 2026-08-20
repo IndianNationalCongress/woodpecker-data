@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_137894_17",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_137894_17",
+      "id": "woodpecker-himachal-2026_PWD_137894_17-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_137894_17",
+        "title": "Hiring of Tipper for carriage of different material at various KMs",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 189000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-10T00:00:00Z"
+        },
+        "description": "Hiring of Tipper for carriage of different material at various KMs"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_137894_17-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_137894_17",
+          "url": "/files/0549a551af11ce0faa22390059542420af193d689afe30852e01577de8228707.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLaf%2B%2BUhnD%2FiFTH9xEJS4tg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0549a551af11ce0faa22390059542420af193d689afe30852e01577de8228707",
+          "format": "text/plain",
+          "textUrl": "/files/0549a551af11ce0faa22390059542420af193d689afe30852e01577de8228707.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_137894_17-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLaf%2B%2BUhnD%2FiFTH9xEJS4tg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_137894_17",
+    "tender": {
+      "id": "2026_PWD_137894_17",
+      "title": "Hiring of Tipper for carriage of different material at various KMs",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 189000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-10T00:00:00Z"
+      },
+      "description": "Hiring of Tipper for carriage of different material at various KMs"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_137894_17-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_137894_17",
+        "url": "/files/0549a551af11ce0faa22390059542420af193d689afe30852e01577de8228707.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLaf%2B%2BUhnD%2FiFTH9xEJS4tg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0549a551af11ce0faa22390059542420af193d689afe30852e01577de8228707",
+        "format": "text/plain",
+        "textUrl": "/files/0549a551af11ce0faa22390059542420af193d689afe30852e01577de8228707.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_137894_17-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLaf%2B%2BUhnD%2FiFTH9xEJS4tg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_137894_17",
+      "observedAt": "2026-07-10T01:53:47Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "0f44a0eb953219b8158a6157b01492e102ae3c258588c01a6e438d367c4e5a28",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_137894_17-0001-record",
+          "sha256": "0549a551af11ce0faa22390059542420af193d689afe30852e01577de8228707"
+        }
+      ],
+      "snapshotUrl": "/files/31e26c6743d7c310f589a84227ac81662337a370443b089369d07b7518bbb5a2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-10T01:53:47Z",
+    "lastObserved": "2026-07-10T01:53:47Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

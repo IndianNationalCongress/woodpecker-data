@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110034_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110034_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110034_1-0001",
+      "date": "2026-07-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110034_1",
+        "title": "Procurement of Fuel Nozzle spares for GTs at NTPC Kawas",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-15T00:00:00Z"
+        },
+        "description": "Procurement of Fuel Nozzle spares for GTs at NTPC Kawas"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110034_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110034_1",
+          "url": "/files/4e868d48d9405dcae72e921c1a8d736e8f4ee017c33108ca75f7d76acd3ecfc4.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sj6SjHTEa4YbNFJHEsyTgew%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4e868d48d9405dcae72e921c1a8d736e8f4ee017c33108ca75f7d76acd3ecfc4",
+          "format": "text/plain",
+          "textUrl": "/files/4e868d48d9405dcae72e921c1a8d736e8f4ee017c33108ca75f7d76acd3ecfc4.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110034_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sj6SjHTEa4YbNFJHEsyTgew%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110034_1",
+    "tender": {
+      "id": "2026_NTPC_110034_1",
+      "title": "Procurement of Fuel Nozzle spares for GTs at NTPC Kawas",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-15T00:00:00Z"
+      },
+      "description": "Procurement of Fuel Nozzle spares for GTs at NTPC Kawas"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110034_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110034_1",
+        "url": "/files/4e868d48d9405dcae72e921c1a8d736e8f4ee017c33108ca75f7d76acd3ecfc4.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sj6SjHTEa4YbNFJHEsyTgew%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4e868d48d9405dcae72e921c1a8d736e8f4ee017c33108ca75f7d76acd3ecfc4",
+        "format": "text/plain",
+        "textUrl": "/files/4e868d48d9405dcae72e921c1a8d736e8f4ee017c33108ca75f7d76acd3ecfc4.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110034_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sj6SjHTEa4YbNFJHEsyTgew%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110034_1",
+      "observedAt": "2026-07-15T02:32:14Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5a90f2056175dc9354d54002b1489f2f6dd1a08064e66e64df4db685a17a767d",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110034_1-0001-record",
+          "sha256": "4e868d48d9405dcae72e921c1a8d736e8f4ee017c33108ca75f7d76acd3ecfc4"
+        }
+      ],
+      "snapshotUrl": "/files/d5750e757a940a705f0661392910da7d7f456f91895880ba6d59a39dc69a525a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-15T02:32:14Z",
+    "lastObserved": "2026-07-15T02:32:14Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

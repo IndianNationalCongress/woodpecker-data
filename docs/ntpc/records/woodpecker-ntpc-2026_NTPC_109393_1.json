@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109393_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109393_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109393_1-0001",
+      "date": "2026-06-20T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "tender": {
+        "id": "2026_NTPC_109393_1",
+        "title": "Transportation of coal from NK and Ashoka mines area",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-13T00:00:00Z"
+        },
+        "description": "Transportation of coal from NK and Ashoka mines area"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109393_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109393_1",
+          "url": "/files/ca5d64197bfb625b96093d6b007ebcfae1110edd07f0e9a799a162d20b458f6b.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzTVgAlCrCJBqSlbDgCcWMw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ca5d64197bfb625b96093d6b007ebcfae1110edd07f0e9a799a162d20b458f6b",
+          "format": "text/plain",
+          "textUrl": "/files/ca5d64197bfb625b96093d6b007ebcfae1110edd07f0e9a799a162d20b458f6b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109393_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzTVgAlCrCJBqSlbDgCcWMw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109393_1",
+    "tender": {
+      "id": "2026_NTPC_109393_1",
+      "title": "Transportation of coal from NK and Ashoka mines area",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-13T00:00:00Z"
+      },
+      "description": "Transportation of coal from NK and Ashoka mines area"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+    },
+    "date": "2026-06-20T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109393_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109393_1",
+        "url": "/files/ca5d64197bfb625b96093d6b007ebcfae1110edd07f0e9a799a162d20b458f6b.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzTVgAlCrCJBqSlbDgCcWMw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ca5d64197bfb625b96093d6b007ebcfae1110edd07f0e9a799a162d20b458f6b",
+        "format": "text/plain",
+        "textUrl": "/files/ca5d64197bfb625b96093d6b007ebcfae1110edd07f0e9a799a162d20b458f6b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109393_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzTVgAlCrCJBqSlbDgCcWMw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109393_1",
+      "observedAt": "2026-07-13T02:50:35Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5dd73df71adc34464c7981eb6527138c9545277c14a763b441a11d0a611bfd9e",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109393_1-0001-record",
+          "sha256": "ca5d64197bfb625b96093d6b007ebcfae1110edd07f0e9a799a162d20b458f6b"
+        }
+      ],
+      "snapshotUrl": "/files/dfd5854db7bc2c38eb66ed4631fcf2bf6eaef53acb8899c9e174aa0b47646eb4.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-13T02:50:35Z",
+    "lastObserved": "2026-07-13T02:50:35Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

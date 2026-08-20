@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_ESIC_915329_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_ESIC_915329_1",
+      "id": "woodpecker-cppp-2026_ESIC_915329_1-0001",
+      "date": "2026-07-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Employees State Insurance Corporation||R.O. Punjab",
+        "id": "IN-ORG-employees-state-insurance-corporation-r-"
+      },
+      "tender": {
+        "id": "2026_ESIC_915329_1",
+        "title": "Special Repair works",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Employees State Insurance Corporation||R.O. Punjab",
+          "id": "IN-ORG-employees-state-insurance-corporation-r-"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 4432933,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-21T00:00:00Z"
+        },
+        "description": "Special Repair works"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ESIC_915329_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ESIC_915329_1",
+          "url": "/files/6d5bd94c520e24f3ad73be4468a5d0cab9ddcbf17e5bdb3e62e63b0978c32e9d.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SynVulRrwd0EkRFJEDttfFQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6d5bd94c520e24f3ad73be4468a5d0cab9ddcbf17e5bdb3e62e63b0978c32e9d",
+          "format": "text/plain",
+          "textUrl": "/files/6d5bd94c520e24f3ad73be4468a5d0cab9ddcbf17e5bdb3e62e63b0978c32e9d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_ESIC_915329_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SynVulRrwd0EkRFJEDttfFQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_ESIC_915329_1",
+    "tender": {
+      "id": "2026_ESIC_915329_1",
+      "title": "Special Repair works",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Employees State Insurance Corporation||R.O. Punjab",
+        "id": "IN-ORG-employees-state-insurance-corporation-r-"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 4432933,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-21T00:00:00Z"
+      },
+      "description": "Special Repair works"
+    },
+    "buyer": {
+      "name": "Employees State Insurance Corporation||R.O. Punjab",
+      "id": "IN-ORG-employees-state-insurance-corporation-r-"
+    },
+    "date": "2026-07-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_ESIC_915329_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ESIC_915329_1",
+        "url": "/files/6d5bd94c520e24f3ad73be4468a5d0cab9ddcbf17e5bdb3e62e63b0978c32e9d.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SynVulRrwd0EkRFJEDttfFQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6d5bd94c520e24f3ad73be4468a5d0cab9ddcbf17e5bdb3e62e63b0978c32e9d",
+        "format": "text/plain",
+        "textUrl": "/files/6d5bd94c520e24f3ad73be4468a5d0cab9ddcbf17e5bdb3e62e63b0978c32e9d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_ESIC_915329_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SynVulRrwd0EkRFJEDttfFQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_ESIC_915329_1",
+      "observedAt": "2026-07-21T01:04:00Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "07fe619634c64665a151d8b3c7e874b5a928ddd853ee4fbd4478814c8a75e8ba",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ESIC_915329_1-0001-record",
+          "sha256": "6d5bd94c520e24f3ad73be4468a5d0cab9ddcbf17e5bdb3e62e63b0978c32e9d"
+        }
+      ],
+      "snapshotUrl": "/files/c85560e547003c46ef15c7b541d2bc502d5e64d5791e3da0978025b667310075.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-21T01:04:00Z",
+    "lastObserved": "2026-07-21T01:04:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_DOP_918493_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DOP_918493_1",
+      "id": "woodpecker-cppp-2026_DOP_918493_1-0001",
+      "date": "2026-07-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Posts||Delhi Circle, Dept. of Posts||Off. of EE(C),Delhi Circle,POST||Postal Civil Division,EE(C),Delhi Circle",
+        "id": "IN-ORG-department-of-posts-delhi-circle-dept-of"
+      },
+      "tender": {
+        "id": "2026_DOP_918493_1",
+        "title": "Misc civil repair work at qtr. no. 421 at RK Puram, New Delhi",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Posts||Delhi Circle, Dept. of Posts||Off. of EE(C),Delhi Circle,POST||Postal Civil Division,EE(C),Delhi Circle",
+          "id": "IN-ORG-department-of-posts-delhi-circle-dept-of"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 406581,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-29T00:00:00Z"
+        },
+        "description": "Misc civil repair work at qtr. no. 421 at RK Puram, New Delhi"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DOP_918493_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DOP_918493_1",
+          "url": "/files/5e3335de1444f11078ec1502211ac83658cead62828cf3a30e56d8ceab070cdf.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sgwl%2BlgNk%2B8zkSiQPpKgfGA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5e3335de1444f11078ec1502211ac83658cead62828cf3a30e56d8ceab070cdf",
+          "format": "text/plain",
+          "textUrl": "/files/5e3335de1444f11078ec1502211ac83658cead62828cf3a30e56d8ceab070cdf.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DOP_918493_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sgwl%2BlgNk%2B8zkSiQPpKgfGA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DOP_918493_1",
+    "tender": {
+      "id": "2026_DOP_918493_1",
+      "title": "Misc civil repair work at qtr. no. 421 at RK Puram, New Delhi",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Posts||Delhi Circle, Dept. of Posts||Off. of EE(C),Delhi Circle,POST||Postal Civil Division,EE(C),Delhi Circle",
+        "id": "IN-ORG-department-of-posts-delhi-circle-dept-of"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 406581,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-29T00:00:00Z"
+      },
+      "description": "Misc civil repair work at qtr. no. 421 at RK Puram, New Delhi"
+    },
+    "buyer": {
+      "name": "Department of Posts||Delhi Circle, Dept. of Posts||Off. of EE(C),Delhi Circle,POST||Postal Civil Division,EE(C),Delhi Circle",
+      "id": "IN-ORG-department-of-posts-delhi-circle-dept-of"
+    },
+    "date": "2026-07-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DOP_918493_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DOP_918493_1",
+        "url": "/files/5e3335de1444f11078ec1502211ac83658cead62828cf3a30e56d8ceab070cdf.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sgwl%2BlgNk%2B8zkSiQPpKgfGA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5e3335de1444f11078ec1502211ac83658cead62828cf3a30e56d8ceab070cdf",
+        "format": "text/plain",
+        "textUrl": "/files/5e3335de1444f11078ec1502211ac83658cead62828cf3a30e56d8ceab070cdf.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DOP_918493_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sgwl%2BlgNk%2B8zkSiQPpKgfGA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DOP_918493_1",
+      "observedAt": "2026-07-29T01:03:03Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "e6deca90d330b520a14ae9778b538b1236efb128c2bad8744c146c75682a014d",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DOP_918493_1-0001-record",
+          "sha256": "5e3335de1444f11078ec1502211ac83658cead62828cf3a30e56d8ceab070cdf"
+        }
+      ],
+      "snapshotUrl": "/files/9170dbe9f67e0a0d725ac2d80942a2d2bb3b2c4defb8afc233d6f2d655b6c1c2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-29T01:03:03Z",
+    "lastObserved": "2026-07-29T01:03:03Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

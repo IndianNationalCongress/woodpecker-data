@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110654_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110654_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110654_1-0001",
+      "date": "2026-08-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110654_1",
+        "title": "Repair of BFP and CEP strainers of NTPC Barh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-06T00:00:00Z"
+        },
+        "description": "Repair of BFP and CEP strainers of NTPC Barh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110654_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110654_1",
+          "url": "/files/70c561faa6e4c4aaae126398cfba575c4b2b19237598717a16a8a2d030b78247.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Scf0VLEtNRcLHg3XXOCG8OQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "70c561faa6e4c4aaae126398cfba575c4b2b19237598717a16a8a2d030b78247",
+          "format": "text/plain",
+          "textUrl": "/files/70c561faa6e4c4aaae126398cfba575c4b2b19237598717a16a8a2d030b78247.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110654_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Scf0VLEtNRcLHg3XXOCG8OQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110654_1",
+    "tender": {
+      "id": "2026_NTPC_110654_1",
+      "title": "Repair of BFP and CEP strainers of NTPC Barh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-06T00:00:00Z"
+      },
+      "description": "Repair of BFP and CEP strainers of NTPC Barh"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110654_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110654_1",
+        "url": "/files/70c561faa6e4c4aaae126398cfba575c4b2b19237598717a16a8a2d030b78247.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Scf0VLEtNRcLHg3XXOCG8OQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "70c561faa6e4c4aaae126398cfba575c4b2b19237598717a16a8a2d030b78247",
+        "format": "text/plain",
+        "textUrl": "/files/70c561faa6e4c4aaae126398cfba575c4b2b19237598717a16a8a2d030b78247.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110654_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Scf0VLEtNRcLHg3XXOCG8OQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110654_1",
+      "observedAt": "2026-08-06T02:33:48Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "aa0ef4badd7c518203b2a8a2a9a54e4f717ed61108224593e2368338e66bf388",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110654_1-0001-record",
+          "sha256": "70c561faa6e4c4aaae126398cfba575c4b2b19237598717a16a8a2d030b78247"
+        }
+      ],
+      "snapshotUrl": "/files/d751d4c77b1167809ff85cbce9e532bb0f2855cab89a091b6958cf05796bae23.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-06T02:33:48Z",
+    "lastObserved": "2026-08-06T02:33:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

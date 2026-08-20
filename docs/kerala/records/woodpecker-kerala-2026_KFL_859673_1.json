@@ -1,0 +1,146 @@
+{
+  "ocid": "woodpecker-kerala-2026_KFL_859673_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-kerala-2026_KFL_859673_1",
+      "id": "woodpecker-kerala-2026_KFL_859673_1-0001",
+      "date": "2026-07-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Kerala Feeds Ltd||Raw Material Procurement",
+        "id": "IN-ORG-kerala-feeds-ltd-raw-material-procuremen"
+      },
+      "tender": {
+        "id": "2026_KFL_859673_1",
+        "title": "Procurement of Raw material e-tender cum reverse auction",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Kerala Feeds Ltd||Raw Material Procurement",
+          "id": "IN-ORG-kerala-feeds-ltd-raw-material-procuremen"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-09T00:00:00Z"
+        },
+        "description": "Procurement of Raw material e-tender cum reverse auction"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-kerala-2026_KFL_859673_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_KFL_859673_1",
+          "url": "/files/e47705b44f17a3780a88f40ddadf1da66c696a6a9a518ee9db4cf0deba9ba98b.txt",
+          "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx5g6vsU3VXyWyU3fvdgoPA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e47705b44f17a3780a88f40ddadf1da66c696a6a9a518ee9db4cf0deba9ba98b",
+          "format": "text/plain",
+          "textUrl": "/files/e47705b44f17a3780a88f40ddadf1da66c696a6a9a518ee9db4cf0deba9ba98b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-kerala-2026_KFL_859673_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx5g6vsU3VXyWyU3fvdgoPA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        },
+        {
+          "id": "woodpecker-kerala-2026_KFL_859673_1-0001-doc-2",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_2.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx5g6vsU3VXyWyU3fvdgoPA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-kerala-2026_KFL_859673_1",
+    "tender": {
+      "id": "2026_KFL_859673_1",
+      "title": "Procurement of Raw material e-tender cum reverse auction",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Kerala Feeds Ltd||Raw Material Procurement",
+        "id": "IN-ORG-kerala-feeds-ltd-raw-material-procuremen"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-09T00:00:00Z"
+      },
+      "description": "Procurement of Raw material e-tender cum reverse auction"
+    },
+    "buyer": {
+      "name": "Kerala Feeds Ltd||Raw Material Procurement",
+      "id": "IN-ORG-kerala-feeds-ltd-raw-material-procuremen"
+    },
+    "date": "2026-07-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-kerala-2026_KFL_859673_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_KFL_859673_1",
+        "url": "/files/e47705b44f17a3780a88f40ddadf1da66c696a6a9a518ee9db4cf0deba9ba98b.txt",
+        "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx5g6vsU3VXyWyU3fvdgoPA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e47705b44f17a3780a88f40ddadf1da66c696a6a9a518ee9db4cf0deba9ba98b",
+        "format": "text/plain",
+        "textUrl": "/files/e47705b44f17a3780a88f40ddadf1da66c696a6a9a518ee9db4cf0deba9ba98b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-kerala-2026_KFL_859673_1-0001-doc-2",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_2.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.kerala.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx5g6vsU3VXyWyU3fvdgoPA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-kerala-2026_KFL_859673_1",
+      "observedAt": "2026-07-09T01:51:25Z",
+      "witness": "woodpecker:kerala",
+      "availability": "present",
+      "stateHash": "9b58b4b367a1b8c111fa800f0472055f8c4009d40ee0d4977d99aab68d269a11",
+      "documents": [
+        {
+          "id": "woodpecker-kerala-2026_KFL_859673_1-0001-record",
+          "sha256": "e47705b44f17a3780a88f40ddadf1da66c696a6a9a518ee9db4cf0deba9ba98b"
+        }
+      ],
+      "snapshotUrl": "/files/60484d2694360f863c47b9d07351b94040f2ff446627f1891a9a8a24695bfdca.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-09T01:51:25Z",
+    "lastObserved": "2026-07-09T01:51:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

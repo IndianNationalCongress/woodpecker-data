@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DLB_571144_1",
+  "id": "woodpecker-rajasthan-2026_DLB_571144_1-0001",
+  "date": "2026-06-29T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "DLB||Dy.DR-Jodhpur||EO-Sadri",
+    "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-sadri"
+  },
+  "tender": {
+    "id": "2026_DLB_571144_1",
+    "title": "civil work",
+    "status": "active",
+    "procuringEntity": {
+      "name": "DLB||Dy.DR-Jodhpur||EO-Sadri",
+      "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-sadri"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 2000000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-07-13T00:00:00Z"
+    },
+    "description": "civil work"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-rajasthan-2026_DLB_571144_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_DLB_571144_1",
+      "url": "/files/e93b99eb4a58211ce09688558ac84524a234a6ba335c1d289daec397bf391ddb.txt",
+      "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCRJZfKsNv5327fJ5LDnNTQ%3D%3D",
+      "sourceAlive": true,
+      "sha256": "e93b99eb4a58211ce09688558ac84524a234a6ba335c1d289daec397bf391ddb",
+      "format": "text/plain",
+      "textUrl": "/files/e93b99eb4a58211ce09688558ac84524a234a6ba335c1d289daec397bf391ddb.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-rajasthan-2026_DLB_571144_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCRJZfKsNv5327fJ5LDnNTQ%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

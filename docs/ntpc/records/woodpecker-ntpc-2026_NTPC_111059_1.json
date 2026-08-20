@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111059_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111059_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111059_1-0001",
+      "date": "2026-08-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111059_1",
+        "title": "Erection and commissioning of Fire Water Diesel engine",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-20T00:00:00Z"
+        },
+        "description": "Erection and commissioning of Fire Water Diesel engine"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111059_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111059_1",
+          "url": "/files/60407f16b0e0e398f11de3decc80b1807f57f34cf9e1131f50f7c44c150e3f51.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWNUKlx7w%2BYZnoAvT%2FI28hQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "60407f16b0e0e398f11de3decc80b1807f57f34cf9e1131f50f7c44c150e3f51",
+          "format": "text/plain",
+          "textUrl": "/files/60407f16b0e0e398f11de3decc80b1807f57f34cf9e1131f50f7c44c150e3f51.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111059_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWNUKlx7w%2BYZnoAvT%2FI28hQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111059_1",
+    "tender": {
+      "id": "2026_NTPC_111059_1",
+      "title": "Erection and commissioning of Fire Water Diesel engine",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-20T00:00:00Z"
+      },
+      "description": "Erection and commissioning of Fire Water Diesel engine"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111059_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111059_1",
+        "url": "/files/60407f16b0e0e398f11de3decc80b1807f57f34cf9e1131f50f7c44c150e3f51.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWNUKlx7w%2BYZnoAvT%2FI28hQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "60407f16b0e0e398f11de3decc80b1807f57f34cf9e1131f50f7c44c150e3f51",
+        "format": "text/plain",
+        "textUrl": "/files/60407f16b0e0e398f11de3decc80b1807f57f34cf9e1131f50f7c44c150e3f51.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111059_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWNUKlx7w%2BYZnoAvT%2FI28hQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111059_1",
+      "observedAt": "2026-08-20T01:40:31Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "f3406e259e7364c1a8102f24937f4d30e2f78101c17546cc2ec3f625ff271af3",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111059_1-0001-record",
+          "sha256": "60407f16b0e0e398f11de3decc80b1807f57f34cf9e1131f50f7c44c150e3f51"
+        }
+      ],
+      "snapshotUrl": "/files/a4a06b3e1d52f83301dd9c437e041702176031e716abefffcc20e1f863682443.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-20T01:40:31Z",
+    "lastObserved": "2026-08-20T01:40:31Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

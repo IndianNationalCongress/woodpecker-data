@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_DAE_920278_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DAE_920278_1",
+      "id": "woodpecker-cppp-2026_DAE_920278_1-0001",
+      "date": "2026-08-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Atomic Energy||Tata Institute of Fundamental Research-Colaba-Mumbai-Purchase Dept-TIFR-DAE||TIFR(HQ)-Mumbai-TIFR-DAE",
+        "id": "IN-ORG-department-of-atomic-energy-tata-institu"
+      },
+      "tender": {
+        "id": "2026_DAE_920278_1",
+        "title": "Procurement of KrF PREMIX Gas",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Atomic Energy||Tata Institute of Fundamental Research-Colaba-Mumbai-Purchase Dept-TIFR-DAE||TIFR(HQ)-Mumbai-TIFR-DAE",
+          "id": "IN-ORG-department-of-atomic-energy-tata-institu"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 1001003,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-14T00:00:00Z"
+        },
+        "description": "Procurement of KrF PREMIX Gas"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DAE_920278_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DAE_920278_1",
+          "url": "/files/9ae0ea9a5e2d3ff2588c3d701ec003e4fea48342c0b774f13e6f0bd6ca2c3b7f.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S1DIp2GxL0SC6EOT%2FSsCaPw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9ae0ea9a5e2d3ff2588c3d701ec003e4fea48342c0b774f13e6f0bd6ca2c3b7f",
+          "format": "text/plain",
+          "textUrl": "/files/9ae0ea9a5e2d3ff2588c3d701ec003e4fea48342c0b774f13e6f0bd6ca2c3b7f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DAE_920278_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S1DIp2GxL0SC6EOT%2FSsCaPw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DAE_920278_1",
+    "tender": {
+      "id": "2026_DAE_920278_1",
+      "title": "Procurement of KrF PREMIX Gas",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Atomic Energy||Tata Institute of Fundamental Research-Colaba-Mumbai-Purchase Dept-TIFR-DAE||TIFR(HQ)-Mumbai-TIFR-DAE",
+        "id": "IN-ORG-department-of-atomic-energy-tata-institu"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 1001003,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-14T00:00:00Z"
+      },
+      "description": "Procurement of KrF PREMIX Gas"
+    },
+    "buyer": {
+      "name": "Department of Atomic Energy||Tata Institute of Fundamental Research-Colaba-Mumbai-Purchase Dept-TIFR-DAE||TIFR(HQ)-Mumbai-TIFR-DAE",
+      "id": "IN-ORG-department-of-atomic-energy-tata-institu"
+    },
+    "date": "2026-08-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DAE_920278_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DAE_920278_1",
+        "url": "/files/9ae0ea9a5e2d3ff2588c3d701ec003e4fea48342c0b774f13e6f0bd6ca2c3b7f.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S1DIp2GxL0SC6EOT%2FSsCaPw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9ae0ea9a5e2d3ff2588c3d701ec003e4fea48342c0b774f13e6f0bd6ca2c3b7f",
+        "format": "text/plain",
+        "textUrl": "/files/9ae0ea9a5e2d3ff2588c3d701ec003e4fea48342c0b774f13e6f0bd6ca2c3b7f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DAE_920278_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S1DIp2GxL0SC6EOT%2FSsCaPw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DAE_920278_1",
+      "observedAt": "2026-08-14T00:13:00Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "54b660739f39f28ca32a6371e7c468406f3340f5093c5a6f25719caaba813671",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DAE_920278_1-0001-record",
+          "sha256": "9ae0ea9a5e2d3ff2588c3d701ec003e4fea48342c0b774f13e6f0bd6ca2c3b7f"
+        }
+      ],
+      "snapshotUrl": "/files/93abcf1022ef0d42da8b07c1b60c51b5e8e5d51a7f1ad3231a025f009fc81c7c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-14T00:13:00Z",
+    "lastObserved": "2026-08-14T00:13:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

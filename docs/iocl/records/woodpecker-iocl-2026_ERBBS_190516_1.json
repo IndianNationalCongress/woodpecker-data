@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_ERBBS_190516_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERBBS_190516_1",
+      "id": "woodpecker-iocl-2026_ERBBS_190516_1-0001",
+      "date": "2026-07-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Pipelines||PRRPL, Bhubaneswar||Technical Services",
+        "id": "IN-ORG-indianoil-pipelines-prrpl-bhubaneswar-te"
+      },
+      "tender": {
+        "id": "2026_ERBBS_190516_1",
+        "title": "Annual Rate Contract for Civil Maintenance and Environment Management Works at PPL Paradip Station",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Pipelines||PRRPL, Bhubaneswar||Technical Services",
+          "id": "IN-ORG-indianoil-pipelines-prrpl-bhubaneswar-te"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-07-23T00:00:00Z"
+        },
+        "description": "Annual Rate Contract for Civil Maintenance and Environment Management Works at PPL Paradip Station"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERBBS_190516_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ERBBS_190516_1",
+          "url": "/files/56953241f099c2e74987701d98f6deab858e47b6180ca30f690ee89ea91faf3c.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StlQBO2l2S0hjAM%2BWccVS2w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "56953241f099c2e74987701d98f6deab858e47b6180ca30f690ee89ea91faf3c",
+          "format": "text/plain",
+          "textUrl": "/files/56953241f099c2e74987701d98f6deab858e47b6180ca30f690ee89ea91faf3c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_ERBBS_190516_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StlQBO2l2S0hjAM%2BWccVS2w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_ERBBS_190516_1",
+    "tender": {
+      "id": "2026_ERBBS_190516_1",
+      "title": "Annual Rate Contract for Civil Maintenance and Environment Management Works at PPL Paradip Station",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Pipelines||PRRPL, Bhubaneswar||Technical Services",
+        "id": "IN-ORG-indianoil-pipelines-prrpl-bhubaneswar-te"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-07-23T00:00:00Z"
+      },
+      "description": "Annual Rate Contract for Civil Maintenance and Environment Management Works at PPL Paradip Station"
+    },
+    "buyer": {
+      "name": "IndianOil||Pipelines||PRRPL, Bhubaneswar||Technical Services",
+      "id": "IN-ORG-indianoil-pipelines-prrpl-bhubaneswar-te"
+    },
+    "date": "2026-07-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_ERBBS_190516_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ERBBS_190516_1",
+        "url": "/files/56953241f099c2e74987701d98f6deab858e47b6180ca30f690ee89ea91faf3c.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StlQBO2l2S0hjAM%2BWccVS2w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "56953241f099c2e74987701d98f6deab858e47b6180ca30f690ee89ea91faf3c",
+        "format": "text/plain",
+        "textUrl": "/files/56953241f099c2e74987701d98f6deab858e47b6180ca30f690ee89ea91faf3c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_ERBBS_190516_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StlQBO2l2S0hjAM%2BWccVS2w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERBBS_190516_1",
+      "observedAt": "2026-07-23T02:41:04Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "99e3ba2fcae16024f8f1cad2f2482bcf33ebb5bd2d91e597ebf1e5be742a2fe7",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERBBS_190516_1-0001-record",
+          "sha256": "56953241f099c2e74987701d98f6deab858e47b6180ca30f690ee89ea91faf3c"
+        }
+      ],
+      "snapshotUrl": "/files/97ee2a2a01ed3587ad58d45f41ba9405955bc3b8533b2d8b7e162edda1d5801f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-23T02:41:04Z",
+    "lastObserved": "2026-07-23T02:41:04Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

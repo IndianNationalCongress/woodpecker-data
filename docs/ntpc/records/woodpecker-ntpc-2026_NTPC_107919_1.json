@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_107919_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107919_1",
+      "id": "woodpecker-ntpc-2026_NTPC_107919_1-0001",
+      "date": "2026-05-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_107919_1",
+        "title": "Procurement of CLINKER GRINDER FLUID COUPLING AND ITS SPARES AT NTPCKorba",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-02T00:00:00Z"
+        },
+        "description": "Procurement of CLINKER GRINDER FLUID COUPLING AND ITS SPARES AT NTPCKorba"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107919_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_107919_1",
+          "url": "/files/862430b10ca88a9c201b4dada91f01ddc4308a8b008929a59f6462ef125b5f00.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjZUix2AimVZ0uIO9YXzloA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "862430b10ca88a9c201b4dada91f01ddc4308a8b008929a59f6462ef125b5f00",
+          "format": "text/plain",
+          "textUrl": "/files/862430b10ca88a9c201b4dada91f01ddc4308a8b008929a59f6462ef125b5f00.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107919_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjZUix2AimVZ0uIO9YXzloA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_107919_1",
+    "tender": {
+      "id": "2026_NTPC_107919_1",
+      "title": "Procurement of CLINKER GRINDER FLUID COUPLING AND ITS SPARES AT NTPCKorba",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-02T00:00:00Z"
+      },
+      "description": "Procurement of CLINKER GRINDER FLUID COUPLING AND ITS SPARES AT NTPCKorba"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-05-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107919_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_107919_1",
+        "url": "/files/862430b10ca88a9c201b4dada91f01ddc4308a8b008929a59f6462ef125b5f00.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjZUix2AimVZ0uIO9YXzloA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "862430b10ca88a9c201b4dada91f01ddc4308a8b008929a59f6462ef125b5f00",
+        "format": "text/plain",
+        "textUrl": "/files/862430b10ca88a9c201b4dada91f01ddc4308a8b008929a59f6462ef125b5f00.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107919_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjZUix2AimVZ0uIO9YXzloA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107919_1",
+      "observedAt": "2026-07-02T03:05:21Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "7c06f18b9be7996b352d86be03752e959015382705bf8a5ae6b2e54be660113e",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107919_1-0001-record",
+          "sha256": "862430b10ca88a9c201b4dada91f01ddc4308a8b008929a59f6462ef125b5f00"
+        }
+      ],
+      "snapshotUrl": "/files/22da65dc811298f0eb867de5a927f6cf5d2eba003712f1807192a29fa9d0a27d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-02T03:05:21Z",
+    "lastObserved": "2026-07-02T03:05:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109641_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109641_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109641_1-0001",
+      "date": "2026-06-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Eastern Region - I Headquarter||Muzaffarpur Thermal Power Station",
+        "id": "IN-ORG-ntpc-limited-eastern-region-i-headquarte"
+      },
+      "tender": {
+        "id": "2026_NTPC_109641_1",
+        "title": "LTE",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Eastern Region - I Headquarter||Muzaffarpur Thermal Power Station",
+          "id": "IN-ORG-ntpc-limited-eastern-region-i-headquarte"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-16T00:00:00Z"
+        },
+        "description": "LTE"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109641_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109641_1",
+          "url": "/files/584a6d352d9c102f0fe9a09e0db4bc015a8abb9d581dbfd9101d75e642e59189.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St8VaFULBAkv8rOXQ6VybDg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "584a6d352d9c102f0fe9a09e0db4bc015a8abb9d581dbfd9101d75e642e59189",
+          "format": "text/plain",
+          "textUrl": "/files/584a6d352d9c102f0fe9a09e0db4bc015a8abb9d581dbfd9101d75e642e59189.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109641_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St8VaFULBAkv8rOXQ6VybDg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109641_1",
+    "tender": {
+      "id": "2026_NTPC_109641_1",
+      "title": "LTE",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Eastern Region - I Headquarter||Muzaffarpur Thermal Power Station",
+        "id": "IN-ORG-ntpc-limited-eastern-region-i-headquarte"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-16T00:00:00Z"
+      },
+      "description": "LTE"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Eastern Region - I Headquarter||Muzaffarpur Thermal Power Station",
+      "id": "IN-ORG-ntpc-limited-eastern-region-i-headquarte"
+    },
+    "date": "2026-06-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109641_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109641_1",
+        "url": "/files/584a6d352d9c102f0fe9a09e0db4bc015a8abb9d581dbfd9101d75e642e59189.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St8VaFULBAkv8rOXQ6VybDg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "584a6d352d9c102f0fe9a09e0db4bc015a8abb9d581dbfd9101d75e642e59189",
+        "format": "text/plain",
+        "textUrl": "/files/584a6d352d9c102f0fe9a09e0db4bc015a8abb9d581dbfd9101d75e642e59189.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109641_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St8VaFULBAkv8rOXQ6VybDg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109641_1",
+      "observedAt": "2026-07-16T02:27:48Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "12af3e9ea99581e8896cbdccd473256bcf17672d851284d52c79f763f6b0062c",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109641_1-0001-record",
+          "sha256": "584a6d352d9c102f0fe9a09e0db4bc015a8abb9d581dbfd9101d75e642e59189"
+        }
+      ],
+      "snapshotUrl": "/files/6aa67b2920a06c223f7c759b3e9d62566d8099e79dec2b78b5363f1f05e23ae2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-16T02:27:48Z",
+    "lastObserved": "2026-07-16T02:27:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

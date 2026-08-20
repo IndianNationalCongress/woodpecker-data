@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-bhel-2026_BHEL_62403_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62403_1",
+      "id": "woodpecker-bhel-2026_BHEL_62403_1-0001",
+      "date": "2026-06-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "tender": {
+        "id": "2026_BHEL_62403_1",
+        "title": "ANGE000178",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Heavy Electricals Limited||EDN - Bangalore",
+          "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-02T00:00:00Z"
+        },
+        "description": "ANGE000178"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62403_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BHEL_62403_1",
+          "url": "/files/3b2a5d7025fbe54ee81dd541daa6179dac8232eff5c68215069c9b0995a9fd2d.txt",
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDkpyak5MElWxYfdvq9ddmA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3b2a5d7025fbe54ee81dd541daa6179dac8232eff5c68215069c9b0995a9fd2d",
+          "format": "text/plain",
+          "textUrl": "/files/3b2a5d7025fbe54ee81dd541daa6179dac8232eff5c68215069c9b0995a9fd2d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62403_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDkpyak5MElWxYfdvq9ddmA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bhel-2026_BHEL_62403_1",
+    "tender": {
+      "id": "2026_BHEL_62403_1",
+      "title": "ANGE000178",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-02T00:00:00Z"
+      },
+      "description": "ANGE000178"
+    },
+    "buyer": {
+      "name": "Bharat Heavy Electricals Limited||EDN - Bangalore",
+      "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+    },
+    "date": "2026-06-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62403_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BHEL_62403_1",
+        "url": "/files/3b2a5d7025fbe54ee81dd541daa6179dac8232eff5c68215069c9b0995a9fd2d.txt",
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDkpyak5MElWxYfdvq9ddmA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3b2a5d7025fbe54ee81dd541daa6179dac8232eff5c68215069c9b0995a9fd2d",
+        "format": "text/plain",
+        "textUrl": "/files/3b2a5d7025fbe54ee81dd541daa6179dac8232eff5c68215069c9b0995a9fd2d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bhel-2026_BHEL_62403_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDkpyak5MElWxYfdvq9ddmA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_62403_1",
+      "observedAt": "2026-07-02T03:07:50Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "521f1957fd105e0c80583dc0e151230ee5fb008e9ff6b286bbdefdfc3ca1a472",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_62403_1-0001-record",
+          "sha256": "3b2a5d7025fbe54ee81dd541daa6179dac8232eff5c68215069c9b0995a9fd2d"
+        }
+      ],
+      "snapshotUrl": "/files/69486101b8ad41a059f6b87e8cd195bd3b604b3ab4b20e49838b5d2dfd89b491.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-02T03:07:50Z",
+    "lastObserved": "2026-07-02T03:07:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

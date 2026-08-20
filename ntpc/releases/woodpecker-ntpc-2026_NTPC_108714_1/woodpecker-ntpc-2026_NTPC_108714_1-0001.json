@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108714_1",
+  "id": "woodpecker-ntpc-2026_NTPC_108714_1-0001",
+  "date": "2026-06-01T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "NTPC Limited||Corporate Centre||Corporate Materials",
+    "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+  },
+  "tender": {
+    "id": "2026_NTPC_108714_1",
+    "title": "As per bid documents",
+    "status": "active",
+    "procuringEntity": {
+      "name": "NTPC Limited||Corporate Centre||Corporate Materials",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+    },
+    "mainProcurementCategory": "works",
+    "tenderPeriod": {
+      "endDate": "2026-06-29T00:00:00Z"
+    },
+    "description": "As per bid documents"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_108714_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_NTPC_108714_1",
+      "url": "/files/d70b34380e510b994da2bfa14cb2a47853e93b357f7004dcac68e9bf8d7ef02a.txt",
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOuJm2JSTlyFQNhJY%2F8%2FViw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "d70b34380e510b994da2bfa14cb2a47853e93b357f7004dcac68e9bf8d7ef02a",
+      "format": "text/plain",
+      "textUrl": "/files/d70b34380e510b994da2bfa14cb2a47853e93b357f7004dcac68e9bf8d7ef02a.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_108714_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOuJm2JSTlyFQNhJY%2F8%2FViw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "ocid": "woodpecker-jammukashmir-2026_PWDJK_314865_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_PWDJK_314865_1",
+      "id": "woodpecker-jammukashmir-2026_PWDJK_314865_1-0001",
+      "date": "2026-07-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tender": {
+        "id": "2026_PWDJK_314865_1",
+        "title": "Remaining Portion of Noorkhah to Reshawari Bridge Balance",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Unknown Organisation",
+          "id": "IN-ORG-unknown-organisation"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-24T00:00:00Z"
+        },
+        "description": "Remaining Portion of Noorkhah to Reshawari Bridge Balance"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_PWDJK_314865_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWDJK_314865_1",
+          "url": "/files/7d7979e51196b978978a1215f2b30ef7b6a4d7633260a4f8ee29ef0d90503f81.txt",
+          "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S1osJzbTfyCzqoRK6MzSRog%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7d7979e51196b978978a1215f2b30ef7b6a4d7633260a4f8ee29ef0d90503f81",
+          "format": "text/plain",
+          "textUrl": "/files/7d7979e51196b978978a1215f2b30ef7b6a4d7633260a4f8ee29ef0d90503f81.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jammukashmir-2026_PWDJK_314865_1",
+    "tender": {
+      "id": "2026_PWDJK_314865_1",
+      "title": "Remaining Portion of Noorkhah to Reshawari Bridge Balance",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Unknown Organisation",
+        "id": "IN-ORG-unknown-organisation"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-24T00:00:00Z"
+      },
+      "description": "Remaining Portion of Noorkhah to Reshawari Bridge Balance"
+    },
+    "buyer": {
+      "name": "Unknown Organisation",
+      "id": "IN-ORG-unknown-organisation"
+    },
+    "date": "2026-07-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jammukashmir-2026_PWDJK_314865_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWDJK_314865_1",
+        "url": "/files/7d7979e51196b978978a1215f2b30ef7b6a4d7633260a4f8ee29ef0d90503f81.txt",
+        "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S1osJzbTfyCzqoRK6MzSRog%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7d7979e51196b978978a1215f2b30ef7b6a4d7633260a4f8ee29ef0d90503f81",
+        "format": "text/plain",
+        "textUrl": "/files/7d7979e51196b978978a1215f2b30ef7b6a4d7633260a4f8ee29ef0d90503f81.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_PWDJK_314865_1",
+      "observedAt": "2026-07-24T02:23:45Z",
+      "witness": "woodpecker:jammukashmir",
+      "availability": "present",
+      "stateHash": "938407c01db1b926dab8b748165ad7a9f2c83165b83df6b1b6758f266f7e6ace",
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_PWDJK_314865_1-0001-record",
+          "sha256": "7d7979e51196b978978a1215f2b30ef7b6a4d7633260a4f8ee29ef0d90503f81"
+        }
+      ],
+      "snapshotUrl": "/files/db20d2171e9f59bc8849fbd827a99d46a3573f15596dbda5d2c8d758dc515e7d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-24T02:23:45Z",
+    "lastObserved": "2026-07-24T02:23:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

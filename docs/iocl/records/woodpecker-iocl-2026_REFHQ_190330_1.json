@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_REFHQ_190330_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_190330_1",
+      "id": "woodpecker-iocl-2026_REFHQ_190330_1-0001",
+      "date": "2026-06-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "tender": {
+        "id": "2026_REFHQ_190330_1",
+        "title": "Rate Contract for Procurement of Cetane Improver for IOCL Refinery Units",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Refineries HQ||Materials",
+          "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-28T00:00:00Z"
+        },
+        "description": "Rate Contract for Procurement of Cetane Improver for IOCL Refinery Units"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190330_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_REFHQ_190330_1",
+          "url": "/files/eab529c8f2741772158fc179db8cf4686fc4617620c446a7bca1cb3e31838160.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BxJbpWgK74%2B8kB2ViOkq5w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "eab529c8f2741772158fc179db8cf4686fc4617620c446a7bca1cb3e31838160",
+          "format": "text/plain",
+          "textUrl": "/files/eab529c8f2741772158fc179db8cf4686fc4617620c446a7bca1cb3e31838160.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190330_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BxJbpWgK74%2B8kB2ViOkq5w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_REFHQ_190330_1",
+    "tender": {
+      "id": "2026_REFHQ_190330_1",
+      "title": "Rate Contract for Procurement of Cetane Improver for IOCL Refinery Units",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-28T00:00:00Z"
+      },
+      "description": "Rate Contract for Procurement of Cetane Improver for IOCL Refinery Units"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Refineries HQ||Materials",
+      "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+    },
+    "date": "2026-06-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_190330_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_REFHQ_190330_1",
+        "url": "/files/eab529c8f2741772158fc179db8cf4686fc4617620c446a7bca1cb3e31838160.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BxJbpWgK74%2B8kB2ViOkq5w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "eab529c8f2741772158fc179db8cf4686fc4617620c446a7bca1cb3e31838160",
+        "format": "text/plain",
+        "textUrl": "/files/eab529c8f2741772158fc179db8cf4686fc4617620c446a7bca1cb3e31838160.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_190330_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BxJbpWgK74%2B8kB2ViOkq5w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_190330_1",
+      "observedAt": "2026-07-28T02:40:20Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "8ead9a772622f758d43eff3e0b7ea5d7da96f0551f5a7dc63a01b32a19943da2",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_190330_1-0001-record",
+          "sha256": "eab529c8f2741772158fc179db8cf4686fc4617620c446a7bca1cb3e31838160"
+        }
+      ],
+      "snapshotUrl": "/files/6b856c3ac2c0ca0d38307fce0172bb332dd3853081fed6ee76d6152bf547dc80.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-28T02:40:20Z",
+    "lastObserved": "2026-07-28T02:40:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

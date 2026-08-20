@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_107516_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107516_1",
+      "id": "woodpecker-ntpc-2026_NTPC_107516_1-0001",
+      "date": "2026-04-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Coal Mining",
+        "id": "IN-ORG-ntpc-limited-coal-mining"
+      },
+      "tender": {
+        "id": "2026_NTPC_107516_1",
+        "title": "Coal Handling Plant Package for Chatti Bariatu Coal Mining Project",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Coal Mining",
+          "id": "IN-ORG-ntpc-limited-coal-mining"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-07-17T00:00:00Z"
+        },
+        "description": "Coal Handling Plant Package for Chatti Bariatu Coal Mining Project"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107516_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_107516_1",
+          "url": "/files/03b61957dfc22d829fb0028682d68ee167e63176a22e46d7e085565ec442fc8c.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx2%2FcqytX5O5TTHFuTO2nfw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "03b61957dfc22d829fb0028682d68ee167e63176a22e46d7e085565ec442fc8c",
+          "format": "text/plain",
+          "textUrl": "/files/03b61957dfc22d829fb0028682d68ee167e63176a22e46d7e085565ec442fc8c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107516_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx2%2FcqytX5O5TTHFuTO2nfw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_107516_1",
+    "tender": {
+      "id": "2026_NTPC_107516_1",
+      "title": "Coal Handling Plant Package for Chatti Bariatu Coal Mining Project",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Coal Mining",
+        "id": "IN-ORG-ntpc-limited-coal-mining"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-07-17T00:00:00Z"
+      },
+      "description": "Coal Handling Plant Package for Chatti Bariatu Coal Mining Project"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Coal Mining",
+      "id": "IN-ORG-ntpc-limited-coal-mining"
+    },
+    "date": "2026-04-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107516_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_107516_1",
+        "url": "/files/03b61957dfc22d829fb0028682d68ee167e63176a22e46d7e085565ec442fc8c.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx2%2FcqytX5O5TTHFuTO2nfw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "03b61957dfc22d829fb0028682d68ee167e63176a22e46d7e085565ec442fc8c",
+        "format": "text/plain",
+        "textUrl": "/files/03b61957dfc22d829fb0028682d68ee167e63176a22e46d7e085565ec442fc8c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_107516_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sx2%2FcqytX5O5TTHFuTO2nfw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_107516_1",
+      "observedAt": "2026-07-17T02:41:49Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "12c0d6077a82d7e0b20b1462a38687ce2fb2a9af132b2a9fb059fd61a1bfddc7",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_107516_1-0001-record",
+          "sha256": "03b61957dfc22d829fb0028682d68ee167e63176a22e46d7e085565ec442fc8c"
+        }
+      ],
+      "snapshotUrl": "/files/27805e41675a1a43dfd5912c687dd36037545c6c9e2c5c0c02592730ec897df8.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-17T02:41:49Z",
+    "lastObserved": "2026-07-17T02:41:49Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

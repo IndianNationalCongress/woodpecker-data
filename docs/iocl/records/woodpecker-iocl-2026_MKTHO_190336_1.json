@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_MKTHO_190336_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_MKTHO_190336_1",
+      "id": "woodpecker-iocl-2026_MKTHO_190336_1-0001",
+      "date": "2026-06-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Marketing||Marketing HO||S and D",
+        "id": "IN-ORG-indianoil-marketing-marketing-ho-s-and-d"
+      },
+      "tender": {
+        "id": "2026_MKTHO_190336_1",
+        "title": "Empanelment of vendors for supply of Biodiesel (B-100) produced from all feedstocks",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Marketing||Marketing HO||S and D",
+          "id": "IN-ORG-indianoil-marketing-marketing-ho-s-and-d"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-18T00:00:00Z"
+        },
+        "description": "Empanelment of vendors for supply of Biodiesel (B-100) produced from all feedstocks"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_MKTHO_190336_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MKTHO_190336_1",
+          "url": "/files/0a35553a8704b87a2651eb71a05a2b12a8267cd564ae45725f49a195bd276a86.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFxAvDG28Myt9hLOIpUrrcg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0a35553a8704b87a2651eb71a05a2b12a8267cd564ae45725f49a195bd276a86",
+          "format": "text/plain",
+          "textUrl": "/files/0a35553a8704b87a2651eb71a05a2b12a8267cd564ae45725f49a195bd276a86.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_MKTHO_190336_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFxAvDG28Myt9hLOIpUrrcg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_MKTHO_190336_1",
+    "tender": {
+      "id": "2026_MKTHO_190336_1",
+      "title": "Empanelment of vendors for supply of Biodiesel (B-100) produced from all feedstocks",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Marketing||Marketing HO||S and D",
+        "id": "IN-ORG-indianoil-marketing-marketing-ho-s-and-d"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-18T00:00:00Z"
+      },
+      "description": "Empanelment of vendors for supply of Biodiesel (B-100) produced from all feedstocks"
+    },
+    "buyer": {
+      "name": "IndianOil||Marketing||Marketing HO||S and D",
+      "id": "IN-ORG-indianoil-marketing-marketing-ho-s-and-d"
+    },
+    "date": "2026-06-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_MKTHO_190336_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MKTHO_190336_1",
+        "url": "/files/0a35553a8704b87a2651eb71a05a2b12a8267cd564ae45725f49a195bd276a86.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFxAvDG28Myt9hLOIpUrrcg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0a35553a8704b87a2651eb71a05a2b12a8267cd564ae45725f49a195bd276a86",
+        "format": "text/plain",
+        "textUrl": "/files/0a35553a8704b87a2651eb71a05a2b12a8267cd564ae45725f49a195bd276a86.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_MKTHO_190336_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SFxAvDG28Myt9hLOIpUrrcg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_MKTHO_190336_1",
+      "observedAt": "2026-07-18T02:31:17Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "43dbcaf457073db3f195b875468bea66975ad908d59378723db803e6c1a77621",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_MKTHO_190336_1-0001-record",
+          "sha256": "0a35553a8704b87a2651eb71a05a2b12a8267cd564ae45725f49a195bd276a86"
+        }
+      ],
+      "snapshotUrl": "/files/cfa0b7d6a872110c2c5c51c79d4fd08b447c014ce3c818840b098bb5803edaed.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-18T02:31:17Z",
+    "lastObserved": "2026-07-18T02:31:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

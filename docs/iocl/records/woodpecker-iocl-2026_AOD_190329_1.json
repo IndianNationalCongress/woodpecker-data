@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_AOD_190329_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_AOD_190329_1",
+      "id": "woodpecker-iocl-2026_AOD_190329_1-0001",
+      "date": "2026-06-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||AOD Digboi||Contracts Section",
+        "id": "IN-ORG-indianoil-refineries-aod-digboi-contract"
+      },
+      "tender": {
+        "id": "2026_AOD_190329_1",
+        "title": "Service Contract for Troubleshooting and Revival of GT3",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||AOD Digboi||Contracts Section",
+          "id": "IN-ORG-indianoil-refineries-aod-digboi-contract"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-06-26T00:00:00Z"
+        },
+        "description": "Service Contract for Troubleshooting and Revival of GT3"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_AOD_190329_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_AOD_190329_1",
+          "url": "/files/6c5065ca4f213cf91c16067a34ee84affdf8c4cd731fe9e80cdd5e0f31e0f911.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6EUja6JYXIS1UkX5%2B%2BE4uw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6c5065ca4f213cf91c16067a34ee84affdf8c4cd731fe9e80cdd5e0f31e0f911",
+          "format": "text/plain",
+          "textUrl": "/files/6c5065ca4f213cf91c16067a34ee84affdf8c4cd731fe9e80cdd5e0f31e0f911.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_AOD_190329_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6EUja6JYXIS1UkX5%2B%2BE4uw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_AOD_190329_1",
+    "tender": {
+      "id": "2026_AOD_190329_1",
+      "title": "Service Contract for Troubleshooting and Revival of GT3",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||AOD Digboi||Contracts Section",
+        "id": "IN-ORG-indianoil-refineries-aod-digboi-contract"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-06-26T00:00:00Z"
+      },
+      "description": "Service Contract for Troubleshooting and Revival of GT3"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||AOD Digboi||Contracts Section",
+      "id": "IN-ORG-indianoil-refineries-aod-digboi-contract"
+    },
+    "date": "2026-06-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_AOD_190329_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_AOD_190329_1",
+        "url": "/files/6c5065ca4f213cf91c16067a34ee84affdf8c4cd731fe9e80cdd5e0f31e0f911.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6EUja6JYXIS1UkX5%2B%2BE4uw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6c5065ca4f213cf91c16067a34ee84affdf8c4cd731fe9e80cdd5e0f31e0f911",
+        "format": "text/plain",
+        "textUrl": "/files/6c5065ca4f213cf91c16067a34ee84affdf8c4cd731fe9e80cdd5e0f31e0f911.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_AOD_190329_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6EUja6JYXIS1UkX5%2B%2BE4uw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_AOD_190329_1",
+      "observedAt": "2026-06-26T02:53:13Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "7df455839e52301207bc97b7d5b10527aa4559c3d542becf9b9203a092ffabce",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_AOD_190329_1-0001-record",
+          "sha256": "6c5065ca4f213cf91c16067a34ee84affdf8c4cd731fe9e80cdd5e0f31e0f911"
+        }
+      ],
+      "snapshotUrl": "/files/7e3bec222f7c6395430a0623574f4365deb2f9b067e3b470c3d5d47b7cda3551.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-06-26T02:53:13Z",
+    "lastObserved": "2026-06-26T02:53:13Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_DOP_914762_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DOP_914762_1",
+      "id": "woodpecker-cppp-2026_DOP_914762_1-0001",
+      "date": "2026-06-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Posts||Himachal Pradesh Circle, Dept of Posts||Chief Postmaster General,HP,POST",
+        "id": "IN-ORG-department-of-posts-himachal-pradesh-cir"
+      },
+      "tender": {
+        "id": "2026_DOP_914762_1",
+        "title": "AS PER TENDER DOCUMENT",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Posts||Himachal Pradesh Circle, Dept of Posts||Chief Postmaster General,HP,POST",
+          "id": "IN-ORG-department-of-posts-himachal-pradesh-cir"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 99821,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-01T00:00:00Z"
+        },
+        "description": "AS PER TENDER DOCUMENT"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DOP_914762_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DOP_914762_1",
+          "url": "/files/fcfa2b1aa1ca017e7c93ab14922b09e90b805aa6cbe13684667ebc0a8118bd56.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SR7jTuLrCeqYwmerhDQuHOw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "fcfa2b1aa1ca017e7c93ab14922b09e90b805aa6cbe13684667ebc0a8118bd56",
+          "format": "text/plain",
+          "textUrl": "/files/fcfa2b1aa1ca017e7c93ab14922b09e90b805aa6cbe13684667ebc0a8118bd56.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DOP_914762_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SR7jTuLrCeqYwmerhDQuHOw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DOP_914762_1",
+    "tender": {
+      "id": "2026_DOP_914762_1",
+      "title": "AS PER TENDER DOCUMENT",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Posts||Himachal Pradesh Circle, Dept of Posts||Chief Postmaster General,HP,POST",
+        "id": "IN-ORG-department-of-posts-himachal-pradesh-cir"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 99821,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-01T00:00:00Z"
+      },
+      "description": "AS PER TENDER DOCUMENT"
+    },
+    "buyer": {
+      "name": "Department of Posts||Himachal Pradesh Circle, Dept of Posts||Chief Postmaster General,HP,POST",
+      "id": "IN-ORG-department-of-posts-himachal-pradesh-cir"
+    },
+    "date": "2026-06-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DOP_914762_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DOP_914762_1",
+        "url": "/files/fcfa2b1aa1ca017e7c93ab14922b09e90b805aa6cbe13684667ebc0a8118bd56.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SR7jTuLrCeqYwmerhDQuHOw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "fcfa2b1aa1ca017e7c93ab14922b09e90b805aa6cbe13684667ebc0a8118bd56",
+        "format": "text/plain",
+        "textUrl": "/files/fcfa2b1aa1ca017e7c93ab14922b09e90b805aa6cbe13684667ebc0a8118bd56.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DOP_914762_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SR7jTuLrCeqYwmerhDQuHOw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DOP_914762_1",
+      "observedAt": "2026-07-01T01:46:18Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "7983794cf96468ccf3d307f9be6d5135565b10a243fd4fd6828b222f6316708e",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DOP_914762_1-0001-record",
+          "sha256": "fcfa2b1aa1ca017e7c93ab14922b09e90b805aa6cbe13684667ebc0a8118bd56"
+        }
+      ],
+      "snapshotUrl": "/files/8ad7adaf5e442073f6bded24f16fa21195dbc10bba4d1c366710a7e86e4b6ad9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-01T01:46:18Z",
+    "lastObserved": "2026-07-01T01:46:18Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

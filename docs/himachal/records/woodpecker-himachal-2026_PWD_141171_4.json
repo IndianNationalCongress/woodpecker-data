@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_141171_4",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_141171_4",
+      "id": "woodpecker-himachal-2026_PWD_141171_4-0001",
+      "date": "2026-08-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_141171_4",
+        "title": "Partition of three rooms and painting work etc",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 640934,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-19T00:00:00Z"
+        },
+        "description": "Partition of three rooms and painting work etc"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_141171_4-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_141171_4",
+          "url": "/files/cd7af51513c19624118b35e86ed52dc4372e9388e2c3c84abde86163211daa63.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIqmiHFrNoH8%2F0Uv1oNvoDA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cd7af51513c19624118b35e86ed52dc4372e9388e2c3c84abde86163211daa63",
+          "format": "text/plain",
+          "textUrl": "/files/cd7af51513c19624118b35e86ed52dc4372e9388e2c3c84abde86163211daa63.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_141171_4-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIqmiHFrNoH8%2F0Uv1oNvoDA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_141171_4",
+    "tender": {
+      "id": "2026_PWD_141171_4",
+      "title": "Partition of three rooms and painting work etc",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 640934,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-19T00:00:00Z"
+      },
+      "description": "Partition of three rooms and painting work etc"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-08-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_141171_4-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_141171_4",
+        "url": "/files/cd7af51513c19624118b35e86ed52dc4372e9388e2c3c84abde86163211daa63.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIqmiHFrNoH8%2F0Uv1oNvoDA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cd7af51513c19624118b35e86ed52dc4372e9388e2c3c84abde86163211daa63",
+        "format": "text/plain",
+        "textUrl": "/files/cd7af51513c19624118b35e86ed52dc4372e9388e2c3c84abde86163211daa63.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_141171_4-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIqmiHFrNoH8%2F0Uv1oNvoDA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_141171_4",
+      "observedAt": "2026-08-19T00:41:19Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "b2f76b2b49c9253d44ce103ac2926c78f6351a278a18878631ba6596521a2a65",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_141171_4-0001-record",
+          "sha256": "cd7af51513c19624118b35e86ed52dc4372e9388e2c3c84abde86163211daa63"
+        }
+      ],
+      "snapshotUrl": "/files/a7ffa53214a6f66d76deffc5532e361996b4c36b85f6388257a3e4cd031d8aad.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-19T00:41:19Z",
+    "lastObserved": "2026-08-19T00:41:19Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

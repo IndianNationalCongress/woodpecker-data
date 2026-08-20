@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110010_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110010_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110010_1-0001",
+      "date": "2026-07-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110010_1",
+        "title": "Biennial Maintenance Contract for SIEMENS make PLC systems installed at NTPC Rihand",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-07-23T00:00:00Z"
+        },
+        "description": "Biennial Maintenance Contract for SIEMENS make PLC systems installed at NTPC Rihand"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110010_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110010_1",
+          "url": "/files/38b7e9411330378ccf74b1a2d6f193669cf22fc524294737ba5629c0451f090d.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvXWEVKoyr146Z50A2tZjTg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "38b7e9411330378ccf74b1a2d6f193669cf22fc524294737ba5629c0451f090d",
+          "format": "text/plain",
+          "textUrl": "/files/38b7e9411330378ccf74b1a2d6f193669cf22fc524294737ba5629c0451f090d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110010_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvXWEVKoyr146Z50A2tZjTg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110010_1",
+    "tender": {
+      "id": "2026_NTPC_110010_1",
+      "title": "Biennial Maintenance Contract for SIEMENS make PLC systems installed at NTPC Rihand",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-07-23T00:00:00Z"
+      },
+      "description": "Biennial Maintenance Contract for SIEMENS make PLC systems installed at NTPC Rihand"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110010_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110010_1",
+        "url": "/files/38b7e9411330378ccf74b1a2d6f193669cf22fc524294737ba5629c0451f090d.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvXWEVKoyr146Z50A2tZjTg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "38b7e9411330378ccf74b1a2d6f193669cf22fc524294737ba5629c0451f090d",
+        "format": "text/plain",
+        "textUrl": "/files/38b7e9411330378ccf74b1a2d6f193669cf22fc524294737ba5629c0451f090d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110010_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvXWEVKoyr146Z50A2tZjTg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110010_1",
+      "observedAt": "2026-07-23T02:35:57Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "e70459e5d9c020c95c7bf1a31e7ba627ef1b89c28ca4340c56038035bc1eada2",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110010_1-0001-record",
+          "sha256": "38b7e9411330378ccf74b1a2d6f193669cf22fc524294737ba5629c0451f090d"
+        }
+      ],
+      "snapshotUrl": "/files/90decf21fa79e29ff81310ae949c6911e574ce485d0b36b7e877e60ecfa1762f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-23T02:35:57Z",
+    "lastObserved": "2026-07-23T02:35:57Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

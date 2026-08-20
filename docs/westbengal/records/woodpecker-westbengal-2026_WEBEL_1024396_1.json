@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-westbengal-2026_WEBEL_1024396_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-westbengal-2026_WEBEL_1024396_1",
+      "id": "woodpecker-westbengal-2026_WEBEL_1024396_1-0001",
+      "date": "2026-05-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "WEBEL||COMMERCIAL DEPT.",
+        "id": "IN-ORG-webel-commercial-dept"
+      },
+      "tender": {
+        "id": "2026_WEBEL_1024396_1",
+        "title": "TENDER NOTICE",
+        "status": "active",
+        "procuringEntity": {
+          "name": "WEBEL||COMMERCIAL DEPT.",
+          "id": "IN-ORG-webel-commercial-dept"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 130220,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-14T00:00:00Z"
+        },
+        "description": "TENDER NOTICE"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-westbengal-2026_WEBEL_1024396_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_WEBEL_1024396_1",
+          "url": "/files/ebc41b4ed783b41f968393727cb0a9f92eb001bd5cda931b19bb0c7906ca6f26.txt",
+          "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG1AcP7BLdIUcYjPD0SgIGw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ebc41b4ed783b41f968393727cb0a9f92eb001bd5cda931b19bb0c7906ca6f26",
+          "format": "text/plain",
+          "textUrl": "/files/ebc41b4ed783b41f968393727cb0a9f92eb001bd5cda931b19bb0c7906ca6f26.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-westbengal-2026_WEBEL_1024396_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG1AcP7BLdIUcYjPD0SgIGw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-westbengal-2026_WEBEL_1024396_1",
+    "tender": {
+      "id": "2026_WEBEL_1024396_1",
+      "title": "TENDER NOTICE",
+      "status": "active",
+      "procuringEntity": {
+        "name": "WEBEL||COMMERCIAL DEPT.",
+        "id": "IN-ORG-webel-commercial-dept"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 130220,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-14T00:00:00Z"
+      },
+      "description": "TENDER NOTICE"
+    },
+    "buyer": {
+      "name": "WEBEL||COMMERCIAL DEPT.",
+      "id": "IN-ORG-webel-commercial-dept"
+    },
+    "date": "2026-05-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-westbengal-2026_WEBEL_1024396_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_WEBEL_1024396_1",
+        "url": "/files/ebc41b4ed783b41f968393727cb0a9f92eb001bd5cda931b19bb0c7906ca6f26.txt",
+        "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG1AcP7BLdIUcYjPD0SgIGw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ebc41b4ed783b41f968393727cb0a9f92eb001bd5cda931b19bb0c7906ca6f26",
+        "format": "text/plain",
+        "textUrl": "/files/ebc41b4ed783b41f968393727cb0a9f92eb001bd5cda931b19bb0c7906ca6f26.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-westbengal-2026_WEBEL_1024396_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SG1AcP7BLdIUcYjPD0SgIGw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-westbengal-2026_WEBEL_1024396_1",
+      "observedAt": "2026-07-14T01:29:38Z",
+      "witness": "woodpecker:westbengal",
+      "availability": "present",
+      "stateHash": "1ec898002188dda655c24763f4740cd9a791647333c85b13ef3b7f644537b89b",
+      "documents": [
+        {
+          "id": "woodpecker-westbengal-2026_WEBEL_1024396_1-0001-record",
+          "sha256": "ebc41b4ed783b41f968393727cb0a9f92eb001bd5cda931b19bb0c7906ca6f26"
+        }
+      ],
+      "snapshotUrl": "/files/4388226dac8e9de383d2c34f4c4a5c605550186e359e9d592579435b26c33941.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-14T01:29:38Z",
+    "lastObserved": "2026-07-14T01:29:38Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

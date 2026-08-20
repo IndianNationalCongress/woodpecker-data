@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-iocl-2026_ERKLK_190695_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERKLK_190695_1",
+      "id": "woodpecker-iocl-2026_ERKLK_190695_1-0001",
+      "date": "2026-07-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Pipelines||ERPL Kolkata||Materials",
+        "id": "IN-ORG-indianoil-pipelines-erpl-kolkata-materia"
+      },
+      "tender": {
+        "id": "2026_ERKLK_190695_1",
+        "title": "Maintenance and Inspection of 250 KL Surge Relief cum Transmix Tank at ERPL Lucknow",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Pipelines||ERPL Kolkata||Materials",
+          "id": "IN-ORG-indianoil-pipelines-erpl-kolkata-materia"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 3845227,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-06T00:00:00Z"
+        },
+        "description": "Maintenance and Inspection of 250 KL Surge Relief cum Transmix Tank at ERPL Lucknow"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERKLK_190695_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ERKLK_190695_1",
+          "url": "/files/f08b89214ba9c1958dc17da34c489b60e2a12b71a62afdc2ec9ab3fbf1679ad0.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7KjWJusnKC4EkczZ9dfKlg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f08b89214ba9c1958dc17da34c489b60e2a12b71a62afdc2ec9ab3fbf1679ad0",
+          "format": "text/plain",
+          "textUrl": "/files/f08b89214ba9c1958dc17da34c489b60e2a12b71a62afdc2ec9ab3fbf1679ad0.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_ERKLK_190695_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7KjWJusnKC4EkczZ9dfKlg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_ERKLK_190695_1",
+    "tender": {
+      "id": "2026_ERKLK_190695_1",
+      "title": "Maintenance and Inspection of 250 KL Surge Relief cum Transmix Tank at ERPL Lucknow",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Pipelines||ERPL Kolkata||Materials",
+        "id": "IN-ORG-indianoil-pipelines-erpl-kolkata-materia"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 3845227,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-06T00:00:00Z"
+      },
+      "description": "Maintenance and Inspection of 250 KL Surge Relief cum Transmix Tank at ERPL Lucknow"
+    },
+    "buyer": {
+      "name": "IndianOil||Pipelines||ERPL Kolkata||Materials",
+      "id": "IN-ORG-indianoil-pipelines-erpl-kolkata-materia"
+    },
+    "date": "2026-07-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_ERKLK_190695_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ERKLK_190695_1",
+        "url": "/files/f08b89214ba9c1958dc17da34c489b60e2a12b71a62afdc2ec9ab3fbf1679ad0.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7KjWJusnKC4EkczZ9dfKlg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f08b89214ba9c1958dc17da34c489b60e2a12b71a62afdc2ec9ab3fbf1679ad0",
+        "format": "text/plain",
+        "textUrl": "/files/f08b89214ba9c1958dc17da34c489b60e2a12b71a62afdc2ec9ab3fbf1679ad0.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_ERKLK_190695_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7KjWJusnKC4EkczZ9dfKlg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERKLK_190695_1",
+      "observedAt": "2026-08-06T02:39:32Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "023da899c4b11033d472dfbb2bb23a098d4dea0a2d5575fcf4928114d525c3d2",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERKLK_190695_1-0001-record",
+          "sha256": "f08b89214ba9c1958dc17da34c489b60e2a12b71a62afdc2ec9ab3fbf1679ad0"
+        }
+      ],
+      "snapshotUrl": "/files/896f38eb75ded7a9d57ba2e7707ad091e276a40e5c74866f9775d12f06b91ea9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-06T02:39:32Z",
+    "lastObserved": "2026-08-06T02:39:32Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

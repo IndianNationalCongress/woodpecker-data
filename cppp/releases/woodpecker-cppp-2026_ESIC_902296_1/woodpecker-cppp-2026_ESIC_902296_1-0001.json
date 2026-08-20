@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-cppp-2026_ESIC_902296_1",
+  "id": "woodpecker-cppp-2026_ESIC_902296_1-0001",
+  "date": "2026-03-12T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "Employees State Insurance Corporation||ESIC Hqrs. Office - New Delhi",
+    "id": "IN-ORG-employees-state-insurance-corporation-es"
+  },
+  "tender": {
+    "id": "2026_ESIC_902296_1",
+    "title": "As per Tender Document",
+    "status": "active",
+    "procuringEntity": {
+      "name": "Employees State Insurance Corporation||ESIC Hqrs. Office - New Delhi",
+      "id": "IN-ORG-employees-state-insurance-corporation-es"
+    },
+    "mainProcurementCategory": "goods",
+    "tenderPeriod": {
+      "endDate": "2026-07-01T00:00:00Z"
+    },
+    "description": "As per Tender Document"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-cppp-2026_ESIC_902296_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_ESIC_902296_1",
+      "url": "/files/7f49fe592d44b2cdc7e4abb559c56ca2af4cbdb888caf51aa572b8ad38053cfd.txt",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SS7BsS3hAoriAgIWiio4DXQ%3D%3D",
+      "sourceAlive": true,
+      "sha256": "7f49fe592d44b2cdc7e4abb559c56ca2af4cbdb888caf51aa572b8ad38053cfd",
+      "format": "text/plain",
+      "textUrl": "/files/7f49fe592d44b2cdc7e4abb559c56ca2af4cbdb888caf51aa572b8ad38053cfd.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-cppp-2026_ESIC_902296_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SS7BsS3hAoriAgIWiio4DXQ%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

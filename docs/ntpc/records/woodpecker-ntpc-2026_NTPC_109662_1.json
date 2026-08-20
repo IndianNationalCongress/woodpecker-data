@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109662_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109662_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109662_1-0001",
+      "date": "2026-07-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_109662_1",
+        "title": "Painting Works in Administrative Building in NTPC Farakka",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-07-09T00:00:00Z"
+        },
+        "description": "Painting Works in Administrative Building in NTPC Farakka"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109662_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109662_1",
+          "url": "/files/c1c9afd1d25de23c800610ef90792069f7de6b3b953a690d5247b015246edb80.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLEu9aKEzTdOBV%2B6S%2FcYzew%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c1c9afd1d25de23c800610ef90792069f7de6b3b953a690d5247b015246edb80",
+          "format": "text/plain",
+          "textUrl": "/files/c1c9afd1d25de23c800610ef90792069f7de6b3b953a690d5247b015246edb80.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109662_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLEu9aKEzTdOBV%2B6S%2FcYzew%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109662_1",
+    "tender": {
+      "id": "2026_NTPC_109662_1",
+      "title": "Painting Works in Administrative Building in NTPC Farakka",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-07-09T00:00:00Z"
+      },
+      "description": "Painting Works in Administrative Building in NTPC Farakka"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-07-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109662_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109662_1",
+        "url": "/files/c1c9afd1d25de23c800610ef90792069f7de6b3b953a690d5247b015246edb80.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLEu9aKEzTdOBV%2B6S%2FcYzew%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c1c9afd1d25de23c800610ef90792069f7de6b3b953a690d5247b015246edb80",
+        "format": "text/plain",
+        "textUrl": "/files/c1c9afd1d25de23c800610ef90792069f7de6b3b953a690d5247b015246edb80.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109662_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLEu9aKEzTdOBV%2B6S%2FcYzew%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109662_1",
+      "observedAt": "2026-07-09T02:42:42Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "ac52d6da6c33e8f99e7742af01c15d44b09b0cfba3a32adab4bdc81f571023e8",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109662_1-0001-record",
+          "sha256": "c1c9afd1d25de23c800610ef90792069f7de6b3b953a690d5247b015246edb80"
+        }
+      ],
+      "snapshotUrl": "/files/8ee73367a9d68e4eded267ad19404df9b98a24ccbbc0a5a08230a90447e1f8c2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-09T02:42:42Z",
+    "lastObserved": "2026-07-09T02:42:42Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

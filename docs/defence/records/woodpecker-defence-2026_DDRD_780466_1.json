@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_DDRD_780466_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_DDRD_780466_1",
+      "id": "woodpecker-defence-2026_DDRD_780466_1-0001",
+      "date": "2026-07-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Defence Research and Development||Defence Institute of Advanced Technology",
+        "id": "IN-ORG-department-of-defence-research-and-devel"
+      },
+      "tender": {
+        "id": "2026_DDRD_780466_1",
+        "title": "Supply of Customized Drone and Gimbal System",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Defence Research and Development||Defence Institute of Advanced Technology",
+          "id": "IN-ORG-department-of-defence-research-and-devel"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-03T00:00:00Z"
+        },
+        "description": "Supply of Customized Drone and Gimbal System"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_DDRD_780466_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DDRD_780466_1",
+          "url": "/files/428c0b8e3a54287ecb744600dda16fe11f09b88c6730da81b37ae9890427fb34.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXuqaiEIt%2FI47MJ4frlUoCA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "428c0b8e3a54287ecb744600dda16fe11f09b88c6730da81b37ae9890427fb34",
+          "format": "text/plain",
+          "textUrl": "/files/428c0b8e3a54287ecb744600dda16fe11f09b88c6730da81b37ae9890427fb34.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_DDRD_780466_1",
+    "tender": {
+      "id": "2026_DDRD_780466_1",
+      "title": "Supply of Customized Drone and Gimbal System",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Defence Research and Development||Defence Institute of Advanced Technology",
+        "id": "IN-ORG-department-of-defence-research-and-devel"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-03T00:00:00Z"
+      },
+      "description": "Supply of Customized Drone and Gimbal System"
+    },
+    "buyer": {
+      "name": "Department of Defence Research and Development||Defence Institute of Advanced Technology",
+      "id": "IN-ORG-department-of-defence-research-and-devel"
+    },
+    "date": "2026-07-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_DDRD_780466_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DDRD_780466_1",
+        "url": "/files/428c0b8e3a54287ecb744600dda16fe11f09b88c6730da81b37ae9890427fb34.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXuqaiEIt%2FI47MJ4frlUoCA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "428c0b8e3a54287ecb744600dda16fe11f09b88c6730da81b37ae9890427fb34",
+        "format": "text/plain",
+        "textUrl": "/files/428c0b8e3a54287ecb744600dda16fe11f09b88c6730da81b37ae9890427fb34.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_DDRD_780466_1",
+      "observedAt": "2026-08-03T02:07:07Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "2a6de40c6a61945c1dec8c33d1ad36887240b806736e32abaa5aab0872ddde97",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_DDRD_780466_1-0001-record",
+          "sha256": "428c0b8e3a54287ecb744600dda16fe11f09b88c6730da81b37ae9890427fb34"
+        }
+      ],
+      "snapshotUrl": "/files/b15ee481d686d3b8aa4699421f6efc0c629e19fd5bdcd3b161fa3411768fb3b6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-03T02:07:07Z",
+    "lastObserved": "2026-08-03T02:07:07Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

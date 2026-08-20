@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_PRD_577403_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_PRD_577403_1",
+      "id": "woodpecker-rajasthan-2026_PRD_577403_1-0001",
+      "date": "2026-07-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Panchayati Raj Department",
+        "id": "IN-ORG-panchayati-raj-department"
+      },
+      "tender": {
+        "id": "2026_PRD_577403_1",
+        "title": "PLANTATION WORK",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Panchayati Raj Department",
+          "id": "IN-ORG-panchayati-raj-department"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-07-29T00:00:00Z"
+        },
+        "description": "PLANTATION WORK"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_PRD_577403_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PRD_577403_1",
+          "url": "/files/cbbd58adfbe194bbae1b3b997e7c17f6f4e0f59547367259a7cef995dc6b65e8.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sph88hjZW7nG03JP4mwABEA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cbbd58adfbe194bbae1b3b997e7c17f6f4e0f59547367259a7cef995dc6b65e8",
+          "format": "text/plain",
+          "textUrl": "/files/cbbd58adfbe194bbae1b3b997e7c17f6f4e0f59547367259a7cef995dc6b65e8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_PRD_577403_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sph88hjZW7nG03JP4mwABEA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_PRD_577403_1",
+    "tender": {
+      "id": "2026_PRD_577403_1",
+      "title": "PLANTATION WORK",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Panchayati Raj Department",
+        "id": "IN-ORG-panchayati-raj-department"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-07-29T00:00:00Z"
+      },
+      "description": "PLANTATION WORK"
+    },
+    "buyer": {
+      "name": "Panchayati Raj Department",
+      "id": "IN-ORG-panchayati-raj-department"
+    },
+    "date": "2026-07-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_PRD_577403_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PRD_577403_1",
+        "url": "/files/cbbd58adfbe194bbae1b3b997e7c17f6f4e0f59547367259a7cef995dc6b65e8.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sph88hjZW7nG03JP4mwABEA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cbbd58adfbe194bbae1b3b997e7c17f6f4e0f59547367259a7cef995dc6b65e8",
+        "format": "text/plain",
+        "textUrl": "/files/cbbd58adfbe194bbae1b3b997e7c17f6f4e0f59547367259a7cef995dc6b65e8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_PRD_577403_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sph88hjZW7nG03JP4mwABEA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_PRD_577403_1",
+      "observedAt": "2026-07-29T02:31:52Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "96dbdf693025b09ebaa5cb5e66dea8fa226ec13b71ebdfeb61928c3be830a9a8",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_PRD_577403_1-0001-record",
+          "sha256": "cbbd58adfbe194bbae1b3b997e7c17f6f4e0f59547367259a7cef995dc6b65e8"
+        }
+      ],
+      "snapshotUrl": "/files/7fc67bb319fa2465730352bbf4fc1ef359d7e1b1c5d22d09ddde42a99721d681.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-29T02:31:52Z",
+    "lastObserved": "2026-07-29T02:31:52Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

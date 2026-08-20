@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109714_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109714_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109714_1-0001",
+      "date": "2026-07-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109714_1",
+        "title": "Procurement of Marzocchi make Pump and Seal kit for NTPC Khargone",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-18T00:00:00Z"
+        },
+        "description": "Procurement of Marzocchi make Pump and Seal kit for NTPC Khargone"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109714_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109714_1",
+          "url": "/files/6103dbcdf2a7ba582ec8637fdc1e74ffafc6c27ff692236ef6857c36759a906b.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw7Q3G46Z6EezIHJu2w8TCw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6103dbcdf2a7ba582ec8637fdc1e74ffafc6c27ff692236ef6857c36759a906b",
+          "format": "text/plain",
+          "textUrl": "/files/6103dbcdf2a7ba582ec8637fdc1e74ffafc6c27ff692236ef6857c36759a906b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109714_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw7Q3G46Z6EezIHJu2w8TCw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109714_1",
+    "tender": {
+      "id": "2026_NTPC_109714_1",
+      "title": "Procurement of Marzocchi make Pump and Seal kit for NTPC Khargone",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-18T00:00:00Z"
+      },
+      "description": "Procurement of Marzocchi make Pump and Seal kit for NTPC Khargone"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109714_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109714_1",
+        "url": "/files/6103dbcdf2a7ba582ec8637fdc1e74ffafc6c27ff692236ef6857c36759a906b.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw7Q3G46Z6EezIHJu2w8TCw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6103dbcdf2a7ba582ec8637fdc1e74ffafc6c27ff692236ef6857c36759a906b",
+        "format": "text/plain",
+        "textUrl": "/files/6103dbcdf2a7ba582ec8637fdc1e74ffafc6c27ff692236ef6857c36759a906b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109714_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw7Q3G46Z6EezIHJu2w8TCw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109714_1",
+      "observedAt": "2026-07-18T02:24:44Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "53e7cadd481fb935c5f0cff1b9d6e6cb100cddabbca08c5ece36c2ba1beff3df",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109714_1-0001-record",
+          "sha256": "6103dbcdf2a7ba582ec8637fdc1e74ffafc6c27ff692236ef6857c36759a906b"
+        }
+      ],
+      "snapshotUrl": "/files/46b03c0363c1699627a634d2a4be1d066d55bf99fe56b8ff88c2df092975447d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-18T02:24:44Z",
+    "lastObserved": "2026-07-18T02:24:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

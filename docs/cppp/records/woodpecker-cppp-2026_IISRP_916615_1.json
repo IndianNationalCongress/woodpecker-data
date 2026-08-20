@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_IISRP_916615_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_IISRP_916615_1",
+      "id": "woodpecker-cppp-2026_IISRP_916615_1-0001",
+      "date": "2026-07-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Indian Institute of Science Education and Research - Pune",
+        "id": "IN-ORG-indian-institute-of-science-education-an"
+      },
+      "tender": {
+        "id": "2026_IISRP_916615_1",
+        "title": "Annual maintenance Contract for Fire Fighting system at IISER Pune 2026-27",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Indian Institute of Science Education and Research - Pune",
+          "id": "IN-ORG-indian-institute-of-science-education-an"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 2750000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-16T00:00:00Z"
+        },
+        "description": "Annual maintenance Contract for Fire Fighting system at IISER Pune 2026-27"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IISRP_916615_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IISRP_916615_1",
+          "url": "/files/ff8a315e53bfbdf0014eb10b17528828dfcbbbf853cab9bf58e328afefe1a87e.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyotH1doBIqbxfRZk55pdYQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ff8a315e53bfbdf0014eb10b17528828dfcbbbf853cab9bf58e328afefe1a87e",
+          "format": "text/plain",
+          "textUrl": "/files/ff8a315e53bfbdf0014eb10b17528828dfcbbbf853cab9bf58e328afefe1a87e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_IISRP_916615_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyotH1doBIqbxfRZk55pdYQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_IISRP_916615_1",
+    "tender": {
+      "id": "2026_IISRP_916615_1",
+      "title": "Annual maintenance Contract for Fire Fighting system at IISER Pune 2026-27",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Indian Institute of Science Education and Research - Pune",
+        "id": "IN-ORG-indian-institute-of-science-education-an"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 2750000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-16T00:00:00Z"
+      },
+      "description": "Annual maintenance Contract for Fire Fighting system at IISER Pune 2026-27"
+    },
+    "buyer": {
+      "name": "Indian Institute of Science Education and Research - Pune",
+      "id": "IN-ORG-indian-institute-of-science-education-an"
+    },
+    "date": "2026-07-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_IISRP_916615_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IISRP_916615_1",
+        "url": "/files/ff8a315e53bfbdf0014eb10b17528828dfcbbbf853cab9bf58e328afefe1a87e.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyotH1doBIqbxfRZk55pdYQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ff8a315e53bfbdf0014eb10b17528828dfcbbbf853cab9bf58e328afefe1a87e",
+        "format": "text/plain",
+        "textUrl": "/files/ff8a315e53bfbdf0014eb10b17528828dfcbbbf853cab9bf58e328afefe1a87e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_IISRP_916615_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyotH1doBIqbxfRZk55pdYQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_IISRP_916615_1",
+      "observedAt": "2026-07-16T01:01:58Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "77470dc2a2e093a86a958ee440db2b6b8c1eba91a9020ca81af020133316a3a6",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IISRP_916615_1-0001-record",
+          "sha256": "ff8a315e53bfbdf0014eb10b17528828dfcbbbf853cab9bf58e328afefe1a87e"
+        }
+      ],
+      "snapshotUrl": "/files/365e51170320984e4c4977a20180216e689b7f88976e0c9cf4a63cee5f74aafa.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-16T01:01:58Z",
+    "lastObserved": "2026-07-16T01:01:58Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

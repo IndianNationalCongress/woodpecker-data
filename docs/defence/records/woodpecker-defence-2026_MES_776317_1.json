@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_776317_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_776317_1",
+      "id": "woodpecker-defence-2026_MES_776317_1-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SHILLONG ZONE - MES||CWE Dinjan - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_776317_1",
+        "title": "SPL REPAIR TO INTERNAL ROAD IN SEC B UNDER GE DINJAN",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SHILLONG ZONE - MES||CWE Dinjan - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 5825000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-13T00:00:00Z"
+        },
+        "description": "SPL REPAIR TO INTERNAL ROAD IN SEC B UNDER GE DINJAN"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_776317_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_776317_1",
+          "url": "/files/6ab62daa59825b202ed1a2cd6df021473ac80920b04c655f4fb19b2e7a1c1053.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sb3rgB05Ol9TqWvuS4Gv1Qw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6ab62daa59825b202ed1a2cd6df021473ac80920b04c655f4fb19b2e7a1c1053",
+          "format": "text/plain",
+          "textUrl": "/files/6ab62daa59825b202ed1a2cd6df021473ac80920b04c655f4fb19b2e7a1c1053.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-defence-2026_MES_776317_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sb3rgB05Ol9TqWvuS4Gv1Qw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_776317_1",
+    "tender": {
+      "id": "2026_MES_776317_1",
+      "title": "SPL REPAIR TO INTERNAL ROAD IN SEC B UNDER GE DINJAN",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SHILLONG ZONE - MES||CWE Dinjan - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 5825000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-13T00:00:00Z"
+      },
+      "description": "SPL REPAIR TO INTERNAL ROAD IN SEC B UNDER GE DINJAN"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SHILLONG ZONE - MES||CWE Dinjan - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_776317_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_776317_1",
+        "url": "/files/6ab62daa59825b202ed1a2cd6df021473ac80920b04c655f4fb19b2e7a1c1053.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sb3rgB05Ol9TqWvuS4Gv1Qw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6ab62daa59825b202ed1a2cd6df021473ac80920b04c655f4fb19b2e7a1c1053",
+        "format": "text/plain",
+        "textUrl": "/files/6ab62daa59825b202ed1a2cd6df021473ac80920b04c655f4fb19b2e7a1c1053.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-defence-2026_MES_776317_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sb3rgB05Ol9TqWvuS4Gv1Qw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_776317_1",
+      "observedAt": "2026-08-13T01:05:56Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "bfc13d1f020f671418f605cefbc9700de597273afd790f2206eee2336e2c72b5",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_776317_1-0001-record",
+          "sha256": "6ab62daa59825b202ed1a2cd6df021473ac80920b04c655f4fb19b2e7a1c1053"
+        }
+      ],
+      "snapshotUrl": "/files/60966acfbf3ec9b81bca3fec4d5dcc68dbe91da391fa0e25229c3e9cc85c4165.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-13T01:05:56Z",
+    "lastObserved": "2026-08-13T01:05:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

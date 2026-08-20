@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-iocl-2026_PR_190259_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_190259_1",
+      "id": "woodpecker-iocl-2026_PR_190259_1-0001",
+      "date": "2026-06-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-co"
+      },
+      "tender": {
+        "id": "2026_PR_190259_1",
+        "title": "ARC for Lighting Jobs in P-25 Units at Panipat Refinery and Petrochemical Complex (RPRC268296)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Panipat Refinery||Contracts",
+          "id": "IN-ORG-indianoil-refineries-panipat-refinery-co"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 9489942,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-01T00:00:00Z"
+        },
+        "description": "ARC for Lighting Jobs in P-25 Units at Panipat Refinery and Petrochemical Complex (RPRC268296)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_190259_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PR_190259_1",
+          "url": "/files/1942fcc342fe5f87f305fa6d89f870faeeb8b6aae8fcfdb0e8143d526a03075e.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sn8xRfakBLU%2B8dpQi9JdMFg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1942fcc342fe5f87f305fa6d89f870faeeb8b6aae8fcfdb0e8143d526a03075e",
+          "format": "text/plain",
+          "textUrl": "/files/1942fcc342fe5f87f305fa6d89f870faeeb8b6aae8fcfdb0e8143d526a03075e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_PR_190259_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sn8xRfakBLU%2B8dpQi9JdMFg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_PR_190259_1",
+    "tender": {
+      "id": "2026_PR_190259_1",
+      "title": "ARC for Lighting Jobs in P-25 Units at Panipat Refinery and Petrochemical Complex (RPRC268296)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-co"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 9489942,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-01T00:00:00Z"
+      },
+      "description": "ARC for Lighting Jobs in P-25 Units at Panipat Refinery and Petrochemical Complex (RPRC268296)"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Panipat Refinery||Contracts",
+      "id": "IN-ORG-indianoil-refineries-panipat-refinery-co"
+    },
+    "date": "2026-06-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_PR_190259_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PR_190259_1",
+        "url": "/files/1942fcc342fe5f87f305fa6d89f870faeeb8b6aae8fcfdb0e8143d526a03075e.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sn8xRfakBLU%2B8dpQi9JdMFg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1942fcc342fe5f87f305fa6d89f870faeeb8b6aae8fcfdb0e8143d526a03075e",
+        "format": "text/plain",
+        "textUrl": "/files/1942fcc342fe5f87f305fa6d89f870faeeb8b6aae8fcfdb0e8143d526a03075e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_PR_190259_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sn8xRfakBLU%2B8dpQi9JdMFg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_190259_1",
+      "observedAt": "2026-07-01T03:25:27Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "86f1fa7c7d909b4a4b4dbb2ec453dc73730fed3ee92e7a455608bef3b879f870",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_190259_1-0001-record",
+          "sha256": "1942fcc342fe5f87f305fa6d89f870faeeb8b6aae8fcfdb0e8143d526a03075e"
+        }
+      ],
+      "snapshotUrl": "/files/d449549ca7a77e52d4fa47984fbdb1a777921afa925ed993f616e6e5a22f2c61.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-01T03:25:27Z",
+    "lastObserved": "2026-07-01T03:25:27Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

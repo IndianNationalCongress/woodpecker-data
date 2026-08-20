@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_REV_294256_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_REV_294256_1",
+      "id": "woodpecker-delhi-2026_REV_294256_1-0001",
+      "date": "2026-06-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Revenue Department||DC (East)||SDM(Gandhi Nagar)",
+        "id": "IN-ORG-revenue-department-dc-east-sdm-gandhi-na"
+      },
+      "tender": {
+        "id": "2026_REV_294256_1",
+        "title": "REPAIR AND SERVICING WORK OF BOATS TROLLEY AND OBMS AT 4 BELA ROAD CIVIL LINE REVENUE DEPARTMENT DELHI",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Revenue Department||DC (East)||SDM(Gandhi Nagar)",
+          "id": "IN-ORG-revenue-department-dc-east-sdm-gandhi-na"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 4650000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-02T00:00:00Z"
+        },
+        "description": "REPAIR AND SERVICING WORK OF BOATS TROLLEY AND OBMS AT 4 BELA ROAD CIVIL LINE REVENUE DEPARTMENT DELHI"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_REV_294256_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_REV_294256_1",
+          "url": "/files/4a2b2dea7fa2a1fb5f2d79df965c6727017547d6b7b7e47beb7b2e3fbc34e22e.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDFyk43revIT37XZaTviMgg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4a2b2dea7fa2a1fb5f2d79df965c6727017547d6b7b7e47beb7b2e3fbc34e22e",
+          "format": "text/plain",
+          "textUrl": "/files/4a2b2dea7fa2a1fb5f2d79df965c6727017547d6b7b7e47beb7b2e3fbc34e22e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_REV_294256_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDFyk43revIT37XZaTviMgg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_REV_294256_1",
+    "tender": {
+      "id": "2026_REV_294256_1",
+      "title": "REPAIR AND SERVICING WORK OF BOATS TROLLEY AND OBMS AT 4 BELA ROAD CIVIL LINE REVENUE DEPARTMENT DELHI",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Revenue Department||DC (East)||SDM(Gandhi Nagar)",
+        "id": "IN-ORG-revenue-department-dc-east-sdm-gandhi-na"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 4650000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-02T00:00:00Z"
+      },
+      "description": "REPAIR AND SERVICING WORK OF BOATS TROLLEY AND OBMS AT 4 BELA ROAD CIVIL LINE REVENUE DEPARTMENT DELHI"
+    },
+    "buyer": {
+      "name": "Revenue Department||DC (East)||SDM(Gandhi Nagar)",
+      "id": "IN-ORG-revenue-department-dc-east-sdm-gandhi-na"
+    },
+    "date": "2026-06-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_REV_294256_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_REV_294256_1",
+        "url": "/files/4a2b2dea7fa2a1fb5f2d79df965c6727017547d6b7b7e47beb7b2e3fbc34e22e.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDFyk43revIT37XZaTviMgg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4a2b2dea7fa2a1fb5f2d79df965c6727017547d6b7b7e47beb7b2e3fbc34e22e",
+        "format": "text/plain",
+        "textUrl": "/files/4a2b2dea7fa2a1fb5f2d79df965c6727017547d6b7b7e47beb7b2e3fbc34e22e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_REV_294256_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDFyk43revIT37XZaTviMgg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_REV_294256_1",
+      "observedAt": "2026-07-02T02:46:20Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "f19d6be6bad25f3b49a1e45ffe94401a75b0a517e1b4ef0caf141b42bf8a3928",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_REV_294256_1-0001-record",
+          "sha256": "4a2b2dea7fa2a1fb5f2d79df965c6727017547d6b7b7e47beb7b2e3fbc34e22e"
+        }
+      ],
+      "snapshotUrl": "/files/2723baba9b4314e93cfe6cc9f3819319b3482738ad582382e2955d110efaf205.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-02T02:46:20Z",
+    "lastObserved": "2026-07-02T02:46:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

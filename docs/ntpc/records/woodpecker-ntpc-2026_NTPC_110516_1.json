@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110516_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110516_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110516_1-0001",
+      "date": "2026-07-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110516_1",
+        "title": "Procurement of DP switches for DM plant at NTPC Kahalgaon",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-07T00:00:00Z"
+        },
+        "description": "Procurement of DP switches for DM plant at NTPC Kahalgaon"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110516_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110516_1",
+          "url": "/files/6ded7c9da683296c9dec4f13f3841872d55c365f1afc708492701ac17295c49e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STairSgYqXU8y6m%2BZDl8sfg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6ded7c9da683296c9dec4f13f3841872d55c365f1afc708492701ac17295c49e",
+          "format": "text/plain",
+          "textUrl": "/files/6ded7c9da683296c9dec4f13f3841872d55c365f1afc708492701ac17295c49e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110516_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STairSgYqXU8y6m%2BZDl8sfg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110516_1",
+    "tender": {
+      "id": "2026_NTPC_110516_1",
+      "title": "Procurement of DP switches for DM plant at NTPC Kahalgaon",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-07T00:00:00Z"
+      },
+      "description": "Procurement of DP switches for DM plant at NTPC Kahalgaon"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-07-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110516_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110516_1",
+        "url": "/files/6ded7c9da683296c9dec4f13f3841872d55c365f1afc708492701ac17295c49e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STairSgYqXU8y6m%2BZDl8sfg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6ded7c9da683296c9dec4f13f3841872d55c365f1afc708492701ac17295c49e",
+        "format": "text/plain",
+        "textUrl": "/files/6ded7c9da683296c9dec4f13f3841872d55c365f1afc708492701ac17295c49e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110516_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STairSgYqXU8y6m%2BZDl8sfg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110516_1",
+      "observedAt": "2026-08-07T03:31:48Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "19c18981f04abed796e6562f2094ce05864f79901d35dc43f47331201109b124",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110516_1-0001-record",
+          "sha256": "6ded7c9da683296c9dec4f13f3841872d55c365f1afc708492701ac17295c49e"
+        }
+      ],
+      "snapshotUrl": "/files/8ea7f8b6d28767913954bdd2a5ce24fb71cae13aff7d884e565c9e8160401678.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-07T03:31:48Z",
+    "lastObserved": "2026-08-07T03:31:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

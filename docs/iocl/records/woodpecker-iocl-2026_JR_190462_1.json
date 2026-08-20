@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_JR_190462_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_JR_190462_1",
+      "id": "woodpecker-iocl-2026_JR_190462_1-0001",
+      "date": "2026-07-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_JR_190462_1",
+        "title": "Procurement of Adhesives",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-16T00:00:00Z"
+        },
+        "description": "Procurement of Adhesives"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_JR_190462_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_JR_190462_1",
+          "url": "/files/c55eea38b5d302d7ca2e8c09c21fba44da19509c09db312bb5fbc8207895a98a.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEcep29Y9sp9G1HlvTS0Vhg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c55eea38b5d302d7ca2e8c09c21fba44da19509c09db312bb5fbc8207895a98a",
+          "format": "text/plain",
+          "textUrl": "/files/c55eea38b5d302d7ca2e8c09c21fba44da19509c09db312bb5fbc8207895a98a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_JR_190462_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEcep29Y9sp9G1HlvTS0Vhg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_JR_190462_1",
+    "tender": {
+      "id": "2026_JR_190462_1",
+      "title": "Procurement of Adhesives",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-16T00:00:00Z"
+      },
+      "description": "Procurement of Adhesives"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+    },
+    "date": "2026-07-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_JR_190462_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_JR_190462_1",
+        "url": "/files/c55eea38b5d302d7ca2e8c09c21fba44da19509c09db312bb5fbc8207895a98a.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEcep29Y9sp9G1HlvTS0Vhg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c55eea38b5d302d7ca2e8c09c21fba44da19509c09db312bb5fbc8207895a98a",
+        "format": "text/plain",
+        "textUrl": "/files/c55eea38b5d302d7ca2e8c09c21fba44da19509c09db312bb5fbc8207895a98a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_JR_190462_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEcep29Y9sp9G1HlvTS0Vhg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_JR_190462_1",
+      "observedAt": "2026-07-16T02:32:58Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "f7bb6dbe7e038e989184d80e6775447ec2e5fe9efe62ecd6e93c8cacd5133b0f",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_JR_190462_1-0001-record",
+          "sha256": "c55eea38b5d302d7ca2e8c09c21fba44da19509c09db312bb5fbc8207895a98a"
+        }
+      ],
+      "snapshotUrl": "/files/403e5ef910c9096427b97bb666964ed292c9d6c3e16cb67199a4ed3a5cc2c859.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-16T02:32:58Z",
+    "lastObserved": "2026-07-16T02:32:58Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_GR_190265_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_GR_190265_1",
+      "id": "woodpecker-iocl-2026_GR_190265_1-0001",
+      "date": "2026-06-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+      },
+      "tender": {
+        "id": "2026_GR_190265_1",
+        "title": "Execution of pre monsoon jobs in Guwahati Refinery (Part A and B)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+          "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-07-02T00:00:00Z"
+        },
+        "description": "Execution of pre monsoon jobs in Guwahati Refinery (Part A and B)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_GR_190265_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_GR_190265_1",
+          "url": "/files/cfd61cc25d44d5885d70294ac0ac95404265609d6b18eabd243a698378c220a5.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHz9YBweO0Mn%2FNkNzqBiYLw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cfd61cc25d44d5885d70294ac0ac95404265609d6b18eabd243a698378c220a5",
+          "format": "text/plain",
+          "textUrl": "/files/cfd61cc25d44d5885d70294ac0ac95404265609d6b18eabd243a698378c220a5.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_GR_190265_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHz9YBweO0Mn%2FNkNzqBiYLw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_GR_190265_1",
+    "tender": {
+      "id": "2026_GR_190265_1",
+      "title": "Execution of pre monsoon jobs in Guwahati Refinery (Part A and B)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-07-02T00:00:00Z"
+      },
+      "description": "Execution of pre monsoon jobs in Guwahati Refinery (Part A and B)"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+      "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+    },
+    "date": "2026-06-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_GR_190265_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_GR_190265_1",
+        "url": "/files/cfd61cc25d44d5885d70294ac0ac95404265609d6b18eabd243a698378c220a5.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHz9YBweO0Mn%2FNkNzqBiYLw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cfd61cc25d44d5885d70294ac0ac95404265609d6b18eabd243a698378c220a5",
+        "format": "text/plain",
+        "textUrl": "/files/cfd61cc25d44d5885d70294ac0ac95404265609d6b18eabd243a698378c220a5.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_GR_190265_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHz9YBweO0Mn%2FNkNzqBiYLw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_GR_190265_1",
+      "observedAt": "2026-07-02T03:11:19Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "74759bb68e4d278968099de3368aed56f286a069369e230d476f20b7fb771ffd",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_GR_190265_1-0001-record",
+          "sha256": "cfd61cc25d44d5885d70294ac0ac95404265609d6b18eabd243a698378c220a5"
+        }
+      ],
+      "snapshotUrl": "/files/ea77762c64c1aeb2155c2c8c04fbfffb2aaa9bcba56b8023eb428ee19b936c96.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-02T03:11:19Z",
+    "lastObserved": "2026-07-02T03:11:19Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

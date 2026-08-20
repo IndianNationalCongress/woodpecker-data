@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-iocl-2026_MR_190483_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_MR_190483_1",
+      "id": "woodpecker-iocl-2026_MR_190483_1-0001",
+      "date": "2026-07-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Mathura Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-mathura-refinery-co"
+      },
+      "tender": {
+        "id": "2026_MR_190483_1",
+        "title": "Civil and electrical works for interior renovation jobs in Learning and Developmental Centre Building, canopy provision at Gate No-2 and other associated jobs at Mathura Refinery",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Mathura Refinery||Contracts",
+          "id": "IN-ORG-indianoil-refineries-mathura-refinery-co"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 11460950,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-20T00:00:00Z"
+        },
+        "description": "Civil and electrical works for interior renovation jobs in Learning and Developmental Centre Building, canopy provision at Gate No-2 and other associated jobs at Mathura Refinery"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_MR_190483_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MR_190483_1",
+          "url": "/files/74fc20a86ea1846b476c98a9d3657dacb9efe067ec103a159bdb3ad0e5e75efd.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEUBFbepw8iaX%2FUziXP569g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "74fc20a86ea1846b476c98a9d3657dacb9efe067ec103a159bdb3ad0e5e75efd",
+          "format": "text/plain",
+          "textUrl": "/files/74fc20a86ea1846b476c98a9d3657dacb9efe067ec103a159bdb3ad0e5e75efd.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_MR_190483_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEUBFbepw8iaX%2FUziXP569g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_MR_190483_1",
+    "tender": {
+      "id": "2026_MR_190483_1",
+      "title": "Civil and electrical works for interior renovation jobs in Learning and Developmental Centre Building, canopy provision at Gate No-2 and other associated jobs at Mathura Refinery",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Mathura Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-mathura-refinery-co"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 11460950,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-20T00:00:00Z"
+      },
+      "description": "Civil and electrical works for interior renovation jobs in Learning and Developmental Centre Building, canopy provision at Gate No-2 and other associated jobs at Mathura Refinery"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Mathura Refinery||Contracts",
+      "id": "IN-ORG-indianoil-refineries-mathura-refinery-co"
+    },
+    "date": "2026-07-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_MR_190483_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MR_190483_1",
+        "url": "/files/74fc20a86ea1846b476c98a9d3657dacb9efe067ec103a159bdb3ad0e5e75efd.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEUBFbepw8iaX%2FUziXP569g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "74fc20a86ea1846b476c98a9d3657dacb9efe067ec103a159bdb3ad0e5e75efd",
+        "format": "text/plain",
+        "textUrl": "/files/74fc20a86ea1846b476c98a9d3657dacb9efe067ec103a159bdb3ad0e5e75efd.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_MR_190483_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEUBFbepw8iaX%2FUziXP569g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_MR_190483_1",
+      "observedAt": "2026-07-20T02:57:10Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "bc722cf5aa5ff80dff30d068f85c79ba95ea2e310ffa7f64676b6daba7a2e2d1",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_MR_190483_1-0001-record",
+          "sha256": "74fc20a86ea1846b476c98a9d3657dacb9efe067ec103a159bdb3ad0e5e75efd"
+        }
+      ],
+      "snapshotUrl": "/files/4abb831e571710335665c20c6d86121294b2f5d0029a976cdd30c8d1e3c2c3c5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-20T02:57:10Z",
+    "lastObserved": "2026-07-20T02:57:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

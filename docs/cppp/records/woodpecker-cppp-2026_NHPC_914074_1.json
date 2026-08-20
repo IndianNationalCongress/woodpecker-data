@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_NHPC_914074_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_NHPC_914074_1",
+      "id": "woodpecker-cppp-2026_NHPC_914074_1-0001",
+      "date": "2026-06-20T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NHPC Limited||Nimoo Bazgo Power Station-NHPC",
+        "id": "IN-ORG-nhpc-limited-nimoo-bazgo-power-station-n"
+      },
+      "tender": {
+        "id": "2026_NHPC_914074_1",
+        "title": "Repair of one number Runner (RN#3) of 3X15 MW Nimoo Bazgo Power Station, Alchi, Distt. Sham, Ladakh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NHPC Limited||Nimoo Bazgo Power Station-NHPC",
+          "id": "IN-ORG-nhpc-limited-nimoo-bazgo-power-station-n"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 2065000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-11T00:00:00Z"
+        },
+        "description": "Repair of one number Runner (RN#3) of 3X15 MW Nimoo Bazgo Power Station, Alchi, Distt. Sham, Ladakh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NHPC_914074_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NHPC_914074_1",
+          "url": "/files/933ee774773bcd535c68a59d5940ce489ff5776f76555e256fd62634d269b37a.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SNKMfCjEPDYmSfN1E8ZG26w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "933ee774773bcd535c68a59d5940ce489ff5776f76555e256fd62634d269b37a",
+          "format": "text/plain",
+          "textUrl": "/files/933ee774773bcd535c68a59d5940ce489ff5776f76555e256fd62634d269b37a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_NHPC_914074_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SNKMfCjEPDYmSfN1E8ZG26w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_NHPC_914074_1",
+    "tender": {
+      "id": "2026_NHPC_914074_1",
+      "title": "Repair of one number Runner (RN#3) of 3X15 MW Nimoo Bazgo Power Station, Alchi, Distt. Sham, Ladakh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NHPC Limited||Nimoo Bazgo Power Station-NHPC",
+        "id": "IN-ORG-nhpc-limited-nimoo-bazgo-power-station-n"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 2065000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-11T00:00:00Z"
+      },
+      "description": "Repair of one number Runner (RN#3) of 3X15 MW Nimoo Bazgo Power Station, Alchi, Distt. Sham, Ladakh"
+    },
+    "buyer": {
+      "name": "NHPC Limited||Nimoo Bazgo Power Station-NHPC",
+      "id": "IN-ORG-nhpc-limited-nimoo-bazgo-power-station-n"
+    },
+    "date": "2026-06-20T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_NHPC_914074_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NHPC_914074_1",
+        "url": "/files/933ee774773bcd535c68a59d5940ce489ff5776f76555e256fd62634d269b37a.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SNKMfCjEPDYmSfN1E8ZG26w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "933ee774773bcd535c68a59d5940ce489ff5776f76555e256fd62634d269b37a",
+        "format": "text/plain",
+        "textUrl": "/files/933ee774773bcd535c68a59d5940ce489ff5776f76555e256fd62634d269b37a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_NHPC_914074_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SNKMfCjEPDYmSfN1E8ZG26w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_NHPC_914074_1",
+      "observedAt": "2026-07-11T01:01:37Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "594692afca5633c5dd904c58d03bd0c54291ad621f97e7cf5ebf87f39dfceefd",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NHPC_914074_1-0001-record",
+          "sha256": "933ee774773bcd535c68a59d5940ce489ff5776f76555e256fd62634d269b37a"
+        }
+      ],
+      "snapshotUrl": "/files/cf18edd4041ad8718fa21b7113cb152882a755ca08f249d42828198144fb111b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-11T01:01:37Z",
+    "lastObserved": "2026-07-11T01:01:37Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109635_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109635_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109635_1-0001",
+      "date": "2026-06-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_109635_1",
+        "title": "Procurement of Bankim make NRV spares for AHD NTPC Rihand",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-08T00:00:00Z"
+        },
+        "description": "Procurement of Bankim make NRV spares for AHD NTPC Rihand"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109635_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109635_1",
+          "url": "/files/0c06ce5a44fdf07c4005e44681519798d76f6eddbb9081d4f272a33c2597cc81.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvHCDVAJNaUfiW%2FpoWsOADg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0c06ce5a44fdf07c4005e44681519798d76f6eddbb9081d4f272a33c2597cc81",
+          "format": "text/plain",
+          "textUrl": "/files/0c06ce5a44fdf07c4005e44681519798d76f6eddbb9081d4f272a33c2597cc81.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109635_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvHCDVAJNaUfiW%2FpoWsOADg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109635_1",
+    "tender": {
+      "id": "2026_NTPC_109635_1",
+      "title": "Procurement of Bankim make NRV spares for AHD NTPC Rihand",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-08T00:00:00Z"
+      },
+      "description": "Procurement of Bankim make NRV spares for AHD NTPC Rihand"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-06-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109635_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109635_1",
+        "url": "/files/0c06ce5a44fdf07c4005e44681519798d76f6eddbb9081d4f272a33c2597cc81.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvHCDVAJNaUfiW%2FpoWsOADg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0c06ce5a44fdf07c4005e44681519798d76f6eddbb9081d4f272a33c2597cc81",
+        "format": "text/plain",
+        "textUrl": "/files/0c06ce5a44fdf07c4005e44681519798d76f6eddbb9081d4f272a33c2597cc81.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109635_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvHCDVAJNaUfiW%2FpoWsOADg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109635_1",
+      "observedAt": "2026-07-08T02:41:38Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "6cb25ea403fbb98d6370f6eab7189136b2c30724be6f1ba6cd77bf2e18bd0dfd",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109635_1-0001-record",
+          "sha256": "0c06ce5a44fdf07c4005e44681519798d76f6eddbb9081d4f272a33c2597cc81"
+        }
+      ],
+      "snapshotUrl": "/files/79575396fb5b250dddce633d4cd4b1bed3bcea86d9059071cb24b9c4f2eb5c61.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-08T02:41:38Z",
+    "lastObserved": "2026-07-08T02:41:38Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

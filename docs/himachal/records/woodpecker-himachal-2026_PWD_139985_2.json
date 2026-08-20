@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_139985_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_139985_2",
+      "id": "woodpecker-himachal-2026_PWD_139985_2-0001",
+      "date": "2026-07-27T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_139985_2",
+        "title": "Brick work, Steel work and other misc. work etc.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 339842,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-03T00:00:00Z"
+        },
+        "description": "Brick work, Steel work and other misc. work etc."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_139985_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_139985_2",
+          "url": "/files/4f2d8561130c5127b6c4dd5d1f0839c02c2354f9d6f77d8e69ba30a951ae312f.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKxn0t6RtKstsPCoBvQcbog%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4f2d8561130c5127b6c4dd5d1f0839c02c2354f9d6f77d8e69ba30a951ae312f",
+          "format": "text/plain",
+          "textUrl": "/files/4f2d8561130c5127b6c4dd5d1f0839c02c2354f9d6f77d8e69ba30a951ae312f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_139985_2-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKxn0t6RtKstsPCoBvQcbog%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_139985_2",
+    "tender": {
+      "id": "2026_PWD_139985_2",
+      "title": "Brick work, Steel work and other misc. work etc.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 339842,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-03T00:00:00Z"
+      },
+      "description": "Brick work, Steel work and other misc. work etc."
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-07-27T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_139985_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_139985_2",
+        "url": "/files/4f2d8561130c5127b6c4dd5d1f0839c02c2354f9d6f77d8e69ba30a951ae312f.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKxn0t6RtKstsPCoBvQcbog%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4f2d8561130c5127b6c4dd5d1f0839c02c2354f9d6f77d8e69ba30a951ae312f",
+        "format": "text/plain",
+        "textUrl": "/files/4f2d8561130c5127b6c4dd5d1f0839c02c2354f9d6f77d8e69ba30a951ae312f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_139985_2-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKxn0t6RtKstsPCoBvQcbog%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_139985_2",
+      "observedAt": "2026-08-03T01:59:26Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "378024424f48091db01ee86c139c57fda7d1ea813fd15ce3cee57832797ff3a0",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_139985_2-0001-record",
+          "sha256": "4f2d8561130c5127b6c4dd5d1f0839c02c2354f9d6f77d8e69ba30a951ae312f"
+        }
+      ],
+      "snapshotUrl": "/files/70a844d8bdff3abf851874d040570ac5a36b92381797ba58e4af3ac98ebe405c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-03T01:59:26Z",
+    "lastObserved": "2026-08-03T01:59:26Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

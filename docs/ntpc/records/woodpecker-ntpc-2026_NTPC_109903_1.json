@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_109903_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109903_1",
+      "id": "woodpecker-ntpc-2026_NTPC_109903_1-0001",
+      "date": "2026-07-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_109903_1",
+        "title": "AirSeal Application for NKSTPP BMD Area",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 9454788,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-07-18T00:00:00Z"
+        },
+        "description": "AirSeal Application for NKSTPP BMD Area"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109903_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_109903_1",
+          "url": "/files/c891ea0cffecd2449eb90699b86de0e350a2440f61dad113b89003819cb8a8c0.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRISzBGWte70J7%2Bfs6yJoXQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c891ea0cffecd2449eb90699b86de0e350a2440f61dad113b89003819cb8a8c0",
+          "format": "text/plain",
+          "textUrl": "/files/c891ea0cffecd2449eb90699b86de0e350a2440f61dad113b89003819cb8a8c0.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109903_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRISzBGWte70J7%2Bfs6yJoXQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_109903_1",
+    "tender": {
+      "id": "2026_NTPC_109903_1",
+      "title": "AirSeal Application for NKSTPP BMD Area",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 9454788,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-07-18T00:00:00Z"
+      },
+      "description": "AirSeal Application for NKSTPP BMD Area"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-07-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109903_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_109903_1",
+        "url": "/files/c891ea0cffecd2449eb90699b86de0e350a2440f61dad113b89003819cb8a8c0.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRISzBGWte70J7%2Bfs6yJoXQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c891ea0cffecd2449eb90699b86de0e350a2440f61dad113b89003819cb8a8c0",
+        "format": "text/plain",
+        "textUrl": "/files/c891ea0cffecd2449eb90699b86de0e350a2440f61dad113b89003819cb8a8c0.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_109903_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRISzBGWte70J7%2Bfs6yJoXQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_109903_1",
+      "observedAt": "2026-07-18T02:24:44Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "f0043d0a523948c7d0953af6bb40d5bbf260b1151e4052ce13f11846d7c05fe4",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_109903_1-0001-record",
+          "sha256": "c891ea0cffecd2449eb90699b86de0e350a2440f61dad113b89003819cb8a8c0"
+        }
+      ],
+      "snapshotUrl": "/files/6b8915dfb28af0b948244e90205ba1b189fbcd5a132c6ce0286cc087b010fd1e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-18T02:24:44Z",
+    "lastObserved": "2026-07-18T02:24:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

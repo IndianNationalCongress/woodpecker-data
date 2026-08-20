@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_BD_190356_4",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_BD_190356_4",
+      "id": "woodpecker-iocl-2026_BD_190356_4-0001",
+      "date": "2026-06-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Business Development||Contracts",
+        "id": "IN-ORG-indianoil-business-development-contracts"
+      },
+      "tender": {
+        "id": "2026_BD_190356_4",
+        "title": "Plant 4- Talcher",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Business Development||Contracts",
+          "id": "IN-ORG-indianoil-business-development-contracts"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-07-02T00:00:00Z"
+        },
+        "description": "Plant 4- Talcher"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_BD_190356_4-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BD_190356_4",
+          "url": "/files/c7d578b78835cb23f15d6253699a27d9137cefecaa04794182f87e9dd0882920.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKsZDFxs55s64uQk%2B4TVYXQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c7d578b78835cb23f15d6253699a27d9137cefecaa04794182f87e9dd0882920",
+          "format": "text/plain",
+          "textUrl": "/files/c7d578b78835cb23f15d6253699a27d9137cefecaa04794182f87e9dd0882920.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_BD_190356_4-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKsZDFxs55s64uQk%2B4TVYXQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_BD_190356_4",
+    "tender": {
+      "id": "2026_BD_190356_4",
+      "title": "Plant 4- Talcher",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Business Development||Contracts",
+        "id": "IN-ORG-indianoil-business-development-contracts"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-07-02T00:00:00Z"
+      },
+      "description": "Plant 4- Talcher"
+    },
+    "buyer": {
+      "name": "IndianOil||Business Development||Contracts",
+      "id": "IN-ORG-indianoil-business-development-contracts"
+    },
+    "date": "2026-06-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_BD_190356_4-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BD_190356_4",
+        "url": "/files/c7d578b78835cb23f15d6253699a27d9137cefecaa04794182f87e9dd0882920.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKsZDFxs55s64uQk%2B4TVYXQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c7d578b78835cb23f15d6253699a27d9137cefecaa04794182f87e9dd0882920",
+        "format": "text/plain",
+        "textUrl": "/files/c7d578b78835cb23f15d6253699a27d9137cefecaa04794182f87e9dd0882920.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_BD_190356_4-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKsZDFxs55s64uQk%2B4TVYXQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_BD_190356_4",
+      "observedAt": "2026-07-02T03:11:19Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "a762f5360147e903f780913188f1f5093c6801b0f081efb9eb0f0d2269e4ad9c",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_BD_190356_4-0001-record",
+          "sha256": "c7d578b78835cb23f15d6253699a27d9137cefecaa04794182f87e9dd0882920"
+        }
+      ],
+      "snapshotUrl": "/files/aab77f53254e2629bfcede41f6e3ec2feaa30e7b419617631e5106f33d13fcc1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-07-02T03:11:19Z",
+    "lastObserved": "2026-07-02T03:11:19Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
