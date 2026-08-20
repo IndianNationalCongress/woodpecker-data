@@ -19,6 +19,8 @@ _ap = argparse.ArgumentParser()
 _ap.add_argument("--lo", type=int, default=1)       # rowid range start (SHARD-aligned)
 _ap.add_argument("--hi", type=int, default=0)       # rowid range end (0 = to max)
 _ap.add_argument("--tag", default="all")            # per-worker progress file, for parallel runs
+_ap.add_argument("--threads", type=int, default=0)  # embed threads (0 = all cores; one embedder)
+_ap.add_argument("--pool", type=int, default=8)     # concurrent insert subprocesses (the bottleneck)
 ARGS = _ap.parse_args()
 os.makedirs(OUT, exist_ok=True)
 PROG = os.path.join(OUT, f"done_{ARGS.tag}.txt")
@@ -30,17 +32,40 @@ def band(v):
         if v < lim: return lab
     return "100Cr+"
 
-def insert(path):
-    for t in range(4):
-        r = subprocess.run(["npx","wrangler","vectorize","insert","woodpecker","--file",path,
-                            "--batch-size","1000"], cwd=API, capture_output=True, text=True)
-        if r.returncode == 0:
-            return True
-        sys.stderr.write(f"  insert retry {t+1}: {r.stderr[-200:]}\n"); time.sleep(6)
-    return False
+def launch_insert(path):
+    return subprocess.Popen(["npx","wrangler","vectorize","insert","woodpecker","--file",path,
+                             "--batch-size","1000"], cwd=API,
+                            stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+POOL = []  # (Popen, path, key, tries)
+def reap(block):
+    """Harvest finished insert subprocesses; on success delete shard + mark done; retry failures.
+    Producer/consumer: ONE embedder (full cores) feeds up to --pool concurrent inserts (the
+    real bottleneck), so embed runs continuously instead of blocking on each insert."""
+    global POOL, total
+    while True:
+        alive = []
+        for p, path, key, tries in POOL:
+            rc = p.poll()
+            if rc is None:
+                alive.append((p, path, key, tries))
+            elif rc == 0:
+                try: os.remove(path)
+                except OSError: pass
+                open(PROG, "a").write(key + "\n")
+                el = time.time() - t0
+                print(f"shard {key} inserted (total ~{total:,}, {el:.0f}s, {total/max(el,1):.0f}/s)", flush=True)
+            elif tries < 4:
+                alive.append((launch_insert(path), path, key, tries + 1))
+            else:
+                print(f"ABORT: insert failed 4x at shard {key}", flush=True); sys.exit(1)
+        POOL = alive
+        if not block or len(POOL) < ARGS.pool:
+            return
+        time.sleep(3)
 
 print("loading bge-small-en-v1.5 ...", flush=True)
-model = TextEmbedding("BAAI/bge-small-en-v1.5")
+model = TextEmbedding("BAAI/bge-small-en-v1.5", threads=ARGS.threads or None)
 conn = sqlite3.connect(DB)
 maxrow = conn.execute("SELECT MAX(rowid) FROM tenders").fetchone()[0]
 end = min(ARGS.hi, maxrow) if ARGS.hi else maxrow
@@ -69,13 +94,13 @@ while lo <= end:
             for (ocid, meta), emb in zip(metas, embs):
                 f.write(json.dumps({"id": ocid, "values": [round(float(x), 6) for x in emb],
                                     "metadata": meta}) + "\n")
-        if not insert(path):
-            print(f"ABORT: insert failed at shard {lo}", flush=True); sys.exit(1)
-        os.remove(path)
         total += len(texts)
-    with open(PROG, "a") as f:
-        f.write(key + "\n")
-    el = time.time() - t0
-    print(f"shard {lo}: +{len(texts)} (total {total:,}, {el:.0f}s, {total/max(el,1):.0f}/s)", flush=True)
+        reap(block=True)                          # wait only if the insert pool is full
+        POOL.append((launch_insert(path), path, key, 0))
+        print(f"shard {lo} embedded (+{len(texts)}), pool={len(POOL)}", flush=True)
+    else:
+        open(PROG, "a").write(key + "\n")         # empty shard -> done immediately
     lo = hi
+while POOL:                                       # drain remaining inserts
+    reap(block=True); time.sleep(2)
 print("EMBED DONE", flush=True)
