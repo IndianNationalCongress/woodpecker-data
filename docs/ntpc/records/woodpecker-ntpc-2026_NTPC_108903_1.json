@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_108903_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108903_1",
+      "id": "woodpecker-ntpc-2026_NTPC_108903_1-0001",
+      "date": "2026-06-27T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+      },
+      "tender": {
+        "id": "2026_NTPC_108903_1",
+        "title": "Balance of Plant (BOP) Package, Telangana Stage-II (3x800MW)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-08-21T00:00:00Z"
+        },
+        "description": "Balance of Plant (BOP) Package, Telangana Stage-II (3x800MW)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108903_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_108903_1",
+          "url": "/files/a8e7f0ee490e3bbbb2debd958a09585627411d5655b83eef0f8f342549d1a54e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STQQ%2BGCUhkbj3ty16tx%2Fxag%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a8e7f0ee490e3bbbb2debd958a09585627411d5655b83eef0f8f342549d1a54e",
+          "format": "text/plain",
+          "textUrl": "/files/a8e7f0ee490e3bbbb2debd958a09585627411d5655b83eef0f8f342549d1a54e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108903_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STQQ%2BGCUhkbj3ty16tx%2Fxag%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_108903_1",
+    "tender": {
+      "id": "2026_NTPC_108903_1",
+      "title": "Balance of Plant (BOP) Package, Telangana Stage-II (3x800MW)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-08-21T00:00:00Z"
+      },
+      "description": "Balance of Plant (BOP) Package, Telangana Stage-II (3x800MW)"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+    },
+    "date": "2026-06-27T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108903_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_108903_1",
+        "url": "/files/a8e7f0ee490e3bbbb2debd958a09585627411d5655b83eef0f8f342549d1a54e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STQQ%2BGCUhkbj3ty16tx%2Fxag%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a8e7f0ee490e3bbbb2debd958a09585627411d5655b83eef0f8f342549d1a54e",
+        "format": "text/plain",
+        "textUrl": "/files/a8e7f0ee490e3bbbb2debd958a09585627411d5655b83eef0f8f342549d1a54e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_108903_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STQQ%2BGCUhkbj3ty16tx%2Fxag%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_108903_1",
+      "observedAt": "2026-08-21T01:29:50Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9f9a4b24589948df5c8f3251e62bd9e6cbffddc5967fd418309c2c7ddfbe7d5b",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_108903_1-0001-record",
+          "sha256": "a8e7f0ee490e3bbbb2debd958a09585627411d5655b83eef0f8f342549d1a54e"
+        }
+      ],
+      "snapshotUrl": "/files/4ca1f265a1e880b2b5be9238701e17d5d7c2e53e1a8850cb805038134627236d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-21T01:29:50Z",
+    "lastObserved": "2026-08-21T01:29:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

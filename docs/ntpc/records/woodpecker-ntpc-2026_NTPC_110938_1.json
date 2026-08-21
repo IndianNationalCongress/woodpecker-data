@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110938_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110938_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110938_1-0001",
+      "date": "2026-08-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110938_1",
+        "title": "Procurement of conveyer load cell spares for FGD STG1 SIPAT.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-21T00:00:00Z"
+        },
+        "description": "Procurement of conveyer load cell spares for FGD STG1 SIPAT."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110938_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110938_1",
+          "url": "/files/0a31be3ea69fe38f6869f58137eca74acd538753e837498fc920a108f3920212.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S18GZF1zVLofm2%2Bu9gW6mIg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0a31be3ea69fe38f6869f58137eca74acd538753e837498fc920a108f3920212",
+          "format": "text/plain",
+          "textUrl": "/files/0a31be3ea69fe38f6869f58137eca74acd538753e837498fc920a108f3920212.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110938_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S18GZF1zVLofm2%2Bu9gW6mIg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110938_1",
+    "tender": {
+      "id": "2026_NTPC_110938_1",
+      "title": "Procurement of conveyer load cell spares for FGD STG1 SIPAT.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-21T00:00:00Z"
+      },
+      "description": "Procurement of conveyer load cell spares for FGD STG1 SIPAT."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110938_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110938_1",
+        "url": "/files/0a31be3ea69fe38f6869f58137eca74acd538753e837498fc920a108f3920212.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S18GZF1zVLofm2%2Bu9gW6mIg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0a31be3ea69fe38f6869f58137eca74acd538753e837498fc920a108f3920212",
+        "format": "text/plain",
+        "textUrl": "/files/0a31be3ea69fe38f6869f58137eca74acd538753e837498fc920a108f3920212.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110938_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S18GZF1zVLofm2%2Bu9gW6mIg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110938_1",
+      "observedAt": "2026-08-21T01:29:50Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "0bc602af364ee95d352e4f8bcedfa20189c1842afd0aa4590e191f8dd93aa14f",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110938_1-0001-record",
+          "sha256": "0a31be3ea69fe38f6869f58137eca74acd538753e837498fc920a108f3920212"
+        }
+      ],
+      "snapshotUrl": "/files/0a6173be0cee6d9e53aa59d258c6ecff16283754a15c3fd811a4f915f268ccc0.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-21T01:29:50Z",
+    "lastObserved": "2026-08-21T01:29:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

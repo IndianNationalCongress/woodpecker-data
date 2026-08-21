@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110830_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110830_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110830_1-0001",
+      "date": "2026-08-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_110830_1",
+        "title": "Civil maintenance for new allotment quarter in the township area of NTPC Vindhyachal.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-08-21T00:00:00Z"
+        },
+        "description": "Civil maintenance for new allotment quarter in the township area of NTPC Vindhyachal."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110830_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110830_1",
+          "url": "/files/0aaf9e77a285150792b0ca6ee7cf0a4c42c5e57c6178cc50881ec0ac5cbbd84f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKQYIxpO9E%2BxyyvunlpoH2A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0aaf9e77a285150792b0ca6ee7cf0a4c42c5e57c6178cc50881ec0ac5cbbd84f",
+          "format": "text/plain",
+          "textUrl": "/files/0aaf9e77a285150792b0ca6ee7cf0a4c42c5e57c6178cc50881ec0ac5cbbd84f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110830_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKQYIxpO9E%2BxyyvunlpoH2A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110830_1",
+    "tender": {
+      "id": "2026_NTPC_110830_1",
+      "title": "Civil maintenance for new allotment quarter in the township area of NTPC Vindhyachal.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-08-21T00:00:00Z"
+      },
+      "description": "Civil maintenance for new allotment quarter in the township area of NTPC Vindhyachal."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-08-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110830_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110830_1",
+        "url": "/files/0aaf9e77a285150792b0ca6ee7cf0a4c42c5e57c6178cc50881ec0ac5cbbd84f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKQYIxpO9E%2BxyyvunlpoH2A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0aaf9e77a285150792b0ca6ee7cf0a4c42c5e57c6178cc50881ec0ac5cbbd84f",
+        "format": "text/plain",
+        "textUrl": "/files/0aaf9e77a285150792b0ca6ee7cf0a4c42c5e57c6178cc50881ec0ac5cbbd84f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110830_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKQYIxpO9E%2BxyyvunlpoH2A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110830_1",
+      "observedAt": "2026-08-21T01:29:50Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "d9d2a73964158cf1b99fbf5d8250e6b6ac2a127799d90b5802a5bfc1caf5b2ec",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110830_1-0001-record",
+          "sha256": "0aaf9e77a285150792b0ca6ee7cf0a4c42c5e57c6178cc50881ec0ac5cbbd84f"
+        }
+      ],
+      "snapshotUrl": "/files/64fe341f61fbdac92f7c4c0044aa77b2c126bc33262d110d0e8713d3e6d4fd51.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-21T01:29:50Z",
+    "lastObserved": "2026-08-21T01:29:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
