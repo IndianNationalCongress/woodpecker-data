@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-assam-2026_FD_53301_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-assam-2026_FD_53301_1",
+      "id": "woodpecker-assam-2026_FD_53301_1-0001",
+      "date": "2026-08-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Fisheries||Assam Fisheries Development Corporation Ltd",
+        "id": "IN-ORG-department-of-fisheries-assam-fisheries-"
+      },
+      "tender": {
+        "id": "2026_FD_53301_1",
+        "title": "Settlement of Beel",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Fisheries||Assam Fisheries Development Corporation Ltd",
+          "id": "IN-ORG-department-of-fisheries-assam-fisheries-"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-24T00:00:00Z"
+        },
+        "description": "Settlement of Beel"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_FD_53301_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_FD_53301_1",
+          "url": "/files/0e1d7d2efad46ecc123411620c473954a4686c82ffece38cc5262bbc041d8847.txt",
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGGqdqE94nFcmt08GWezjDA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0e1d7d2efad46ecc123411620c473954a4686c82ffece38cc5262bbc041d8847",
+          "format": "text/plain",
+          "textUrl": "/files/0e1d7d2efad46ecc123411620c473954a4686c82ffece38cc5262bbc041d8847.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-assam-2026_FD_53301_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGGqdqE94nFcmt08GWezjDA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-assam-2026_FD_53301_1",
+    "tender": {
+      "id": "2026_FD_53301_1",
+      "title": "Settlement of Beel",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Fisheries||Assam Fisheries Development Corporation Ltd",
+        "id": "IN-ORG-department-of-fisheries-assam-fisheries-"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-24T00:00:00Z"
+      },
+      "description": "Settlement of Beel"
+    },
+    "buyer": {
+      "name": "Department of Fisheries||Assam Fisheries Development Corporation Ltd",
+      "id": "IN-ORG-department-of-fisheries-assam-fisheries-"
+    },
+    "date": "2026-08-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-assam-2026_FD_53301_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_FD_53301_1",
+        "url": "/files/0e1d7d2efad46ecc123411620c473954a4686c82ffece38cc5262bbc041d8847.txt",
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGGqdqE94nFcmt08GWezjDA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0e1d7d2efad46ecc123411620c473954a4686c82ffece38cc5262bbc041d8847",
+        "format": "text/plain",
+        "textUrl": "/files/0e1d7d2efad46ecc123411620c473954a4686c82ffece38cc5262bbc041d8847.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-assam-2026_FD_53301_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGGqdqE94nFcmt08GWezjDA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-assam-2026_FD_53301_1",
+      "observedAt": "2026-08-24T00:40:31Z",
+      "witness": "woodpecker:assam",
+      "availability": "present",
+      "stateHash": "ddafb71eeecd170da59744bf7d8e0a0d9d64a362b602b59b84da82b6cd0b27bf",
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_FD_53301_1-0001-record",
+          "sha256": "0e1d7d2efad46ecc123411620c473954a4686c82ffece38cc5262bbc041d8847"
+        }
+      ],
+      "snapshotUrl": "/files/58483525bf7cf8ffe82b9f947eaed2f450b60d8ad069f17d35ac15f67bab47e9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-24T00:40:31Z",
+    "lastObserved": "2026-08-24T00:40:31Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

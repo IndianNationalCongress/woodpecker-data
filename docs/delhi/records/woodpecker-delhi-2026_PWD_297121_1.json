@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_PWD_297121_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_297121_1",
+      "id": "woodpecker-delhi-2026_PWD_297121_1-0001",
+      "date": "2026-08-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Public Works Department||CE/SE/M1-M15||EE/M152",
+        "id": "IN-ORG-public-works-department-ce-se-m1-m15-ee-"
+      },
+      "tender": {
+        "id": "2026_PWD_297121_1",
+        "title": "Annual maintenance of 125 KVA DG set 35 KVA DG set and 15 KVA DG set",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Public Works Department||CE/SE/M1-M15||EE/M152",
+          "id": "IN-ORG-public-works-department-ce-se-m1-m15-ee-"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 230029,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-24T00:00:00Z"
+        },
+        "description": "Annual maintenance of 125 KVA DG set 35 KVA DG set and 15 KVA DG set"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_297121_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_297121_1",
+          "url": "/files/068207c8e642e9c5c7826edca259e2bb8555e815a0e01f5803aae1616207a0ae.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRe2ZUVcR2iSdefPWVoC9Iw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "068207c8e642e9c5c7826edca259e2bb8555e815a0e01f5803aae1616207a0ae",
+          "format": "text/plain",
+          "textUrl": "/files/068207c8e642e9c5c7826edca259e2bb8555e815a0e01f5803aae1616207a0ae.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_PWD_297121_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRe2ZUVcR2iSdefPWVoC9Iw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_PWD_297121_1",
+    "tender": {
+      "id": "2026_PWD_297121_1",
+      "title": "Annual maintenance of 125 KVA DG set 35 KVA DG set and 15 KVA DG set",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Public Works Department||CE/SE/M1-M15||EE/M152",
+        "id": "IN-ORG-public-works-department-ce-se-m1-m15-ee-"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 230029,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-24T00:00:00Z"
+      },
+      "description": "Annual maintenance of 125 KVA DG set 35 KVA DG set and 15 KVA DG set"
+    },
+    "buyer": {
+      "name": "Public Works Department||CE/SE/M1-M15||EE/M152",
+      "id": "IN-ORG-public-works-department-ce-se-m1-m15-ee-"
+    },
+    "date": "2026-08-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_PWD_297121_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_297121_1",
+        "url": "/files/068207c8e642e9c5c7826edca259e2bb8555e815a0e01f5803aae1616207a0ae.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRe2ZUVcR2iSdefPWVoC9Iw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "068207c8e642e9c5c7826edca259e2bb8555e815a0e01f5803aae1616207a0ae",
+        "format": "text/plain",
+        "textUrl": "/files/068207c8e642e9c5c7826edca259e2bb8555e815a0e01f5803aae1616207a0ae.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_PWD_297121_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRe2ZUVcR2iSdefPWVoC9Iw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_297121_1",
+      "observedAt": "2026-08-24T01:09:30Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "8f38117b8e67f2180500d6043d17b131a36cecbad141bdcdbfb9a4fddce158e8",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_297121_1-0001-record",
+          "sha256": "068207c8e642e9c5c7826edca259e2bb8555e815a0e01f5803aae1616207a0ae"
+        }
+      ],
+      "snapshotUrl": "/files/a843d8469b584cef295b129fd41b511c53fe866d61b164b3b0ab50c2e97c351b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-24T01:09:30Z",
+    "lastObserved": "2026-08-24T01:09:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

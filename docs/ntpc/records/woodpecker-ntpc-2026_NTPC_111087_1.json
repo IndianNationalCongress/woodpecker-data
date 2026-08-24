@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111087_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111087_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111087_1-0001",
+      "date": "2026-08-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111087_1",
+        "title": "BMC for JCB Equipments at NTPC Tanda",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-24T00:00:00Z"
+        },
+        "description": "BMC for JCB Equipments at NTPC Tanda"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111087_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111087_1",
+          "url": "/files/590eaaba63c94266325c732297babf2edc86062c1d2c93ccedfa57deb24dabd5.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S3TVCt6Epv4EpE1qe0ltUmA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "590eaaba63c94266325c732297babf2edc86062c1d2c93ccedfa57deb24dabd5",
+          "format": "text/plain",
+          "textUrl": "/files/590eaaba63c94266325c732297babf2edc86062c1d2c93ccedfa57deb24dabd5.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111087_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S3TVCt6Epv4EpE1qe0ltUmA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111087_1",
+    "tender": {
+      "id": "2026_NTPC_111087_1",
+      "title": "BMC for JCB Equipments at NTPC Tanda",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-24T00:00:00Z"
+      },
+      "description": "BMC for JCB Equipments at NTPC Tanda"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111087_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111087_1",
+        "url": "/files/590eaaba63c94266325c732297babf2edc86062c1d2c93ccedfa57deb24dabd5.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S3TVCt6Epv4EpE1qe0ltUmA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "590eaaba63c94266325c732297babf2edc86062c1d2c93ccedfa57deb24dabd5",
+        "format": "text/plain",
+        "textUrl": "/files/590eaaba63c94266325c732297babf2edc86062c1d2c93ccedfa57deb24dabd5.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111087_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S3TVCt6Epv4EpE1qe0ltUmA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111087_1",
+      "observedAt": "2026-08-24T01:27:53Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "994e113a987bde45b35938e441b0e7276033ac36165b64b5207468ba53a456bc",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111087_1-0001-record",
+          "sha256": "590eaaba63c94266325c732297babf2edc86062c1d2c93ccedfa57deb24dabd5"
+        }
+      ],
+      "snapshotUrl": "/files/46ffb5b7504f6cf2558f994438d5da0953eb2ca900cd6a88a8d4fdd3e7afe449.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-24T01:27:53Z",
+    "lastObserved": "2026-08-24T01:27:53Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110602_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110602_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110602_1-0001",
+      "date": "2026-08-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Northern Region Headquarter||Singrauli Super Thermal Power Station",
+        "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+      },
+      "tender": {
+        "id": "2026_NTPC_110602_1",
+        "title": "Lawn maintenance at IT lawn and amp associated Area SSTPS through PAP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Northern Region Headquarter||Singrauli Super Thermal Power Station",
+          "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-24T00:00:00Z"
+        },
+        "description": "Lawn maintenance at IT lawn and amp associated Area SSTPS through PAP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110602_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110602_1",
+          "url": "/files/9dbdc0762239564f8b43f1c618c4bdd05b9e40ac8a4912cf0b1f7d71e3c6c8fc.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHtX00jnvav09UnEuwSgyDw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9dbdc0762239564f8b43f1c618c4bdd05b9e40ac8a4912cf0b1f7d71e3c6c8fc",
+          "format": "text/plain",
+          "textUrl": "/files/9dbdc0762239564f8b43f1c618c4bdd05b9e40ac8a4912cf0b1f7d71e3c6c8fc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110602_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHtX00jnvav09UnEuwSgyDw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110602_1",
+    "tender": {
+      "id": "2026_NTPC_110602_1",
+      "title": "Lawn maintenance at IT lawn and amp associated Area SSTPS through PAP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Northern Region Headquarter||Singrauli Super Thermal Power Station",
+        "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-24T00:00:00Z"
+      },
+      "description": "Lawn maintenance at IT lawn and amp associated Area SSTPS through PAP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Northern Region Headquarter||Singrauli Super Thermal Power Station",
+      "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+    },
+    "date": "2026-08-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110602_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110602_1",
+        "url": "/files/9dbdc0762239564f8b43f1c618c4bdd05b9e40ac8a4912cf0b1f7d71e3c6c8fc.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHtX00jnvav09UnEuwSgyDw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9dbdc0762239564f8b43f1c618c4bdd05b9e40ac8a4912cf0b1f7d71e3c6c8fc",
+        "format": "text/plain",
+        "textUrl": "/files/9dbdc0762239564f8b43f1c618c4bdd05b9e40ac8a4912cf0b1f7d71e3c6c8fc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110602_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHtX00jnvav09UnEuwSgyDw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110602_1",
+      "observedAt": "2026-08-24T01:27:53Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "83e1a4445b01b340e1bf481dba871ace847a6aefe64e95ff3b42d3594e4eeb3a",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110602_1-0001-record",
+          "sha256": "9dbdc0762239564f8b43f1c618c4bdd05b9e40ac8a4912cf0b1f7d71e3c6c8fc"
+        }
+      ],
+      "snapshotUrl": "/files/8edd0a7ebd87b8ce57f6aa6e816b943d0fdfb5cd32eee6bd12af83b5f455787a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-24T01:27:53Z",
+    "lastObserved": "2026-08-24T01:27:53Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

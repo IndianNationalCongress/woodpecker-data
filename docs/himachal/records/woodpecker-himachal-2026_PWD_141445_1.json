@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_141445_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_141445_1",
+      "id": "woodpecker-himachal-2026_PWD_141445_1-0001",
+      "date": "2026-08-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_141445_1",
+        "title": "Construction of CH Building 50 bedded Hospital at Sh Naina Devi ji",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 4119576,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-24T00:00:00Z"
+        },
+        "description": "Construction of CH Building 50 bedded Hospital at Sh Naina Devi ji"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_141445_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_141445_1",
+          "url": "/files/a80d49440debb7cbb9d0814f78e5a504748892fe6543df6e10a2d085d2707427.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=So7g7driYYBXt8DGnxCRddA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a80d49440debb7cbb9d0814f78e5a504748892fe6543df6e10a2d085d2707427",
+          "format": "text/plain",
+          "textUrl": "/files/a80d49440debb7cbb9d0814f78e5a504748892fe6543df6e10a2d085d2707427.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_141445_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=So7g7driYYBXt8DGnxCRddA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_141445_1",
+    "tender": {
+      "id": "2026_PWD_141445_1",
+      "title": "Construction of CH Building 50 bedded Hospital at Sh Naina Devi ji",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 4119576,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-24T00:00:00Z"
+      },
+      "description": "Construction of CH Building 50 bedded Hospital at Sh Naina Devi ji"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-08-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_141445_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_141445_1",
+        "url": "/files/a80d49440debb7cbb9d0814f78e5a504748892fe6543df6e10a2d085d2707427.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=So7g7driYYBXt8DGnxCRddA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a80d49440debb7cbb9d0814f78e5a504748892fe6543df6e10a2d085d2707427",
+        "format": "text/plain",
+        "textUrl": "/files/a80d49440debb7cbb9d0814f78e5a504748892fe6543df6e10a2d085d2707427.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_141445_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=So7g7driYYBXt8DGnxCRddA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_141445_1",
+      "observedAt": "2026-08-24T00:38:10Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "39448708723be0608bacc57d89709583a27318c949bed92334de5bc3f0218834",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_141445_1-0001-record",
+          "sha256": "a80d49440debb7cbb9d0814f78e5a504748892fe6543df6e10a2d085d2707427"
+        }
+      ],
+      "snapshotUrl": "/files/59abbc2b2d689ca13ea9b5ec0c46d24e53b5ceb6e6da474a13d4f2c589d0668a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-24T00:38:10Z",
+    "lastObserved": "2026-08-24T00:38:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

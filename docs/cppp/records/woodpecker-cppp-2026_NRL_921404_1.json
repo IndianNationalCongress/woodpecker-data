@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_NRL_921404_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_NRL_921404_1",
+      "id": "woodpecker-cppp-2026_NRL_921404_1-0001",
+      "date": "2026-08-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Numaligarh Refinery Limited",
+        "id": "IN-ORG-numaligarh-refinery-limited"
+      },
+      "tender": {
+        "id": "2026_NRL_921404_1",
+        "title": "Construction of UPS cum Battery room beside QC lab at SMT",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Numaligarh Refinery Limited",
+          "id": "IN-ORG-numaligarh-refinery-limited"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-08-24T00:00:00Z"
+        },
+        "description": "Construction of UPS cum Battery room beside QC lab at SMT"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NRL_921404_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NRL_921404_1",
+          "url": "/files/d603b1cea6effa97ae365d429eba838eff4b21751c7697ff8dee5469e8ed1670.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCjZinJW1WNFlJOiftVTyBw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d603b1cea6effa97ae365d429eba838eff4b21751c7697ff8dee5469e8ed1670",
+          "format": "text/plain",
+          "textUrl": "/files/d603b1cea6effa97ae365d429eba838eff4b21751c7697ff8dee5469e8ed1670.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_NRL_921404_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCjZinJW1WNFlJOiftVTyBw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_NRL_921404_1",
+    "tender": {
+      "id": "2026_NRL_921404_1",
+      "title": "Construction of UPS cum Battery room beside QC lab at SMT",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Numaligarh Refinery Limited",
+        "id": "IN-ORG-numaligarh-refinery-limited"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-08-24T00:00:00Z"
+      },
+      "description": "Construction of UPS cum Battery room beside QC lab at SMT"
+    },
+    "buyer": {
+      "name": "Numaligarh Refinery Limited",
+      "id": "IN-ORG-numaligarh-refinery-limited"
+    },
+    "date": "2026-08-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_NRL_921404_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NRL_921404_1",
+        "url": "/files/d603b1cea6effa97ae365d429eba838eff4b21751c7697ff8dee5469e8ed1670.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCjZinJW1WNFlJOiftVTyBw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d603b1cea6effa97ae365d429eba838eff4b21751c7697ff8dee5469e8ed1670",
+        "format": "text/plain",
+        "textUrl": "/files/d603b1cea6effa97ae365d429eba838eff4b21751c7697ff8dee5469e8ed1670.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_NRL_921404_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCjZinJW1WNFlJOiftVTyBw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_NRL_921404_1",
+      "observedAt": "2026-08-23T23:51:21Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "8f4c5f8d824cb49283043e425c7e05b1c84ab1559fe6b30e12772e16d69d13f0",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NRL_921404_1-0001-record",
+          "sha256": "d603b1cea6effa97ae365d429eba838eff4b21751c7697ff8dee5469e8ed1670"
+        }
+      ],
+      "snapshotUrl": "/files/51f5878247dc5909e1ebeb5fdb1521469e1872de1ff13d53b82c616d23db45e6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-23T23:51:21Z",
+    "lastObserved": "2026-08-23T23:51:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
