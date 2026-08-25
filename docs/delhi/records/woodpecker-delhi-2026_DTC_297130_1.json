@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_DTC_297130_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_DTC_297130_1",
+      "id": "woodpecker-delhi-2026_DTC_297130_1-0001",
+      "date": "2026-08-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Delhi Transport Corporation||CED",
+        "id": "IN-ORG-delhi-transport-corporation-ced"
+      },
+      "tender": {
+        "id": "2026_DTC_297130_1",
+        "title": "Construction of DTC Bus Terminal at Khyala",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Delhi Transport Corporation||CED",
+          "id": "IN-ORG-delhi-transport-corporation-ced"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 19437682,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-08-25T00:00:00Z"
+        },
+        "description": "Construction of DTC Bus Terminal at Khyala"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DTC_297130_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DTC_297130_1",
+          "url": "/files/c1e7c586b2d9ad32f5ebc60b006e037821701e11003269d48547b1a4a8eefc82.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BLjoSgNZaA%2BlRfZDK%2BVOMA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c1e7c586b2d9ad32f5ebc60b006e037821701e11003269d48547b1a4a8eefc82",
+          "format": "text/plain",
+          "textUrl": "/files/c1e7c586b2d9ad32f5ebc60b006e037821701e11003269d48547b1a4a8eefc82.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_DTC_297130_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BLjoSgNZaA%2BlRfZDK%2BVOMA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_DTC_297130_1",
+    "tender": {
+      "id": "2026_DTC_297130_1",
+      "title": "Construction of DTC Bus Terminal at Khyala",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Delhi Transport Corporation||CED",
+        "id": "IN-ORG-delhi-transport-corporation-ced"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 19437682,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-08-25T00:00:00Z"
+      },
+      "description": "Construction of DTC Bus Terminal at Khyala"
+    },
+    "buyer": {
+      "name": "Delhi Transport Corporation||CED",
+      "id": "IN-ORG-delhi-transport-corporation-ced"
+    },
+    "date": "2026-08-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_DTC_297130_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DTC_297130_1",
+        "url": "/files/c1e7c586b2d9ad32f5ebc60b006e037821701e11003269d48547b1a4a8eefc82.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BLjoSgNZaA%2BlRfZDK%2BVOMA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c1e7c586b2d9ad32f5ebc60b006e037821701e11003269d48547b1a4a8eefc82",
+        "format": "text/plain",
+        "textUrl": "/files/c1e7c586b2d9ad32f5ebc60b006e037821701e11003269d48547b1a4a8eefc82.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_DTC_297130_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BLjoSgNZaA%2BlRfZDK%2BVOMA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_DTC_297130_1",
+      "observedAt": "2026-08-25T00:26:54Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "15d8f3f28cb60df58253c7748d41572b05791148b53d2ebf61fc41b712c38761",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DTC_297130_1-0001-record",
+          "sha256": "c1e7c586b2d9ad32f5ebc60b006e037821701e11003269d48547b1a4a8eefc82"
+        }
+      ],
+      "snapshotUrl": "/files/3af696839312a4bf53169bf484a9d4b875ab303853293ad01be731c3767c5ba1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-25T00:26:54Z",
+    "lastObserved": "2026-08-25T00:26:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
