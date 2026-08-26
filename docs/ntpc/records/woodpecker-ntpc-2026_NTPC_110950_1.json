@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110950_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110950_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110950_1-0001",
+      "date": "2026-08-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110950_1",
+        "title": "Procurement of rotex75 coupling for NTPC Mouda",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-26T00:00:00Z"
+        },
+        "description": "Procurement of rotex75 coupling for NTPC Mouda"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110950_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110950_1",
+          "url": "/files/077b2c032277a6c6aa6a786d5ef703a4da18b5f1e4483a99449d6e78fa9932bb.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWVeO3EVTqrKrtJzttAH5cg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "077b2c032277a6c6aa6a786d5ef703a4da18b5f1e4483a99449d6e78fa9932bb",
+          "format": "text/plain",
+          "textUrl": "/files/077b2c032277a6c6aa6a786d5ef703a4da18b5f1e4483a99449d6e78fa9932bb.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110950_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWVeO3EVTqrKrtJzttAH5cg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110950_1",
+    "tender": {
+      "id": "2026_NTPC_110950_1",
+      "title": "Procurement of rotex75 coupling for NTPC Mouda",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-26T00:00:00Z"
+      },
+      "description": "Procurement of rotex75 coupling for NTPC Mouda"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110950_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110950_1",
+        "url": "/files/077b2c032277a6c6aa6a786d5ef703a4da18b5f1e4483a99449d6e78fa9932bb.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWVeO3EVTqrKrtJzttAH5cg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "077b2c032277a6c6aa6a786d5ef703a4da18b5f1e4483a99449d6e78fa9932bb",
+        "format": "text/plain",
+        "textUrl": "/files/077b2c032277a6c6aa6a786d5ef703a4da18b5f1e4483a99449d6e78fa9932bb.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110950_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWVeO3EVTqrKrtJzttAH5cg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110950_1",
+      "observedAt": "2026-08-26T00:56:35Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "89f84bd6892d1c03f5990053bb9f215045b3ed724397f6d827122afa45b674c8",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110950_1-0001-record",
+          "sha256": "077b2c032277a6c6aa6a786d5ef703a4da18b5f1e4483a99449d6e78fa9932bb"
+        }
+      ],
+      "snapshotUrl": "/files/f0afb4a7c24adcb58bf911d265935cdfab11e6cbc9f24384a28c747a9ec73826.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-26T00:56:35Z",
+    "lastObserved": "2026-08-26T00:56:35Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
