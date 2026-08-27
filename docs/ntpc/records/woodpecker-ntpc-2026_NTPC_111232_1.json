@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111232_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111232_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111232_1-0001",
+      "date": "2026-08-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111232_1",
+        "title": "Procurement of spare for stage 4 compressor model NE275 of NTPC Unchahar",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-27T00:00:00Z"
+        },
+        "description": "Procurement of spare for stage 4 compressor model NE275 of NTPC Unchahar"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111232_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111232_1",
+          "url": "/files/73e1673af4c53d8ddda1deb1ff0781ecf4ddede0106913f1c99bcc177ee26435.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0HcML2yxKM6yvXuN1gLYfg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "73e1673af4c53d8ddda1deb1ff0781ecf4ddede0106913f1c99bcc177ee26435",
+          "format": "text/plain",
+          "textUrl": "/files/73e1673af4c53d8ddda1deb1ff0781ecf4ddede0106913f1c99bcc177ee26435.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111232_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0HcML2yxKM6yvXuN1gLYfg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111232_1",
+    "tender": {
+      "id": "2026_NTPC_111232_1",
+      "title": "Procurement of spare for stage 4 compressor model NE275 of NTPC Unchahar",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-27T00:00:00Z"
+      },
+      "description": "Procurement of spare for stage 4 compressor model NE275 of NTPC Unchahar"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111232_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111232_1",
+        "url": "/files/73e1673af4c53d8ddda1deb1ff0781ecf4ddede0106913f1c99bcc177ee26435.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0HcML2yxKM6yvXuN1gLYfg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "73e1673af4c53d8ddda1deb1ff0781ecf4ddede0106913f1c99bcc177ee26435",
+        "format": "text/plain",
+        "textUrl": "/files/73e1673af4c53d8ddda1deb1ff0781ecf4ddede0106913f1c99bcc177ee26435.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111232_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0HcML2yxKM6yvXuN1gLYfg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111232_1",
+      "observedAt": "2026-08-27T07:02:40Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "53ffdfdf36a12995195be5332e3daeb55b029f54727c721fb0cf154177b16be2",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111232_1-0001-record",
+          "sha256": "73e1673af4c53d8ddda1deb1ff0781ecf4ddede0106913f1c99bcc177ee26435"
+        }
+      ],
+      "snapshotUrl": "/files/d21f57058e46845178c449bb062e0fb1d85881a2ce529785175e6a0657e04370.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-27T07:02:40Z",
+    "lastObserved": "2026-08-27T07:02:40Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

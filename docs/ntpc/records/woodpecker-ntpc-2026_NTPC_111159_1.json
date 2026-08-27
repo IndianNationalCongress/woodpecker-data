@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111159_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111159_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111159_1-0001",
+      "date": "2026-08-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||HR - Contracts and Procurement",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-hr-contrac"
+      },
+      "tender": {
+        "id": "2026_NTPC_111159_1",
+        "title": "Operation and Maintenance of Electrical System at NTPC PMI Sector 16ANOIDA for 03 months",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||HR - Contracts and Procurement",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-hr-contrac"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-27T00:00:00Z"
+        },
+        "description": "Operation and Maintenance of Electrical System at NTPC PMI Sector 16ANOIDA for 03 months"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111159_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111159_1",
+          "url": "/files/36b67cb7680673682023cc52a72c0237b297aa0cffef1f1b74352a0918855c32.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBjaHJBWeBE47P75BR6hX9Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "36b67cb7680673682023cc52a72c0237b297aa0cffef1f1b74352a0918855c32",
+          "format": "text/plain",
+          "textUrl": "/files/36b67cb7680673682023cc52a72c0237b297aa0cffef1f1b74352a0918855c32.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111159_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBjaHJBWeBE47P75BR6hX9Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111159_1",
+    "tender": {
+      "id": "2026_NTPC_111159_1",
+      "title": "Operation and Maintenance of Electrical System at NTPC PMI Sector 16ANOIDA for 03 months",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||HR - Contracts and Procurement",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-hr-contrac"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-27T00:00:00Z"
+      },
+      "description": "Operation and Maintenance of Electrical System at NTPC PMI Sector 16ANOIDA for 03 months"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||HR - Contracts and Procurement",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-hr-contrac"
+    },
+    "date": "2026-08-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111159_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111159_1",
+        "url": "/files/36b67cb7680673682023cc52a72c0237b297aa0cffef1f1b74352a0918855c32.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBjaHJBWeBE47P75BR6hX9Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "36b67cb7680673682023cc52a72c0237b297aa0cffef1f1b74352a0918855c32",
+        "format": "text/plain",
+        "textUrl": "/files/36b67cb7680673682023cc52a72c0237b297aa0cffef1f1b74352a0918855c32.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111159_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBjaHJBWeBE47P75BR6hX9Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111159_1",
+      "observedAt": "2026-08-27T07:02:40Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5ff7d2e04107328f7698ee19259adc56f2bebb26b925e7b114654d9bf9dbb06b",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111159_1-0001-record",
+          "sha256": "36b67cb7680673682023cc52a72c0237b297aa0cffef1f1b74352a0918855c32"
+        }
+      ],
+      "snapshotUrl": "/files/9bc757145e0a72946fec1fd4d64230ee4c0d3ec91e4d225a42f83d11714df6c2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-27T07:02:40Z",
+    "lastObserved": "2026-08-27T07:02:40Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
