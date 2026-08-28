@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_IITI_921204_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_IITI_921204_1",
+      "id": "woodpecker-cppp-2026_IITI_921204_1-0001",
+      "date": "2026-08-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Indian Institute of Technology Indore||Materials Management Section - IITI",
+        "id": "IN-ORG-indian-institute-of-technology-indore-ma"
+      },
+      "tender": {
+        "id": "2026_IITI_921204_1",
+        "title": "Comprehensive Annual maintenance Contract (CMC) for NVIDIA DGX A100 Server",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Indian Institute of Technology Indore||Materials Management Section - IITI",
+          "id": "IN-ORG-indian-institute-of-technology-indore-ma"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-28T00:00:00Z"
+        },
+        "description": "Comprehensive Annual maintenance Contract (CMC) for NVIDIA DGX A100 Server"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IITI_921204_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IITI_921204_1",
+          "url": "/files/a097d3e1343b4fd276164786968cafc8c49ca1941ebb1c3cafe3fb6d281a6c7e.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjHitIN7k1BJKCaJjOIDhHA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a097d3e1343b4fd276164786968cafc8c49ca1941ebb1c3cafe3fb6d281a6c7e",
+          "format": "text/plain",
+          "textUrl": "/files/a097d3e1343b4fd276164786968cafc8c49ca1941ebb1c3cafe3fb6d281a6c7e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_IITI_921204_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjHitIN7k1BJKCaJjOIDhHA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_IITI_921204_1",
+    "tender": {
+      "id": "2026_IITI_921204_1",
+      "title": "Comprehensive Annual maintenance Contract (CMC) for NVIDIA DGX A100 Server",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Indian Institute of Technology Indore||Materials Management Section - IITI",
+        "id": "IN-ORG-indian-institute-of-technology-indore-ma"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-28T00:00:00Z"
+      },
+      "description": "Comprehensive Annual maintenance Contract (CMC) for NVIDIA DGX A100 Server"
+    },
+    "buyer": {
+      "name": "Indian Institute of Technology Indore||Materials Management Section - IITI",
+      "id": "IN-ORG-indian-institute-of-technology-indore-ma"
+    },
+    "date": "2026-08-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_IITI_921204_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IITI_921204_1",
+        "url": "/files/a097d3e1343b4fd276164786968cafc8c49ca1941ebb1c3cafe3fb6d281a6c7e.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjHitIN7k1BJKCaJjOIDhHA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a097d3e1343b4fd276164786968cafc8c49ca1941ebb1c3cafe3fb6d281a6c7e",
+        "format": "text/plain",
+        "textUrl": "/files/a097d3e1343b4fd276164786968cafc8c49ca1941ebb1c3cafe3fb6d281a6c7e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_IITI_921204_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjHitIN7k1BJKCaJjOIDhHA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_IITI_921204_1",
+      "observedAt": "2026-08-28T07:06:22Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "fd140b7d38b204003a708e1ca1f9cf6924c5e0ee4b9f7e36ade7ec2fde05d877",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IITI_921204_1-0001-record",
+          "sha256": "a097d3e1343b4fd276164786968cafc8c49ca1941ebb1c3cafe3fb6d281a6c7e"
+        }
+      ],
+      "snapshotUrl": "/files/da7b56b584972a6743994339c0494186b8c0ba9e6c85aa1ea2118f0194703385.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-28T07:06:22Z",
+    "lastObserved": "2026-08-28T07:06:22Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

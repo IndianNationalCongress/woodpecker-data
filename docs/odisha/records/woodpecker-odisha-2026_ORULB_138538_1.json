@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-odisha-2026_ORULB_138538_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-odisha-2026_ORULB_138538_1",
+      "id": "woodpecker-odisha-2026_ORULB_138538_1-0001",
+      "date": "2026-08-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Municipal Bodies||Umerkote Municipality",
+        "id": "IN-ORG-municipal-bodies-umerkote-municipality"
+      },
+      "tender": {
+        "id": "2026_ORULB_138538_1",
+        "title": "Civil Work",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Municipal Bodies||Umerkote Municipality",
+          "id": "IN-ORG-municipal-bodies-umerkote-municipality"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-08-28T00:00:00Z"
+        },
+        "description": "Civil Work"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_ORULB_138538_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ORULB_138538_1",
+          "url": "/files/d5196511d8d24a61ff4b063f01100ee1f5275bbe60c2757c84c26a00cbba5746.txt",
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIDxfdRdBAd4sOntFUQnQzA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d5196511d8d24a61ff4b063f01100ee1f5275bbe60c2757c84c26a00cbba5746",
+          "format": "text/plain",
+          "textUrl": "/files/d5196511d8d24a61ff4b063f01100ee1f5275bbe60c2757c84c26a00cbba5746.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-odisha-2026_ORULB_138538_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIDxfdRdBAd4sOntFUQnQzA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-odisha-2026_ORULB_138538_1",
+    "tender": {
+      "id": "2026_ORULB_138538_1",
+      "title": "Civil Work",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Municipal Bodies||Umerkote Municipality",
+        "id": "IN-ORG-municipal-bodies-umerkote-municipality"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-08-28T00:00:00Z"
+      },
+      "description": "Civil Work"
+    },
+    "buyer": {
+      "name": "Municipal Bodies||Umerkote Municipality",
+      "id": "IN-ORG-municipal-bodies-umerkote-municipality"
+    },
+    "date": "2026-08-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-odisha-2026_ORULB_138538_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ORULB_138538_1",
+        "url": "/files/d5196511d8d24a61ff4b063f01100ee1f5275bbe60c2757c84c26a00cbba5746.txt",
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIDxfdRdBAd4sOntFUQnQzA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d5196511d8d24a61ff4b063f01100ee1f5275bbe60c2757c84c26a00cbba5746",
+        "format": "text/plain",
+        "textUrl": "/files/d5196511d8d24a61ff4b063f01100ee1f5275bbe60c2757c84c26a00cbba5746.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-odisha-2026_ORULB_138538_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIDxfdRdBAd4sOntFUQnQzA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-odisha-2026_ORULB_138538_1",
+      "observedAt": "2026-08-28T07:32:56Z",
+      "witness": "woodpecker:odisha",
+      "availability": "present",
+      "stateHash": "406e16ed4017705618b379673a51a18eae4e64b8b12fa286a6dc5cf39ba64154",
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_ORULB_138538_1-0001-record",
+          "sha256": "d5196511d8d24a61ff4b063f01100ee1f5275bbe60c2757c84c26a00cbba5746"
+        }
+      ],
+      "snapshotUrl": "/files/c7b347b35f529e2e5040121192b7030882b1fdd44cab5ba2fba51efe5178262a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-28T07:32:56Z",
+    "lastObserved": "2026-08-28T07:32:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

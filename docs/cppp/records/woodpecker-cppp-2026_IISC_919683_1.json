@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_IISC_919683_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_IISC_919683_1",
+      "id": "woodpecker-cppp-2026_IISC_919683_1-0001",
+      "date": "2026-07-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Indian Institute of Science - Bangalore",
+        "id": "IN-ORG-indian-institute-of-science-bangalore"
+      },
+      "tender": {
+        "id": "2026_IISC_919683_1",
+        "title": "As per the tender document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Indian Institute of Science - Bangalore",
+          "id": "IN-ORG-indian-institute-of-science-bangalore"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-28T00:00:00Z"
+        },
+        "description": "As per the tender document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IISC_919683_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IISC_919683_1",
+          "url": "/files/80af5539a32743abaa1ff8c9a58d0ad844f4857b492156bfa832c198a0555ad5.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiCV%2FYnACS1Gtc4JTycdz2g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "80af5539a32743abaa1ff8c9a58d0ad844f4857b492156bfa832c198a0555ad5",
+          "format": "text/plain",
+          "textUrl": "/files/80af5539a32743abaa1ff8c9a58d0ad844f4857b492156bfa832c198a0555ad5.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_IISC_919683_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiCV%2FYnACS1Gtc4JTycdz2g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_IISC_919683_1",
+    "tender": {
+      "id": "2026_IISC_919683_1",
+      "title": "As per the tender document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Indian Institute of Science - Bangalore",
+        "id": "IN-ORG-indian-institute-of-science-bangalore"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-28T00:00:00Z"
+      },
+      "description": "As per the tender document"
+    },
+    "buyer": {
+      "name": "Indian Institute of Science - Bangalore",
+      "id": "IN-ORG-indian-institute-of-science-bangalore"
+    },
+    "date": "2026-07-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_IISC_919683_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IISC_919683_1",
+        "url": "/files/80af5539a32743abaa1ff8c9a58d0ad844f4857b492156bfa832c198a0555ad5.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiCV%2FYnACS1Gtc4JTycdz2g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "80af5539a32743abaa1ff8c9a58d0ad844f4857b492156bfa832c198a0555ad5",
+        "format": "text/plain",
+        "textUrl": "/files/80af5539a32743abaa1ff8c9a58d0ad844f4857b492156bfa832c198a0555ad5.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_IISC_919683_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiCV%2FYnACS1Gtc4JTycdz2g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_IISC_919683_1",
+      "observedAt": "2026-08-28T07:06:22Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "f2a0daefdcba76f9ffb9c7c06b480e2f6516c95bf7669067d9a7eff23f7ffb8e",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IISC_919683_1-0001-record",
+          "sha256": "80af5539a32743abaa1ff8c9a58d0ad844f4857b492156bfa832c198a0555ad5"
+        }
+      ],
+      "snapshotUrl": "/files/813c3388eae0e91e1f6e8f1b3b47033257348052feb8168180ce0a807081f53e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-28T07:06:22Z",
+    "lastObserved": "2026-08-28T07:06:22Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

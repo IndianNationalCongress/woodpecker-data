@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111197_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111197_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111197_1-0001",
+      "date": "2026-08-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111197_1",
+        "title": "Procurement of Filter element and filter for NTPC Simhadri Wagon Tippler hydraulic system",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-28T00:00:00Z"
+        },
+        "description": "Procurement of Filter element and filter for NTPC Simhadri Wagon Tippler hydraulic system"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111197_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111197_1",
+          "url": "/files/401b74e69301841f2058ba0ae715541aff3952f11781eb8b651064a994a2396a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgDDaPq1gJK8EYUK6Ff2aSw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "401b74e69301841f2058ba0ae715541aff3952f11781eb8b651064a994a2396a",
+          "format": "text/plain",
+          "textUrl": "/files/401b74e69301841f2058ba0ae715541aff3952f11781eb8b651064a994a2396a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111197_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgDDaPq1gJK8EYUK6Ff2aSw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111197_1",
+    "tender": {
+      "id": "2026_NTPC_111197_1",
+      "title": "Procurement of Filter element and filter for NTPC Simhadri Wagon Tippler hydraulic system",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-28T00:00:00Z"
+      },
+      "description": "Procurement of Filter element and filter for NTPC Simhadri Wagon Tippler hydraulic system"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111197_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111197_1",
+        "url": "/files/401b74e69301841f2058ba0ae715541aff3952f11781eb8b651064a994a2396a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgDDaPq1gJK8EYUK6Ff2aSw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "401b74e69301841f2058ba0ae715541aff3952f11781eb8b651064a994a2396a",
+        "format": "text/plain",
+        "textUrl": "/files/401b74e69301841f2058ba0ae715541aff3952f11781eb8b651064a994a2396a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111197_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgDDaPq1gJK8EYUK6Ff2aSw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111197_1",
+      "observedAt": "2026-08-28T08:23:34Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "f5c4898a14b61acfe745f551e94746f31482fd9a9bb64122ad5e3139316bd7e6",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111197_1-0001-record",
+          "sha256": "401b74e69301841f2058ba0ae715541aff3952f11781eb8b651064a994a2396a"
+        }
+      ],
+      "snapshotUrl": "/files/3b68dbe3d9e81595dc22b84ee4c57cdb3b419776a1fa19e8ed6d29fd84df1d34.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-28T08:23:34Z",
+    "lastObserved": "2026-08-28T08:23:34Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
