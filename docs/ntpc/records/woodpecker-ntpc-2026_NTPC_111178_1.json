@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111178_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111178_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111178_1-0001",
+      "date": "2026-08-20T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111178_1",
+        "title": "PROCUREMENT OF NETWORK POWER SWITCH FOR NTPC KORBA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-29T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF NETWORK POWER SWITCH FOR NTPC KORBA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111178_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111178_1",
+          "url": "/files/e246a7e0de1db31f2c144a30346b323181364fdf8b6fc9bf0a544793328f6c51.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScaZ%2BBtzYUDDyiJOXfMV7WQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e246a7e0de1db31f2c144a30346b323181364fdf8b6fc9bf0a544793328f6c51",
+          "format": "text/plain",
+          "textUrl": "/files/e246a7e0de1db31f2c144a30346b323181364fdf8b6fc9bf0a544793328f6c51.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111178_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScaZ%2BBtzYUDDyiJOXfMV7WQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111178_1",
+    "tender": {
+      "id": "2026_NTPC_111178_1",
+      "title": "PROCUREMENT OF NETWORK POWER SWITCH FOR NTPC KORBA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-29T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF NETWORK POWER SWITCH FOR NTPC KORBA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-20T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111178_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111178_1",
+        "url": "/files/e246a7e0de1db31f2c144a30346b323181364fdf8b6fc9bf0a544793328f6c51.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScaZ%2BBtzYUDDyiJOXfMV7WQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e246a7e0de1db31f2c144a30346b323181364fdf8b6fc9bf0a544793328f6c51",
+        "format": "text/plain",
+        "textUrl": "/files/e246a7e0de1db31f2c144a30346b323181364fdf8b6fc9bf0a544793328f6c51.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111178_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScaZ%2BBtzYUDDyiJOXfMV7WQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111178_1",
+      "observedAt": "2026-08-29T05:53:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "859746c94dbf5cb3c5051a12b0bc22360e9f845ac3b8fdd08e6dd61a93fdb0b0",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111178_1-0001-record",
+          "sha256": "e246a7e0de1db31f2c144a30346b323181364fdf8b6fc9bf0a544793328f6c51"
+        }
+      ],
+      "snapshotUrl": "/files/9e165b548c77c44df4753037275b7f8c8ddecaf5e2d75bbedf4a42163d3b7269.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-29T05:53:01Z",
+    "lastObserved": "2026-08-29T05:53:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

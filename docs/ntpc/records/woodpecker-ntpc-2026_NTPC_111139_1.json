@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111139_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111139_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111139_1-0001",
+      "date": "2026-08-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111139_1",
+        "title": "Procurement of APH spares at NTPC Telangana",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-29T00:00:00Z"
+        },
+        "description": "Procurement of APH spares at NTPC Telangana"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111139_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111139_1",
+          "url": "/files/e796aa424dc18f3e369fb8cb9be2254ba67fb9094d805bf309e959a7e3335f7a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOgqmT4khdfv2qwCmShuO7Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e796aa424dc18f3e369fb8cb9be2254ba67fb9094d805bf309e959a7e3335f7a",
+          "format": "text/plain",
+          "textUrl": "/files/e796aa424dc18f3e369fb8cb9be2254ba67fb9094d805bf309e959a7e3335f7a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111139_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOgqmT4khdfv2qwCmShuO7Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111139_1",
+    "tender": {
+      "id": "2026_NTPC_111139_1",
+      "title": "Procurement of APH spares at NTPC Telangana",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-29T00:00:00Z"
+      },
+      "description": "Procurement of APH spares at NTPC Telangana"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111139_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111139_1",
+        "url": "/files/e796aa424dc18f3e369fb8cb9be2254ba67fb9094d805bf309e959a7e3335f7a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOgqmT4khdfv2qwCmShuO7Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e796aa424dc18f3e369fb8cb9be2254ba67fb9094d805bf309e959a7e3335f7a",
+        "format": "text/plain",
+        "textUrl": "/files/e796aa424dc18f3e369fb8cb9be2254ba67fb9094d805bf309e959a7e3335f7a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111139_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOgqmT4khdfv2qwCmShuO7Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111139_1",
+      "observedAt": "2026-08-29T05:53:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "a94705c1297fb729b168fec9ee733a149981ec5fe95f650b38be6ddafc03a9db",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111139_1-0001-record",
+          "sha256": "e796aa424dc18f3e369fb8cb9be2254ba67fb9094d805bf309e959a7e3335f7a"
+        }
+      ],
+      "snapshotUrl": "/files/0a5842be52dc4e011577e7d71eab556afe5c6cf90799e585bdda92fb329ff954.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-29T05:53:01Z",
+    "lastObserved": "2026-08-29T05:53:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

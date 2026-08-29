@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111150_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111150_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111150_1-0001",
+      "date": "2026-08-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111150_1",
+        "title": "Procurement of main turbine keys OEMOES",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-29T00:00:00Z"
+        },
+        "description": "Procurement of main turbine keys OEMOES"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111150_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111150_1",
+          "url": "/files/7ad02daaab5bc9465de2d4bfdb14bbdb8ada124103748990cd4429821f44a991.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvoQZDkHjt6LzSo%2BShKWO1A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7ad02daaab5bc9465de2d4bfdb14bbdb8ada124103748990cd4429821f44a991",
+          "format": "text/plain",
+          "textUrl": "/files/7ad02daaab5bc9465de2d4bfdb14bbdb8ada124103748990cd4429821f44a991.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111150_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvoQZDkHjt6LzSo%2BShKWO1A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111150_1",
+    "tender": {
+      "id": "2026_NTPC_111150_1",
+      "title": "Procurement of main turbine keys OEMOES",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-29T00:00:00Z"
+      },
+      "description": "Procurement of main turbine keys OEMOES"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111150_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111150_1",
+        "url": "/files/7ad02daaab5bc9465de2d4bfdb14bbdb8ada124103748990cd4429821f44a991.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvoQZDkHjt6LzSo%2BShKWO1A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7ad02daaab5bc9465de2d4bfdb14bbdb8ada124103748990cd4429821f44a991",
+        "format": "text/plain",
+        "textUrl": "/files/7ad02daaab5bc9465de2d4bfdb14bbdb8ada124103748990cd4429821f44a991.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111150_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvoQZDkHjt6LzSo%2BShKWO1A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111150_1",
+      "observedAt": "2026-08-29T05:53:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "626f1346781c2acfdbff83157f9acda0938020e8a5f1b3cfb8444717cc989d54",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111150_1-0001-record",
+          "sha256": "7ad02daaab5bc9465de2d4bfdb14bbdb8ada124103748990cd4429821f44a991"
+        }
+      ],
+      "snapshotUrl": "/files/0dca3cdc73df0d9c6e8e163300fb6746ef56d8abce77359d1536a3d73691b997.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-29T05:53:01Z",
+    "lastObserved": "2026-08-29T05:53:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111186_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111186_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111186_1-0001",
+      "date": "2026-08-20T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111186_1",
+        "title": "AMC of UNIFIED WEB BASED OPC COMPLIANT ENERGY MANAGEMENT SYSTEM FOR NTPC KORBA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-08-29T00:00:00Z"
+        },
+        "description": "AMC of UNIFIED WEB BASED OPC COMPLIANT ENERGY MANAGEMENT SYSTEM FOR NTPC KORBA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111186_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111186_1",
+          "url": "/files/a04e26c28ee1fa7ffb018257d65c255576dd7c27667e50998f598019867d0822.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSUjcVhDc2cdTLi4ViC123g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a04e26c28ee1fa7ffb018257d65c255576dd7c27667e50998f598019867d0822",
+          "format": "text/plain",
+          "textUrl": "/files/a04e26c28ee1fa7ffb018257d65c255576dd7c27667e50998f598019867d0822.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111186_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSUjcVhDc2cdTLi4ViC123g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111186_1",
+    "tender": {
+      "id": "2026_NTPC_111186_1",
+      "title": "AMC of UNIFIED WEB BASED OPC COMPLIANT ENERGY MANAGEMENT SYSTEM FOR NTPC KORBA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-08-29T00:00:00Z"
+      },
+      "description": "AMC of UNIFIED WEB BASED OPC COMPLIANT ENERGY MANAGEMENT SYSTEM FOR NTPC KORBA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-20T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111186_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111186_1",
+        "url": "/files/a04e26c28ee1fa7ffb018257d65c255576dd7c27667e50998f598019867d0822.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSUjcVhDc2cdTLi4ViC123g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a04e26c28ee1fa7ffb018257d65c255576dd7c27667e50998f598019867d0822",
+        "format": "text/plain",
+        "textUrl": "/files/a04e26c28ee1fa7ffb018257d65c255576dd7c27667e50998f598019867d0822.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111186_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSUjcVhDc2cdTLi4ViC123g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111186_1",
+      "observedAt": "2026-08-29T05:53:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5061a7c7a0574574894c426816b924a4d8673edb8fdd7f02b0975fe5547bd6f5",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111186_1-0001-record",
+          "sha256": "a04e26c28ee1fa7ffb018257d65c255576dd7c27667e50998f598019867d0822"
+        }
+      ],
+      "snapshotUrl": "/files/150f8c721a222c994899d8157b2e5504064a794342726b01514ef9996c0db205.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-29T05:53:01Z",
+    "lastObserved": "2026-08-29T05:53:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

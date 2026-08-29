@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111045_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111045_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111045_1-0001",
+      "date": "2026-08-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_111045_1",
+        "title": "SCADA System with Cyber Security Features at Stage-5",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-08-29T00:00:00Z"
+        },
+        "description": "SCADA System with Cyber Security Features at Stage-5"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111045_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111045_1",
+          "url": "/files/6765e3545f9c0800cb6e590b3baee76db8f80517d29bbf8d185ad1246993f626.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss9Y%2FOcv7fG9ZqruktK%2BM8Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6765e3545f9c0800cb6e590b3baee76db8f80517d29bbf8d185ad1246993f626",
+          "format": "text/plain",
+          "textUrl": "/files/6765e3545f9c0800cb6e590b3baee76db8f80517d29bbf8d185ad1246993f626.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111045_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss9Y%2FOcv7fG9ZqruktK%2BM8Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111045_1",
+    "tender": {
+      "id": "2026_NTPC_111045_1",
+      "title": "SCADA System with Cyber Security Features at Stage-5",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-08-29T00:00:00Z"
+      },
+      "description": "SCADA System with Cyber Security Features at Stage-5"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-08-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111045_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111045_1",
+        "url": "/files/6765e3545f9c0800cb6e590b3baee76db8f80517d29bbf8d185ad1246993f626.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss9Y%2FOcv7fG9ZqruktK%2BM8Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6765e3545f9c0800cb6e590b3baee76db8f80517d29bbf8d185ad1246993f626",
+        "format": "text/plain",
+        "textUrl": "/files/6765e3545f9c0800cb6e590b3baee76db8f80517d29bbf8d185ad1246993f626.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111045_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss9Y%2FOcv7fG9ZqruktK%2BM8Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111045_1",
+      "observedAt": "2026-08-29T05:53:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5703d99f14f1f45ea3a20b4b291bc9d4f649dc7b32a3197f5198903546b8e7e9",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111045_1-0001-record",
+          "sha256": "6765e3545f9c0800cb6e590b3baee76db8f80517d29bbf8d185ad1246993f626"
+        }
+      ],
+      "snapshotUrl": "/files/4cfb37df17b435cbe0fad9b2e31925357beb13034468fe1e208bc8ce9bc34b39.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-29T05:53:01Z",
+    "lastObserved": "2026-08-29T05:53:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

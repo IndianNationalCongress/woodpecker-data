@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110865_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110865_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110865_1-0001",
+      "date": "2026-08-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_110865_1",
+        "title": "Procurement of Mechanical seal for FGD Stage IV Maintenance work",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-29T00:00:00Z"
+        },
+        "description": "Procurement of Mechanical seal for FGD Stage IV Maintenance work"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110865_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110865_1",
+          "url": "/files/a44fa2418768c92cc57201584a0718daf77f7d694c6fc7a02674214fe7087af0.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzB5U0hE9fe33MuzoCjC%2Bkw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a44fa2418768c92cc57201584a0718daf77f7d694c6fc7a02674214fe7087af0",
+          "format": "text/plain",
+          "textUrl": "/files/a44fa2418768c92cc57201584a0718daf77f7d694c6fc7a02674214fe7087af0.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110865_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzB5U0hE9fe33MuzoCjC%2Bkw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110865_1",
+    "tender": {
+      "id": "2026_NTPC_110865_1",
+      "title": "Procurement of Mechanical seal for FGD Stage IV Maintenance work",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-29T00:00:00Z"
+      },
+      "description": "Procurement of Mechanical seal for FGD Stage IV Maintenance work"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110865_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110865_1",
+        "url": "/files/a44fa2418768c92cc57201584a0718daf77f7d694c6fc7a02674214fe7087af0.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzB5U0hE9fe33MuzoCjC%2Bkw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a44fa2418768c92cc57201584a0718daf77f7d694c6fc7a02674214fe7087af0",
+        "format": "text/plain",
+        "textUrl": "/files/a44fa2418768c92cc57201584a0718daf77f7d694c6fc7a02674214fe7087af0.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110865_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzB5U0hE9fe33MuzoCjC%2Bkw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110865_1",
+      "observedAt": "2026-08-29T05:53:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "87a62a709841dee48ab93fec988fedb827a960338c600737d87e2153080d66d4",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110865_1-0001-record",
+          "sha256": "a44fa2418768c92cc57201584a0718daf77f7d694c6fc7a02674214fe7087af0"
+        }
+      ],
+      "snapshotUrl": "/files/5ec381b1d06d8d2e50b784777cd7bab5ff3ac115a7c1aade1a8c436c36391d9f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-29T05:53:01Z",
+    "lastObserved": "2026-08-29T05:53:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
