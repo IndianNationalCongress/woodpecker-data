@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111311_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111311_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111311_1-0001",
+      "date": "2026-08-26T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111311_1",
+        "title": "Procurement of mechanical seals for ECW pump of FGD system",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-08-31T00:00:00Z"
+        },
+        "description": "Procurement of mechanical seals for ECW pump of FGD system"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111311_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111311_1",
+          "url": "/files/b402d734b831b9384ba9adbe15542f731d8313a03c9cd5b1901212d7522bce65.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShglfJ%2BHDLLujRpuXdR8rSw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b402d734b831b9384ba9adbe15542f731d8313a03c9cd5b1901212d7522bce65",
+          "format": "text/plain",
+          "textUrl": "/files/b402d734b831b9384ba9adbe15542f731d8313a03c9cd5b1901212d7522bce65.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111311_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShglfJ%2BHDLLujRpuXdR8rSw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111311_1",
+    "tender": {
+      "id": "2026_NTPC_111311_1",
+      "title": "Procurement of mechanical seals for ECW pump of FGD system",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-08-31T00:00:00Z"
+      },
+      "description": "Procurement of mechanical seals for ECW pump of FGD system"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-26T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111311_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111311_1",
+        "url": "/files/b402d734b831b9384ba9adbe15542f731d8313a03c9cd5b1901212d7522bce65.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShglfJ%2BHDLLujRpuXdR8rSw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b402d734b831b9384ba9adbe15542f731d8313a03c9cd5b1901212d7522bce65",
+        "format": "text/plain",
+        "textUrl": "/files/b402d734b831b9384ba9adbe15542f731d8313a03c9cd5b1901212d7522bce65.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111311_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShglfJ%2BHDLLujRpuXdR8rSw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111311_1",
+      "observedAt": "2026-08-31T03:11:41Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "3edaa8d9112809ab1f7f5a8f195b3bff020988f04c409d934a7fabc19af764a7",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111311_1-0001-record",
+          "sha256": "b402d734b831b9384ba9adbe15542f731d8313a03c9cd5b1901212d7522bce65"
+        }
+      ],
+      "snapshotUrl": "/files/4927684e618d0ef10aec0c921f4b71d34eb62191258258a01e216e7430e69a9a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-08-31T03:11:41Z",
+    "lastObserved": "2026-08-31T03:11:41Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
