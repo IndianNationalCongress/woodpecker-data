@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_UoA_923175_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_UoA_923175_1",
+      "id": "woodpecker-cppp-2026_UoA_923175_1-0001",
+      "date": "2026-08-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "University of Allahabad||Purchase and Stores Department- UoA",
+        "id": "IN-ORG-university-of-allahabad-purchase-and-sto"
+      },
+      "tender": {
+        "id": "2026_UoA_923175_1",
+        "title": "As per tender document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "University of Allahabad||Purchase and Stores Department- UoA",
+          "id": "IN-ORG-university-of-allahabad-purchase-and-sto"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 653700,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-02T00:00:00Z"
+        },
+        "description": "As per tender document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_UoA_923175_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_UoA_923175_1",
+          "url": "/files/2e5198cdbd5c543715b4f1e973439b3b6d0120bfb72f374e9b098642e967e81e.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGfho9L%2FPYqPbKX3Zzw14sw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2e5198cdbd5c543715b4f1e973439b3b6d0120bfb72f374e9b098642e967e81e",
+          "format": "text/plain",
+          "textUrl": "/files/2e5198cdbd5c543715b4f1e973439b3b6d0120bfb72f374e9b098642e967e81e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_UoA_923175_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGfho9L%2FPYqPbKX3Zzw14sw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_UoA_923175_1",
+    "tender": {
+      "id": "2026_UoA_923175_1",
+      "title": "As per tender document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "University of Allahabad||Purchase and Stores Department- UoA",
+        "id": "IN-ORG-university-of-allahabad-purchase-and-sto"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 653700,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-02T00:00:00Z"
+      },
+      "description": "As per tender document"
+    },
+    "buyer": {
+      "name": "University of Allahabad||Purchase and Stores Department- UoA",
+      "id": "IN-ORG-university-of-allahabad-purchase-and-sto"
+    },
+    "date": "2026-08-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_UoA_923175_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_UoA_923175_1",
+        "url": "/files/2e5198cdbd5c543715b4f1e973439b3b6d0120bfb72f374e9b098642e967e81e.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGfho9L%2FPYqPbKX3Zzw14sw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2e5198cdbd5c543715b4f1e973439b3b6d0120bfb72f374e9b098642e967e81e",
+        "format": "text/plain",
+        "textUrl": "/files/2e5198cdbd5c543715b4f1e973439b3b6d0120bfb72f374e9b098642e967e81e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_UoA_923175_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGfho9L%2FPYqPbKX3Zzw14sw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_UoA_923175_1",
+      "observedAt": "2026-09-02T01:19:36Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "e8df4c5c60b551a00c014124b013caa2102aff5b87215c6497b8983e459efebb",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_UoA_923175_1-0001-record",
+          "sha256": "2e5198cdbd5c543715b4f1e973439b3b6d0120bfb72f374e9b098642e967e81e"
+        }
+      ],
+      "snapshotUrl": "/files/4abbecd8c2ac2bbe809ed3ce9d686f90f25756433f9a33d7877a7548e5d129ed.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-02T01:19:36Z",
+    "lastObserved": "2026-09-02T01:19:36Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

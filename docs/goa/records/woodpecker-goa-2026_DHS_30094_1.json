@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-goa-2026_DHS_30094_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-goa-2026_DHS_30094_1",
+      "id": "woodpecker-goa-2026_DHS_30094_1-0001",
+      "date": "2026-07-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Directorate Of Health Services||Medical Store Department Section",
+        "id": "IN-ORG-directorate-of-health-services-medical-s"
+      },
+      "tender": {
+        "id": "2026_DHS_30094_1",
+        "title": "Supply of Ortho Implants and Instruments",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Directorate Of Health Services||Medical Store Department Section",
+          "id": "IN-ORG-directorate-of-health-services-medical-s"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 30000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-02T00:00:00Z"
+        },
+        "description": "Supply of Ortho Implants and Instruments"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_DHS_30094_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DHS_30094_1",
+          "url": "/files/7fce6db0d15cf69b0aa67609ce3a8016f11c33f74b394a1894e1ec97572096ee.txt",
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Se%2F%2BmOcolJtPuEtex7DoHTQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7fce6db0d15cf69b0aa67609ce3a8016f11c33f74b394a1894e1ec97572096ee",
+          "format": "text/plain",
+          "textUrl": "/files/7fce6db0d15cf69b0aa67609ce3a8016f11c33f74b394a1894e1ec97572096ee.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-goa-2026_DHS_30094_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Se%2F%2BmOcolJtPuEtex7DoHTQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-goa-2026_DHS_30094_1",
+    "tender": {
+      "id": "2026_DHS_30094_1",
+      "title": "Supply of Ortho Implants and Instruments",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Directorate Of Health Services||Medical Store Department Section",
+        "id": "IN-ORG-directorate-of-health-services-medical-s"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 30000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-02T00:00:00Z"
+      },
+      "description": "Supply of Ortho Implants and Instruments"
+    },
+    "buyer": {
+      "name": "Directorate Of Health Services||Medical Store Department Section",
+      "id": "IN-ORG-directorate-of-health-services-medical-s"
+    },
+    "date": "2026-07-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-goa-2026_DHS_30094_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DHS_30094_1",
+        "url": "/files/7fce6db0d15cf69b0aa67609ce3a8016f11c33f74b394a1894e1ec97572096ee.txt",
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Se%2F%2BmOcolJtPuEtex7DoHTQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7fce6db0d15cf69b0aa67609ce3a8016f11c33f74b394a1894e1ec97572096ee",
+        "format": "text/plain",
+        "textUrl": "/files/7fce6db0d15cf69b0aa67609ce3a8016f11c33f74b394a1894e1ec97572096ee.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-goa-2026_DHS_30094_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Se%2F%2BmOcolJtPuEtex7DoHTQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-goa-2026_DHS_30094_1",
+      "observedAt": "2026-09-02T02:28:10Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "8aeef976be0df05e40a3ce9439c2d90b92a49ca8c5ca28ad65935da3ee208c01",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_DHS_30094_1-0001-record",
+          "sha256": "7fce6db0d15cf69b0aa67609ce3a8016f11c33f74b394a1894e1ec97572096ee"
+        }
+      ],
+      "snapshotUrl": "/files/eaa0893beefbb0d70a28a0e60f4e82d4578d1131125a5c874b61d4d2a2d4d818.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-02T02:28:10Z",
+    "lastObserved": "2026-09-02T02:28:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
