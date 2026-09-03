@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111072_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111072_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111072_1-0001",
+      "date": "2026-08-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111072_1",
+        "title": "Procurement of OUTER BELLOW RICE LAKE DL",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-03T00:00:00Z"
+        },
+        "description": "Procurement of OUTER BELLOW RICE LAKE DL"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111072_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111072_1",
+          "url": "/files/ebf023e4cd209045bfdd29cfcaa4f3fd4f24609416ea38f928fde03f25679a45.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQUwBPviV7KdXsXIRE9In%2Fg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ebf023e4cd209045bfdd29cfcaa4f3fd4f24609416ea38f928fde03f25679a45",
+          "format": "text/plain",
+          "textUrl": "/files/ebf023e4cd209045bfdd29cfcaa4f3fd4f24609416ea38f928fde03f25679a45.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111072_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQUwBPviV7KdXsXIRE9In%2Fg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111072_1",
+    "tender": {
+      "id": "2026_NTPC_111072_1",
+      "title": "Procurement of OUTER BELLOW RICE LAKE DL",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-03T00:00:00Z"
+      },
+      "description": "Procurement of OUTER BELLOW RICE LAKE DL"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111072_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111072_1",
+        "url": "/files/ebf023e4cd209045bfdd29cfcaa4f3fd4f24609416ea38f928fde03f25679a45.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQUwBPviV7KdXsXIRE9In%2Fg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ebf023e4cd209045bfdd29cfcaa4f3fd4f24609416ea38f928fde03f25679a45",
+        "format": "text/plain",
+        "textUrl": "/files/ebf023e4cd209045bfdd29cfcaa4f3fd4f24609416ea38f928fde03f25679a45.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111072_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQUwBPviV7KdXsXIRE9In%2Fg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111072_1",
+      "observedAt": "2026-09-03T02:56:19Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9de5bc2f717dfaa3fc21f25c739ee3647f7f4b3e9bd3147302d0d6dd7e8f3259",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111072_1-0001-record",
+          "sha256": "ebf023e4cd209045bfdd29cfcaa4f3fd4f24609416ea38f928fde03f25679a45"
+        }
+      ],
+      "snapshotUrl": "/files/a1efcf892559d5f7c0fe8f7b3c40bb8d411a265c5605fa8e9823fa78618c5e04.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-03T02:56:19Z",
+    "lastObserved": "2026-09-03T02:56:19Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

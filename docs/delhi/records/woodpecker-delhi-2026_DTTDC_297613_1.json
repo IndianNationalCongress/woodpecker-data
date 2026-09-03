@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_DTTDC_297613_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_DTTDC_297613_1",
+      "id": "woodpecker-delhi-2026_DTTDC_297613_1-0001",
+      "date": "2026-08-27T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DTTDC",
+        "id": "IN-ORG-dttdc"
+      },
+      "tender": {
+        "id": "2026_DTTDC_297613_1",
+        "title": "AMC for Electrical Installation at Dilli Haat Pitampura, Delhi",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DTTDC",
+          "id": "IN-ORG-dttdc"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1049040,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-03T00:00:00Z"
+        },
+        "description": "AMC for Electrical Installation at Dilli Haat Pitampura, Delhi"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DTTDC_297613_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DTTDC_297613_1",
+          "url": "/files/14676d43dd84bab6d0a11066f49676d2d661daa22448c731afa08436fd2dec3f.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StRCG8ZKa0aK8u8BtDSYlTQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "14676d43dd84bab6d0a11066f49676d2d661daa22448c731afa08436fd2dec3f",
+          "format": "text/plain",
+          "textUrl": "/files/14676d43dd84bab6d0a11066f49676d2d661daa22448c731afa08436fd2dec3f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_DTTDC_297613_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StRCG8ZKa0aK8u8BtDSYlTQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_DTTDC_297613_1",
+    "tender": {
+      "id": "2026_DTTDC_297613_1",
+      "title": "AMC for Electrical Installation at Dilli Haat Pitampura, Delhi",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DTTDC",
+        "id": "IN-ORG-dttdc"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1049040,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-03T00:00:00Z"
+      },
+      "description": "AMC for Electrical Installation at Dilli Haat Pitampura, Delhi"
+    },
+    "buyer": {
+      "name": "DTTDC",
+      "id": "IN-ORG-dttdc"
+    },
+    "date": "2026-08-27T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_DTTDC_297613_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DTTDC_297613_1",
+        "url": "/files/14676d43dd84bab6d0a11066f49676d2d661daa22448c731afa08436fd2dec3f.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StRCG8ZKa0aK8u8BtDSYlTQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "14676d43dd84bab6d0a11066f49676d2d661daa22448c731afa08436fd2dec3f",
+        "format": "text/plain",
+        "textUrl": "/files/14676d43dd84bab6d0a11066f49676d2d661daa22448c731afa08436fd2dec3f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_DTTDC_297613_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StRCG8ZKa0aK8u8BtDSYlTQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_DTTDC_297613_1",
+      "observedAt": "2026-09-03T02:38:35Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "2cb0c2aaddd36d4ac8f3d62365b9b6caca09f9f974dc98654cca8dbf71ca4352",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DTTDC_297613_1-0001-record",
+          "sha256": "14676d43dd84bab6d0a11066f49676d2d661daa22448c731afa08436fd2dec3f"
+        }
+      ],
+      "snapshotUrl": "/files/37dbbde0d8b4be3fe3d60fbc688f7a51639ca0479b141275a9a03896e15265b0.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-03T02:38:35Z",
+    "lastObserved": "2026-09-03T02:38:35Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

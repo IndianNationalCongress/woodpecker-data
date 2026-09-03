@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111336_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111336_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111336_1-0001",
+      "date": "2026-08-27T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111336_1",
+        "title": "Procurement of feeder spares for Mill area in SSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-03T00:00:00Z"
+        },
+        "description": "Procurement of feeder spares for Mill area in SSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111336_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111336_1",
+          "url": "/files/b1b7373f8b641bc8a94bbc09855a52da12af7bb03531738c7ba3e61175826fb8.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoZ0O3U3X6MMPSgnIdkEqlw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b1b7373f8b641bc8a94bbc09855a52da12af7bb03531738c7ba3e61175826fb8",
+          "format": "text/plain",
+          "textUrl": "/files/b1b7373f8b641bc8a94bbc09855a52da12af7bb03531738c7ba3e61175826fb8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111336_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoZ0O3U3X6MMPSgnIdkEqlw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111336_1",
+    "tender": {
+      "id": "2026_NTPC_111336_1",
+      "title": "Procurement of feeder spares for Mill area in SSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-03T00:00:00Z"
+      },
+      "description": "Procurement of feeder spares for Mill area in SSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-08-27T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111336_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111336_1",
+        "url": "/files/b1b7373f8b641bc8a94bbc09855a52da12af7bb03531738c7ba3e61175826fb8.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoZ0O3U3X6MMPSgnIdkEqlw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b1b7373f8b641bc8a94bbc09855a52da12af7bb03531738c7ba3e61175826fb8",
+        "format": "text/plain",
+        "textUrl": "/files/b1b7373f8b641bc8a94bbc09855a52da12af7bb03531738c7ba3e61175826fb8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111336_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoZ0O3U3X6MMPSgnIdkEqlw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111336_1",
+      "observedAt": "2026-09-03T02:56:19Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "8764019149f7ddbad8e2e17a6898e82e50acc89aff139cb9c373727701cfad71",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111336_1-0001-record",
+          "sha256": "b1b7373f8b641bc8a94bbc09855a52da12af7bb03531738c7ba3e61175826fb8"
+        }
+      ],
+      "snapshotUrl": "/files/c9fcdac47e4336715116dac867ed82aeb0ca7b0151d7b17dde9c4dad375b714d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-03T02:56:19Z",
+    "lastObserved": "2026-09-03T02:56:19Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

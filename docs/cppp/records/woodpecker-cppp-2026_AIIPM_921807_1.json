@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_AIIPM_921807_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_AIIPM_921807_1",
+      "id": "woodpecker-cppp-2026_AIIPM_921807_1-0001",
+      "date": "2026-08-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "All India Institute of Physical Medicine and Rehabilitation",
+        "id": "IN-ORG-all-india-institute-of-physical-medicine"
+      },
+      "tender": {
+        "id": "2026_AIIPM_921807_1",
+        "title": "As per Tender Document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "All India Institute of Physical Medicine and Rehabilitation",
+          "id": "IN-ORG-all-india-institute-of-physical-medicine"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-03T00:00:00Z"
+        },
+        "description": "As per Tender Document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_AIIPM_921807_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_AIIPM_921807_1",
+          "url": "/files/50aafd9a170a9372d846538c135c1d42b4c1f532244cf23ed1766f0395733185.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SK6Cbtb2zzRIcswZU55jT1A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "50aafd9a170a9372d846538c135c1d42b4c1f532244cf23ed1766f0395733185",
+          "format": "text/plain",
+          "textUrl": "/files/50aafd9a170a9372d846538c135c1d42b4c1f532244cf23ed1766f0395733185.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_AIIPM_921807_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SK6Cbtb2zzRIcswZU55jT1A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_AIIPM_921807_1",
+    "tender": {
+      "id": "2026_AIIPM_921807_1",
+      "title": "As per Tender Document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "All India Institute of Physical Medicine and Rehabilitation",
+        "id": "IN-ORG-all-india-institute-of-physical-medicine"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-03T00:00:00Z"
+      },
+      "description": "As per Tender Document"
+    },
+    "buyer": {
+      "name": "All India Institute of Physical Medicine and Rehabilitation",
+      "id": "IN-ORG-all-india-institute-of-physical-medicine"
+    },
+    "date": "2026-08-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_AIIPM_921807_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_AIIPM_921807_1",
+        "url": "/files/50aafd9a170a9372d846538c135c1d42b4c1f532244cf23ed1766f0395733185.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SK6Cbtb2zzRIcswZU55jT1A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "50aafd9a170a9372d846538c135c1d42b4c1f532244cf23ed1766f0395733185",
+        "format": "text/plain",
+        "textUrl": "/files/50aafd9a170a9372d846538c135c1d42b4c1f532244cf23ed1766f0395733185.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_AIIPM_921807_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SK6Cbtb2zzRIcswZU55jT1A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_AIIPM_921807_1",
+      "observedAt": "2026-09-03T01:23:59Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "5df641b7ca562a609b75cf59a391c091c2f696bb3f1c750722a928648bd49c01",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_AIIPM_921807_1-0001-record",
+          "sha256": "50aafd9a170a9372d846538c135c1d42b4c1f532244cf23ed1766f0395733185"
+        }
+      ],
+      "snapshotUrl": "/files/8e6b3f3381684612c6185c7914af64804999700dcfa06edbe23a2f3c48e605fb.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-03T01:23:59Z",
+    "lastObserved": "2026-09-03T01:23:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

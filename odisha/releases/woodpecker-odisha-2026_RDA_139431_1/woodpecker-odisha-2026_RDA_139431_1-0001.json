@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-odisha-2026_RDA_139431_1",
+  "id": "woodpecker-odisha-2026_RDA_139431_1-0001",
+  "date": "2026-08-21T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "Rourkela Develpoment Authority",
+    "id": "IN-ORG-rourkela-develpoment-authority"
+  },
+  "tender": {
+    "id": "2026_RDA_139431_1",
+    "title": "Works",
+    "status": "active",
+    "procuringEntity": {
+      "name": "Rourkela Develpoment Authority",
+      "id": "IN-ORG-rourkela-develpoment-authority"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 790000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-09-03T00:00:00Z"
+    },
+    "description": "Works"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-odisha-2026_RDA_139431_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_RDA_139431_1",
+      "url": "/files/373205a0fcbdd006fe6dc2fc67cf24d09ac877d231164f9ea33d677d6cddeecb.txt",
+      "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdgyJUwovUAYWBa8WqQYNWw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "373205a0fcbdd006fe6dc2fc67cf24d09ac877d231164f9ea33d677d6cddeecb",
+      "format": "text/plain",
+      "textUrl": "/files/373205a0fcbdd006fe6dc2fc67cf24d09ac877d231164f9ea33d677d6cddeecb.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-odisha-2026_RDA_139431_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdgyJUwovUAYWBa8WqQYNWw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

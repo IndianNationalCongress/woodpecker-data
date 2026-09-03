@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-goa-2026_ED_31318_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-goa-2026_ED_31318_1",
+      "id": "woodpecker-goa-2026_ED_31318_1-0001",
+      "date": "2026-08-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "ELECTRICITY DEPARTMENT||DIVISION - II (STORES)",
+        "id": "IN-ORG-electricity-department-division-ii-store"
+      },
+      "tender": {
+        "id": "2026_ED_31318_1",
+        "title": "Supply of Transformer Oil.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "ELECTRICITY DEPARTMENT||DIVISION - II (STORES)",
+          "id": "IN-ORG-electricity-department-division-ii-store"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 10335050,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-03T00:00:00Z"
+        },
+        "description": "Supply of Transformer Oil."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_ED_31318_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ED_31318_1",
+          "url": "/files/da8081edc261d2fb08e436e8dfeb2ae55283732f6c44a51caedd5a1f4d0488af.txt",
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Szh1JMz2HRFXSV9taF0FnMw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "da8081edc261d2fb08e436e8dfeb2ae55283732f6c44a51caedd5a1f4d0488af",
+          "format": "text/plain",
+          "textUrl": "/files/da8081edc261d2fb08e436e8dfeb2ae55283732f6c44a51caedd5a1f4d0488af.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-goa-2026_ED_31318_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Szh1JMz2HRFXSV9taF0FnMw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-goa-2026_ED_31318_1",
+    "tender": {
+      "id": "2026_ED_31318_1",
+      "title": "Supply of Transformer Oil.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "ELECTRICITY DEPARTMENT||DIVISION - II (STORES)",
+        "id": "IN-ORG-electricity-department-division-ii-store"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 10335050,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-03T00:00:00Z"
+      },
+      "description": "Supply of Transformer Oil."
+    },
+    "buyer": {
+      "name": "ELECTRICITY DEPARTMENT||DIVISION - II (STORES)",
+      "id": "IN-ORG-electricity-department-division-ii-store"
+    },
+    "date": "2026-08-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-goa-2026_ED_31318_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ED_31318_1",
+        "url": "/files/da8081edc261d2fb08e436e8dfeb2ae55283732f6c44a51caedd5a1f4d0488af.txt",
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Szh1JMz2HRFXSV9taF0FnMw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "da8081edc261d2fb08e436e8dfeb2ae55283732f6c44a51caedd5a1f4d0488af",
+        "format": "text/plain",
+        "textUrl": "/files/da8081edc261d2fb08e436e8dfeb2ae55283732f6c44a51caedd5a1f4d0488af.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-goa-2026_ED_31318_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Szh1JMz2HRFXSV9taF0FnMw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-goa-2026_ED_31318_1",
+      "observedAt": "2026-09-03T02:34:01Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "4fdfe16252bfd6c426e1a5c8401e443e77a24e0456a6e0e0e7d29187925e9a07",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_ED_31318_1-0001-record",
+          "sha256": "da8081edc261d2fb08e436e8dfeb2ae55283732f6c44a51caedd5a1f4d0488af"
+        }
+      ],
+      "snapshotUrl": "/files/49e0cf3479bc74f2c43c8202315dbe614580bcf4af27d2e3a563f89a25649cb4.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-03T02:34:01Z",
+    "lastObserved": "2026-09-03T02:34:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
