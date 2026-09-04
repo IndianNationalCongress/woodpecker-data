@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111435_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111435_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111435_1-0001",
+      "date": "2026-09-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111435_1",
+        "title": "Procurement of ABB VFD drive for Raw water system at NTPCNorthkaranpura",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-04T00:00:00Z"
+        },
+        "description": "Procurement of ABB VFD drive for Raw water system at NTPCNorthkaranpura"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111435_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111435_1",
+          "url": "/files/1b86be8626e563c0599074a69f68ec9d49daede78f75da76b766cfda87bffda9.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StcreTkstIgR1nOuZVh%2BoNA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1b86be8626e563c0599074a69f68ec9d49daede78f75da76b766cfda87bffda9",
+          "format": "text/plain",
+          "textUrl": "/files/1b86be8626e563c0599074a69f68ec9d49daede78f75da76b766cfda87bffda9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111435_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StcreTkstIgR1nOuZVh%2BoNA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111435_1",
+    "tender": {
+      "id": "2026_NTPC_111435_1",
+      "title": "Procurement of ABB VFD drive for Raw water system at NTPCNorthkaranpura",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-04T00:00:00Z"
+      },
+      "description": "Procurement of ABB VFD drive for Raw water system at NTPCNorthkaranpura"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111435_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111435_1",
+        "url": "/files/1b86be8626e563c0599074a69f68ec9d49daede78f75da76b766cfda87bffda9.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StcreTkstIgR1nOuZVh%2BoNA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1b86be8626e563c0599074a69f68ec9d49daede78f75da76b766cfda87bffda9",
+        "format": "text/plain",
+        "textUrl": "/files/1b86be8626e563c0599074a69f68ec9d49daede78f75da76b766cfda87bffda9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111435_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StcreTkstIgR1nOuZVh%2BoNA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111435_1",
+      "observedAt": "2026-09-04T02:19:47Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "304f70e9626aa2c149ea6ffeb4e9ead271d7d062272a557f1889cbed8d367515",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111435_1-0001-record",
+          "sha256": "1b86be8626e563c0599074a69f68ec9d49daede78f75da76b766cfda87bffda9"
+        }
+      ],
+      "snapshotUrl": "/files/d49be8ef54946397afdbba5af5770716db7846ecbf00e35692f4d6c3e9fb39f3.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-04T02:19:47Z",
+    "lastObserved": "2026-09-04T02:19:47Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

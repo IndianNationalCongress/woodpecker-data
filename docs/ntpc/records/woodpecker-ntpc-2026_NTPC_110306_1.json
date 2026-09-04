@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110306_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110306_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110306_1-0001",
+      "date": "2026-08-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_110306_1",
+        "title": "PROCUREMENT OF TWO COMPLETE SET OF 80-90",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 4672597,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-04T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF TWO COMPLETE SET OF 80-90"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110306_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110306_1",
+          "url": "/files/9740491aa22670798f12377c954c761f8ef03d1819dc4db3303e415fdf71095e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdkcJCdCkfhduuA9jnPZS0A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9740491aa22670798f12377c954c761f8ef03d1819dc4db3303e415fdf71095e",
+          "format": "text/plain",
+          "textUrl": "/files/9740491aa22670798f12377c954c761f8ef03d1819dc4db3303e415fdf71095e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110306_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdkcJCdCkfhduuA9jnPZS0A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110306_1",
+    "tender": {
+      "id": "2026_NTPC_110306_1",
+      "title": "PROCUREMENT OF TWO COMPLETE SET OF 80-90",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 4672597,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-04T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF TWO COMPLETE SET OF 80-90"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-08-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110306_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110306_1",
+        "url": "/files/9740491aa22670798f12377c954c761f8ef03d1819dc4db3303e415fdf71095e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdkcJCdCkfhduuA9jnPZS0A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9740491aa22670798f12377c954c761f8ef03d1819dc4db3303e415fdf71095e",
+        "format": "text/plain",
+        "textUrl": "/files/9740491aa22670798f12377c954c761f8ef03d1819dc4db3303e415fdf71095e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110306_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdkcJCdCkfhduuA9jnPZS0A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110306_1",
+      "observedAt": "2026-09-04T02:19:47Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "dd40343d5febbe4f987048c8226c5c7b68a3c03fbf25fda13e70bc0c7cd1b6c5",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110306_1-0001-record",
+          "sha256": "9740491aa22670798f12377c954c761f8ef03d1819dc4db3303e415fdf71095e"
+        }
+      ],
+      "snapshotUrl": "/files/4b4375fe62692f5f7fe42448e874f5be2e05e98c807b519d09f4399d9c15f2a3.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-04T02:19:47Z",
+    "lastObserved": "2026-09-04T02:19:47Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
