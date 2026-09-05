@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-cppp-2026_MyGov_916917_1",
+  "id": "woodpecker-cppp-2026_MyGov_916917_1-0001",
+  "date": "2026-07-14T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "MyGov",
+    "id": "IN-ORG-mygov"
+  },
+  "tender": {
+    "id": "2026_MyGov_916917_1",
+    "title": "Request for Empanelment of Agencies for Event Management, Printing and Video Creation Agencies with MyGov, Ministry of Electronics and IT, GoI",
+    "status": "active",
+    "procuringEntity": {
+      "name": "MyGov",
+      "id": "IN-ORG-mygov"
+    },
+    "mainProcurementCategory": "services",
+    "tenderPeriod": {
+      "endDate": "2026-09-05T00:00:00Z"
+    },
+    "description": "Request for Empanelment of Agencies for Event Management, Printing and Video Creation Agencies with MyGov, Ministry of Electronics and IT, GoI"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-cppp-2026_MyGov_916917_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_MyGov_916917_1",
+      "url": "/files/0ccf909b9b5181568e7c7c094f93758d29a49b4ec2744381ab5282ff1dce8f05.txt",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRGwAxxjlLm87vJWvdlk9nA%3D%3D",
+      "sourceAlive": true,
+      "sha256": "0ccf909b9b5181568e7c7c094f93758d29a49b4ec2744381ab5282ff1dce8f05",
+      "format": "text/plain",
+      "textUrl": "/files/0ccf909b9b5181568e7c7c094f93758d29a49b4ec2744381ab5282ff1dce8f05.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-cppp-2026_MyGov_916917_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRGwAxxjlLm87vJWvdlk9nA%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

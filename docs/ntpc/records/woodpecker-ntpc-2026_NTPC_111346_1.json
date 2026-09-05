@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111346_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111346_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111346_1-0001",
+      "date": "2026-08-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Coal Mining||PakriBarwadih,Kerendari,ChattiBariatu Mining Proj",
+        "id": "IN-ORG-ntpc-limited-coal-mining-pakribarwadih-k"
+      },
+      "tender": {
+        "id": "2026_NTPC_111346_1",
+        "title": "Construction of Community Centre at Sirka village.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Coal Mining||PakriBarwadih,Kerendari,ChattiBariatu Mining Proj",
+          "id": "IN-ORG-ntpc-limited-coal-mining-pakribarwadih-k"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-09-05T00:00:00Z"
+        },
+        "description": "Construction of Community Centre at Sirka village."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111346_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111346_1",
+          "url": "/files/e782d10693cdab61e671a8fa8132335341882d540504f3904e029ae705067a40.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6aVSK%2FB74DLTOC9AiFKpOA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e782d10693cdab61e671a8fa8132335341882d540504f3904e029ae705067a40",
+          "format": "text/plain",
+          "textUrl": "/files/e782d10693cdab61e671a8fa8132335341882d540504f3904e029ae705067a40.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111346_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6aVSK%2FB74DLTOC9AiFKpOA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111346_1",
+    "tender": {
+      "id": "2026_NTPC_111346_1",
+      "title": "Construction of Community Centre at Sirka village.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Coal Mining||PakriBarwadih,Kerendari,ChattiBariatu Mining Proj",
+        "id": "IN-ORG-ntpc-limited-coal-mining-pakribarwadih-k"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-09-05T00:00:00Z"
+      },
+      "description": "Construction of Community Centre at Sirka village."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Coal Mining||PakriBarwadih,Kerendari,ChattiBariatu Mining Proj",
+      "id": "IN-ORG-ntpc-limited-coal-mining-pakribarwadih-k"
+    },
+    "date": "2026-08-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111346_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111346_1",
+        "url": "/files/e782d10693cdab61e671a8fa8132335341882d540504f3904e029ae705067a40.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6aVSK%2FB74DLTOC9AiFKpOA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e782d10693cdab61e671a8fa8132335341882d540504f3904e029ae705067a40",
+        "format": "text/plain",
+        "textUrl": "/files/e782d10693cdab61e671a8fa8132335341882d540504f3904e029ae705067a40.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111346_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6aVSK%2FB74DLTOC9AiFKpOA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111346_1",
+      "observedAt": "2026-09-05T02:45:53Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "4b9f32fa7936fa7700f3c4b23196ed00ac9da140fc9a7e39287670974b71f1ea",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111346_1-0001-record",
+          "sha256": "e782d10693cdab61e671a8fa8132335341882d540504f3904e029ae705067a40"
+        }
+      ],
+      "snapshotUrl": "/files/188647ce6718f24432b658bfbadbe1dc5384de57ce63fd429ad991983d7ad39f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-05T02:45:53Z",
+    "lastObserved": "2026-09-05T02:45:53Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

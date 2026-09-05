@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-haryana-2026_HBC_542815_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_542815_1",
+      "id": "woodpecker-haryana-2026_HBC_542815_1-0001",
+      "date": "2026-08-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Board Corporation||Haryana SugarFed||Sonepat Coop. Sugar Mill",
+        "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+      },
+      "tender": {
+        "id": "2026_HBC_542815_1",
+        "title": ".",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Board Corporation||Haryana SugarFed||Sonepat Coop. Sugar Mill",
+          "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 600000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-05T00:00:00Z"
+        },
+        "description": "."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_542815_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HBC_542815_1",
+          "url": "/files/deb832188ed787b2ae98f82ba029da27b1839e7994aff3466842ac3ee04e0890.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZPZ%2FjJaSyi2lI1bZnCY91A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "deb832188ed787b2ae98f82ba029da27b1839e7994aff3466842ac3ee04e0890",
+          "format": "text/plain",
+          "textUrl": "/files/deb832188ed787b2ae98f82ba029da27b1839e7994aff3466842ac3ee04e0890.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HBC_542815_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZPZ%2FjJaSyi2lI1bZnCY91A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HBC_542815_1",
+    "tender": {
+      "id": "2026_HBC_542815_1",
+      "title": ".",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Board Corporation||Haryana SugarFed||Sonepat Coop. Sugar Mill",
+        "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 600000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-05T00:00:00Z"
+      },
+      "description": "."
+    },
+    "buyer": {
+      "name": "Haryana Board Corporation||Haryana SugarFed||Sonepat Coop. Sugar Mill",
+      "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+    },
+    "date": "2026-08-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HBC_542815_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HBC_542815_1",
+        "url": "/files/deb832188ed787b2ae98f82ba029da27b1839e7994aff3466842ac3ee04e0890.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZPZ%2FjJaSyi2lI1bZnCY91A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "deb832188ed787b2ae98f82ba029da27b1839e7994aff3466842ac3ee04e0890",
+        "format": "text/plain",
+        "textUrl": "/files/deb832188ed787b2ae98f82ba029da27b1839e7994aff3466842ac3ee04e0890.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HBC_542815_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZPZ%2FjJaSyi2lI1bZnCY91A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_542815_1",
+      "observedAt": "2026-09-05T02:26:37Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "08359bbad125d45cd7987a3f42717f18eed92c583d21cee0cfc4a4d328cf2ad2",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_542815_1-0001-record",
+          "sha256": "deb832188ed787b2ae98f82ba029da27b1839e7994aff3466842ac3ee04e0890"
+        }
+      ],
+      "snapshotUrl": "/files/33fc74fd635d72a1ad7dae22b07e0c0212282640c6dfb87905a09e98f8132785.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-05T02:26:37Z",
+    "lastObserved": "2026-09-05T02:26:37Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

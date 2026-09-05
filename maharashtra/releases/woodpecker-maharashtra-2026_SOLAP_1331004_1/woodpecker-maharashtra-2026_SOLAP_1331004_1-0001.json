@@ -1,0 +1,69 @@
+{
+  "ocid": "woodpecker-maharashtra-2026_SOLAP_1331004_1",
+  "id": "woodpecker-maharashtra-2026_SOLAP_1331004_1-0001",
+  "date": "2026-08-22T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "RDD-CEO-SOLAPUR||SOLAPUR-ADDL CEO",
+    "id": "IN-ORG-rdd-ceo-solapur-solapur-addl-ceo"
+  },
+  "tender": {
+    "id": "2026_SOLAP_1331004_1",
+    "title": "as above",
+    "status": "active",
+    "procuringEntity": {
+      "name": "RDD-CEO-SOLAPUR||SOLAPUR-ADDL CEO",
+      "id": "IN-ORG-rdd-ceo-solapur-solapur-addl-ceo"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 1091581,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-09-05T00:00:00Z"
+    },
+    "description": "as above"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-maharashtra-2026_SOLAP_1331004_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_SOLAP_1331004_1",
+      "url": "/files/d14c68708d5ef6a79bab5966d47941627e8f39ed7e2a1bdaa515991977ccfded.txt",
+      "sourceUrl": "https://mahatenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2B4hw9Zr%2F94eJ2PtAoRpppw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "d14c68708d5ef6a79bab5966d47941627e8f39ed7e2a1bdaa515991977ccfded",
+      "format": "text/plain",
+      "textUrl": "/files/d14c68708d5ef6a79bab5966d47941627e8f39ed7e2a1bdaa515991977ccfded.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-maharashtra-2026_SOLAP_1331004_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://mahatenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2B4hw9Zr%2F94eJ2PtAoRpppw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    },
+    {
+      "id": "woodpecker-maharashtra-2026_SOLAP_1331004_1-0001-doc-2",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_2.pdf",
+      "url": null,
+      "sourceUrl": "https://mahatenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2B4hw9Zr%2F94eJ2PtAoRpppw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_142270_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_142270_1",
+      "id": "woodpecker-himachal-2026_PWD_142270_1-0001",
+      "date": "2026-08-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_142270_1",
+        "title": "(SH Providing Fire Alram and PA System therein)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 2511955,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-05T00:00:00Z"
+        },
+        "description": "(SH Providing Fire Alram and PA System therein)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_142270_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_142270_1",
+          "url": "/files/447853d034684c36e974e97306434798aa85fac146d4fcdb416614a9690a8dcf.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRmkMFmVH%2BflYY3qKIFuzFQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "447853d034684c36e974e97306434798aa85fac146d4fcdb416614a9690a8dcf",
+          "format": "text/plain",
+          "textUrl": "/files/447853d034684c36e974e97306434798aa85fac146d4fcdb416614a9690a8dcf.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_142270_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRmkMFmVH%2BflYY3qKIFuzFQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_142270_1",
+    "tender": {
+      "id": "2026_PWD_142270_1",
+      "title": "(SH Providing Fire Alram and PA System therein)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 2511955,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-05T00:00:00Z"
+      },
+      "description": "(SH Providing Fire Alram and PA System therein)"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-08-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_142270_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_142270_1",
+        "url": "/files/447853d034684c36e974e97306434798aa85fac146d4fcdb416614a9690a8dcf.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRmkMFmVH%2BflYY3qKIFuzFQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "447853d034684c36e974e97306434798aa85fac146d4fcdb416614a9690a8dcf",
+        "format": "text/plain",
+        "textUrl": "/files/447853d034684c36e974e97306434798aa85fac146d4fcdb416614a9690a8dcf.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_142270_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRmkMFmVH%2BflYY3qKIFuzFQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_142270_1",
+      "observedAt": "2026-09-05T02:07:15Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "887be5af5acbe59a5575f7377916e2d9d0d05b57283452b37578e019fc1879d1",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_142270_1-0001-record",
+          "sha256": "447853d034684c36e974e97306434798aa85fac146d4fcdb416614a9690a8dcf"
+        }
+      ],
+      "snapshotUrl": "/files/6e05869ee719fc299b6935fb3d4bd9d27a52c0ac9cec568b3ee77b1e7dd46afd.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-05T02:07:15Z",
+    "lastObserved": "2026-09-05T02:07:15Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
