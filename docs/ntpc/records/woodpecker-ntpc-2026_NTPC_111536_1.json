@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111536_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111536_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111536_1-0001",
+      "date": "2026-09-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111536_1",
+        "title": "Procurment of Locomotive Fuel Oil Pump",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-07T00:00:00Z"
+        },
+        "description": "Procurment of Locomotive Fuel Oil Pump"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111536_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111536_1",
+          "url": "/files/164958eb834e6212584c0478ea0d8e26895a24d094853a2dc43a9536d3993999.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgmF7IM8ta5i0Yq%2F7OYN76Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "164958eb834e6212584c0478ea0d8e26895a24d094853a2dc43a9536d3993999",
+          "format": "text/plain",
+          "textUrl": "/files/164958eb834e6212584c0478ea0d8e26895a24d094853a2dc43a9536d3993999.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111536_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgmF7IM8ta5i0Yq%2F7OYN76Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111536_1",
+    "tender": {
+      "id": "2026_NTPC_111536_1",
+      "title": "Procurment of Locomotive Fuel Oil Pump",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-07T00:00:00Z"
+      },
+      "description": "Procurment of Locomotive Fuel Oil Pump"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111536_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111536_1",
+        "url": "/files/164958eb834e6212584c0478ea0d8e26895a24d094853a2dc43a9536d3993999.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgmF7IM8ta5i0Yq%2F7OYN76Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "164958eb834e6212584c0478ea0d8e26895a24d094853a2dc43a9536d3993999",
+        "format": "text/plain",
+        "textUrl": "/files/164958eb834e6212584c0478ea0d8e26895a24d094853a2dc43a9536d3993999.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111536_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgmF7IM8ta5i0Yq%2F7OYN76Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111536_1",
+      "observedAt": "2026-09-07T02:56:09Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "07d57d087b481c95261180bbb67af2e208e5814b4846477a29d9d9fa80c05b38",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111536_1-0001-record",
+          "sha256": "164958eb834e6212584c0478ea0d8e26895a24d094853a2dc43a9536d3993999"
+        }
+      ],
+      "snapshotUrl": "/files/b03c828c0be4ab7d738f9d8909c64dca4bdfb60a508083bf9d4fb4c9d68b8d5f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-07T02:56:09Z",
+    "lastObserved": "2026-09-07T02:56:09Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-goa-2026_DHS_30595_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-goa-2026_DHS_30595_1",
+      "id": "woodpecker-goa-2026_DHS_30595_1-0001",
+      "date": "2026-07-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Directorate Of Health Services||Medical Store Department Section",
+        "id": "IN-ORG-directorate-of-health-services-medical-s"
+      },
+      "tender": {
+        "id": "2026_DHS_30595_1",
+        "title": "Supply of Gloves",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Directorate Of Health Services||Medical Store Department Section",
+          "id": "IN-ORG-directorate-of-health-services-medical-s"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 10000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-07T00:00:00Z"
+        },
+        "description": "Supply of Gloves"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_DHS_30595_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DHS_30595_1",
+          "url": "/files/4edb0fca2e4ca88788f89b2597b2178374edc3769b401b2af2a7c50a87cac24e.txt",
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9MEf4ipHFFWOD04o8yfF1Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4edb0fca2e4ca88788f89b2597b2178374edc3769b401b2af2a7c50a87cac24e",
+          "format": "text/plain",
+          "textUrl": "/files/4edb0fca2e4ca88788f89b2597b2178374edc3769b401b2af2a7c50a87cac24e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-goa-2026_DHS_30595_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9MEf4ipHFFWOD04o8yfF1Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-goa-2026_DHS_30595_1",
+    "tender": {
+      "id": "2026_DHS_30595_1",
+      "title": "Supply of Gloves",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Directorate Of Health Services||Medical Store Department Section",
+        "id": "IN-ORG-directorate-of-health-services-medical-s"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 10000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-07T00:00:00Z"
+      },
+      "description": "Supply of Gloves"
+    },
+    "buyer": {
+      "name": "Directorate Of Health Services||Medical Store Department Section",
+      "id": "IN-ORG-directorate-of-health-services-medical-s"
+    },
+    "date": "2026-07-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-goa-2026_DHS_30595_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DHS_30595_1",
+        "url": "/files/4edb0fca2e4ca88788f89b2597b2178374edc3769b401b2af2a7c50a87cac24e.txt",
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9MEf4ipHFFWOD04o8yfF1Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4edb0fca2e4ca88788f89b2597b2178374edc3769b401b2af2a7c50a87cac24e",
+        "format": "text/plain",
+        "textUrl": "/files/4edb0fca2e4ca88788f89b2597b2178374edc3769b401b2af2a7c50a87cac24e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-goa-2026_DHS_30595_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9MEf4ipHFFWOD04o8yfF1Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-goa-2026_DHS_30595_1",
+      "observedAt": "2026-09-07T02:28:53Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "1c8bdaa6b5028978eee68a578f9d88b98c07f211214611cd989932816341d24b",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_DHS_30595_1-0001-record",
+          "sha256": "4edb0fca2e4ca88788f89b2597b2178374edc3769b401b2af2a7c50a87cac24e"
+        }
+      ],
+      "snapshotUrl": "/files/d7dd7c7013182434922a698cc96cae81ddb2b5e268d26cc7ce27041bb0e5e085.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-07T02:28:53Z",
+    "lastObserved": "2026-09-07T02:28:53Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
