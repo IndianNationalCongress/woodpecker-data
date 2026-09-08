@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_142403_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_142403_1",
+      "id": "woodpecker-himachal-2026_PWD_142403_1-0001",
+      "date": "2026-09-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_142403_1",
+        "title": ".",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 9480160,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-08T00:00:00Z"
+        },
+        "description": "."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_142403_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_142403_1",
+          "url": "/files/ccaf00772571811fe73ed1b4e0b3bd30c7c9a309ccc59a9669559007e2a3353f.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4y4wHDxg5k8AFuZFqWexxQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ccaf00772571811fe73ed1b4e0b3bd30c7c9a309ccc59a9669559007e2a3353f",
+          "format": "text/plain",
+          "textUrl": "/files/ccaf00772571811fe73ed1b4e0b3bd30c7c9a309ccc59a9669559007e2a3353f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_142403_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4y4wHDxg5k8AFuZFqWexxQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_142403_1",
+    "tender": {
+      "id": "2026_PWD_142403_1",
+      "title": ".",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 9480160,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-08T00:00:00Z"
+      },
+      "description": "."
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-09-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_142403_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_142403_1",
+        "url": "/files/ccaf00772571811fe73ed1b4e0b3bd30c7c9a309ccc59a9669559007e2a3353f.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4y4wHDxg5k8AFuZFqWexxQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ccaf00772571811fe73ed1b4e0b3bd30c7c9a309ccc59a9669559007e2a3353f",
+        "format": "text/plain",
+        "textUrl": "/files/ccaf00772571811fe73ed1b4e0b3bd30c7c9a309ccc59a9669559007e2a3353f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_142403_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4y4wHDxg5k8AFuZFqWexxQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_142403_1",
+      "observedAt": "2026-09-08T02:11:51Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "bac21394de08a04a082e6ba5f300bdca666cb82690ea28f2ba742b2444bdd7d2",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_142403_1-0001-record",
+          "sha256": "ccaf00772571811fe73ed1b4e0b3bd30c7c9a309ccc59a9669559007e2a3353f"
+        }
+      ],
+      "snapshotUrl": "/files/1ae4e9bf93be54f6b9884b4cc5934f587f68728561c6d253327ead401d9724fa.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-08T02:11:51Z",
+    "lastObserved": "2026-09-08T02:11:51Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

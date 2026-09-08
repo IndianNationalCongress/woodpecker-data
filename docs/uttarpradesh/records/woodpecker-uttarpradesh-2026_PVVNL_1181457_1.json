@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1",
+      "id": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1-0001",
+      "date": "2026-09-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+        "id": "IN-ORG-paschimanchal-vidyut-vitran-nigam-ltd"
+      },
+      "tender": {
+        "id": "2026_PVVNL_1181457_1",
+        "title": "ETNo-28/EDC-1/MT/2026-27",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+          "id": "IN-ORG-paschimanchal-vidyut-vitran-nigam-ltd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 500000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-08T00:00:00Z"
+        },
+        "description": "ETNo-28/EDC-1/MT/2026-27"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PVVNL_1181457_1",
+          "url": "/files/a59bb6b1b57a9a6a3a8fbdb520cdc7f384e2a1549e6bca57a075136ddb259363.txt",
+          "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoN4ImZdJxny1s54UvnTt0Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a59bb6b1b57a9a6a3a8fbdb520cdc7f384e2a1549e6bca57a075136ddb259363",
+          "format": "text/plain",
+          "textUrl": "/files/a59bb6b1b57a9a6a3a8fbdb520cdc7f384e2a1549e6bca57a075136ddb259363.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoN4ImZdJxny1s54UvnTt0Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1",
+    "tender": {
+      "id": "2026_PVVNL_1181457_1",
+      "title": "ETNo-28/EDC-1/MT/2026-27",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+        "id": "IN-ORG-paschimanchal-vidyut-vitran-nigam-ltd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 500000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-08T00:00:00Z"
+      },
+      "description": "ETNo-28/EDC-1/MT/2026-27"
+    },
+    "buyer": {
+      "name": "Paschimanchal Vidyut Vitran Nigam Ltd.",
+      "id": "IN-ORG-paschimanchal-vidyut-vitran-nigam-ltd"
+    },
+    "date": "2026-09-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PVVNL_1181457_1",
+        "url": "/files/a59bb6b1b57a9a6a3a8fbdb520cdc7f384e2a1549e6bca57a075136ddb259363.txt",
+        "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoN4ImZdJxny1s54UvnTt0Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a59bb6b1b57a9a6a3a8fbdb520cdc7f384e2a1549e6bca57a075136ddb259363",
+        "format": "text/plain",
+        "textUrl": "/files/a59bb6b1b57a9a6a3a8fbdb520cdc7f384e2a1549e6bca57a075136ddb259363.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etender.up.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoN4ImZdJxny1s54UvnTt0Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1",
+      "observedAt": "2026-09-08T02:24:41Z",
+      "witness": "woodpecker:uttarpradesh",
+      "availability": "present",
+      "stateHash": "28c11f4f51e332970d9eee0a0b3922a59c59d1b042c377c1d01a9907b2b9b460",
+      "documents": [
+        {
+          "id": "woodpecker-uttarpradesh-2026_PVVNL_1181457_1-0001-record",
+          "sha256": "a59bb6b1b57a9a6a3a8fbdb520cdc7f384e2a1549e6bca57a075136ddb259363"
+        }
+      ],
+      "snapshotUrl": "/files/77c5023d3c680779990900956ec39163d23dc87afb4e26109697a09069aa3cde.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-08T02:24:41Z",
+    "lastObserved": "2026-09-08T02:24:41Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

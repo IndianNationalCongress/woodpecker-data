@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111444_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111444_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111444_1-0001",
+      "date": "2026-09-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111444_1",
+        "title": "2 Mbps Internet leased Line for AAQM Stns at Kawas",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-09-08T00:00:00Z"
+        },
+        "description": "2 Mbps Internet leased Line for AAQM Stns at Kawas"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111444_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111444_1",
+          "url": "/files/fdebb63d7be309abfeeb4e96d76b3b781066d322206cb2e0dfbd5f5b0704b887.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SX6zeC3LN2nFtTeYVQ1kwfw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "fdebb63d7be309abfeeb4e96d76b3b781066d322206cb2e0dfbd5f5b0704b887",
+          "format": "text/plain",
+          "textUrl": "/files/fdebb63d7be309abfeeb4e96d76b3b781066d322206cb2e0dfbd5f5b0704b887.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111444_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SX6zeC3LN2nFtTeYVQ1kwfw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111444_1",
+    "tender": {
+      "id": "2026_NTPC_111444_1",
+      "title": "2 Mbps Internet leased Line for AAQM Stns at Kawas",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-09-08T00:00:00Z"
+      },
+      "description": "2 Mbps Internet leased Line for AAQM Stns at Kawas"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111444_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111444_1",
+        "url": "/files/fdebb63d7be309abfeeb4e96d76b3b781066d322206cb2e0dfbd5f5b0704b887.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SX6zeC3LN2nFtTeYVQ1kwfw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "fdebb63d7be309abfeeb4e96d76b3b781066d322206cb2e0dfbd5f5b0704b887",
+        "format": "text/plain",
+        "textUrl": "/files/fdebb63d7be309abfeeb4e96d76b3b781066d322206cb2e0dfbd5f5b0704b887.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111444_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SX6zeC3LN2nFtTeYVQ1kwfw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111444_1",
+      "observedAt": "2026-09-08T03:02:09Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "12010d781172c0db5366c2db5ed391664af58cffda6a1eec5b52551146a3fede",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111444_1-0001-record",
+          "sha256": "fdebb63d7be309abfeeb4e96d76b3b781066d322206cb2e0dfbd5f5b0704b887"
+        }
+      ],
+      "snapshotUrl": "/files/0b1d4fbddaf9c59d21c5259b023473a3d9c8698294dfa8cc277d417e6d2d0444.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-08T03:02:09Z",
+    "lastObserved": "2026-09-08T03:02:09Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_DTL_296339_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_DTL_296339_1",
+      "id": "woodpecker-delhi-2026_DTL_296339_1-0001",
+      "date": "2026-08-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Delhi Transco Limited",
+        "id": "IN-ORG-delhi-transco-limited"
+      },
+      "tender": {
+        "id": "2026_DTL_296339_1",
+        "title": "Two Year Civil Repair and Maintenance contract",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Delhi Transco Limited",
+          "id": "IN-ORG-delhi-transco-limited"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 14488479,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-08T00:00:00Z"
+        },
+        "description": "Two Year Civil Repair and Maintenance contract"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DTL_296339_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DTL_296339_1",
+          "url": "/files/222018166b7b921a67c4ddef527c6d087047199657de0078042cde99246ef615.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnKiXn%2BuFgI5dvJQQl3qX3w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "222018166b7b921a67c4ddef527c6d087047199657de0078042cde99246ef615",
+          "format": "text/plain",
+          "textUrl": "/files/222018166b7b921a67c4ddef527c6d087047199657de0078042cde99246ef615.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_DTL_296339_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnKiXn%2BuFgI5dvJQQl3qX3w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_DTL_296339_1",
+    "tender": {
+      "id": "2026_DTL_296339_1",
+      "title": "Two Year Civil Repair and Maintenance contract",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Delhi Transco Limited",
+        "id": "IN-ORG-delhi-transco-limited"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 14488479,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-08T00:00:00Z"
+      },
+      "description": "Two Year Civil Repair and Maintenance contract"
+    },
+    "buyer": {
+      "name": "Delhi Transco Limited",
+      "id": "IN-ORG-delhi-transco-limited"
+    },
+    "date": "2026-08-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_DTL_296339_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DTL_296339_1",
+        "url": "/files/222018166b7b921a67c4ddef527c6d087047199657de0078042cde99246ef615.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnKiXn%2BuFgI5dvJQQl3qX3w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "222018166b7b921a67c4ddef527c6d087047199657de0078042cde99246ef615",
+        "format": "text/plain",
+        "textUrl": "/files/222018166b7b921a67c4ddef527c6d087047199657de0078042cde99246ef615.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_DTL_296339_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnKiXn%2BuFgI5dvJQQl3qX3w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_DTL_296339_1",
+      "observedAt": "2026-09-08T02:42:50Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "e0dd65fdd66c5919345d00c2881ea1f4fe584b97e86ff232e3bed321fcba4d6b",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_DTL_296339_1-0001-record",
+          "sha256": "222018166b7b921a67c4ddef527c6d087047199657de0078042cde99246ef615"
+        }
+      ],
+      "snapshotUrl": "/files/7f760828601162a2f5bbfa08a9d1d43fd98ba37b25661a0a08b9c07cb84020f4.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-08T02:42:50Z",
+    "lastObserved": "2026-09-08T02:42:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
