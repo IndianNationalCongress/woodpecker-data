@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111457_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111457_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111457_1-0001",
+      "date": "2026-09-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_111457_1",
+        "title": "Procurement of 2000 KL HSD for NTPC Kawas",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-09T00:00:00Z"
+        },
+        "description": "Procurement of 2000 KL HSD for NTPC Kawas"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111457_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111457_1",
+          "url": "/files/ab34413722c8663f428869912145000dc10e94592ff7b7accf10fdf0376ee478.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQ9sGjf1IHaSCVk4ph7%2FfDw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ab34413722c8663f428869912145000dc10e94592ff7b7accf10fdf0376ee478",
+          "format": "text/plain",
+          "textUrl": "/files/ab34413722c8663f428869912145000dc10e94592ff7b7accf10fdf0376ee478.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111457_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQ9sGjf1IHaSCVk4ph7%2FfDw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111457_1",
+    "tender": {
+      "id": "2026_NTPC_111457_1",
+      "title": "Procurement of 2000 KL HSD for NTPC Kawas",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-09T00:00:00Z"
+      },
+      "description": "Procurement of 2000 KL HSD for NTPC Kawas"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-09-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111457_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111457_1",
+        "url": "/files/ab34413722c8663f428869912145000dc10e94592ff7b7accf10fdf0376ee478.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQ9sGjf1IHaSCVk4ph7%2FfDw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ab34413722c8663f428869912145000dc10e94592ff7b7accf10fdf0376ee478",
+        "format": "text/plain",
+        "textUrl": "/files/ab34413722c8663f428869912145000dc10e94592ff7b7accf10fdf0376ee478.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111457_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQ9sGjf1IHaSCVk4ph7%2FfDw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111457_1",
+      "observedAt": "2026-09-09T03:10:31Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "e4a22ca3fc848815cc86d9ad98941946e3e1123fb9fb649f0500e47ff8843cae",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111457_1-0001-record",
+          "sha256": "ab34413722c8663f428869912145000dc10e94592ff7b7accf10fdf0376ee478"
+        }
+      ],
+      "snapshotUrl": "/files/546e2b6bd07047b865e1b6d3fe87c831a137703a9b28fd3a6606e46718d13233.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-09T03:10:31Z",
+    "lastObserved": "2026-09-09T03:10:31Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

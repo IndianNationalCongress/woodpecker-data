@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_785517_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_785517_1",
+      "id": "woodpecker-defence-2026_MES_785517_1-0001",
+      "date": "2026-08-20T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_785517_1",
+        "title": "Comprehensive Repair/ Overhauling/ Replacement of defective components of Veh BA No 24D-213631P (Eicher 10.75E)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-09-09T00:00:00Z"
+        },
+        "description": "Comprehensive Repair/ Overhauling/ Replacement of defective components of Veh BA No 24D-213631P (Eicher 10.75E)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_785517_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_785517_1",
+          "url": "/files/a643fd1b63dccdc240c96c9713f41f7566154205ab6775bd781608587d2b073b.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S8NdPpVCPH2pGbdzn9QY2Pw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a643fd1b63dccdc240c96c9713f41f7566154205ab6775bd781608587d2b073b",
+          "format": "text/plain",
+          "textUrl": "/files/a643fd1b63dccdc240c96c9713f41f7566154205ab6775bd781608587d2b073b.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_785517_1",
+    "tender": {
+      "id": "2026_MES_785517_1",
+      "title": "Comprehensive Repair/ Overhauling/ Replacement of defective components of Veh BA No 24D-213631P (Eicher 10.75E)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-09-09T00:00:00Z"
+      },
+      "description": "Comprehensive Repair/ Overhauling/ Replacement of defective components of Veh BA No 24D-213631P (Eicher 10.75E)"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 969 EWS - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-08-20T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_785517_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_785517_1",
+        "url": "/files/a643fd1b63dccdc240c96c9713f41f7566154205ab6775bd781608587d2b073b.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S8NdPpVCPH2pGbdzn9QY2Pw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a643fd1b63dccdc240c96c9713f41f7566154205ab6775bd781608587d2b073b",
+        "format": "text/plain",
+        "textUrl": "/files/a643fd1b63dccdc240c96c9713f41f7566154205ab6775bd781608587d2b073b.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_785517_1",
+      "observedAt": "2026-09-09T02:30:40Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "abdc6e2595a16798c576643ef4dfdfffb9a945bdb3e7df75416412ffaf1b12af",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_785517_1-0001-record",
+          "sha256": "a643fd1b63dccdc240c96c9713f41f7566154205ab6775bd781608587d2b073b"
+        }
+      ],
+      "snapshotUrl": "/files/1d47cc93803692c375bade582f9a5b578b31b1da2973e03930271ca0e5a4bff4.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-09T02:30:40Z",
+    "lastObserved": "2026-09-09T02:30:40Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

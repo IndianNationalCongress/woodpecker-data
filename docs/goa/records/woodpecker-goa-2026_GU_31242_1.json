@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-goa-2026_GU_31242_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-goa-2026_GU_31242_1",
+      "id": "woodpecker-goa-2026_GU_31242_1-0001",
+      "date": "2026-08-20T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "GOA UNIVERSITY||Administration Purchase Section",
+        "id": "IN-ORG-goa-university-administration-purchase-s"
+      },
+      "tender": {
+        "id": "2026_GU_31242_1",
+        "title": "Supply of Stationery items for Exam Section",
+        "status": "active",
+        "procuringEntity": {
+          "name": "GOA UNIVERSITY||Administration Purchase Section",
+          "id": "IN-ORG-goa-university-administration-purchase-s"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-09T00:00:00Z"
+        },
+        "description": "Supply of Stationery items for Exam Section"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_GU_31242_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_GU_31242_1",
+          "url": "/files/9ef1ecc9dd6c721993c8d074e1fc9e65d7906beeb264473e0f5a8760d3b77bd3.txt",
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwIRKqEczqnm7xRpmK%2BI0%2BA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9ef1ecc9dd6c721993c8d074e1fc9e65d7906beeb264473e0f5a8760d3b77bd3",
+          "format": "text/plain",
+          "textUrl": "/files/9ef1ecc9dd6c721993c8d074e1fc9e65d7906beeb264473e0f5a8760d3b77bd3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-goa-2026_GU_31242_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwIRKqEczqnm7xRpmK%2BI0%2BA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-goa-2026_GU_31242_1",
+    "tender": {
+      "id": "2026_GU_31242_1",
+      "title": "Supply of Stationery items for Exam Section",
+      "status": "active",
+      "procuringEntity": {
+        "name": "GOA UNIVERSITY||Administration Purchase Section",
+        "id": "IN-ORG-goa-university-administration-purchase-s"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-09T00:00:00Z"
+      },
+      "description": "Supply of Stationery items for Exam Section"
+    },
+    "buyer": {
+      "name": "GOA UNIVERSITY||Administration Purchase Section",
+      "id": "IN-ORG-goa-university-administration-purchase-s"
+    },
+    "date": "2026-08-20T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-goa-2026_GU_31242_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_GU_31242_1",
+        "url": "/files/9ef1ecc9dd6c721993c8d074e1fc9e65d7906beeb264473e0f5a8760d3b77bd3.txt",
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwIRKqEczqnm7xRpmK%2BI0%2BA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9ef1ecc9dd6c721993c8d074e1fc9e65d7906beeb264473e0f5a8760d3b77bd3",
+        "format": "text/plain",
+        "textUrl": "/files/9ef1ecc9dd6c721993c8d074e1fc9e65d7906beeb264473e0f5a8760d3b77bd3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-goa-2026_GU_31242_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwIRKqEczqnm7xRpmK%2BI0%2BA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-goa-2026_GU_31242_1",
+      "observedAt": "2026-09-09T02:48:43Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "c55b0fd9479b25f08654de8c4097bd262384c9e8e74427df6139567eb89df435",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_GU_31242_1-0001-record",
+          "sha256": "9ef1ecc9dd6c721993c8d074e1fc9e65d7906beeb264473e0f5a8760d3b77bd3"
+        }
+      ],
+      "snapshotUrl": "/files/99882f2f14bfc2fb7f94f10210af66687ed8df9ec6157764dd9c165ed12d64be.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-09T02:48:43Z",
+    "lastObserved": "2026-09-09T02:48:43Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
