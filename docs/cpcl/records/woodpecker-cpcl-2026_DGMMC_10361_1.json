@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cpcl-2026_DGMMC_10361_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cpcl-2026_DGMMC_10361_1",
+      "id": "woodpecker-cpcl-2026_DGMMC_10361_1-0001",
+      "date": "2026-09-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "CPCL,DGM(M and C)||CM - MATERIALS||Sr.Manager||Sr.Engr.Officer",
+        "id": "IN-ORG-cpcl-dgm-m-and-c-cm-materials-sr-manager"
+      },
+      "tender": {
+        "id": "2026_DGMMC_10361_1",
+        "title": "Procurement of Top Flange Stud Bolts for Reactor 205-R-102 of CPCL",
+        "status": "active",
+        "procuringEntity": {
+          "name": "CPCL,DGM(M and C)||CM - MATERIALS||Sr.Manager||Sr.Engr.Officer",
+          "id": "IN-ORG-cpcl-dgm-m-and-c-cm-materials-sr-manager"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-10T00:00:00Z"
+        },
+        "description": "Procurement of Top Flange Stud Bolts for Reactor 205-R-102 of CPCL"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cpcl-2026_DGMMC_10361_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DGMMC_10361_1",
+          "url": "/files/f301b95539f46f3438a9975a96e606ae4ca203b0c9451bd3bc0f901542a20489.txt",
+          "sourceUrl": "https://www.cpcletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S71kYr9y2ZkJak1k4Jz9d8Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f301b95539f46f3438a9975a96e606ae4ca203b0c9451bd3bc0f901542a20489",
+          "format": "text/plain",
+          "textUrl": "/files/f301b95539f46f3438a9975a96e606ae4ca203b0c9451bd3bc0f901542a20489.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cpcl-2026_DGMMC_10361_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://www.cpcletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S71kYr9y2ZkJak1k4Jz9d8Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cpcl-2026_DGMMC_10361_1",
+    "tender": {
+      "id": "2026_DGMMC_10361_1",
+      "title": "Procurement of Top Flange Stud Bolts for Reactor 205-R-102 of CPCL",
+      "status": "active",
+      "procuringEntity": {
+        "name": "CPCL,DGM(M and C)||CM - MATERIALS||Sr.Manager||Sr.Engr.Officer",
+        "id": "IN-ORG-cpcl-dgm-m-and-c-cm-materials-sr-manager"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-10T00:00:00Z"
+      },
+      "description": "Procurement of Top Flange Stud Bolts for Reactor 205-R-102 of CPCL"
+    },
+    "buyer": {
+      "name": "CPCL,DGM(M and C)||CM - MATERIALS||Sr.Manager||Sr.Engr.Officer",
+      "id": "IN-ORG-cpcl-dgm-m-and-c-cm-materials-sr-manager"
+    },
+    "date": "2026-09-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cpcl-2026_DGMMC_10361_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DGMMC_10361_1",
+        "url": "/files/f301b95539f46f3438a9975a96e606ae4ca203b0c9451bd3bc0f901542a20489.txt",
+        "sourceUrl": "https://www.cpcletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S71kYr9y2ZkJak1k4Jz9d8Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f301b95539f46f3438a9975a96e606ae4ca203b0c9451bd3bc0f901542a20489",
+        "format": "text/plain",
+        "textUrl": "/files/f301b95539f46f3438a9975a96e606ae4ca203b0c9451bd3bc0f901542a20489.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cpcl-2026_DGMMC_10361_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://www.cpcletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S71kYr9y2ZkJak1k4Jz9d8Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cpcl-2026_DGMMC_10361_1",
+      "observedAt": "2026-09-10T03:08:01Z",
+      "witness": "woodpecker:cpcl",
+      "availability": "present",
+      "stateHash": "6f3e0fc2c4f0cf48a77ba175005c9cc683ca5df0abedef4467270bb9f4d512aa",
+      "documents": [
+        {
+          "id": "woodpecker-cpcl-2026_DGMMC_10361_1-0001-record",
+          "sha256": "f301b95539f46f3438a9975a96e606ae4ca203b0c9451bd3bc0f901542a20489"
+        }
+      ],
+      "snapshotUrl": "/files/dc80b8e57b0347c69338b5145ec527a7201084a4922627842177614ad1a106e9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-10T03:08:01Z",
+    "lastObserved": "2026-09-10T03:08:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

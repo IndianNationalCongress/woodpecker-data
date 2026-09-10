@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111584_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111584_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111584_1-0001",
+      "date": "2026-09-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Coal Mining||PakriBarwadih,Kerendari,ChattiBariatu Mining Proj",
+        "id": "IN-ORG-ntpc-limited-coal-mining-pakribarwadih-k"
+      },
+      "tender": {
+        "id": "2026_NTPC_111584_1",
+        "title": "Construction of Hume pipe culvert at Substation 33kv of parkingapproach, PBCMP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Coal Mining||PakriBarwadih,Kerendari,ChattiBariatu Mining Proj",
+          "id": "IN-ORG-ntpc-limited-coal-mining-pakribarwadih-k"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-09-10T00:00:00Z"
+        },
+        "description": "Construction of Hume pipe culvert at Substation 33kv of parkingapproach, PBCMP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111584_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111584_1",
+          "url": "/files/71d914d2b88d362c9376cc3aa9a44c1799eba98cc5bf6d6936490dbfa206e7e0.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLJN%2B3EkYNtE92q2r%2BoOiiA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "71d914d2b88d362c9376cc3aa9a44c1799eba98cc5bf6d6936490dbfa206e7e0",
+          "format": "text/plain",
+          "textUrl": "/files/71d914d2b88d362c9376cc3aa9a44c1799eba98cc5bf6d6936490dbfa206e7e0.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111584_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLJN%2B3EkYNtE92q2r%2BoOiiA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111584_1",
+    "tender": {
+      "id": "2026_NTPC_111584_1",
+      "title": "Construction of Hume pipe culvert at Substation 33kv of parkingapproach, PBCMP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Coal Mining||PakriBarwadih,Kerendari,ChattiBariatu Mining Proj",
+        "id": "IN-ORG-ntpc-limited-coal-mining-pakribarwadih-k"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-09-10T00:00:00Z"
+      },
+      "description": "Construction of Hume pipe culvert at Substation 33kv of parkingapproach, PBCMP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Coal Mining||PakriBarwadih,Kerendari,ChattiBariatu Mining Proj",
+      "id": "IN-ORG-ntpc-limited-coal-mining-pakribarwadih-k"
+    },
+    "date": "2026-09-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111584_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111584_1",
+        "url": "/files/71d914d2b88d362c9376cc3aa9a44c1799eba98cc5bf6d6936490dbfa206e7e0.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLJN%2B3EkYNtE92q2r%2BoOiiA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "71d914d2b88d362c9376cc3aa9a44c1799eba98cc5bf6d6936490dbfa206e7e0",
+        "format": "text/plain",
+        "textUrl": "/files/71d914d2b88d362c9376cc3aa9a44c1799eba98cc5bf6d6936490dbfa206e7e0.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111584_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLJN%2B3EkYNtE92q2r%2BoOiiA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111584_1",
+      "observedAt": "2026-09-10T02:59:32Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "a9f743f6271c4600650d9b22647a6b8920ad3ef563c86e83260d90a4e411d5f6",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111584_1-0001-record",
+          "sha256": "71d914d2b88d362c9376cc3aa9a44c1799eba98cc5bf6d6936490dbfa206e7e0"
+        }
+      ],
+      "snapshotUrl": "/files/9734ef1655760d807629c2dac67f47a3bd962e1907e32b02c13b41c62bb3e220.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-10T02:59:32Z",
+    "lastObserved": "2026-09-10T02:59:32Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

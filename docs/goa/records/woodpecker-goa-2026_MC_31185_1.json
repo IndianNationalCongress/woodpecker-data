@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-goa-2026_MC_31185_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-goa-2026_MC_31185_1",
+      "id": "woodpecker-goa-2026_MC_31185_1-0001",
+      "date": "2026-08-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "MUNICIPAL COUNCILS||District North Goa||Sankhali Municipal Council",
+        "id": "IN-ORG-municipal-councils-district-north-goa-sa"
+      },
+      "tender": {
+        "id": "2026_MC_31185_1",
+        "title": "Same as above",
+        "status": "active",
+        "procuringEntity": {
+          "name": "MUNICIPAL COUNCILS||District North Goa||Sankhali Municipal Council",
+          "id": "IN-ORG-municipal-councils-district-north-goa-sa"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 6248435,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-10T00:00:00Z"
+        },
+        "description": "Same as above"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_MC_31185_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MC_31185_1",
+          "url": "/files/cb1c5a397de49d0899d8805ddd608771a3a760f2d50c45f85b4d3bf892b744df.txt",
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjG5s7DS%2Fsej%2F7yrqE6e7Mg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cb1c5a397de49d0899d8805ddd608771a3a760f2d50c45f85b4d3bf892b744df",
+          "format": "text/plain",
+          "textUrl": "/files/cb1c5a397de49d0899d8805ddd608771a3a760f2d50c45f85b4d3bf892b744df.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-goa-2026_MC_31185_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjG5s7DS%2Fsej%2F7yrqE6e7Mg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-goa-2026_MC_31185_1",
+    "tender": {
+      "id": "2026_MC_31185_1",
+      "title": "Same as above",
+      "status": "active",
+      "procuringEntity": {
+        "name": "MUNICIPAL COUNCILS||District North Goa||Sankhali Municipal Council",
+        "id": "IN-ORG-municipal-councils-district-north-goa-sa"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 6248435,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-10T00:00:00Z"
+      },
+      "description": "Same as above"
+    },
+    "buyer": {
+      "name": "MUNICIPAL COUNCILS||District North Goa||Sankhali Municipal Council",
+      "id": "IN-ORG-municipal-councils-district-north-goa-sa"
+    },
+    "date": "2026-08-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-goa-2026_MC_31185_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MC_31185_1",
+        "url": "/files/cb1c5a397de49d0899d8805ddd608771a3a760f2d50c45f85b4d3bf892b744df.txt",
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjG5s7DS%2Fsej%2F7yrqE6e7Mg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cb1c5a397de49d0899d8805ddd608771a3a760f2d50c45f85b4d3bf892b744df",
+        "format": "text/plain",
+        "textUrl": "/files/cb1c5a397de49d0899d8805ddd608771a3a760f2d50c45f85b4d3bf892b744df.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-goa-2026_MC_31185_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjG5s7DS%2Fsej%2F7yrqE6e7Mg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-goa-2026_MC_31185_1",
+      "observedAt": "2026-09-10T02:36:42Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "c8651c6cc468e16d4b8ecef09faeb180d8a145c280460b8dea61b789b40b057f",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_MC_31185_1-0001-record",
+          "sha256": "cb1c5a397de49d0899d8805ddd608771a3a760f2d50c45f85b4d3bf892b744df"
+        }
+      ],
+      "snapshotUrl": "/files/412d4c5edbf68aafe307eab79d23e3eae51d68a17f057bd7a2564518795a2743.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-10T02:36:42Z",
+    "lastObserved": "2026-09-10T02:36:42Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
