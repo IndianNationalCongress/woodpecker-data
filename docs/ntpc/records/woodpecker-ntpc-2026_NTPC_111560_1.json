@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111560_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111560_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111560_1-0001",
+      "date": "2026-09-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111560_1",
+        "title": "Procurement of Primary water pump assembly and its spares for NTPCDadri.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-12T00:00:00Z"
+        },
+        "description": "Procurement of Primary water pump assembly and its spares for NTPCDadri."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111560_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111560_1",
+          "url": "/files/ab4b4935b77d8d978293939d5c098bbf32af48cb5a38a66784e85bb6a16f5d28.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sb34ObclzRTQSjZFc%2F%2BjeVQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ab4b4935b77d8d978293939d5c098bbf32af48cb5a38a66784e85bb6a16f5d28",
+          "format": "text/plain",
+          "textUrl": "/files/ab4b4935b77d8d978293939d5c098bbf32af48cb5a38a66784e85bb6a16f5d28.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111560_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sb34ObclzRTQSjZFc%2F%2BjeVQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111560_1",
+    "tender": {
+      "id": "2026_NTPC_111560_1",
+      "title": "Procurement of Primary water pump assembly and its spares for NTPCDadri.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-12T00:00:00Z"
+      },
+      "description": "Procurement of Primary water pump assembly and its spares for NTPCDadri."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111560_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111560_1",
+        "url": "/files/ab4b4935b77d8d978293939d5c098bbf32af48cb5a38a66784e85bb6a16f5d28.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sb34ObclzRTQSjZFc%2F%2BjeVQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ab4b4935b77d8d978293939d5c098bbf32af48cb5a38a66784e85bb6a16f5d28",
+        "format": "text/plain",
+        "textUrl": "/files/ab4b4935b77d8d978293939d5c098bbf32af48cb5a38a66784e85bb6a16f5d28.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111560_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sb34ObclzRTQSjZFc%2F%2BjeVQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111560_1",
+      "observedAt": "2026-09-12T02:21:45Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "80ef7dd092881f1d99e6203f878cbaf1a4122d4c3729be6e7aba2ac012ddd056",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111560_1-0001-record",
+          "sha256": "ab4b4935b77d8d978293939d5c098bbf32af48cb5a38a66784e85bb6a16f5d28"
+        }
+      ],
+      "snapshotUrl": "/files/fe291fc136d1e287637f17126a4455fc284b1f3bb25b51ee5f624bc082d2d73d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-12T02:21:45Z",
+    "lastObserved": "2026-09-12T02:21:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111543_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111543_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111543_1-0001",
+      "date": "2026-09-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111543_1",
+        "title": "Procurement of KBL pump spares for MM Offsite at VSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-12T00:00:00Z"
+        },
+        "description": "Procurement of KBL pump spares for MM Offsite at VSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111543_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111543_1",
+          "url": "/files/17ef40ab7e123bcef0a95924156ea5d475987522968188d09c69b698e8692dd9.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw4DJJAcjD8o4cOuumxp3Cg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "17ef40ab7e123bcef0a95924156ea5d475987522968188d09c69b698e8692dd9",
+          "format": "text/plain",
+          "textUrl": "/files/17ef40ab7e123bcef0a95924156ea5d475987522968188d09c69b698e8692dd9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111543_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw4DJJAcjD8o4cOuumxp3Cg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111543_1",
+    "tender": {
+      "id": "2026_NTPC_111543_1",
+      "title": "Procurement of KBL pump spares for MM Offsite at VSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-12T00:00:00Z"
+      },
+      "description": "Procurement of KBL pump spares for MM Offsite at VSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111543_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111543_1",
+        "url": "/files/17ef40ab7e123bcef0a95924156ea5d475987522968188d09c69b698e8692dd9.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw4DJJAcjD8o4cOuumxp3Cg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "17ef40ab7e123bcef0a95924156ea5d475987522968188d09c69b698e8692dd9",
+        "format": "text/plain",
+        "textUrl": "/files/17ef40ab7e123bcef0a95924156ea5d475987522968188d09c69b698e8692dd9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111543_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw4DJJAcjD8o4cOuumxp3Cg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111543_1",
+      "observedAt": "2026-09-12T02:21:45Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "d9c221e51ecd20fde7ada29915309858af7817469b1a124f42462fc8ddd06a1c",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111543_1-0001-record",
+          "sha256": "17ef40ab7e123bcef0a95924156ea5d475987522968188d09c69b698e8692dd9"
+        }
+      ],
+      "snapshotUrl": "/files/21de5917902f8ba9162efaa6762e419adc9771a289b312dd8f6dbe7e2fa2b262.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-12T02:21:45Z",
+    "lastObserved": "2026-09-12T02:21:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
