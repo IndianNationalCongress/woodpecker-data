@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111857_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111857_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111857_1-0001",
+      "date": "2026-09-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111857_1",
+        "title": "Procurement of Semi Hermetic Compressor Make Emerson Copeland for NTPCSimahdri",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-15T00:00:00Z"
+        },
+        "description": "Procurement of Semi Hermetic Compressor Make Emerson Copeland for NTPCSimahdri"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111857_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111857_1",
+          "url": "/files/feb211cdfb6a03c3787d9bb2ce883ca845506fee40946e99a90350ca33be473b.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCfqiwXt7g0ntx6Mk6XMuVQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "feb211cdfb6a03c3787d9bb2ce883ca845506fee40946e99a90350ca33be473b",
+          "format": "text/plain",
+          "textUrl": "/files/feb211cdfb6a03c3787d9bb2ce883ca845506fee40946e99a90350ca33be473b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111857_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCfqiwXt7g0ntx6Mk6XMuVQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111857_1",
+    "tender": {
+      "id": "2026_NTPC_111857_1",
+      "title": "Procurement of Semi Hermetic Compressor Make Emerson Copeland for NTPCSimahdri",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-15T00:00:00Z"
+      },
+      "description": "Procurement of Semi Hermetic Compressor Make Emerson Copeland for NTPCSimahdri"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111857_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111857_1",
+        "url": "/files/feb211cdfb6a03c3787d9bb2ce883ca845506fee40946e99a90350ca33be473b.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCfqiwXt7g0ntx6Mk6XMuVQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "feb211cdfb6a03c3787d9bb2ce883ca845506fee40946e99a90350ca33be473b",
+        "format": "text/plain",
+        "textUrl": "/files/feb211cdfb6a03c3787d9bb2ce883ca845506fee40946e99a90350ca33be473b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111857_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCfqiwXt7g0ntx6Mk6XMuVQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111857_1",
+      "observedAt": "2026-09-15T03:20:35Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "b0863d1c31aaac80d7e8b080be7c890878623aa333b2da27f41151f6c894912f",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111857_1-0001-record",
+          "sha256": "feb211cdfb6a03c3787d9bb2ce883ca845506fee40946e99a90350ca33be473b"
+        }
+      ],
+      "snapshotUrl": "/files/e17470cf390b65eacf7d3b25f68f1c5fd873b9cb41af58250c2643f081140c04.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-15T03:20:35Z",
+    "lastObserved": "2026-09-15T03:20:35Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

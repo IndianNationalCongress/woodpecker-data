@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111680_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111680_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111680_1-0001",
+      "date": "2026-09-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111680_1",
+        "title": "PROCUREMENT OF VALMET MAKE SPARES",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-15T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF VALMET MAKE SPARES"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111680_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111680_1",
+          "url": "/files/c836740f50e711a06ec7afce343f55b3d667c80b10ea5176dee51b3b2f4c8c12.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S038QwDx%2FDkKOkgYbtUZeCw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c836740f50e711a06ec7afce343f55b3d667c80b10ea5176dee51b3b2f4c8c12",
+          "format": "text/plain",
+          "textUrl": "/files/c836740f50e711a06ec7afce343f55b3d667c80b10ea5176dee51b3b2f4c8c12.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111680_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S038QwDx%2FDkKOkgYbtUZeCw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111680_1",
+    "tender": {
+      "id": "2026_NTPC_111680_1",
+      "title": "PROCUREMENT OF VALMET MAKE SPARES",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-15T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF VALMET MAKE SPARES"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111680_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111680_1",
+        "url": "/files/c836740f50e711a06ec7afce343f55b3d667c80b10ea5176dee51b3b2f4c8c12.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S038QwDx%2FDkKOkgYbtUZeCw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c836740f50e711a06ec7afce343f55b3d667c80b10ea5176dee51b3b2f4c8c12",
+        "format": "text/plain",
+        "textUrl": "/files/c836740f50e711a06ec7afce343f55b3d667c80b10ea5176dee51b3b2f4c8c12.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111680_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S038QwDx%2FDkKOkgYbtUZeCw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111680_1",
+      "observedAt": "2026-09-15T03:20:35Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "094d38be3f42c3cc92801b76a82af85befe6c6ac17171755edbf8d61b134990d",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111680_1-0001-record",
+          "sha256": "c836740f50e711a06ec7afce343f55b3d667c80b10ea5176dee51b3b2f4c8c12"
+        }
+      ],
+      "snapshotUrl": "/files/61a0dbeb2b693a63a297b1d479b85e02c978d7e89a080c78d0047a0ebe019b14.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-15T03:20:35Z",
+    "lastObserved": "2026-09-15T03:20:35Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

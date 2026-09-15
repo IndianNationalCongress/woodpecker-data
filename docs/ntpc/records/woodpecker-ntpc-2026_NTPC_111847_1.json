@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111847_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111847_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111847_1-0001",
+      "date": "2026-09-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111847_1",
+        "title": "BHEL 6 6KV BREAKER VM12 SERVICE at NTPC Barauni",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-09-15T00:00:00Z"
+        },
+        "description": "BHEL 6 6KV BREAKER VM12 SERVICE at NTPC Barauni"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111847_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111847_1",
+          "url": "/files/147684303c907cedcf6743ee7842c9eb2eaa8dc263506458e750f818a876ad5a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Syq4BWn7frDARkq9%2FQs2NMQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "147684303c907cedcf6743ee7842c9eb2eaa8dc263506458e750f818a876ad5a",
+          "format": "text/plain",
+          "textUrl": "/files/147684303c907cedcf6743ee7842c9eb2eaa8dc263506458e750f818a876ad5a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111847_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Syq4BWn7frDARkq9%2FQs2NMQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111847_1",
+    "tender": {
+      "id": "2026_NTPC_111847_1",
+      "title": "BHEL 6 6KV BREAKER VM12 SERVICE at NTPC Barauni",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-09-15T00:00:00Z"
+      },
+      "description": "BHEL 6 6KV BREAKER VM12 SERVICE at NTPC Barauni"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111847_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111847_1",
+        "url": "/files/147684303c907cedcf6743ee7842c9eb2eaa8dc263506458e750f818a876ad5a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Syq4BWn7frDARkq9%2FQs2NMQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "147684303c907cedcf6743ee7842c9eb2eaa8dc263506458e750f818a876ad5a",
+        "format": "text/plain",
+        "textUrl": "/files/147684303c907cedcf6743ee7842c9eb2eaa8dc263506458e750f818a876ad5a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111847_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Syq4BWn7frDARkq9%2FQs2NMQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111847_1",
+      "observedAt": "2026-09-15T03:20:35Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "0e624a3817c055938cab9494d33a65d42c6d3f7c690c4e94f3938c44ce7f9890",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111847_1-0001-record",
+          "sha256": "147684303c907cedcf6743ee7842c9eb2eaa8dc263506458e750f818a876ad5a"
+        }
+      ],
+      "snapshotUrl": "/files/2d279971f87ec817a1b389840516c5f95ca879e396ce735fc8fd634a3c67cd8d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-15T03:20:35Z",
+    "lastObserved": "2026-09-15T03:20:35Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

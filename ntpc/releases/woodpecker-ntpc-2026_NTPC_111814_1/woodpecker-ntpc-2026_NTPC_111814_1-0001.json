@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111814_1",
+  "id": "woodpecker-ntpc-2026_NTPC_111814_1-0001",
+  "date": "2026-09-11T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+    "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+  },
+  "tender": {
+    "id": "2026_NTPC_111814_1",
+    "title": "As oper PR",
+    "status": "active",
+    "procuringEntity": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "mainProcurementCategory": "goods",
+    "tenderPeriod": {
+      "endDate": "2026-09-15T00:00:00Z"
+    },
+    "description": "As oper PR"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_111814_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_NTPC_111814_1",
+      "url": "/files/dc8b1d64fb70f1610df4f75f6029949c9eae754db443c92128e8d4351175c8b6.txt",
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S36iwvle4po1iOfOzwKKvUw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "dc8b1d64fb70f1610df4f75f6029949c9eae754db443c92128e8d4351175c8b6",
+      "format": "text/plain",
+      "textUrl": "/files/dc8b1d64fb70f1610df4f75f6029949c9eae754db443c92128e8d4351175c8b6.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_111814_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S36iwvle4po1iOfOzwKKvUw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111433_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111433_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111433_1-0001",
+      "date": "2026-09-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111433_1",
+        "title": "Procurement of spares for Evaporator and Chlorinator in CW and PT area at NTPC Khargone.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-15T00:00:00Z"
+        },
+        "description": "Procurement of spares for Evaporator and Chlorinator in CW and PT area at NTPC Khargone."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111433_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111433_1",
+          "url": "/files/534ca3ebad51b71bdd422ed70120a2113b58ee61cf7364ee279b7976de757fef.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7CAiV0IP22Dz9rWE8ydNSQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "534ca3ebad51b71bdd422ed70120a2113b58ee61cf7364ee279b7976de757fef",
+          "format": "text/plain",
+          "textUrl": "/files/534ca3ebad51b71bdd422ed70120a2113b58ee61cf7364ee279b7976de757fef.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111433_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7CAiV0IP22Dz9rWE8ydNSQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111433_1",
+    "tender": {
+      "id": "2026_NTPC_111433_1",
+      "title": "Procurement of spares for Evaporator and Chlorinator in CW and PT area at NTPC Khargone.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-15T00:00:00Z"
+      },
+      "description": "Procurement of spares for Evaporator and Chlorinator in CW and PT area at NTPC Khargone."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111433_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111433_1",
+        "url": "/files/534ca3ebad51b71bdd422ed70120a2113b58ee61cf7364ee279b7976de757fef.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7CAiV0IP22Dz9rWE8ydNSQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "534ca3ebad51b71bdd422ed70120a2113b58ee61cf7364ee279b7976de757fef",
+        "format": "text/plain",
+        "textUrl": "/files/534ca3ebad51b71bdd422ed70120a2113b58ee61cf7364ee279b7976de757fef.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111433_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7CAiV0IP22Dz9rWE8ydNSQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111433_1",
+      "observedAt": "2026-09-15T03:20:35Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "63855a066b2756a9b07ca070de9c8a25e1926748951dacf7766767afc35bf1ab",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111433_1-0001-record",
+          "sha256": "534ca3ebad51b71bdd422ed70120a2113b58ee61cf7364ee279b7976de757fef"
+        }
+      ],
+      "snapshotUrl": "/files/357f80ed5b7964253c5152cc709a38c35b43cf1379f42268397dd8f3485f7100.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-15T03:20:35Z",
+    "lastObserved": "2026-09-15T03:20:35Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

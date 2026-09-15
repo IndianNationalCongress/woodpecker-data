@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111769_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111769_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111769_1-0001",
+      "date": "2026-09-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111769_1",
+        "title": "Procurement of spare parts of AIR COMPRESSOR FGD, NTPC VSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-15T00:00:00Z"
+        },
+        "description": "Procurement of spare parts of AIR COMPRESSOR FGD, NTPC VSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111769_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111769_1",
+          "url": "/files/7bb07ed2971146ac833dddb89e005cac5f1706316b1ab04c37386eeb864cc562.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOZUYsBQXUw8T3BM7ckYYAQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7bb07ed2971146ac833dddb89e005cac5f1706316b1ab04c37386eeb864cc562",
+          "format": "text/plain",
+          "textUrl": "/files/7bb07ed2971146ac833dddb89e005cac5f1706316b1ab04c37386eeb864cc562.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111769_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOZUYsBQXUw8T3BM7ckYYAQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111769_1",
+    "tender": {
+      "id": "2026_NTPC_111769_1",
+      "title": "Procurement of spare parts of AIR COMPRESSOR FGD, NTPC VSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-15T00:00:00Z"
+      },
+      "description": "Procurement of spare parts of AIR COMPRESSOR FGD, NTPC VSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111769_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111769_1",
+        "url": "/files/7bb07ed2971146ac833dddb89e005cac5f1706316b1ab04c37386eeb864cc562.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOZUYsBQXUw8T3BM7ckYYAQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7bb07ed2971146ac833dddb89e005cac5f1706316b1ab04c37386eeb864cc562",
+        "format": "text/plain",
+        "textUrl": "/files/7bb07ed2971146ac833dddb89e005cac5f1706316b1ab04c37386eeb864cc562.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111769_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOZUYsBQXUw8T3BM7ckYYAQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111769_1",
+      "observedAt": "2026-09-15T03:20:35Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "b407148c1007707d1858fd5447b86ad03966af421a0d8da8b1b6eb6b659a2fd3",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111769_1-0001-record",
+          "sha256": "7bb07ed2971146ac833dddb89e005cac5f1706316b1ab04c37386eeb864cc562"
+        }
+      ],
+      "snapshotUrl": "/files/b0c239f4918ebd7a16d48221bfbe3583077c15320b9c749892189d17cd4e58ac.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-15T03:20:35Z",
+    "lastObserved": "2026-09-15T03:20:35Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
