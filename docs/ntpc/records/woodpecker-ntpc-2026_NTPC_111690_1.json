@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111690_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111690_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111690_1-0001",
+      "date": "2026-09-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_111690_1",
+        "title": "200155331 CEMS EQMS IIOT Devices Data Connectivity Services for NTPC Barauni",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-09-17T00:00:00Z"
+        },
+        "description": "200155331 CEMS EQMS IIOT Devices Data Connectivity Services for NTPC Barauni"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111690_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111690_1",
+          "url": "/files/206c27331f68eca802fc0addb67ad598611adeb153a3da4548453f0e05d4ea3f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SceUtHt%2FTSfikK9y1AGVddg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "206c27331f68eca802fc0addb67ad598611adeb153a3da4548453f0e05d4ea3f",
+          "format": "text/plain",
+          "textUrl": "/files/206c27331f68eca802fc0addb67ad598611adeb153a3da4548453f0e05d4ea3f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111690_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SceUtHt%2FTSfikK9y1AGVddg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111690_1",
+    "tender": {
+      "id": "2026_NTPC_111690_1",
+      "title": "200155331 CEMS EQMS IIOT Devices Data Connectivity Services for NTPC Barauni",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-09-17T00:00:00Z"
+      },
+      "description": "200155331 CEMS EQMS IIOT Devices Data Connectivity Services for NTPC Barauni"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-09-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111690_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111690_1",
+        "url": "/files/206c27331f68eca802fc0addb67ad598611adeb153a3da4548453f0e05d4ea3f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SceUtHt%2FTSfikK9y1AGVddg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "206c27331f68eca802fc0addb67ad598611adeb153a3da4548453f0e05d4ea3f",
+        "format": "text/plain",
+        "textUrl": "/files/206c27331f68eca802fc0addb67ad598611adeb153a3da4548453f0e05d4ea3f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111690_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SceUtHt%2FTSfikK9y1AGVddg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111690_1",
+      "observedAt": "2026-09-17T03:08:16Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "ae33522eced24679d659e247b401753cc2130be97e832ae0e1ae670edf4580df",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111690_1-0001-record",
+          "sha256": "206c27331f68eca802fc0addb67ad598611adeb153a3da4548453f0e05d4ea3f"
+        }
+      ],
+      "snapshotUrl": "/files/3fb64748b217c1f216bab94902843a731463193b6b56048438619a120e40aff7.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-17T03:08:16Z",
+    "lastObserved": "2026-09-17T03:08:16Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

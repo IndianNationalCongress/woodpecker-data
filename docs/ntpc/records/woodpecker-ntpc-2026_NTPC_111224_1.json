@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111224_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111224_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111224_1-0001",
+      "date": "2026-08-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "tender": {
+        "id": "2026_NTPC_111224_1",
+        "title": "Rate Contract for HCL for NTPC Stations",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-17T00:00:00Z"
+        },
+        "description": "Rate Contract for HCL for NTPC Stations"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111224_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111224_1",
+          "url": "/files/54ef71ced7ffb0ff82b938dd00a166c6fb50555c1cff806ff985f2584ecbd01f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoxZn6hDW38zuPNuODJbKnw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "54ef71ced7ffb0ff82b938dd00a166c6fb50555c1cff806ff985f2584ecbd01f",
+          "format": "text/plain",
+          "textUrl": "/files/54ef71ced7ffb0ff82b938dd00a166c6fb50555c1cff806ff985f2584ecbd01f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111224_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoxZn6hDW38zuPNuODJbKnw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111224_1",
+    "tender": {
+      "id": "2026_NTPC_111224_1",
+      "title": "Rate Contract for HCL for NTPC Stations",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-17T00:00:00Z"
+      },
+      "description": "Rate Contract for HCL for NTPC Stations"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+    },
+    "date": "2026-08-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111224_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111224_1",
+        "url": "/files/54ef71ced7ffb0ff82b938dd00a166c6fb50555c1cff806ff985f2584ecbd01f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoxZn6hDW38zuPNuODJbKnw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "54ef71ced7ffb0ff82b938dd00a166c6fb50555c1cff806ff985f2584ecbd01f",
+        "format": "text/plain",
+        "textUrl": "/files/54ef71ced7ffb0ff82b938dd00a166c6fb50555c1cff806ff985f2584ecbd01f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111224_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SoxZn6hDW38zuPNuODJbKnw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111224_1",
+      "observedAt": "2026-09-17T03:08:16Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "94d282455c3e4bfe782d7c803c9182b6288e9b81a330004cb9af402a7ad315d0",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111224_1-0001-record",
+          "sha256": "54ef71ced7ffb0ff82b938dd00a166c6fb50555c1cff806ff985f2584ecbd01f"
+        }
+      ],
+      "snapshotUrl": "/files/2217162fc31f3f3a1f3fddfc3773f094f0070b9eefd19c6f10392507ee3a937e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-17T03:08:16Z",
+    "lastObserved": "2026-09-17T03:08:16Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

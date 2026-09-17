@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_143215_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_143215_1",
+      "id": "woodpecker-himachal-2026_PWD_143215_1-0001",
+      "date": "2026-09-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_143215_1",
+        "title": "SH Painting, delenation and other repair work",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 467972,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-17T00:00:00Z"
+        },
+        "description": "SH Painting, delenation and other repair work"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_143215_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_143215_1",
+          "url": "/files/ec5487cf8d1be2ef08cc14f1e71819846229026e8af212ad26b0049ab3655a21.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEF94VkwS9VvuL3LkhysjHA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ec5487cf8d1be2ef08cc14f1e71819846229026e8af212ad26b0049ab3655a21",
+          "format": "text/plain",
+          "textUrl": "/files/ec5487cf8d1be2ef08cc14f1e71819846229026e8af212ad26b0049ab3655a21.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_143215_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEF94VkwS9VvuL3LkhysjHA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_143215_1",
+    "tender": {
+      "id": "2026_PWD_143215_1",
+      "title": "SH Painting, delenation and other repair work",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 467972,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-17T00:00:00Z"
+      },
+      "description": "SH Painting, delenation and other repair work"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-09-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_143215_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_143215_1",
+        "url": "/files/ec5487cf8d1be2ef08cc14f1e71819846229026e8af212ad26b0049ab3655a21.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEF94VkwS9VvuL3LkhysjHA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ec5487cf8d1be2ef08cc14f1e71819846229026e8af212ad26b0049ab3655a21",
+        "format": "text/plain",
+        "textUrl": "/files/ec5487cf8d1be2ef08cc14f1e71819846229026e8af212ad26b0049ab3655a21.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_143215_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEF94VkwS9VvuL3LkhysjHA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_143215_1",
+      "observedAt": "2026-09-17T02:24:06Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "b1dcc1aeecf298f60a1d5acaa1b59bbf77af1188443b67fd475d3c7f1951d70d",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_143215_1-0001-record",
+          "sha256": "ec5487cf8d1be2ef08cc14f1e71819846229026e8af212ad26b0049ab3655a21"
+        }
+      ],
+      "snapshotUrl": "/files/b2482b81281ae48d252ff1f3ee2961331e2e262fe2c3cf99ef9bf6424cb5bb6c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-17T02:24:06Z",
+    "lastObserved": "2026-09-17T02:24:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

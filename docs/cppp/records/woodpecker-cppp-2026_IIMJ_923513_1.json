@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_IIMJ_923513_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_IIMJ_923513_1",
+      "id": "woodpecker-cppp-2026_IIMJ_923513_1-0001",
+      "date": "2026-08-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Indian Institute of Management Jammu",
+        "id": "IN-ORG-indian-institute-of-management-jammu"
+      },
+      "tender": {
+        "id": "2026_IIMJ_923513_1",
+        "title": "SECURITY SERVICES AT IIM JAMMU",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Indian Institute of Management Jammu",
+          "id": "IN-ORG-indian-institute-of-management-jammu"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-09-17T00:00:00Z"
+        },
+        "description": "SECURITY SERVICES AT IIM JAMMU"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IIMJ_923513_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IIMJ_923513_1",
+          "url": "/files/bb02032ca6fe5e85b91456b5a1f4bb5087a2c1d3afec1505399a4bbcc71c920d.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SY9OjIeLuIqwxgL1HqZRRWg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "bb02032ca6fe5e85b91456b5a1f4bb5087a2c1d3afec1505399a4bbcc71c920d",
+          "format": "text/plain",
+          "textUrl": "/files/bb02032ca6fe5e85b91456b5a1f4bb5087a2c1d3afec1505399a4bbcc71c920d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_IIMJ_923513_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SY9OjIeLuIqwxgL1HqZRRWg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_IIMJ_923513_1",
+    "tender": {
+      "id": "2026_IIMJ_923513_1",
+      "title": "SECURITY SERVICES AT IIM JAMMU",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Indian Institute of Management Jammu",
+        "id": "IN-ORG-indian-institute-of-management-jammu"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-09-17T00:00:00Z"
+      },
+      "description": "SECURITY SERVICES AT IIM JAMMU"
+    },
+    "buyer": {
+      "name": "Indian Institute of Management Jammu",
+      "id": "IN-ORG-indian-institute-of-management-jammu"
+    },
+    "date": "2026-08-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_IIMJ_923513_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IIMJ_923513_1",
+        "url": "/files/bb02032ca6fe5e85b91456b5a1f4bb5087a2c1d3afec1505399a4bbcc71c920d.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SY9OjIeLuIqwxgL1HqZRRWg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "bb02032ca6fe5e85b91456b5a1f4bb5087a2c1d3afec1505399a4bbcc71c920d",
+        "format": "text/plain",
+        "textUrl": "/files/bb02032ca6fe5e85b91456b5a1f4bb5087a2c1d3afec1505399a4bbcc71c920d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_IIMJ_923513_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SY9OjIeLuIqwxgL1HqZRRWg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_IIMJ_923513_1",
+      "observedAt": "2026-09-17T01:43:39Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "e824238e1b245287ea4b79d2b19a82cccac4609554fc1a0fe948d9cef92fdf88",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IIMJ_923513_1-0001-record",
+          "sha256": "bb02032ca6fe5e85b91456b5a1f4bb5087a2c1d3afec1505399a4bbcc71c920d"
+        }
+      ],
+      "snapshotUrl": "/files/d589cbd093d4127d6e761273d52442971e9dd4de4ae9834cf9edd22cfa006ec6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-17T01:43:39Z",
+    "lastObserved": "2026-09-17T01:43:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
