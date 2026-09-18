@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_SIDC_142603_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_SIDC_142603_1",
+      "id": "woodpecker-himachal-2026_SIDC_142603_1-0001",
+      "date": "2026-09-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "HP SIDC Limited",
+        "id": "IN-ORG-hp-sidc-limited"
+      },
+      "tender": {
+        "id": "2026_SIDC_142603_1",
+        "title": "Special repair and maintenance",
+        "status": "active",
+        "procuringEntity": {
+          "name": "HP SIDC Limited",
+          "id": "IN-ORG-hp-sidc-limited"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 656818,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-18T00:00:00Z"
+        },
+        "description": "Special repair and maintenance"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_SIDC_142603_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_SIDC_142603_1",
+          "url": "/files/c24ef2eb983f0ce175c96b604b0c5bd3907d6914da55b13b40129901b64a8c01.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHZry%2FusPzGg%2BmizW0Du7nw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c24ef2eb983f0ce175c96b604b0c5bd3907d6914da55b13b40129901b64a8c01",
+          "format": "text/plain",
+          "textUrl": "/files/c24ef2eb983f0ce175c96b604b0c5bd3907d6914da55b13b40129901b64a8c01.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_SIDC_142603_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHZry%2FusPzGg%2BmizW0Du7nw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_SIDC_142603_1",
+    "tender": {
+      "id": "2026_SIDC_142603_1",
+      "title": "Special repair and maintenance",
+      "status": "active",
+      "procuringEntity": {
+        "name": "HP SIDC Limited",
+        "id": "IN-ORG-hp-sidc-limited"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 656818,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-18T00:00:00Z"
+      },
+      "description": "Special repair and maintenance"
+    },
+    "buyer": {
+      "name": "HP SIDC Limited",
+      "id": "IN-ORG-hp-sidc-limited"
+    },
+    "date": "2026-09-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_SIDC_142603_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_SIDC_142603_1",
+        "url": "/files/c24ef2eb983f0ce175c96b604b0c5bd3907d6914da55b13b40129901b64a8c01.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHZry%2FusPzGg%2BmizW0Du7nw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c24ef2eb983f0ce175c96b604b0c5bd3907d6914da55b13b40129901b64a8c01",
+        "format": "text/plain",
+        "textUrl": "/files/c24ef2eb983f0ce175c96b604b0c5bd3907d6914da55b13b40129901b64a8c01.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_SIDC_142603_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHZry%2FusPzGg%2BmizW0Du7nw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_SIDC_142603_1",
+      "observedAt": "2026-09-18T02:14:37Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "c8f7e0b8567b4cfeb07167065bfd15d5043ace1c3650b265ba8b9be0c3318a83",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_SIDC_142603_1-0001-record",
+          "sha256": "c24ef2eb983f0ce175c96b604b0c5bd3907d6914da55b13b40129901b64a8c01"
+        }
+      ],
+      "snapshotUrl": "/files/a2cef492b8f75a67674470bcb8c8ddda68e4eca3a8475742fdc629f046ffc78a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-18T02:14:37Z",
+    "lastObserved": "2026-09-18T02:14:37Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
