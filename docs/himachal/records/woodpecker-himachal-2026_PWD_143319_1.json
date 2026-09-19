@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_143319_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_143319_1",
+      "id": "woodpecker-himachal-2026_PWD_143319_1-0001",
+      "date": "2026-09-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_143319_1",
+        "title": "SH Construction of R/wall from km 11/600 to 11/642",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 13896268,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-19T00:00:00Z"
+        },
+        "description": "SH Construction of R/wall from km 11/600 to 11/642"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_143319_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_143319_1",
+          "url": "/files/53653dd24cf13e6aebeccbd798679351607c3080df3806f948c140bba4bacea8.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdvbMp61lalpFD1tC3kTrFg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "53653dd24cf13e6aebeccbd798679351607c3080df3806f948c140bba4bacea8",
+          "format": "text/plain",
+          "textUrl": "/files/53653dd24cf13e6aebeccbd798679351607c3080df3806f948c140bba4bacea8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_143319_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdvbMp61lalpFD1tC3kTrFg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_143319_1",
+    "tender": {
+      "id": "2026_PWD_143319_1",
+      "title": "SH Construction of R/wall from km 11/600 to 11/642",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 13896268,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-19T00:00:00Z"
+      },
+      "description": "SH Construction of R/wall from km 11/600 to 11/642"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-09-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_143319_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_143319_1",
+        "url": "/files/53653dd24cf13e6aebeccbd798679351607c3080df3806f948c140bba4bacea8.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdvbMp61lalpFD1tC3kTrFg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "53653dd24cf13e6aebeccbd798679351607c3080df3806f948c140bba4bacea8",
+        "format": "text/plain",
+        "textUrl": "/files/53653dd24cf13e6aebeccbd798679351607c3080df3806f948c140bba4bacea8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_143319_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdvbMp61lalpFD1tC3kTrFg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_143319_1",
+      "observedAt": "2026-09-19T02:08:14Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "dc00a039907ef42539b8831196382ecd3ce63f49eaed78a357b1a0898e530708",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_143319_1-0001-record",
+          "sha256": "53653dd24cf13e6aebeccbd798679351607c3080df3806f948c140bba4bacea8"
+        }
+      ],
+      "snapshotUrl": "/files/b9ba00d61011a252ce38519d754ff7ed9de27f39e6f97402f03ae8b86b13c64b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-19T02:08:14Z",
+    "lastObserved": "2026-09-19T02:08:14Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

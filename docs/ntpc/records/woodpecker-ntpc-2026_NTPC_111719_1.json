@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111719_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111719_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111719_1-0001",
+      "date": "2026-09-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_111719_1",
+        "title": "Repair and Retrofitting of RCC structures at NSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-09-19T00:00:00Z"
+        },
+        "description": "Repair and Retrofitting of RCC structures at NSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111719_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111719_1",
+          "url": "/files/641d3430ad9df3f8006efb3b55a5627236ab32ab1fcabf04e1f465fc37f32ec3.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXKOvcjQcOgPQevedrssvSw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "641d3430ad9df3f8006efb3b55a5627236ab32ab1fcabf04e1f465fc37f32ec3",
+          "format": "text/plain",
+          "textUrl": "/files/641d3430ad9df3f8006efb3b55a5627236ab32ab1fcabf04e1f465fc37f32ec3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111719_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXKOvcjQcOgPQevedrssvSw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111719_1",
+    "tender": {
+      "id": "2026_NTPC_111719_1",
+      "title": "Repair and Retrofitting of RCC structures at NSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-09-19T00:00:00Z"
+      },
+      "description": "Repair and Retrofitting of RCC structures at NSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-09-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111719_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111719_1",
+        "url": "/files/641d3430ad9df3f8006efb3b55a5627236ab32ab1fcabf04e1f465fc37f32ec3.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXKOvcjQcOgPQevedrssvSw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "641d3430ad9df3f8006efb3b55a5627236ab32ab1fcabf04e1f465fc37f32ec3",
+        "format": "text/plain",
+        "textUrl": "/files/641d3430ad9df3f8006efb3b55a5627236ab32ab1fcabf04e1f465fc37f32ec3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111719_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXKOvcjQcOgPQevedrssvSw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111719_1",
+      "observedAt": "2026-09-19T02:39:44Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "4ae63c33682a3c4bf008a2b9a6f617abaded37a13f778ba236a176087e78f4c4",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111719_1-0001-record",
+          "sha256": "641d3430ad9df3f8006efb3b55a5627236ab32ab1fcabf04e1f465fc37f32ec3"
+        }
+      ],
+      "snapshotUrl": "/files/f10e5fcdcf9d0021024cc9b727f3d92614502399434c2e0ee34725d5b0fc95c6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-19T02:39:44Z",
+    "lastObserved": "2026-09-19T02:39:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
