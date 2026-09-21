@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111800_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111800_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111800_1-0001",
+      "date": "2026-09-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+      },
+      "tender": {
+        "id": "2026_NTPC_111800_1",
+        "title": "Scrap Removal and Disposal at NTPC Barh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-09-21T00:00:00Z"
+        },
+        "description": "Scrap Removal and Disposal at NTPC Barh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111800_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111800_1",
+          "url": "/files/b2eccb8d777d15d2d68370c98376c96767353c60b4b4e35542e8d347ef921877.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ssr3ChnLoPh9IxlsfvngPDw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b2eccb8d777d15d2d68370c98376c96767353c60b4b4e35542e8d347ef921877",
+          "format": "text/plain",
+          "textUrl": "/files/b2eccb8d777d15d2d68370c98376c96767353c60b4b4e35542e8d347ef921877.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111800_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ssr3ChnLoPh9IxlsfvngPDw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111800_1",
+    "tender": {
+      "id": "2026_NTPC_111800_1",
+      "title": "Scrap Removal and Disposal at NTPC Barh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-09-21T00:00:00Z"
+      },
+      "description": "Scrap Removal and Disposal at NTPC Barh"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||Corporate Contracts",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-corporate-"
+    },
+    "date": "2026-09-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111800_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111800_1",
+        "url": "/files/b2eccb8d777d15d2d68370c98376c96767353c60b4b4e35542e8d347ef921877.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ssr3ChnLoPh9IxlsfvngPDw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b2eccb8d777d15d2d68370c98376c96767353c60b4b4e35542e8d347ef921877",
+        "format": "text/plain",
+        "textUrl": "/files/b2eccb8d777d15d2d68370c98376c96767353c60b4b4e35542e8d347ef921877.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111800_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ssr3ChnLoPh9IxlsfvngPDw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111800_1",
+      "observedAt": "2026-09-21T02:56:38Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "d16f4811fe4797b9a574601e44604a670c5d5416ebaf6c306d45f9f2b7718f82",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111800_1-0001-record",
+          "sha256": "b2eccb8d777d15d2d68370c98376c96767353c60b4b4e35542e8d347ef921877"
+        }
+      ],
+      "snapshotUrl": "/files/0fc88d70e4adb845f029a0bbcc2aafec8da74cc62f9d93c8d81882f4431d3ff9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-21T02:56:38Z",
+    "lastObserved": "2026-09-21T02:56:38Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

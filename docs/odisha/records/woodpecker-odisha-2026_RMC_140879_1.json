@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-odisha-2026_RMC_140879_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-odisha-2026_RMC_140879_1",
+      "id": "woodpecker-odisha-2026_RMC_140879_1-0001",
+      "date": "2026-09-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Rourkela Municipal Corporation",
+        "id": "IN-ORG-rourkela-municipal-corporation"
+      },
+      "tender": {
+        "id": "2026_RMC_140879_1",
+        "title": "Electrical Work",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Rourkela Municipal Corporation",
+          "id": "IN-ORG-rourkela-municipal-corporation"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 734000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-21T00:00:00Z"
+        },
+        "description": "Electrical Work"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_RMC_140879_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_RMC_140879_1",
+          "url": "/files/78e73fac2eada07b6de13bd694a8ab31dc893d56c4305e0661a9507eb4c1bb53.txt",
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiryRdToAygo2scck0dYkBQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "78e73fac2eada07b6de13bd694a8ab31dc893d56c4305e0661a9507eb4c1bb53",
+          "format": "text/plain",
+          "textUrl": "/files/78e73fac2eada07b6de13bd694a8ab31dc893d56c4305e0661a9507eb4c1bb53.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-odisha-2026_RMC_140879_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiryRdToAygo2scck0dYkBQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-odisha-2026_RMC_140879_1",
+    "tender": {
+      "id": "2026_RMC_140879_1",
+      "title": "Electrical Work",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Rourkela Municipal Corporation",
+        "id": "IN-ORG-rourkela-municipal-corporation"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 734000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-21T00:00:00Z"
+      },
+      "description": "Electrical Work"
+    },
+    "buyer": {
+      "name": "Rourkela Municipal Corporation",
+      "id": "IN-ORG-rourkela-municipal-corporation"
+    },
+    "date": "2026-09-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-odisha-2026_RMC_140879_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_RMC_140879_1",
+        "url": "/files/78e73fac2eada07b6de13bd694a8ab31dc893d56c4305e0661a9507eb4c1bb53.txt",
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiryRdToAygo2scck0dYkBQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "78e73fac2eada07b6de13bd694a8ab31dc893d56c4305e0661a9507eb4c1bb53",
+        "format": "text/plain",
+        "textUrl": "/files/78e73fac2eada07b6de13bd694a8ab31dc893d56c4305e0661a9507eb4c1bb53.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-odisha-2026_RMC_140879_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiryRdToAygo2scck0dYkBQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-odisha-2026_RMC_140879_1",
+      "observedAt": "2026-09-21T01:49:37Z",
+      "witness": "woodpecker:odisha",
+      "availability": "present",
+      "stateHash": "ba7c27d746a73c0b7a3422122e7b039610e59c836c7fe140a4be7cfb56d65a0c",
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_RMC_140879_1-0001-record",
+          "sha256": "78e73fac2eada07b6de13bd694a8ab31dc893d56c4305e0661a9507eb4c1bb53"
+        }
+      ],
+      "snapshotUrl": "/files/87910f2302329f5c2fbd28a5635a091e6ecb8e6c8d2bb27514632a79f9ffaa6e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-21T01:49:37Z",
+    "lastObserved": "2026-09-21T01:49:37Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
