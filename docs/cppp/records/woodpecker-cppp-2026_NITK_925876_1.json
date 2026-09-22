@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_NITK_925876_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_NITK_925876_1",
+      "id": "woodpecker-cppp-2026_NITK_925876_1-0001",
+      "date": "2026-09-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "National Institute of Technology Karnataka",
+        "id": "IN-ORG-national-institute-of-technology-karnata"
+      },
+      "tender": {
+        "id": "2026_NITK_925876_1",
+        "title": "Compute Server",
+        "status": "active",
+        "procuringEntity": {
+          "name": "National Institute of Technology Karnataka",
+          "id": "IN-ORG-national-institute-of-technology-karnata"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 300000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-22T00:00:00Z"
+        },
+        "description": "Compute Server"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NITK_925876_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NITK_925876_1",
+          "url": "/files/bead2aaea4bae27f58b3393905f973da39aa524f26a5e8c772c63bcf8f0c0ebd.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4hDiL5lcYTsSPoeCT30Rpw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "bead2aaea4bae27f58b3393905f973da39aa524f26a5e8c772c63bcf8f0c0ebd",
+          "format": "text/plain",
+          "textUrl": "/files/bead2aaea4bae27f58b3393905f973da39aa524f26a5e8c772c63bcf8f0c0ebd.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_NITK_925876_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4hDiL5lcYTsSPoeCT30Rpw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_NITK_925876_1",
+    "tender": {
+      "id": "2026_NITK_925876_1",
+      "title": "Compute Server",
+      "status": "active",
+      "procuringEntity": {
+        "name": "National Institute of Technology Karnataka",
+        "id": "IN-ORG-national-institute-of-technology-karnata"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 300000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-22T00:00:00Z"
+      },
+      "description": "Compute Server"
+    },
+    "buyer": {
+      "name": "National Institute of Technology Karnataka",
+      "id": "IN-ORG-national-institute-of-technology-karnata"
+    },
+    "date": "2026-09-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_NITK_925876_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NITK_925876_1",
+        "url": "/files/bead2aaea4bae27f58b3393905f973da39aa524f26a5e8c772c63bcf8f0c0ebd.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4hDiL5lcYTsSPoeCT30Rpw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "bead2aaea4bae27f58b3393905f973da39aa524f26a5e8c772c63bcf8f0c0ebd",
+        "format": "text/plain",
+        "textUrl": "/files/bead2aaea4bae27f58b3393905f973da39aa524f26a5e8c772c63bcf8f0c0ebd.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_NITK_925876_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4hDiL5lcYTsSPoeCT30Rpw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_NITK_925876_1",
+      "observedAt": "2026-09-22T01:49:49Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "8153d64f2edc20396a351a91a188c43521e6c688ae27ef39b7e08cfa23a7fae4",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NITK_925876_1-0001-record",
+          "sha256": "bead2aaea4bae27f58b3393905f973da39aa524f26a5e8c772c63bcf8f0c0ebd"
+        }
+      ],
+      "snapshotUrl": "/files/94a086795770fbe06377fd78e9c07eac9248ea104191119b96949e1ade3c89a5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-22T01:49:49Z",
+    "lastObserved": "2026-09-22T01:49:49Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_143529_5",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_143529_5",
+      "id": "woodpecker-himachal-2026_PWD_143529_5-0001",
+      "date": "2026-09-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_143529_5",
+        "title": "AMP Mallari Kallar road",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 2194736,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-22T00:00:00Z"
+        },
+        "description": "AMP Mallari Kallar road"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_143529_5-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_143529_5",
+          "url": "/files/75f5260585f5f35722f649c03e3728ff2f6b25a8a051600e1bc16fc47284b0ed.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSCXpmaukJxiEp0AiiYxnNQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "75f5260585f5f35722f649c03e3728ff2f6b25a8a051600e1bc16fc47284b0ed",
+          "format": "text/plain",
+          "textUrl": "/files/75f5260585f5f35722f649c03e3728ff2f6b25a8a051600e1bc16fc47284b0ed.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_143529_5-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSCXpmaukJxiEp0AiiYxnNQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_143529_5",
+    "tender": {
+      "id": "2026_PWD_143529_5",
+      "title": "AMP Mallari Kallar road",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 2194736,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-22T00:00:00Z"
+      },
+      "description": "AMP Mallari Kallar road"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-09-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_143529_5-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_143529_5",
+        "url": "/files/75f5260585f5f35722f649c03e3728ff2f6b25a8a051600e1bc16fc47284b0ed.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSCXpmaukJxiEp0AiiYxnNQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "75f5260585f5f35722f649c03e3728ff2f6b25a8a051600e1bc16fc47284b0ed",
+        "format": "text/plain",
+        "textUrl": "/files/75f5260585f5f35722f649c03e3728ff2f6b25a8a051600e1bc16fc47284b0ed.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_143529_5-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSCXpmaukJxiEp0AiiYxnNQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_143529_5",
+      "observedAt": "2026-09-22T02:31:38Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "4586aa9b3eb2b8611a12ea3d9a3e8ecd0c121ce91875af678f04cbc11af1badf",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_143529_5-0001-record",
+          "sha256": "75f5260585f5f35722f649c03e3728ff2f6b25a8a051600e1bc16fc47284b0ed"
+        }
+      ],
+      "snapshotUrl": "/files/9376039b1448bb8b130ab315c066a5ef918ae513015cf7a00d9464c10e5d0c14.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-22T02:31:38Z",
+    "lastObserved": "2026-09-22T02:31:38Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
