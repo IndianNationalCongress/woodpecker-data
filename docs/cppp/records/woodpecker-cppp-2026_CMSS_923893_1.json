@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_CMSS_923893_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_CMSS_923893_1",
+      "id": "woodpecker-cppp-2026_CMSS_923893_1-0001",
+      "date": "2026-08-27T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Central Medical Services Society",
+        "id": "IN-ORG-central-medical-services-society"
+      },
+      "tender": {
+        "id": "2026_CMSS_923893_1",
+        "title": "PROCUREMENT OF ARV DRUGS (ATV/r AND ZL-ADULT)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Central Medical Services Society",
+          "id": "IN-ORG-central-medical-services-society"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-23T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF ARV DRUGS (ATV/r AND ZL-ADULT)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_CMSS_923893_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_CMSS_923893_1",
+          "url": "/files/2c15faae742ea881381a2e0337a8c062a1bb667573febc409e73cc9641799bff.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmLqBhQh1hG3XUJIgX0K3%2FA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2c15faae742ea881381a2e0337a8c062a1bb667573febc409e73cc9641799bff",
+          "format": "text/plain",
+          "textUrl": "/files/2c15faae742ea881381a2e0337a8c062a1bb667573febc409e73cc9641799bff.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_CMSS_923893_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmLqBhQh1hG3XUJIgX0K3%2FA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_CMSS_923893_1",
+    "tender": {
+      "id": "2026_CMSS_923893_1",
+      "title": "PROCUREMENT OF ARV DRUGS (ATV/r AND ZL-ADULT)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Central Medical Services Society",
+        "id": "IN-ORG-central-medical-services-society"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-23T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF ARV DRUGS (ATV/r AND ZL-ADULT)"
+    },
+    "buyer": {
+      "name": "Central Medical Services Society",
+      "id": "IN-ORG-central-medical-services-society"
+    },
+    "date": "2026-08-27T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_CMSS_923893_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_CMSS_923893_1",
+        "url": "/files/2c15faae742ea881381a2e0337a8c062a1bb667573febc409e73cc9641799bff.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmLqBhQh1hG3XUJIgX0K3%2FA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2c15faae742ea881381a2e0337a8c062a1bb667573febc409e73cc9641799bff",
+        "format": "text/plain",
+        "textUrl": "/files/2c15faae742ea881381a2e0337a8c062a1bb667573febc409e73cc9641799bff.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_CMSS_923893_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmLqBhQh1hG3XUJIgX0K3%2FA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_CMSS_923893_1",
+      "observedAt": "2026-09-23T01:44:30Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "d81d5f86a5518f6beea21b1fb1d7f3fa1007afb45734ba57d5c59f02a034f931",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_CMSS_923893_1-0001-record",
+          "sha256": "2c15faae742ea881381a2e0337a8c062a1bb667573febc409e73cc9641799bff"
+        }
+      ],
+      "snapshotUrl": "/files/927a31ec8ea4b8ffcceb682326f1a9559b1f82b5b0396809ab511361ffd3354e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-23T01:44:30Z",
+    "lastObserved": "2026-09-23T01:44:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

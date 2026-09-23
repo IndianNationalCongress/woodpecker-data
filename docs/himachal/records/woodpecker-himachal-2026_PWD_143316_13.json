@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_143316_13",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_143316_13",
+      "id": "woodpecker-himachal-2026_PWD_143316_13-0001",
+      "date": "2026-09-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_143316_13",
+        "title": "Removal of slips at various RD",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-09-23T00:00:00Z"
+        },
+        "description": "Removal of slips at various RD"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_143316_13-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_143316_13",
+          "url": "/files/cbc7bfd34d00735d00b5e8b2ed66668a812878e54e9ef57a7d75343e18718ad9.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEHAwCaCKLlToB0iJhkxaNw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cbc7bfd34d00735d00b5e8b2ed66668a812878e54e9ef57a7d75343e18718ad9",
+          "format": "text/plain",
+          "textUrl": "/files/cbc7bfd34d00735d00b5e8b2ed66668a812878e54e9ef57a7d75343e18718ad9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_143316_13-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEHAwCaCKLlToB0iJhkxaNw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_143316_13",
+    "tender": {
+      "id": "2026_PWD_143316_13",
+      "title": "Removal of slips at various RD",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-09-23T00:00:00Z"
+      },
+      "description": "Removal of slips at various RD"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-09-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_143316_13-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_143316_13",
+        "url": "/files/cbc7bfd34d00735d00b5e8b2ed66668a812878e54e9ef57a7d75343e18718ad9.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEHAwCaCKLlToB0iJhkxaNw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cbc7bfd34d00735d00b5e8b2ed66668a812878e54e9ef57a7d75343e18718ad9",
+        "format": "text/plain",
+        "textUrl": "/files/cbc7bfd34d00735d00b5e8b2ed66668a812878e54e9ef57a7d75343e18718ad9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_143316_13-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEHAwCaCKLlToB0iJhkxaNw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_143316_13",
+      "observedAt": "2026-09-23T02:30:42Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "58ce97728faab317ab6730f794a77e8bc2b0117a1af475242368c9f887ddd5d4",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_143316_13-0001-record",
+          "sha256": "cbc7bfd34d00735d00b5e8b2ed66668a812878e54e9ef57a7d75343e18718ad9"
+        }
+      ],
+      "snapshotUrl": "/files/805cdcf7a99c00876e0db745952667eca07c9289eaf0e1dda4cb22ff021e12e6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-23T02:30:42Z",
+    "lastObserved": "2026-09-23T02:30:42Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111609_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111609_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111609_1-0001",
+      "date": "2026-09-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111609_1",
+        "title": "Procurement of consumables and spares for Unit 5 GCB overhauling at NTPCKaniha",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-23T00:00:00Z"
+        },
+        "description": "Procurement of consumables and spares for Unit 5 GCB overhauling at NTPCKaniha"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111609_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111609_1",
+          "url": "/files/ba4443c7fe7f48f2c080610bc34adf4a796176e98df4bf432ff8874a4ed96e03.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWR6A%2F3DHINLq5ke7HFE5BA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ba4443c7fe7f48f2c080610bc34adf4a796176e98df4bf432ff8874a4ed96e03",
+          "format": "text/plain",
+          "textUrl": "/files/ba4443c7fe7f48f2c080610bc34adf4a796176e98df4bf432ff8874a4ed96e03.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111609_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWR6A%2F3DHINLq5ke7HFE5BA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111609_1",
+    "tender": {
+      "id": "2026_NTPC_111609_1",
+      "title": "Procurement of consumables and spares for Unit 5 GCB overhauling at NTPCKaniha",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-23T00:00:00Z"
+      },
+      "description": "Procurement of consumables and spares for Unit 5 GCB overhauling at NTPCKaniha"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111609_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111609_1",
+        "url": "/files/ba4443c7fe7f48f2c080610bc34adf4a796176e98df4bf432ff8874a4ed96e03.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWR6A%2F3DHINLq5ke7HFE5BA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ba4443c7fe7f48f2c080610bc34adf4a796176e98df4bf432ff8874a4ed96e03",
+        "format": "text/plain",
+        "textUrl": "/files/ba4443c7fe7f48f2c080610bc34adf4a796176e98df4bf432ff8874a4ed96e03.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111609_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWR6A%2F3DHINLq5ke7HFE5BA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111609_1",
+      "observedAt": "2026-09-23T03:16:43Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "da7dbd3385eac23efbcc7e5a70db657eab7945bfdb55e238bae8870f77e1f49f",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111609_1-0001-record",
+          "sha256": "ba4443c7fe7f48f2c080610bc34adf4a796176e98df4bf432ff8874a4ed96e03"
+        }
+      ],
+      "snapshotUrl": "/files/add5081a24c62dfb7fc791a6f23437802b55b47686983e20415a548df11b78d7.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-23T03:16:43Z",
+    "lastObserved": "2026-09-23T03:16:43Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
