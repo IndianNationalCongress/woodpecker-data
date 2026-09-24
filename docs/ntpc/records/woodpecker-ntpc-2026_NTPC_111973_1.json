@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111973_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111973_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111973_1-0001",
+      "date": "2026-09-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111973_1",
+        "title": "Procurement of Portable Clamp On Ultrasonic Flow meter for NTPC Barh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-24T00:00:00Z"
+        },
+        "description": "Procurement of Portable Clamp On Ultrasonic Flow meter for NTPC Barh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111973_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111973_1",
+          "url": "/files/ba7d4c805bf41ba47b40e74f16a979038072b31bb9d2838483d9735473de6a2e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBhcuYo6TwHgmy1tbYygHWA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ba7d4c805bf41ba47b40e74f16a979038072b31bb9d2838483d9735473de6a2e",
+          "format": "text/plain",
+          "textUrl": "/files/ba7d4c805bf41ba47b40e74f16a979038072b31bb9d2838483d9735473de6a2e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111973_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBhcuYo6TwHgmy1tbYygHWA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111973_1",
+    "tender": {
+      "id": "2026_NTPC_111973_1",
+      "title": "Procurement of Portable Clamp On Ultrasonic Flow meter for NTPC Barh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-24T00:00:00Z"
+      },
+      "description": "Procurement of Portable Clamp On Ultrasonic Flow meter for NTPC Barh"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111973_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111973_1",
+        "url": "/files/ba7d4c805bf41ba47b40e74f16a979038072b31bb9d2838483d9735473de6a2e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBhcuYo6TwHgmy1tbYygHWA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ba7d4c805bf41ba47b40e74f16a979038072b31bb9d2838483d9735473de6a2e",
+        "format": "text/plain",
+        "textUrl": "/files/ba7d4c805bf41ba47b40e74f16a979038072b31bb9d2838483d9735473de6a2e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111973_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBhcuYo6TwHgmy1tbYygHWA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111973_1",
+      "observedAt": "2026-09-24T03:19:03Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "468667768dc9988f18fa63b236618fc9ca3ffdf75e22cebd57996a19a493af50",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111973_1-0001-record",
+          "sha256": "ba7d4c805bf41ba47b40e74f16a979038072b31bb9d2838483d9735473de6a2e"
+        }
+      ],
+      "snapshotUrl": "/files/800505c899de9bbce5812172404ebf7ca67c0f1196b304cb9e68e0b04f8c49ff.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-24T03:19:03Z",
+    "lastObserved": "2026-09-24T03:19:03Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

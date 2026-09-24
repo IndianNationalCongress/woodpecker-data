@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112040_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112040_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112040_1-0001",
+      "date": "2026-09-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||Vendor Development Cell",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-vendo"
+      },
+      "tender": {
+        "id": "2026_NTPC_112040_1",
+        "title": "Rate Contract for deployment of Alfa Laval service engineers for NTPCStations",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||Vendor Development Cell",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-vendo"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-09-24T00:00:00Z"
+        },
+        "description": "Rate Contract for deployment of Alfa Laval service engineers for NTPCStations"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112040_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112040_1",
+          "url": "/files/3ab075b6170873c3ee6a77cad3c9201e95c9c38e82b6f99fdf3e3acea66c8798.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfqHDepiUH0trpF94bU%2FGYw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3ab075b6170873c3ee6a77cad3c9201e95c9c38e82b6f99fdf3e3acea66c8798",
+          "format": "text/plain",
+          "textUrl": "/files/3ab075b6170873c3ee6a77cad3c9201e95c9c38e82b6f99fdf3e3acea66c8798.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112040_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfqHDepiUH0trpF94bU%2FGYw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112040_1",
+    "tender": {
+      "id": "2026_NTPC_112040_1",
+      "title": "Rate Contract for deployment of Alfa Laval service engineers for NTPCStations",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||Vendor Development Cell",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-vendo"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-09-24T00:00:00Z"
+      },
+      "description": "Rate Contract for deployment of Alfa Laval service engineers for NTPCStations"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||Vendor Development Cell",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-vendo"
+    },
+    "date": "2026-09-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112040_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112040_1",
+        "url": "/files/3ab075b6170873c3ee6a77cad3c9201e95c9c38e82b6f99fdf3e3acea66c8798.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfqHDepiUH0trpF94bU%2FGYw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3ab075b6170873c3ee6a77cad3c9201e95c9c38e82b6f99fdf3e3acea66c8798",
+        "format": "text/plain",
+        "textUrl": "/files/3ab075b6170873c3ee6a77cad3c9201e95c9c38e82b6f99fdf3e3acea66c8798.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112040_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfqHDepiUH0trpF94bU%2FGYw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112040_1",
+      "observedAt": "2026-09-24T03:19:03Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "25792a46bd2d03b76fa1d0618b205a35c35c9c6327894f52f36035b39def365f",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112040_1-0001-record",
+          "sha256": "3ab075b6170873c3ee6a77cad3c9201e95c9c38e82b6f99fdf3e3acea66c8798"
+        }
+      ],
+      "snapshotUrl": "/files/ce95518b826ff7ffaebd25101b7ed83015eb7111e3c79d575e7de7a0abb87a9e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-24T03:19:03Z",
+    "lastObserved": "2026-09-24T03:19:03Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

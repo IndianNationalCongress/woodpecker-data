@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112112_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112112_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112112_1-0001",
+      "date": "2026-09-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112112_1",
+        "title": "Procurement of VAM steam control valve actuator spare",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-24T00:00:00Z"
+        },
+        "description": "Procurement of VAM steam control valve actuator spare"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112112_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112112_1",
+          "url": "/files/c1aaef51ea28f750f0e9d0a458fe453ee966b186b6c620c39798ec15bd3d5403.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BBzlH4hRTThZEnfkJwjnvA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c1aaef51ea28f750f0e9d0a458fe453ee966b186b6c620c39798ec15bd3d5403",
+          "format": "text/plain",
+          "textUrl": "/files/c1aaef51ea28f750f0e9d0a458fe453ee966b186b6c620c39798ec15bd3d5403.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112112_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BBzlH4hRTThZEnfkJwjnvA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112112_1",
+    "tender": {
+      "id": "2026_NTPC_112112_1",
+      "title": "Procurement of VAM steam control valve actuator spare",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-24T00:00:00Z"
+      },
+      "description": "Procurement of VAM steam control valve actuator spare"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112112_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112112_1",
+        "url": "/files/c1aaef51ea28f750f0e9d0a458fe453ee966b186b6c620c39798ec15bd3d5403.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BBzlH4hRTThZEnfkJwjnvA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c1aaef51ea28f750f0e9d0a458fe453ee966b186b6c620c39798ec15bd3d5403",
+        "format": "text/plain",
+        "textUrl": "/files/c1aaef51ea28f750f0e9d0a458fe453ee966b186b6c620c39798ec15bd3d5403.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112112_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BBzlH4hRTThZEnfkJwjnvA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112112_1",
+      "observedAt": "2026-09-24T03:19:03Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9debad8fd982ddfabd11707f1ba59734449b4bb0d0bf8e247cf183a49d799233",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112112_1-0001-record",
+          "sha256": "c1aaef51ea28f750f0e9d0a458fe453ee966b186b6c620c39798ec15bd3d5403"
+        }
+      ],
+      "snapshotUrl": "/files/ef3f1a98cc562770e852d8b88a02c468e8031145e3bb2a52ec121cafa9f26219.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-24T03:19:03Z",
+    "lastObserved": "2026-09-24T03:19:03Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

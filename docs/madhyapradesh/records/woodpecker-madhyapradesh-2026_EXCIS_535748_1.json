@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-madhyapradesh-2026_EXCIS_535748_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-madhyapradesh-2026_EXCIS_535748_1",
+      "id": "woodpecker-madhyapradesh-2026_EXCIS_535748_1-0001",
+      "date": "2026-09-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Excise Department",
+        "id": "IN-ORG-excise-department"
+      },
+      "tender": {
+        "id": "2026_EXCIS_535748_1",
+        "title": "Supply Vehicle for Rent as per condition of NIT document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Excise Department",
+          "id": "IN-ORG-excise-department"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 1500000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-24T00:00:00Z"
+        },
+        "description": "Supply Vehicle for Rent as per condition of NIT document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-madhyapradesh-2026_EXCIS_535748_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_EXCIS_535748_1",
+          "url": "/files/dca4b9dbaf5da32cf440c7ee3ba5f5b9366511724de940f3fdc6dda5ea3d8119.txt",
+          "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SB6i45a5v6PNTklBgFpRPfg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "dca4b9dbaf5da32cf440c7ee3ba5f5b9366511724de940f3fdc6dda5ea3d8119",
+          "format": "text/plain",
+          "textUrl": "/files/dca4b9dbaf5da32cf440c7ee3ba5f5b9366511724de940f3fdc6dda5ea3d8119.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-madhyapradesh-2026_EXCIS_535748_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SB6i45a5v6PNTklBgFpRPfg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-madhyapradesh-2026_EXCIS_535748_1",
+    "tender": {
+      "id": "2026_EXCIS_535748_1",
+      "title": "Supply Vehicle for Rent as per condition of NIT document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Excise Department",
+        "id": "IN-ORG-excise-department"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 1500000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-24T00:00:00Z"
+      },
+      "description": "Supply Vehicle for Rent as per condition of NIT document"
+    },
+    "buyer": {
+      "name": "Excise Department",
+      "id": "IN-ORG-excise-department"
+    },
+    "date": "2026-09-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-madhyapradesh-2026_EXCIS_535748_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_EXCIS_535748_1",
+        "url": "/files/dca4b9dbaf5da32cf440c7ee3ba5f5b9366511724de940f3fdc6dda5ea3d8119.txt",
+        "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SB6i45a5v6PNTklBgFpRPfg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "dca4b9dbaf5da32cf440c7ee3ba5f5b9366511724de940f3fdc6dda5ea3d8119",
+        "format": "text/plain",
+        "textUrl": "/files/dca4b9dbaf5da32cf440c7ee3ba5f5b9366511724de940f3fdc6dda5ea3d8119.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-madhyapradesh-2026_EXCIS_535748_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SB6i45a5v6PNTklBgFpRPfg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-madhyapradesh-2026_EXCIS_535748_1",
+      "observedAt": "2026-09-24T01:59:45Z",
+      "witness": "woodpecker:madhyapradesh",
+      "availability": "present",
+      "stateHash": "41037aac2f18922fc51c65bbd12bcd4a7120b6b71aaa4ea4e8b4a2c0ebb3367a",
+      "documents": [
+        {
+          "id": "woodpecker-madhyapradesh-2026_EXCIS_535748_1-0001-record",
+          "sha256": "dca4b9dbaf5da32cf440c7ee3ba5f5b9366511724de940f3fdc6dda5ea3d8119"
+        }
+      ],
+      "snapshotUrl": "/files/9cff8ed8f831af8813a82f45613019f1ae60cb0fb2fd5ec190cd93894d84ea3f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-24T01:59:45Z",
+    "lastObserved": "2026-09-24T01:59:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

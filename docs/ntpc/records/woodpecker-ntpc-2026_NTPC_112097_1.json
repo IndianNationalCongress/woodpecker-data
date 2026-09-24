@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112097_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112097_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112097_1-0001",
+      "date": "2026-09-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112097_1",
+        "title": "Procurement of FLOWMORE PUMP make Pump for AHP NTPC UNCHAHAR",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-24T00:00:00Z"
+        },
+        "description": "Procurement of FLOWMORE PUMP make Pump for AHP NTPC UNCHAHAR"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112097_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112097_1",
+          "url": "/files/ee6df94a2c7434b86caf26fa16aeb94df3aea27eb8f243af3695ee1ab5049013.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9r0zT9ascYGWKgoJLwVrMA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ee6df94a2c7434b86caf26fa16aeb94df3aea27eb8f243af3695ee1ab5049013",
+          "format": "text/plain",
+          "textUrl": "/files/ee6df94a2c7434b86caf26fa16aeb94df3aea27eb8f243af3695ee1ab5049013.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112097_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9r0zT9ascYGWKgoJLwVrMA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112097_1",
+    "tender": {
+      "id": "2026_NTPC_112097_1",
+      "title": "Procurement of FLOWMORE PUMP make Pump for AHP NTPC UNCHAHAR",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-24T00:00:00Z"
+      },
+      "description": "Procurement of FLOWMORE PUMP make Pump for AHP NTPC UNCHAHAR"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112097_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112097_1",
+        "url": "/files/ee6df94a2c7434b86caf26fa16aeb94df3aea27eb8f243af3695ee1ab5049013.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9r0zT9ascYGWKgoJLwVrMA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ee6df94a2c7434b86caf26fa16aeb94df3aea27eb8f243af3695ee1ab5049013",
+        "format": "text/plain",
+        "textUrl": "/files/ee6df94a2c7434b86caf26fa16aeb94df3aea27eb8f243af3695ee1ab5049013.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112097_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9r0zT9ascYGWKgoJLwVrMA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112097_1",
+      "observedAt": "2026-09-24T03:19:03Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "debde07a0d1061a6e21059eb0f4785d3417db5fe7941453f55ce2a85ec6e3caa",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112097_1-0001-record",
+          "sha256": "ee6df94a2c7434b86caf26fa16aeb94df3aea27eb8f243af3695ee1ab5049013"
+        }
+      ],
+      "snapshotUrl": "/files/33ad8e01620bd0606baafbd4d16d28258313813cda24a287c19f862d47093cd3.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-24T03:19:03Z",
+    "lastObserved": "2026-09-24T03:19:03Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
