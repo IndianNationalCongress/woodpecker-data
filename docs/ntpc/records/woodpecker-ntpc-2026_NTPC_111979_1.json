@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111979_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111979_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111979_1-0001",
+      "date": "2026-09-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111979_1",
+        "title": "Bi annual Maintenance Service Contract for BARCO LVS Mouda Stage II",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-09-25T00:00:00Z"
+        },
+        "description": "Bi annual Maintenance Service Contract for BARCO LVS Mouda Stage II"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111979_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111979_1",
+          "url": "/files/858a578247272dcac56e341ae8dc5f116ccaababa75da3ae96f363b5046c53b9.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxknVIBPhbS7ZSplxoCwTxw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "858a578247272dcac56e341ae8dc5f116ccaababa75da3ae96f363b5046c53b9",
+          "format": "text/plain",
+          "textUrl": "/files/858a578247272dcac56e341ae8dc5f116ccaababa75da3ae96f363b5046c53b9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111979_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxknVIBPhbS7ZSplxoCwTxw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111979_1",
+    "tender": {
+      "id": "2026_NTPC_111979_1",
+      "title": "Bi annual Maintenance Service Contract for BARCO LVS Mouda Stage II",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-09-25T00:00:00Z"
+      },
+      "description": "Bi annual Maintenance Service Contract for BARCO LVS Mouda Stage II"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111979_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111979_1",
+        "url": "/files/858a578247272dcac56e341ae8dc5f116ccaababa75da3ae96f363b5046c53b9.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxknVIBPhbS7ZSplxoCwTxw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "858a578247272dcac56e341ae8dc5f116ccaababa75da3ae96f363b5046c53b9",
+        "format": "text/plain",
+        "textUrl": "/files/858a578247272dcac56e341ae8dc5f116ccaababa75da3ae96f363b5046c53b9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111979_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxknVIBPhbS7ZSplxoCwTxw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111979_1",
+      "observedAt": "2026-09-25T03:13:20Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9469b3f6ec0264f00a90e464c2998fe95bbbdd6b7d35afc9aab6c9539a13cf87",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111979_1-0001-record",
+          "sha256": "858a578247272dcac56e341ae8dc5f116ccaababa75da3ae96f363b5046c53b9"
+        }
+      ],
+      "snapshotUrl": "/files/9ca71e4c42b984dd082b269004b89cc693980b03f06e8f87d6cdead97692e400.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-25T03:13:20Z",
+    "lastObserved": "2026-09-25T03:13:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

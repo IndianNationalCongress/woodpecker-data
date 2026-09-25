@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_SITAR_788942_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_SITAR_788942_1",
+      "id": "woodpecker-defence-2026_SITAR_788942_1-0001",
+      "date": "2026-09-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "SITAR||STARC Bangalore||Material Management - STARC",
+        "id": "IN-ORG-sitar-starc-bangalore-material-managemen"
+      },
+      "tender": {
+        "id": "2026_SITAR_788942_1",
+        "title": "Fabrication and Supply of Mechanical components",
+        "status": "active",
+        "procuringEntity": {
+          "name": "SITAR||STARC Bangalore||Material Management - STARC",
+          "id": "IN-ORG-sitar-starc-bangalore-material-managemen"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-09-25T00:00:00Z"
+        },
+        "description": "Fabrication and Supply of Mechanical components"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_SITAR_788942_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_SITAR_788942_1",
+          "url": "/files/ccd83674c74d6f1eef8caf7eb2c150f84827fdb04b0ff9d9c8cabecd00322c8f.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHQhzG%2BV8Wq%2BjTX4nl94HNA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ccd83674c74d6f1eef8caf7eb2c150f84827fdb04b0ff9d9c8cabecd00322c8f",
+          "format": "text/plain",
+          "textUrl": "/files/ccd83674c74d6f1eef8caf7eb2c150f84827fdb04b0ff9d9c8cabecd00322c8f.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_SITAR_788942_1",
+    "tender": {
+      "id": "2026_SITAR_788942_1",
+      "title": "Fabrication and Supply of Mechanical components",
+      "status": "active",
+      "procuringEntity": {
+        "name": "SITAR||STARC Bangalore||Material Management - STARC",
+        "id": "IN-ORG-sitar-starc-bangalore-material-managemen"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-09-25T00:00:00Z"
+      },
+      "description": "Fabrication and Supply of Mechanical components"
+    },
+    "buyer": {
+      "name": "SITAR||STARC Bangalore||Material Management - STARC",
+      "id": "IN-ORG-sitar-starc-bangalore-material-managemen"
+    },
+    "date": "2026-09-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_SITAR_788942_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_SITAR_788942_1",
+        "url": "/files/ccd83674c74d6f1eef8caf7eb2c150f84827fdb04b0ff9d9c8cabecd00322c8f.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHQhzG%2BV8Wq%2BjTX4nl94HNA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ccd83674c74d6f1eef8caf7eb2c150f84827fdb04b0ff9d9c8cabecd00322c8f",
+        "format": "text/plain",
+        "textUrl": "/files/ccd83674c74d6f1eef8caf7eb2c150f84827fdb04b0ff9d9c8cabecd00322c8f.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_SITAR_788942_1",
+      "observedAt": "2026-09-25T02:37:42Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "20a6ca28da6d45d1527297c08a7276cfc6215652a59d84220843cb990549c4ff",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_SITAR_788942_1-0001-record",
+          "sha256": "ccd83674c74d6f1eef8caf7eb2c150f84827fdb04b0ff9d9c8cabecd00322c8f"
+        }
+      ],
+      "snapshotUrl": "/files/36a14e76250144a16a53ab4f14172acca8c08b77b1ac61f6f86310f7befc16b3.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-25T02:37:42Z",
+    "lastObserved": "2026-09-25T02:37:42Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-haryana-2026_HRY_549015_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HRY_549015_1",
+      "id": "woodpecker-haryana-2026_HRY_549015_1-0001",
+      "date": "2026-09-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Government||Engineer- in- Chief PHED Panchkula||Bhiwani Circle||Bhiwani PHED No. 2",
+        "id": "IN-ORG-haryana-government-engineer-in-chief-phe"
+      },
+      "tender": {
+        "id": "2026_HRY_549015_1",
+        "title": "Repair of B wall at old ww Talu",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Government||Engineer- in- Chief PHED Panchkula||Bhiwani Circle||Bhiwani PHED No. 2",
+          "id": "IN-ORG-haryana-government-engineer-in-chief-phe"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 210940,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-25T00:00:00Z"
+        },
+        "description": "Repair of B wall at old ww Talu"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HRY_549015_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HRY_549015_1",
+          "url": "/files/2414146a96b9794e97f1e6ba1e17d87b5968272fd2ad15a65cc24f0040a8f3e5.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdnR5g52hW2tJX8RRv9MjGA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2414146a96b9794e97f1e6ba1e17d87b5968272fd2ad15a65cc24f0040a8f3e5",
+          "format": "text/plain",
+          "textUrl": "/files/2414146a96b9794e97f1e6ba1e17d87b5968272fd2ad15a65cc24f0040a8f3e5.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HRY_549015_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdnR5g52hW2tJX8RRv9MjGA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HRY_549015_1",
+    "tender": {
+      "id": "2026_HRY_549015_1",
+      "title": "Repair of B wall at old ww Talu",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Government||Engineer- in- Chief PHED Panchkula||Bhiwani Circle||Bhiwani PHED No. 2",
+        "id": "IN-ORG-haryana-government-engineer-in-chief-phe"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 210940,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-25T00:00:00Z"
+      },
+      "description": "Repair of B wall at old ww Talu"
+    },
+    "buyer": {
+      "name": "Haryana Government||Engineer- in- Chief PHED Panchkula||Bhiwani Circle||Bhiwani PHED No. 2",
+      "id": "IN-ORG-haryana-government-engineer-in-chief-phe"
+    },
+    "date": "2026-09-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HRY_549015_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HRY_549015_1",
+        "url": "/files/2414146a96b9794e97f1e6ba1e17d87b5968272fd2ad15a65cc24f0040a8f3e5.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdnR5g52hW2tJX8RRv9MjGA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2414146a96b9794e97f1e6ba1e17d87b5968272fd2ad15a65cc24f0040a8f3e5",
+        "format": "text/plain",
+        "textUrl": "/files/2414146a96b9794e97f1e6ba1e17d87b5968272fd2ad15a65cc24f0040a8f3e5.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HRY_549015_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdnR5g52hW2tJX8RRv9MjGA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HRY_549015_1",
+      "observedAt": "2026-09-25T02:50:07Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "79e04e5da85f1f93819b56d9cf195914a76c80c1c4698e7498db6c69180cd142",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HRY_549015_1-0001-record",
+          "sha256": "2414146a96b9794e97f1e6ba1e17d87b5968272fd2ad15a65cc24f0040a8f3e5"
+        }
+      ],
+      "snapshotUrl": "/files/f04ec273a06e9afab64642a57a91078a14c2f69d4e1cdc6134241a83f5e5342d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-25T02:50:07Z",
+    "lastObserved": "2026-09-25T02:50:07Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

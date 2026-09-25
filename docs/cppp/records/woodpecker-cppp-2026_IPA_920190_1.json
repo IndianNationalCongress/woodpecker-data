@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_IPA_920190_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_IPA_920190_1",
+      "id": "woodpecker-cppp-2026_IPA_920190_1-0001",
+      "date": "2026-08-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Indian Ports Association||Administrative Department - IPA",
+        "id": "IN-ORG-indian-ports-association-administrative-"
+      },
+      "tender": {
+        "id": "2026_IPA_920190_1",
+        "title": "Empanelment of Companies/ Agencies for Providing Management Consulting Services",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Indian Ports Association||Administrative Department - IPA",
+          "id": "IN-ORG-indian-ports-association-administrative-"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-09-25T00:00:00Z"
+        },
+        "description": "Empanelment of Companies/ Agencies for Providing Management Consulting Services"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IPA_920190_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IPA_920190_1",
+          "url": "/files/e2b2759252a25a0d543606f9d1581df2a21656189a562bd98ed839533608c8af.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S971DqvvMzsTiMmqLahDNRg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e2b2759252a25a0d543606f9d1581df2a21656189a562bd98ed839533608c8af",
+          "format": "text/plain",
+          "textUrl": "/files/e2b2759252a25a0d543606f9d1581df2a21656189a562bd98ed839533608c8af.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_IPA_920190_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S971DqvvMzsTiMmqLahDNRg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_IPA_920190_1",
+    "tender": {
+      "id": "2026_IPA_920190_1",
+      "title": "Empanelment of Companies/ Agencies for Providing Management Consulting Services",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Indian Ports Association||Administrative Department - IPA",
+        "id": "IN-ORG-indian-ports-association-administrative-"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-09-25T00:00:00Z"
+      },
+      "description": "Empanelment of Companies/ Agencies for Providing Management Consulting Services"
+    },
+    "buyer": {
+      "name": "Indian Ports Association||Administrative Department - IPA",
+      "id": "IN-ORG-indian-ports-association-administrative-"
+    },
+    "date": "2026-08-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_IPA_920190_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IPA_920190_1",
+        "url": "/files/e2b2759252a25a0d543606f9d1581df2a21656189a562bd98ed839533608c8af.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S971DqvvMzsTiMmqLahDNRg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e2b2759252a25a0d543606f9d1581df2a21656189a562bd98ed839533608c8af",
+        "format": "text/plain",
+        "textUrl": "/files/e2b2759252a25a0d543606f9d1581df2a21656189a562bd98ed839533608c8af.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_IPA_920190_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S971DqvvMzsTiMmqLahDNRg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_IPA_920190_1",
+      "observedAt": "2026-09-25T01:50:20Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "5d73331be9d5bc100c94a57c3ccea7d40a68cf83f4ef894be7e3f622ded9a430",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_IPA_920190_1-0001-record",
+          "sha256": "e2b2759252a25a0d543606f9d1581df2a21656189a562bd98ed839533608c8af"
+        }
+      ],
+      "snapshotUrl": "/files/2a738a8d9a5fffada775021094917fed97a7a814aca4cf30df91d98205e6e27c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-25T01:50:20Z",
+    "lastObserved": "2026-09-25T01:50:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

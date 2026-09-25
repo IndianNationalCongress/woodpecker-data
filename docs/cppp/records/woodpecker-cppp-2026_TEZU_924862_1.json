@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_TEZU_924862_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_TEZU_924862_1",
+      "id": "woodpecker-cppp-2026_TEZU_924862_1-0001",
+      "date": "2026-09-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Tezpur University||Engineering Cell - TEZU",
+        "id": "IN-ORG-tezpur-university-engineering-cell-tezu"
+      },
+      "tender": {
+        "id": "2026_TEZU_924862_1",
+        "title": "As per Tender Document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Tezpur University||Engineering Cell - TEZU",
+          "id": "IN-ORG-tezpur-university-engineering-cell-tezu"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 4243617,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-25T00:00:00Z"
+        },
+        "description": "As per Tender Document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_TEZU_924862_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_TEZU_924862_1",
+          "url": "/files/cd33706db43d379f3e6b50d59f8319cc7fb6e57e2077356c9435c412af8e193c.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfDsQzyxjK2oHikHoxJrCjw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cd33706db43d379f3e6b50d59f8319cc7fb6e57e2077356c9435c412af8e193c",
+          "format": "text/plain",
+          "textUrl": "/files/cd33706db43d379f3e6b50d59f8319cc7fb6e57e2077356c9435c412af8e193c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_TEZU_924862_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfDsQzyxjK2oHikHoxJrCjw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_TEZU_924862_1",
+    "tender": {
+      "id": "2026_TEZU_924862_1",
+      "title": "As per Tender Document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Tezpur University||Engineering Cell - TEZU",
+        "id": "IN-ORG-tezpur-university-engineering-cell-tezu"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 4243617,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-25T00:00:00Z"
+      },
+      "description": "As per Tender Document"
+    },
+    "buyer": {
+      "name": "Tezpur University||Engineering Cell - TEZU",
+      "id": "IN-ORG-tezpur-university-engineering-cell-tezu"
+    },
+    "date": "2026-09-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_TEZU_924862_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_TEZU_924862_1",
+        "url": "/files/cd33706db43d379f3e6b50d59f8319cc7fb6e57e2077356c9435c412af8e193c.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfDsQzyxjK2oHikHoxJrCjw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cd33706db43d379f3e6b50d59f8319cc7fb6e57e2077356c9435c412af8e193c",
+        "format": "text/plain",
+        "textUrl": "/files/cd33706db43d379f3e6b50d59f8319cc7fb6e57e2077356c9435c412af8e193c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_TEZU_924862_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfDsQzyxjK2oHikHoxJrCjw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_TEZU_924862_1",
+      "observedAt": "2026-09-25T01:50:20Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "77749eb4d08080db1af30bce075b82ca33ddff809e38d3df91be3cde53e3c4c2",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_TEZU_924862_1-0001-record",
+          "sha256": "cd33706db43d379f3e6b50d59f8319cc7fb6e57e2077356c9435c412af8e193c"
+        }
+      ],
+      "snapshotUrl": "/files/128915d2e4e220cca10c02cef65dfc57363a53ca87c19b28fcc7bd3746b31b05.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-25T01:50:20Z",
+    "lastObserved": "2026-09-25T01:50:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
