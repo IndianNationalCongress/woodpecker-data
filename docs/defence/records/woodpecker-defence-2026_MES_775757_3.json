@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_775757_3",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_775757_3",
+      "id": "woodpecker-defence-2026_MES_775757_3-0001",
+      "date": "2026-09-14T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE CC AND CE BAREILLY ZONE - MES||CWE HILLS DEHRADUN - MES||GE 863 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_775757_3",
+        "title": "SPL REPAIR TO BLDG NO T- 403 OF",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE CC AND CE BAREILLY ZONE - MES||CWE HILLS DEHRADUN - MES||GE 863 EWS - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1729000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-26T00:00:00Z"
+        },
+        "description": "SPL REPAIR TO BLDG NO T- 403 OF"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_775757_3-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_775757_3",
+          "url": "/files/91dd377b893ddafd20c9de119f24e058ca76854708fad5ccdff8fbd8eb650804.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGTyrNo3JnRcJqs44MnR4MQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "91dd377b893ddafd20c9de119f24e058ca76854708fad5ccdff8fbd8eb650804",
+          "format": "text/plain",
+          "textUrl": "/files/91dd377b893ddafd20c9de119f24e058ca76854708fad5ccdff8fbd8eb650804.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-defence-2026_MES_775757_3-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGTyrNo3JnRcJqs44MnR4MQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_775757_3",
+    "tender": {
+      "id": "2026_MES_775757_3",
+      "title": "SPL REPAIR TO BLDG NO T- 403 OF",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE CC AND CE BAREILLY ZONE - MES||CWE HILLS DEHRADUN - MES||GE 863 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1729000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-26T00:00:00Z"
+      },
+      "description": "SPL REPAIR TO BLDG NO T- 403 OF"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE CC AND CE BAREILLY ZONE - MES||CWE HILLS DEHRADUN - MES||GE 863 EWS - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-09-14T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_775757_3-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_775757_3",
+        "url": "/files/91dd377b893ddafd20c9de119f24e058ca76854708fad5ccdff8fbd8eb650804.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGTyrNo3JnRcJqs44MnR4MQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "91dd377b893ddafd20c9de119f24e058ca76854708fad5ccdff8fbd8eb650804",
+        "format": "text/plain",
+        "textUrl": "/files/91dd377b893ddafd20c9de119f24e058ca76854708fad5ccdff8fbd8eb650804.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-defence-2026_MES_775757_3-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGTyrNo3JnRcJqs44MnR4MQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_775757_3",
+      "observedAt": "2026-09-26T02:38:36Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "082801b1c4c6423bd9e6f7b8cc86b5c758f3cb2406d4fe1e3fa84f671a2db05a",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_775757_3-0001-record",
+          "sha256": "91dd377b893ddafd20c9de119f24e058ca76854708fad5ccdff8fbd8eb650804"
+        }
+      ],
+      "snapshotUrl": "/files/d5adcd75ce4fcc5baea54c18bd9e4d98a5c258021c45595b72ad992324e47203.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-26T02:38:36Z",
+    "lastObserved": "2026-09-26T02:38:36Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
