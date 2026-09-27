@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_143921_1",
+  "id": "woodpecker-himachal-2026_PWD_143921_1-0001",
+  "date": "2026-09-22T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "PWD",
+    "id": "IN-ORG-pwd"
+  },
+  "tender": {
+    "id": "2026_PWD_143921_1",
+    "title": "P/L painting work and other repair) Deposit",
+    "status": "active",
+    "procuringEntity": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 427445,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-09-27T00:00:00Z"
+    },
+    "description": "P/L painting work and other repair) Deposit"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-himachal-2026_PWD_143921_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_PWD_143921_1",
+      "url": "/files/6d0230e741c759e4fd32664af8b1ac532b5c6c7e96c70583fc6fe94a493d5b01.txt",
+      "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvK7TSouZte8OQlecsZXktA%3D%3D",
+      "sourceAlive": true,
+      "sha256": "6d0230e741c759e4fd32664af8b1ac532b5c6c7e96c70583fc6fe94a493d5b01",
+      "format": "text/plain",
+      "textUrl": "/files/6d0230e741c759e4fd32664af8b1ac532b5c6c7e96c70583fc6fe94a493d5b01.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-himachal-2026_PWD_143921_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvK7TSouZte8OQlecsZXktA%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
