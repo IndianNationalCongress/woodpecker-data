@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-odisha-2026_PHEO_140540_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-odisha-2026_PHEO_140540_1",
+      "id": "woodpecker-odisha-2026_PHEO_140540_1-0001",
+      "date": "2026-09-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PHEO||SEPH-CIRCLE-SAMBALPUR||EEPH-DIVN-SAMBALPUR",
+        "id": "IN-ORG-pheo-seph-circle-sambalpur-eeph-divn-sam"
+      },
+      "tender": {
+        "id": "2026_PHEO_140540_1",
+        "title": "Construction of P.H Section office building At Bargarh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PHEO||SEPH-CIRCLE-SAMBALPUR||EEPH-DIVN-SAMBALPUR",
+          "id": "IN-ORG-pheo-seph-circle-sambalpur-eeph-divn-sam"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 3032000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-09-28T00:00:00Z"
+        },
+        "description": "Construction of P.H Section office building At Bargarh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_PHEO_140540_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PHEO_140540_1",
+          "url": "/files/0b48209750e4adddd4a184f0c8e0d7ba6d9e9dd711363718c99ee8187c63e4fb.txt",
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZkWNNkx6gs6GHkB5NyI%2FHQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0b48209750e4adddd4a184f0c8e0d7ba6d9e9dd711363718c99ee8187c63e4fb",
+          "format": "text/plain",
+          "textUrl": "/files/0b48209750e4adddd4a184f0c8e0d7ba6d9e9dd711363718c99ee8187c63e4fb.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-odisha-2026_PHEO_140540_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZkWNNkx6gs6GHkB5NyI%2FHQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-odisha-2026_PHEO_140540_1",
+    "tender": {
+      "id": "2026_PHEO_140540_1",
+      "title": "Construction of P.H Section office building At Bargarh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PHEO||SEPH-CIRCLE-SAMBALPUR||EEPH-DIVN-SAMBALPUR",
+        "id": "IN-ORG-pheo-seph-circle-sambalpur-eeph-divn-sam"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 3032000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-09-28T00:00:00Z"
+      },
+      "description": "Construction of P.H Section office building At Bargarh"
+    },
+    "buyer": {
+      "name": "PHEO||SEPH-CIRCLE-SAMBALPUR||EEPH-DIVN-SAMBALPUR",
+      "id": "IN-ORG-pheo-seph-circle-sambalpur-eeph-divn-sam"
+    },
+    "date": "2026-09-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-odisha-2026_PHEO_140540_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PHEO_140540_1",
+        "url": "/files/0b48209750e4adddd4a184f0c8e0d7ba6d9e9dd711363718c99ee8187c63e4fb.txt",
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZkWNNkx6gs6GHkB5NyI%2FHQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0b48209750e4adddd4a184f0c8e0d7ba6d9e9dd711363718c99ee8187c63e4fb",
+        "format": "text/plain",
+        "textUrl": "/files/0b48209750e4adddd4a184f0c8e0d7ba6d9e9dd711363718c99ee8187c63e4fb.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-odisha-2026_PHEO_140540_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZkWNNkx6gs6GHkB5NyI%2FHQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-odisha-2026_PHEO_140540_1",
+      "observedAt": "2026-09-28T02:18:47Z",
+      "witness": "woodpecker:odisha",
+      "availability": "present",
+      "stateHash": "2e1f21bb6b15251e5abdb0f45c7e7b78aef3dc59bc6cede352219c7c2f1ae313",
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_PHEO_140540_1-0001-record",
+          "sha256": "0b48209750e4adddd4a184f0c8e0d7ba6d9e9dd711363718c99ee8187c63e4fb"
+        }
+      ],
+      "snapshotUrl": "/files/fd0393cd6dbd592deccd6975322ed0597b1dee542f57abbff8570e9e9fd2654a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-28T02:18:47Z",
+    "lastObserved": "2026-09-28T02:18:47Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
