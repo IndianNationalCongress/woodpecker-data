@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112134_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112134_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112134_1-0001",
+      "date": "2026-09-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112134_1",
+        "title": "PROCUREMENT OF MAIN TURBINE JOP FOR NTPC BONGAIGAON 250MW",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-29T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF MAIN TURBINE JOP FOR NTPC BONGAIGAON 250MW"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112134_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112134_1",
+          "url": "/files/94f0994ed66ec74c4a17afa0d801fe615cd9db2fe57b1cc5e0dc72515dc027ea.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgqpenUraGIinCMimA9Wzuw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "94f0994ed66ec74c4a17afa0d801fe615cd9db2fe57b1cc5e0dc72515dc027ea",
+          "format": "text/plain",
+          "textUrl": "/files/94f0994ed66ec74c4a17afa0d801fe615cd9db2fe57b1cc5e0dc72515dc027ea.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112134_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgqpenUraGIinCMimA9Wzuw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112134_1",
+    "tender": {
+      "id": "2026_NTPC_112134_1",
+      "title": "PROCUREMENT OF MAIN TURBINE JOP FOR NTPC BONGAIGAON 250MW",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-29T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF MAIN TURBINE JOP FOR NTPC BONGAIGAON 250MW"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112134_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112134_1",
+        "url": "/files/94f0994ed66ec74c4a17afa0d801fe615cd9db2fe57b1cc5e0dc72515dc027ea.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgqpenUraGIinCMimA9Wzuw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "94f0994ed66ec74c4a17afa0d801fe615cd9db2fe57b1cc5e0dc72515dc027ea",
+        "format": "text/plain",
+        "textUrl": "/files/94f0994ed66ec74c4a17afa0d801fe615cd9db2fe57b1cc5e0dc72515dc027ea.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112134_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgqpenUraGIinCMimA9Wzuw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112134_1",
+      "observedAt": "2026-09-29T04:15:38Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "dccd255da2c6bc9e8aeb185a871fc27f6c9e243cd7d0c60d4b4fb2206ded6a07",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112134_1-0001-record",
+          "sha256": "94f0994ed66ec74c4a17afa0d801fe615cd9db2fe57b1cc5e0dc72515dc027ea"
+        }
+      ],
+      "snapshotUrl": "/files/86f53c43754b402da3b7a3c332ff49b2a051814749dd8bed87ee9ab94b53e5ca.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-29T04:15:38Z",
+    "lastObserved": "2026-09-29T04:15:38Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

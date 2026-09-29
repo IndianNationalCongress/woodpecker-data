@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-cppp-2026_NMPT_927460_1",
+  "id": "woodpecker-cppp-2026_NMPT_927460_1-0001",
+  "date": "2026-09-23T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "New Mangalore Port Trust||Finance Department-HQ - NMPT",
+    "id": "IN-ORG-new-mangalore-port-trust-finance-departm"
+  },
+  "tender": {
+    "id": "2026_NMPT_927460_1",
+    "title": "Interest rate quote",
+    "status": "active",
+    "procuringEntity": {
+      "name": "New Mangalore Port Trust||Finance Department-HQ - NMPT",
+      "id": "IN-ORG-new-mangalore-port-trust-finance-departm"
+    },
+    "mainProcurementCategory": "services",
+    "value": {
+      "amount": 1510000000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-09-29T00:00:00Z"
+    },
+    "description": "Interest rate quote"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-cppp-2026_NMPT_927460_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_NMPT_927460_1",
+      "url": "/files/e51039d94e36c594e001b019decc8066468f65d8ffaf37607f05a280aeda3400.txt",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss4vjL15JuW3W5ncLBSAxTQ%3D%3D",
+      "sourceAlive": true,
+      "sha256": "e51039d94e36c594e001b019decc8066468f65d8ffaf37607f05a280aeda3400",
+      "format": "text/plain",
+      "textUrl": "/files/e51039d94e36c594e001b019decc8066468f65d8ffaf37607f05a280aeda3400.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-cppp-2026_NMPT_927460_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss4vjL15JuW3W5ncLBSAxTQ%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111972_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111972_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111972_1-0001",
+      "date": "2026-09-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111972_1",
+        "title": "Procurement of Bucket elevator gearbox for the FGD system installed atNTPC Simhadri",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-29T00:00:00Z"
+        },
+        "description": "Procurement of Bucket elevator gearbox for the FGD system installed atNTPC Simhadri"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111972_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111972_1",
+          "url": "/files/42433baafe607a1221ab76a2e7e24a16ab71e5e344c189aa000a7f1fd466a06e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqxAzMr5ZbnaBuhc0JaBPcw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "42433baafe607a1221ab76a2e7e24a16ab71e5e344c189aa000a7f1fd466a06e",
+          "format": "text/plain",
+          "textUrl": "/files/42433baafe607a1221ab76a2e7e24a16ab71e5e344c189aa000a7f1fd466a06e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111972_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqxAzMr5ZbnaBuhc0JaBPcw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111972_1",
+    "tender": {
+      "id": "2026_NTPC_111972_1",
+      "title": "Procurement of Bucket elevator gearbox for the FGD system installed atNTPC Simhadri",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-29T00:00:00Z"
+      },
+      "description": "Procurement of Bucket elevator gearbox for the FGD system installed atNTPC Simhadri"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111972_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111972_1",
+        "url": "/files/42433baafe607a1221ab76a2e7e24a16ab71e5e344c189aa000a7f1fd466a06e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqxAzMr5ZbnaBuhc0JaBPcw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "42433baafe607a1221ab76a2e7e24a16ab71e5e344c189aa000a7f1fd466a06e",
+        "format": "text/plain",
+        "textUrl": "/files/42433baafe607a1221ab76a2e7e24a16ab71e5e344c189aa000a7f1fd466a06e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111972_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqxAzMr5ZbnaBuhc0JaBPcw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111972_1",
+      "observedAt": "2026-09-29T04:15:38Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "05e610e7f20a78625a2af48b501f916b30af6a76423a11f1a044abf616d7b120",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111972_1-0001-record",
+          "sha256": "42433baafe607a1221ab76a2e7e24a16ab71e5e344c189aa000a7f1fd466a06e"
+        }
+      ],
+      "snapshotUrl": "/files/151304b64a51051bad448c9877ca257c8d0fcb22f9c0b61cfd86a5b2858f806a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-29T04:15:38Z",
+    "lastObserved": "2026-09-29T04:15:38Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

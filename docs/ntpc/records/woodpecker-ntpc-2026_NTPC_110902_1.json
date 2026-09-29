@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_110902_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110902_1",
+      "id": "woodpecker-ntpc-2026_NTPC_110902_1-0001",
+      "date": "2026-09-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_110902_1",
+        "title": "PROCUREMENT OF GRINDING ROLL AND BULL RING SEGMENT ASSY. OF BOWL MILLXRP-883 FOR NTPC BONGAIGAON.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-29T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF GRINDING ROLL AND BULL RING SEGMENT ASSY. OF BOWL MILLXRP-883 FOR NTPC BONGAIGAON."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110902_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_110902_1",
+          "url": "/files/be7a85ca0e0d8d4ddd96cd4f4ad5a3abe10d04e824f76d7c28ed8a0c73deadac.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyYVeBfZTGaX11qkwz5C4JA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "be7a85ca0e0d8d4ddd96cd4f4ad5a3abe10d04e824f76d7c28ed8a0c73deadac",
+          "format": "text/plain",
+          "textUrl": "/files/be7a85ca0e0d8d4ddd96cd4f4ad5a3abe10d04e824f76d7c28ed8a0c73deadac.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110902_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyYVeBfZTGaX11qkwz5C4JA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_110902_1",
+    "tender": {
+      "id": "2026_NTPC_110902_1",
+      "title": "PROCUREMENT OF GRINDING ROLL AND BULL RING SEGMENT ASSY. OF BOWL MILLXRP-883 FOR NTPC BONGAIGAON.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-29T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF GRINDING ROLL AND BULL RING SEGMENT ASSY. OF BOWL MILLXRP-883 FOR NTPC BONGAIGAON."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-09-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110902_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_110902_1",
+        "url": "/files/be7a85ca0e0d8d4ddd96cd4f4ad5a3abe10d04e824f76d7c28ed8a0c73deadac.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyYVeBfZTGaX11qkwz5C4JA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "be7a85ca0e0d8d4ddd96cd4f4ad5a3abe10d04e824f76d7c28ed8a0c73deadac",
+        "format": "text/plain",
+        "textUrl": "/files/be7a85ca0e0d8d4ddd96cd4f4ad5a3abe10d04e824f76d7c28ed8a0c73deadac.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_110902_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyYVeBfZTGaX11qkwz5C4JA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_110902_1",
+      "observedAt": "2026-09-29T04:15:38Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "7e0c5ea806f819bf775d7d6e20a7476d1f67ebaff46e771a08c8fbec13e508ab",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_110902_1-0001-record",
+          "sha256": "be7a85ca0e0d8d4ddd96cd4f4ad5a3abe10d04e824f76d7c28ed8a0c73deadac"
+        }
+      ],
+      "snapshotUrl": "/files/7366704dd602d84f2f69fd821545e904b2e1e199e507937b74e89e949e036efa.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-29T04:15:38Z",
+    "lastObserved": "2026-09-29T04:15:38Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
