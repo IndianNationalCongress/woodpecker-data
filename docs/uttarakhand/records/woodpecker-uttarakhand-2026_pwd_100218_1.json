@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-uttarakhand-2026_pwd_100218_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_pwd_100218_1",
+      "id": "woodpecker-uttarakhand-2026_pwd_100218_1-0001",
+      "date": "2026-09-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD||4th Circle U.S. Nagar",
+        "id": "IN-ORG-pwd-4th-circle-u-s-nagar"
+      },
+      "tender": {
+        "id": "2026_pwd_100218_1",
+        "title": "As per BOQ",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD||4th Circle U.S. Nagar",
+          "id": "IN-ORG-pwd-4th-circle-u-s-nagar"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-09-30T00:00:00Z"
+        },
+        "description": "As per BOQ"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_100218_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_pwd_100218_1",
+          "url": "/files/9881084812bc1360b56e956531477ce2a73623da55bcc4ccddbd64111f20d43a.txt",
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SK%2F3LzfYCbX%2FBKHWrv4dqdw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9881084812bc1360b56e956531477ce2a73623da55bcc4ccddbd64111f20d43a",
+          "format": "text/plain",
+          "textUrl": "/files/9881084812bc1360b56e956531477ce2a73623da55bcc4ccddbd64111f20d43a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_100218_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SK%2F3LzfYCbX%2FBKHWrv4dqdw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-uttarakhand-2026_pwd_100218_1",
+    "tender": {
+      "id": "2026_pwd_100218_1",
+      "title": "As per BOQ",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD||4th Circle U.S. Nagar",
+        "id": "IN-ORG-pwd-4th-circle-u-s-nagar"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-09-30T00:00:00Z"
+      },
+      "description": "As per BOQ"
+    },
+    "buyer": {
+      "name": "PWD||4th Circle U.S. Nagar",
+      "id": "IN-ORG-pwd-4th-circle-u-s-nagar"
+    },
+    "date": "2026-09-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-uttarakhand-2026_pwd_100218_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_pwd_100218_1",
+        "url": "/files/9881084812bc1360b56e956531477ce2a73623da55bcc4ccddbd64111f20d43a.txt",
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SK%2F3LzfYCbX%2FBKHWrv4dqdw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9881084812bc1360b56e956531477ce2a73623da55bcc4ccddbd64111f20d43a",
+        "format": "text/plain",
+        "textUrl": "/files/9881084812bc1360b56e956531477ce2a73623da55bcc4ccddbd64111f20d43a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-uttarakhand-2026_pwd_100218_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SK%2F3LzfYCbX%2FBKHWrv4dqdw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_pwd_100218_1",
+      "observedAt": "2026-09-30T03:02:25Z",
+      "witness": "woodpecker:uttarakhand",
+      "availability": "present",
+      "stateHash": "18884c517e2a8b9ba48805dcac5e641ad5ce815db1126ec27e5b353daf77e23f",
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_100218_1-0001-record",
+          "sha256": "9881084812bc1360b56e956531477ce2a73623da55bcc4ccddbd64111f20d43a"
+        }
+      ],
+      "snapshotUrl": "/files/eaa9035f9bfc7241d83e3e5915fa558e92c1cb0548c77955cc515c3e28ac483d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-30T03:02:25Z",
+    "lastObserved": "2026-09-30T03:02:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

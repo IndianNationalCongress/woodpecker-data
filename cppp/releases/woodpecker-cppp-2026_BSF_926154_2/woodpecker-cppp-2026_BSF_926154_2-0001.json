@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-cppp-2026_BSF_926154_2",
+  "id": "woodpecker-cppp-2026_BSF_926154_2-0001",
+  "date": "2026-09-15T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "DG,BSF,MHA||ANO FTR(Bangalore),BSF,MHA",
+    "id": "IN-ORG-dg-bsf-mha-ano-ftr-bangalore-bsf-mha"
+  },
+  "tender": {
+    "id": "2026_BSF_926154_2",
+    "title": "As per BOQ",
+    "status": "active",
+    "procuringEntity": {
+      "name": "DG,BSF,MHA||ANO FTR(Bangalore),BSF,MHA",
+      "id": "IN-ORG-dg-bsf-mha-ano-ftr-bangalore-bsf-mha"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 67847,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-09-30T00:00:00Z"
+    },
+    "description": "As per BOQ"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-cppp-2026_BSF_926154_2-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_BSF_926154_2",
+      "url": "/files/e6ce6199373054993ffbb823129a60425fbf857162863730400c7fe62d37cfaa.txt",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGRKg6G1Nr8440J9lrLKXCg%3D%3D",
+      "sourceAlive": true,
+      "sha256": "e6ce6199373054993ffbb823129a60425fbf857162863730400c7fe62d37cfaa",
+      "format": "text/plain",
+      "textUrl": "/files/e6ce6199373054993ffbb823129a60425fbf857162863730400c7fe62d37cfaa.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-cppp-2026_BSF_926154_2-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGRKg6G1Nr8440J9lrLKXCg%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

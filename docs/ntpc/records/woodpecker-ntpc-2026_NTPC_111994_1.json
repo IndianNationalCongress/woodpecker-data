@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111994_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111994_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111994_1-0001",
+      "date": "2026-09-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "tender": {
+        "id": "2026_NTPC_111994_1",
+        "title": "BENNIAL CIVIL MAINTENANCE CONTRACT FOR TOWNSHIP AREA AT NTPC AUGPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-09-30T00:00:00Z"
+        },
+        "description": "BENNIAL CIVIL MAINTENANCE CONTRACT FOR TOWNSHIP AREA AT NTPC AUGPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111994_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111994_1",
+          "url": "/files/b66d3ad416021a3e8efdd025f915bcf1536a30da9d3aca28da155142554b4c3f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzoC6KTulabXnaKNrotcKMw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b66d3ad416021a3e8efdd025f915bcf1536a30da9d3aca28da155142554b4c3f",
+          "format": "text/plain",
+          "textUrl": "/files/b66d3ad416021a3e8efdd025f915bcf1536a30da9d3aca28da155142554b4c3f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111994_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzoC6KTulabXnaKNrotcKMw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111994_1",
+    "tender": {
+      "id": "2026_NTPC_111994_1",
+      "title": "BENNIAL CIVIL MAINTENANCE CONTRACT FOR TOWNSHIP AREA AT NTPC AUGPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-09-30T00:00:00Z"
+      },
+      "description": "BENNIAL CIVIL MAINTENANCE CONTRACT FOR TOWNSHIP AREA AT NTPC AUGPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+    },
+    "date": "2026-09-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111994_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111994_1",
+        "url": "/files/b66d3ad416021a3e8efdd025f915bcf1536a30da9d3aca28da155142554b4c3f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzoC6KTulabXnaKNrotcKMw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b66d3ad416021a3e8efdd025f915bcf1536a30da9d3aca28da155142554b4c3f",
+        "format": "text/plain",
+        "textUrl": "/files/b66d3ad416021a3e8efdd025f915bcf1536a30da9d3aca28da155142554b4c3f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111994_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzoC6KTulabXnaKNrotcKMw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111994_1",
+      "observedAt": "2026-09-30T03:54:20Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "76dd0b46e32bf5514b586a438a6e856f3749c037a10118248a115afd72239ce5",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111994_1-0001-record",
+          "sha256": "b66d3ad416021a3e8efdd025f915bcf1536a30da9d3aca28da155142554b4c3f"
+        }
+      ],
+      "snapshotUrl": "/files/b425eccab5c067c5186a4ecf2d7b007f8de6e6fa56071fb1e9f548bf25f9db63.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-30T03:54:20Z",
+    "lastObserved": "2026-09-30T03:54:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

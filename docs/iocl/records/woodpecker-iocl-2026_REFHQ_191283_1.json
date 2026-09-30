@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_REFHQ_191283_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_191283_1",
+      "id": "woodpecker-iocl-2026_REFHQ_191283_1-0001",
+      "date": "2026-09-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "tender": {
+        "id": "2026_REFHQ_191283_1",
+        "title": "Rate contract for procurement of UF membrane for Barauni, Haldia and Mathura Refinery",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Refineries HQ||Materials",
+          "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-09-30T00:00:00Z"
+        },
+        "description": "Rate contract for procurement of UF membrane for Barauni, Haldia and Mathura Refinery"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_191283_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_REFHQ_191283_1",
+          "url": "/files/45e43fd638d8f81d64b54230f653613530fc948bb2c4b354ea151e0d8d8786df.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsmT6UdpydcjcohXqGTjsAQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "45e43fd638d8f81d64b54230f653613530fc948bb2c4b354ea151e0d8d8786df",
+          "format": "text/plain",
+          "textUrl": "/files/45e43fd638d8f81d64b54230f653613530fc948bb2c4b354ea151e0d8d8786df.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_191283_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsmT6UdpydcjcohXqGTjsAQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_REFHQ_191283_1",
+    "tender": {
+      "id": "2026_REFHQ_191283_1",
+      "title": "Rate contract for procurement of UF membrane for Barauni, Haldia and Mathura Refinery",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Refineries HQ||Materials",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-09-30T00:00:00Z"
+      },
+      "description": "Rate contract for procurement of UF membrane for Barauni, Haldia and Mathura Refinery"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Refineries HQ||Materials",
+      "id": "IN-ORG-indianoil-refineries-refineries-hq-mater"
+    },
+    "date": "2026-09-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_191283_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_REFHQ_191283_1",
+        "url": "/files/45e43fd638d8f81d64b54230f653613530fc948bb2c4b354ea151e0d8d8786df.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsmT6UdpydcjcohXqGTjsAQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "45e43fd638d8f81d64b54230f653613530fc948bb2c4b354ea151e0d8d8786df",
+        "format": "text/plain",
+        "textUrl": "/files/45e43fd638d8f81d64b54230f653613530fc948bb2c4b354ea151e0d8d8786df.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_191283_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsmT6UdpydcjcohXqGTjsAQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_191283_1",
+      "observedAt": "2026-09-30T04:00:06Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "69fdc7f3aa964cc8c740e963c1524ad84fc2540497cbafaf9b7227a7e4fc264d",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_191283_1-0001-record",
+          "sha256": "45e43fd638d8f81d64b54230f653613530fc948bb2c4b354ea151e0d8d8786df"
+        }
+      ],
+      "snapshotUrl": "/files/7e070ed2174bbe25a91be5e72595f03a144ab16602cb571a56061f2666a82795.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-09-30T04:00:06Z",
+    "lastObserved": "2026-09-30T04:00:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
