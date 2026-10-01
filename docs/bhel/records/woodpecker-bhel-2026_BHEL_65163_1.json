@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-bhel-2026_BHEL_65163_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_65163_1",
+      "id": "woodpecker-bhel-2026_BHEL_65163_1-0001",
+      "date": "2026-09-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "tender": {
+        "id": "2026_BHEL_65163_1",
+        "title": "IGBT 3300V 1200A",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+          "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-01T00:00:00Z"
+        },
+        "description": "IGBT 3300V 1200A"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_65163_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BHEL_65163_1",
+          "url": "/files/73de77ad7cea98c525ff8fff3fce0e8f6929630fa6ac0d88083cf0040401f47a.txt",
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnmFcxD498clZWZtgLHaqCA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "73de77ad7cea98c525ff8fff3fce0e8f6929630fa6ac0d88083cf0040401f47a",
+          "format": "text/plain",
+          "textUrl": "/files/73de77ad7cea98c525ff8fff3fce0e8f6929630fa6ac0d88083cf0040401f47a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bhel-2026_BHEL_65163_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnmFcxD498clZWZtgLHaqCA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bhel-2026_BHEL_65163_1",
+    "tender": {
+      "id": "2026_BHEL_65163_1",
+      "title": "IGBT 3300V 1200A",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-01T00:00:00Z"
+      },
+      "description": "IGBT 3300V 1200A"
+    },
+    "buyer": {
+      "name": "Bharat Heavy Electricals Limited||EDN - Bangalore||SAAS",
+      "id": "IN-ORG-bharat-heavy-electricals-limited-edn-ban"
+    },
+    "date": "2026-09-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bhel-2026_BHEL_65163_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BHEL_65163_1",
+        "url": "/files/73de77ad7cea98c525ff8fff3fce0e8f6929630fa6ac0d88083cf0040401f47a.txt",
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnmFcxD498clZWZtgLHaqCA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "73de77ad7cea98c525ff8fff3fce0e8f6929630fa6ac0d88083cf0040401f47a",
+        "format": "text/plain",
+        "textUrl": "/files/73de77ad7cea98c525ff8fff3fce0e8f6929630fa6ac0d88083cf0040401f47a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bhel-2026_BHEL_65163_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnmFcxD498clZWZtgLHaqCA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_65163_1",
+      "observedAt": "2026-10-01T03:59:02Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "00fbe501c4bd2d48b14b40174169c431f3405b3150c31904e16b7c6b2fca54e7",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_65163_1-0001-record",
+          "sha256": "73de77ad7cea98c525ff8fff3fce0e8f6929630fa6ac0d88083cf0040401f47a"
+        }
+      ],
+      "snapshotUrl": "/files/c2878e1505b34f78b553040b8a9ea9a27afb15badf36cc309c5710979d04482f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-01T03:59:02Z",
+    "lastObserved": "2026-10-01T03:59:02Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

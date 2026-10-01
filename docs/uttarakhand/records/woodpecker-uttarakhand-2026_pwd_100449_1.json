@@ -1,0 +1,154 @@
+{
+  "ocid": "woodpecker-uttarakhand-2026_pwd_100449_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_pwd_100449_1",
+      "id": "woodpecker-uttarakhand-2026_pwd_100449_1-0001",
+      "date": "2026-09-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD||9th Circle Dehradun",
+        "id": "IN-ORG-pwd-9th-circle-dehradun"
+      },
+      "tender": {
+        "id": "2026_pwd_100449_1",
+        "title": "As per BOQ",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD||9th Circle Dehradun",
+          "id": "IN-ORG-pwd-9th-circle-dehradun"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 2287484,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-01T00:00:00Z"
+        },
+        "description": "As per BOQ"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_100449_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_pwd_100449_1",
+          "url": "/files/c543554adc832c954a14c4f87e30301da716bb1cb374f397957681aae272d11e.txt",
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw7geZibhSQpS0FLmw02QhQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c543554adc832c954a14c4f87e30301da716bb1cb374f397957681aae272d11e",
+          "format": "text/plain",
+          "textUrl": "/files/c543554adc832c954a14c4f87e30301da716bb1cb374f397957681aae272d11e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_100449_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_2.pdf",
+          "url": null,
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw7geZibhSQpS0FLmw02QhQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        },
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_100449_1-0001-doc-2",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw7geZibhSQpS0FLmw02QhQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-uttarakhand-2026_pwd_100449_1",
+    "tender": {
+      "id": "2026_pwd_100449_1",
+      "title": "As per BOQ",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD||9th Circle Dehradun",
+        "id": "IN-ORG-pwd-9th-circle-dehradun"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 2287484,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-01T00:00:00Z"
+      },
+      "description": "As per BOQ"
+    },
+    "buyer": {
+      "name": "PWD||9th Circle Dehradun",
+      "id": "IN-ORG-pwd-9th-circle-dehradun"
+    },
+    "date": "2026-09-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-uttarakhand-2026_pwd_100449_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_pwd_100449_1",
+        "url": "/files/c543554adc832c954a14c4f87e30301da716bb1cb374f397957681aae272d11e.txt",
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw7geZibhSQpS0FLmw02QhQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c543554adc832c954a14c4f87e30301da716bb1cb374f397957681aae272d11e",
+        "format": "text/plain",
+        "textUrl": "/files/c543554adc832c954a14c4f87e30301da716bb1cb374f397957681aae272d11e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-uttarakhand-2026_pwd_100449_1-0001-doc-2",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sw7geZibhSQpS0FLmw02QhQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_pwd_100449_1",
+      "observedAt": "2026-10-01T03:05:18Z",
+      "witness": "woodpecker:uttarakhand",
+      "availability": "present",
+      "stateHash": "1a9945b24d069dccfb152f037455193b753e95f5c397df6b9e2323ebd1c5b67a",
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_100449_1-0001-record",
+          "sha256": "c543554adc832c954a14c4f87e30301da716bb1cb374f397957681aae272d11e"
+        }
+      ],
+      "snapshotUrl": "/files/9943bef10a4e542e9677d1c3f7532823ef8ce161facfae928a244d7e71f6e4c7.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-01T03:05:18Z",
+    "lastObserved": "2026-10-01T03:05:18Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

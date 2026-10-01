@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_111634_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111634_1",
+      "id": "woodpecker-ntpc-2026_NTPC_111634_1-0001",
+      "date": "2026-09-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_111634_1",
+        "title": "Procurement of IPSV Spindle Head assembly for Rihand Stage 1Units",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-01T00:00:00Z"
+        },
+        "description": "Procurement of IPSV Spindle Head assembly for Rihand Stage 1Units"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111634_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_111634_1",
+          "url": "/files/c07c191d137cfc8a11dc9c14ce04d5b91212ec8c10552e8e4148859270d34446.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sz48vP5DX8iCvDVdtJI%2B5sQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c07c191d137cfc8a11dc9c14ce04d5b91212ec8c10552e8e4148859270d34446",
+          "format": "text/plain",
+          "textUrl": "/files/c07c191d137cfc8a11dc9c14ce04d5b91212ec8c10552e8e4148859270d34446.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111634_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sz48vP5DX8iCvDVdtJI%2B5sQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_111634_1",
+    "tender": {
+      "id": "2026_NTPC_111634_1",
+      "title": "Procurement of IPSV Spindle Head assembly for Rihand Stage 1Units",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-01T00:00:00Z"
+      },
+      "description": "Procurement of IPSV Spindle Head assembly for Rihand Stage 1Units"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111634_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_111634_1",
+        "url": "/files/c07c191d137cfc8a11dc9c14ce04d5b91212ec8c10552e8e4148859270d34446.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sz48vP5DX8iCvDVdtJI%2B5sQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c07c191d137cfc8a11dc9c14ce04d5b91212ec8c10552e8e4148859270d34446",
+        "format": "text/plain",
+        "textUrl": "/files/c07c191d137cfc8a11dc9c14ce04d5b91212ec8c10552e8e4148859270d34446.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_111634_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sz48vP5DX8iCvDVdtJI%2B5sQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_111634_1",
+      "observedAt": "2026-10-01T03:56:02Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "1f060b5cf38b6592e8da83d48cf7956eeef773ce9f44f459710d057dcebad6f2",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_111634_1-0001-record",
+          "sha256": "c07c191d137cfc8a11dc9c14ce04d5b91212ec8c10552e8e4148859270d34446"
+        }
+      ],
+      "snapshotUrl": "/files/e4fd1c7c1a5d54cab080aad72660ad39551f14de178df99f8bfe7671c0101099.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-01T03:56:02Z",
+    "lastObserved": "2026-10-01T03:56:02Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

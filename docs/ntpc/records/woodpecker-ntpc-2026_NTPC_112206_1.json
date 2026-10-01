@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112206_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112206_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112206_1-0001",
+      "date": "2026-09-26T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112206_1",
+        "title": "Procurement of ELWA make FRF heater for stage 2 units of NTPC Farakka",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-01T00:00:00Z"
+        },
+        "description": "Procurement of ELWA make FRF heater for stage 2 units of NTPC Farakka"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112206_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112206_1",
+          "url": "/files/f5b11c34184b19556d17ccd457a29219ef2168f30b8fab9f6906a6e9cba768c7.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJ3Bb3mA38LdNeFEBoMtBvA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f5b11c34184b19556d17ccd457a29219ef2168f30b8fab9f6906a6e9cba768c7",
+          "format": "text/plain",
+          "textUrl": "/files/f5b11c34184b19556d17ccd457a29219ef2168f30b8fab9f6906a6e9cba768c7.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112206_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJ3Bb3mA38LdNeFEBoMtBvA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112206_1",
+    "tender": {
+      "id": "2026_NTPC_112206_1",
+      "title": "Procurement of ELWA make FRF heater for stage 2 units of NTPC Farakka",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-01T00:00:00Z"
+      },
+      "description": "Procurement of ELWA make FRF heater for stage 2 units of NTPC Farakka"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-26T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112206_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112206_1",
+        "url": "/files/f5b11c34184b19556d17ccd457a29219ef2168f30b8fab9f6906a6e9cba768c7.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJ3Bb3mA38LdNeFEBoMtBvA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f5b11c34184b19556d17ccd457a29219ef2168f30b8fab9f6906a6e9cba768c7",
+        "format": "text/plain",
+        "textUrl": "/files/f5b11c34184b19556d17ccd457a29219ef2168f30b8fab9f6906a6e9cba768c7.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112206_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SJ3Bb3mA38LdNeFEBoMtBvA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112206_1",
+      "observedAt": "2026-10-01T03:56:02Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "aecfb32de1fa530edf78346242987062b848c0d4a6907e017f6e0f90c2e41fa8",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112206_1-0001-record",
+          "sha256": "f5b11c34184b19556d17ccd457a29219ef2168f30b8fab9f6906a6e9cba768c7"
+        }
+      ],
+      "snapshotUrl": "/files/fb88728ccc9c5e23e868b2a0b807f28cec908f9dd90e2ee246b567eaefcbe218.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-01T03:56:02Z",
+    "lastObserved": "2026-10-01T03:56:02Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
