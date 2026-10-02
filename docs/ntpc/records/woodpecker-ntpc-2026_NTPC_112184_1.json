@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112184_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112184_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112184_1-0001",
+      "date": "2026-09-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112184_1",
+        "title": "Procurement of MOP Spares For NTPC DGPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-02T00:00:00Z"
+        },
+        "description": "Procurement of MOP Spares For NTPC DGPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112184_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112184_1",
+          "url": "/files/5a7c01d5056ffcd4610d0b68d7b0c26223ca5b0e92624741ead42261f5c5da60.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdUCFbPSIyK7pMJuid9%2F4gQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5a7c01d5056ffcd4610d0b68d7b0c26223ca5b0e92624741ead42261f5c5da60",
+          "format": "text/plain",
+          "textUrl": "/files/5a7c01d5056ffcd4610d0b68d7b0c26223ca5b0e92624741ead42261f5c5da60.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112184_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdUCFbPSIyK7pMJuid9%2F4gQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112184_1",
+    "tender": {
+      "id": "2026_NTPC_112184_1",
+      "title": "Procurement of MOP Spares For NTPC DGPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-02T00:00:00Z"
+      },
+      "description": "Procurement of MOP Spares For NTPC DGPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112184_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112184_1",
+        "url": "/files/5a7c01d5056ffcd4610d0b68d7b0c26223ca5b0e92624741ead42261f5c5da60.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdUCFbPSIyK7pMJuid9%2F4gQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5a7c01d5056ffcd4610d0b68d7b0c26223ca5b0e92624741ead42261f5c5da60",
+        "format": "text/plain",
+        "textUrl": "/files/5a7c01d5056ffcd4610d0b68d7b0c26223ca5b0e92624741ead42261f5c5da60.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112184_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdUCFbPSIyK7pMJuid9%2F4gQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112184_1",
+      "observedAt": "2026-10-02T03:26:17Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "8504b70904f049776b49f2abbff2e5f7da014820e1163303127874e8527f55b1",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112184_1-0001-record",
+          "sha256": "5a7c01d5056ffcd4610d0b68d7b0c26223ca5b0e92624741ead42261f5c5da60"
+        }
+      ],
+      "snapshotUrl": "/files/f15e2ada0b7450d9152982aaec5fe7464881dbbca92c790d117857dfeea56078.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-02T03:26:17Z",
+    "lastObserved": "2026-10-02T03:26:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
