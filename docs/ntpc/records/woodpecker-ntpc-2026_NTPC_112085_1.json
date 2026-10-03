@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112085_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112085_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112085_1-0001",
+      "date": "2026-09-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112085_1",
+        "title": "Procurement of Torque Hub Complete Assembly for Stg 1 Plough feeders ofCHP at FSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-03T00:00:00Z"
+        },
+        "description": "Procurement of Torque Hub Complete Assembly for Stg 1 Plough feeders ofCHP at FSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112085_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112085_1",
+          "url": "/files/dc4200cf874f1a37ae0034470199e5e62ccd8100a146267d546126509c29878d.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRMuTZPrA5UQMz4B1t1ticg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "dc4200cf874f1a37ae0034470199e5e62ccd8100a146267d546126509c29878d",
+          "format": "text/plain",
+          "textUrl": "/files/dc4200cf874f1a37ae0034470199e5e62ccd8100a146267d546126509c29878d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112085_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRMuTZPrA5UQMz4B1t1ticg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112085_1",
+    "tender": {
+      "id": "2026_NTPC_112085_1",
+      "title": "Procurement of Torque Hub Complete Assembly for Stg 1 Plough feeders ofCHP at FSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-03T00:00:00Z"
+      },
+      "description": "Procurement of Torque Hub Complete Assembly for Stg 1 Plough feeders ofCHP at FSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112085_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112085_1",
+        "url": "/files/dc4200cf874f1a37ae0034470199e5e62ccd8100a146267d546126509c29878d.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRMuTZPrA5UQMz4B1t1ticg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "dc4200cf874f1a37ae0034470199e5e62ccd8100a146267d546126509c29878d",
+        "format": "text/plain",
+        "textUrl": "/files/dc4200cf874f1a37ae0034470199e5e62ccd8100a146267d546126509c29878d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112085_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRMuTZPrA5UQMz4B1t1ticg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112085_1",
+      "observedAt": "2026-10-03T03:38:38Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "54a3bb0761722c3b3609c2f67a6527d0bc06ab5c4a2f2d4d01276e39ec48a160",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112085_1-0001-record",
+          "sha256": "dc4200cf874f1a37ae0034470199e5e62ccd8100a146267d546126509c29878d"
+        }
+      ],
+      "snapshotUrl": "/files/6d17b7df5f6dbc4a3434c66fca5d176999e31f7c7ee7781790063b34c74eb351.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-03T03:38:38Z",
+    "lastObserved": "2026-10-03T03:38:38Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
