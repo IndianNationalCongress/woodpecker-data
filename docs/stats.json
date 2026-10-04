@@ -1,25 +1,25 @@
 {
-  "generated": "2026-10-03T03:49:41Z",
-  "totalTenders": 329327,
+  "generated": "2026-10-04T03:04:06Z",
+  "totalTenders": 329468,
   "dateRange": {
     "from": "2012-03-09T00:00:00Z",
     "to": "2026-10-30T00:00:00Z"
   },
-  "totalValue": 2292475058718,
-  "withValue": 122663,
+  "totalValue": 2292748715455,
+  "withValue": 122761,
   "sources": 2076,
   "byCategory": {
     "works": {
-      "count": 147367,
-      "value": 1921756479852
+      "count": 147500,
+      "value": 1922021136589
     },
     "goods": {
-      "count": 35177,
-      "value": 180339094421
+      "count": 35181,
+      "value": 180340744421
     },
     "services": {
-      "count": 15519,
-      "value": 190379484445
+      "count": 15523,
+      "value": 190386834445
     },
     "other": {
       "count": 131264,
@@ -36,7 +36,7 @@
     {
       "id": "mes",
       "label": "Military Engineer Services",
-      "count": 30527,
+      "count": 30528,
       "value": 32360619767
     },
     {
@@ -48,8 +48,8 @@
     {
       "id": "coal-india",
       "label": "Coal India & subsidiaries",
-      "count": 17745,
-      "value": 13547043131
+      "count": 17748,
+      "value": 13554027547
     },
     {
       "id": "npcil",
@@ -72,8 +72,8 @@
     {
       "id": "org-pwd",
       "label": "Pwd",
-      "count": 8159,
-      "value": 34433986895
+      "count": 8179,
+      "value": 34498926179
     },
     {
       "id": "mod",
@@ -84,8 +84,8 @@
     {
       "id": "org-panchayati-raj-department",
       "label": "Panchayati Raj Department",
-      "count": 4758,
-      "value": 11150576445
+      "count": 4767,
+      "value": 11159276445
     },
     {
       "id": "hpcl",
@@ -102,8 +102,8 @@
     {
       "id": "org-haryana-government",
       "label": "Haryana Government",
-      "count": 4237,
-      "value": 38573718309
+      "count": 4238,
+      "value": 38575368309
     },
     {
       "id": "org-department-water-resources",
@@ -162,7 +162,7 @@
     {
       "id": "org-directorate-local-bodies-up",
       "label": "Directorate Local Bodies Up",
-      "count": 2228,
+      "count": 2259,
       "value": 5162120891
     },
     {
@@ -276,7 +276,7 @@
     {
       "id": "org-tneb",
       "label": "Tneb",
-      "count": 1051,
+      "count": 1053,
       "value": 404830131
     },
     {
@@ -294,8 +294,8 @@
     {
       "id": "org-dlb",
       "label": "Dlb",
-      "count": 998,
-      "value": 6191400274
+      "count": 999,
+      "value": 6193550274
     },
     {
       "id": "nhpc",
@@ -418,6 +418,12 @@
       "value": 12493236876
     },
     {
+      "id": "org-pwd-ce-as",
+      "label": "Pwd Ce As",
+      "count": 621,
+      "value": 3639821701
+    },
+    {
       "id": "org-aod-digboi",
       "label": "Aod Digboi",
       "count": 615,
@@ -446,12 +452,6 @@
       "label": "Eic Civil",
       "count": 583,
       "value": 8519519109
-    },
-    {
-      "id": "org-pwd-ce-as",
-      "label": "Pwd Ce As",
-      "count": 577,
-      "value": 3542164156
     },
     {
       "id": "org-gujarat-refinery",
@@ -840,7 +840,7 @@
     {
       "id": "org-department-agriculture-world-bank-tenders",
       "label": "Department Agriculture World Bank Tenders",
-      "count": 244,
+      "count": 245,
       "value": 254984836
     },
     {
@@ -1018,6 +1018,12 @@
       "value": 16376511151
     },
     {
+      "id": "org-deptt-watershed-dev-soil-conservation",
+      "label": "Deptt Watershed Dev Soil Conservation",
+      "count": 186,
+      "value": 1104209825
+    },
+    {
       "id": "org-fisheries-fishermen-welfare-department",
       "label": "Fisheries Fishermen Welfare Department",
       "count": 186,
@@ -1040,12 +1046,6 @@
       "label": "Wrpl Rajkot",
       "count": 184,
       "value": 0
-    },
-    {
-      "id": "org-deptt-watershed-dev-soil-conservation",
-      "label": "Deptt Watershed Dev Soil Conservation",
-      "count": 183,
-      "value": 1075421213
     },
     {
       "id": "org-ministry-road-transport-highways",
@@ -1128,7 +1128,7 @@
     {
       "id": "org-rdd-ceo-yavatmal",
       "label": "Rdd Ceo Yavatmal",
-      "count": 166,
+      "count": 167,
       "value": 56210932
     },
     {
@@ -1288,16 +1288,22 @@
       "value": 3450000
     },
     {
+      "id": "org-ministry-shipping",
+      "label": "Ministry Shipping",
+      "count": 135,
+      "value": 8254449466
+    },
+    {
       "id": "org-animal-husbandry-veterinary-department",
       "label": "Animal Husbandry Veterinary Department",
       "count": 134,
       "value": 1233304886
     },
     {
-      "id": "org-ministry-shipping",
-      "label": "Ministry Shipping",
+      "id": "org-forest-pccf",
+      "label": "Forest Pccf",
       "count": 134,
-      "value": 8252093635
+      "value": 383269400
     },
     {
       "id": "org-municipal-shimla",
@@ -1366,16 +1372,10 @@
       "value": 42888504
     },
     {
-      "id": "org-forest-pccf",
-      "label": "Forest Pccf",
-      "count": 124,
-      "value": 373016400
-    },
-    {
       "id": "org-phed-chief-engineer",
       "label": "Phed Chief Engineer",
-      "count": 124,
-      "value": 477040991
+      "count": 125,
+      "value": 481540991
     },
     {
       "id": "org-security-printing-minting",
@@ -1570,6 +1570,12 @@
       "value": 221332948
     },
     {
+      "id": "org-steel-industrials-kerala",
+      "label": "Steel Industrials Kerala",
+      "count": 107,
+      "value": 173943187
+    },
+    {
       "id": "org-chief-engineer-electrical-mechanical-pwd-lucknow",
       "label": "Chief Engineer Electrical Mechanical Pwd Lucknow",
       "count": 106,
@@ -1580,12 +1586,6 @@
       "label": "Department Pharmaceuticals",
       "count": 105,
       "value": 0
-    },
-    {
-      "id": "org-steel-industrials-kerala",
-      "label": "Steel Industrials Kerala",
-      "count": 105,
-      "value": 173627138
     },
     {
       "id": "org-energy-cee",
@@ -1872,7 +1872,7 @@
     {
       "id": "org-numaligarh-refinery",
       "label": "Numaligarh Refinery",
-      "count": 79,
+      "count": 80,
       "value": 0
     },
     {
@@ -2128,6 +2128,12 @@
       "value": 37343484
     },
     {
+      "id": "org-medical-health",
+      "label": "Medical Health",
+      "count": 63,
+      "value": 711777000
+    },
+    {
       "id": "org-chief-engineer-gorakhpur-zone-pwd-gorakhpur-up",
       "label": "Chief Engineer Gorakhpur Zone Pwd Gorakhpur Up",
       "count": 63,
@@ -2210,12 +2216,6 @@
       "label": "Bhartiya Rail Bijlee",
       "count": 59,
       "value": 38604509
-    },
-    {
-      "id": "org-medical-health",
-      "label": "Medical Health",
-      "count": 59,
-      "value": 706577000
     },
     {
       "id": "org-directorate-forests",
@@ -3418,6 +3418,12 @@
       "value": 325775366
     },
     {
+      "id": "org-rajasthan-council-school-education",
+      "label": "Rajasthan Council School Education",
+      "count": 26,
+      "value": 93283335
+    },
+    {
       "id": "org-directorate-information-technology",
       "label": "Directorate Information Technology",
       "count": 26,
@@ -3734,12 +3740,6 @@
       "label": "Jodhpur Development Authority",
       "count": 21,
       "value": 217168123
-    },
-    {
-      "id": "org-rajasthan-council-school-education",
-      "label": "Rajasthan Council School Education",
-      "count": 21,
-      "value": 53121335
     },
     {
       "id": "org-commisioner-excise",
@@ -12485,13 +12485,13 @@
     }
   ],
   "byValueBand": {
-    "lt1cr": 98680,
-    "1to10cr": 21087,
+    "lt1cr": 98772,
+    "1to10cr": 21093,
     "gt10cr": 2896,
-    "none": 206664
+    "none": 206707
   },
   "byStatus": {
-    "active": 143330,
+    "active": 143471,
     "completed": 8296,
     "cancelled": 4996,
     "unsuccessful": 542,
@@ -12620,9 +12620,9 @@
     "2026-05": 8240,
     "2026-06": 29581,
     "2026-07": 32737,
-    "2026-08": 28608,
-    "2026-09": 22463,
-    "2026-10": 67
+    "2026-08": 28610,
+    "2026-09": 22595,
+    "2026-10": 74
   },
   "byYear": {
     "2012": 15,
@@ -12639,7 +12639,7 @@
     "2023": 1,
     "2024": 2,
     "2025": 116,
-    "2026": 122958
+    "2026": 123099
   },
   "yearBuckets": {
     "2012": {
@@ -19300,21 +19300,21 @@
       }
     },
     "2026": {
-      "count": 122958,
-      "value": 1110293890693,
+      "count": 123099,
+      "value": 1110567547430,
       "archive": 0,
       "cat": {
         "works": [
-          94060,
-          869150610231
+          94193,
+          869415266968
         ],
         "goods": [
-          17766,
-          91024604065
+          17770,
+          91026254065
         ],
         "services": [
-          11021,
-          150118676397
+          11025,
+          150126026397
         ],
         "other": [
           111,
@@ -19322,9 +19322,9 @@
         ]
       },
       "band": {
-        "none": 32035,
-        "lt1cr": 81018,
-        "1to10cr": 8584,
+        "none": 32078,
+        "lt1cr": 81110,
+        "1to10cr": 8590,
         "gt10cr": 1321
       },
       "src": {
@@ -19721,8 +19721,8 @@
           1022676000
         ],
         "coal-india": [
-          4049,
-          13547043131
+          4052,
+          13554027547
         ],
         "org-central-mine-planning-design-institute": [
           39,
@@ -20417,8 +20417,8 @@
           31277029560
         ],
         "org-ministry-shipping": [
-          22,
-          8252093635
+          23,
+          8254449466
         ],
         "org-mygov": [
           1,
@@ -20601,7 +20601,7 @@
           1964886858
         ],
         "org-numaligarh-refinery": [
-          79,
+          80,
           0
         ],
         "org-national-institute-technology-silchar": [
@@ -20777,7 +20777,7 @@
           5422237807
         ],
         "mes": [
-          5077,
+          5078,
           32341594471
         ],
         "bro": [
@@ -21145,8 +21145,8 @@
           182868318
         ],
         "org-haryana-government": [
-          4237,
-          38573718309
+          4238,
+          38575368309
         ],
         "org-haryana-board": [
           1771,
@@ -21325,8 +21325,8 @@
           5140243
         ],
         "org-pwd": [
-          6081,
-          24252728208
+          6101,
+          24317667492
         ],
         "org-ropeway-rapid-transport-system-development": [
           10,
@@ -21857,8 +21857,8 @@
           0
         ],
         "org-steel-industrials-kerala": [
-          105,
-          173627138
+          107,
+          173943187
         ],
         "org-travancore-devaswom-board": [
           203,
@@ -22781,7 +22781,7 @@
           327827294
         ],
         "org-department-agriculture-world-bank-tenders": [
-          244,
+          245,
           254984836
         ],
         "org-rdd-ceo-aurangabad": [
@@ -22797,7 +22797,7 @@
           2697230730
         ],
         "org-rdd-ceo-yavatmal": [
-          166,
+          167,
           56210932
         ],
         "org-aurangabad-district-operative-milk-producers-union": [
@@ -24077,8 +24077,8 @@
           3834000
         ],
         "org-pwd-ce-as": [
-          577,
-          3542164156
+          621,
+          3639821701
         ],
         "org-child-rights-department": [
           2,
@@ -24105,8 +24105,8 @@
           0
         ],
         "org-dlb": [
-          998,
-          6191400274
+          999,
+          6193550274
         ],
         "org-department-minority-affairs": [
           5,
@@ -24153,8 +24153,8 @@
           20000000
         ],
         "org-forest-pccf": [
-          124,
-          373016400
+          134,
+          383269400
         ],
         "org-govind-guru-tribal-university-banswara": [
           1,
@@ -24221,8 +24221,8 @@
           4500000
         ],
         "org-medical-health": [
-          59,
-          706577000
+          63,
+          711777000
         ],
         "org-maharaja-ganga-singh-university-bikaner": [
           2,
@@ -24249,16 +24249,16 @@
           175118000
         ],
         "org-phed-chief-engineer": [
-          124,
-          477040991
+          125,
+          481540991
         ],
         "org-phed-c-e": [
           42,
           104713423
         ],
         "org-panchayati-raj-department": [
-          4758,
-          11150576445
+          4767,
+          11159276445
         ],
         "org-rajasthan-state-archives-department-bikaner": [
           1,
@@ -24289,8 +24289,8 @@
           541700655
         ],
         "org-rajasthan-council-school-education": [
-          21,
-          53121335
+          26,
+          93283335
         ],
         "org-rajasthan-grameen-aajeevika-vikas-parishad": [
           3,
@@ -24505,8 +24505,8 @@
           2300000
         ],
         "org-deptt-watershed-dev-soil-conservation": [
-          183,
-          1075421213
+          186,
+          1104209825
         ],
         "org-women-empowerment": [
           7,
@@ -24629,7 +24629,7 @@
           0
         ],
         "org-tneb": [
-          1050,
+          1052,
           403390131
         ],
         "org-elcot": [
@@ -25501,7 +25501,7 @@
           0
         ],
         "org-directorate-local-bodies-up": [
-          2228,
+          2259,
           5162120891
         ],
         "org-up-power-transmission": [
