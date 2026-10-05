@@ -1,0 +1,118 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_791444_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_791444_1",
+      "id": "woodpecker-defence-2026_MES_791444_1-0001",
+      "date": "2026-09-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 864 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_791444_1",
+        "title": "JOB ORDER FOR SMOOTH FUNCTIONING OF VEHICLE BOLERO BA NO 17D 104749K",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 864 EWS - MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 47700,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-05T00:00:00Z"
+        },
+        "description": "JOB ORDER FOR SMOOTH FUNCTIONING OF VEHICLE BOLERO BA NO 17D 104749K"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_791444_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_791444_1",
+          "url": "/files/91eaf12bb1966786fc4545923cba2ad678870361e28fb845e4354bbab1b3b4e8.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Su2lZf4zrzvh%2FpuvyuNdPoA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "91eaf12bb1966786fc4545923cba2ad678870361e28fb845e4354bbab1b3b4e8",
+          "format": "text/plain",
+          "textUrl": "/files/91eaf12bb1966786fc4545923cba2ad678870361e28fb845e4354bbab1b3b4e8.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_791444_1",
+    "tender": {
+      "id": "2026_MES_791444_1",
+      "title": "JOB ORDER FOR SMOOTH FUNCTIONING OF VEHICLE BOLERO BA NO 17D 104749K",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 864 EWS - MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 47700,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-05T00:00:00Z"
+      },
+      "description": "JOB ORDER FOR SMOOTH FUNCTIONING OF VEHICLE BOLERO BA NO 17D 104749K"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE NC AND CE 31 ZONE - MES||133 WORKS ENGINEER - MES||GE 864 EWS - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-09-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_791444_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_791444_1",
+        "url": "/files/91eaf12bb1966786fc4545923cba2ad678870361e28fb845e4354bbab1b3b4e8.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Su2lZf4zrzvh%2FpuvyuNdPoA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "91eaf12bb1966786fc4545923cba2ad678870361e28fb845e4354bbab1b3b4e8",
+        "format": "text/plain",
+        "textUrl": "/files/91eaf12bb1966786fc4545923cba2ad678870361e28fb845e4354bbab1b3b4e8.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_791444_1",
+      "observedAt": "2026-10-05T03:16:34Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "23b64e17f0c5b7257b0a41c82fa8eb093cc783242fe4670d875b530a62cf73a6",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_791444_1-0001-record",
+          "sha256": "91eaf12bb1966786fc4545923cba2ad678870361e28fb845e4354bbab1b3b4e8"
+        }
+      ],
+      "snapshotUrl": "/files/292f2f26088785d9ea6d8336ee4a8940d1e17e249a667ddc8afbfdddd18043ed.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-05T03:16:34Z",
+    "lastObserved": "2026-10-05T03:16:34Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

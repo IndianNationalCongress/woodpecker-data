@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-maharashtra-2026_MCGM_1341477_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-maharashtra-2026_MCGM_1341477_1",
+      "id": "woodpecker-maharashtra-2026_MCGM_1341477_1-0001",
+      "date": "2026-09-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Municipal Corporation of Greater Mumbai||N Ward||Maintenance Department",
+        "id": "IN-ORG-municipal-corporation-of-greater-mumbai-"
+      },
+      "tender": {
+        "id": "2026_MCGM_1341477_1",
+        "title": "Construction of Shed B123",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Municipal Corporation of Greater Mumbai||N Ward||Maintenance Department",
+          "id": "IN-ORG-municipal-corporation-of-greater-mumbai-"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-10-05T00:00:00Z"
+        },
+        "description": "Construction of Shed B123"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-maharashtra-2026_MCGM_1341477_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MCGM_1341477_1",
+          "url": "/files/095c33991f2ec7be09140ed421d88e458645c47c7940e611c690ed5f5e8c6576.txt",
+          "sourceUrl": "https://mahatenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sbl21iPh2AaJfBcXoOzIQnQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "095c33991f2ec7be09140ed421d88e458645c47c7940e611c690ed5f5e8c6576",
+          "format": "text/plain",
+          "textUrl": "/files/095c33991f2ec7be09140ed421d88e458645c47c7940e611c690ed5f5e8c6576.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-maharashtra-2026_MCGM_1341477_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://mahatenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sbl21iPh2AaJfBcXoOzIQnQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-maharashtra-2026_MCGM_1341477_1",
+    "tender": {
+      "id": "2026_MCGM_1341477_1",
+      "title": "Construction of Shed B123",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Municipal Corporation of Greater Mumbai||N Ward||Maintenance Department",
+        "id": "IN-ORG-municipal-corporation-of-greater-mumbai-"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-10-05T00:00:00Z"
+      },
+      "description": "Construction of Shed B123"
+    },
+    "buyer": {
+      "name": "Municipal Corporation of Greater Mumbai||N Ward||Maintenance Department",
+      "id": "IN-ORG-municipal-corporation-of-greater-mumbai-"
+    },
+    "date": "2026-09-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-maharashtra-2026_MCGM_1341477_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MCGM_1341477_1",
+        "url": "/files/095c33991f2ec7be09140ed421d88e458645c47c7940e611c690ed5f5e8c6576.txt",
+        "sourceUrl": "https://mahatenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sbl21iPh2AaJfBcXoOzIQnQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "095c33991f2ec7be09140ed421d88e458645c47c7940e611c690ed5f5e8c6576",
+        "format": "text/plain",
+        "textUrl": "/files/095c33991f2ec7be09140ed421d88e458645c47c7940e611c690ed5f5e8c6576.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-maharashtra-2026_MCGM_1341477_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://mahatenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sbl21iPh2AaJfBcXoOzIQnQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-maharashtra-2026_MCGM_1341477_1",
+      "observedAt": "2026-10-05T02:27:09Z",
+      "witness": "woodpecker:maharashtra",
+      "availability": "present",
+      "stateHash": "bc64641a6c89bf9c7d8eb7a4e483b1774ac7fbe9f85626eafb03ecff761e616d",
+      "documents": [
+        {
+          "id": "woodpecker-maharashtra-2026_MCGM_1341477_1-0001-record",
+          "sha256": "095c33991f2ec7be09140ed421d88e458645c47c7940e611c690ed5f5e8c6576"
+        }
+      ],
+      "snapshotUrl": "/files/a406372069a01518ca5e1a0ab1c501b5af4b502683990267c2db12d82c0a4e7c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-05T02:27:09Z",
+    "lastObserved": "2026-10-05T02:27:09Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

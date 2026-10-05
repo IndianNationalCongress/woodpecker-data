@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_ERBBS_191502_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERBBS_191502_1",
+      "id": "woodpecker-iocl-2026_ERBBS_191502_1-0001",
+      "date": "2026-09-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Pipelines||PRRPL, Bhubaneswar||Technical Services",
+        "id": "IN-ORG-indianoil-pipelines-prrpl-bhubaneswar-te"
+      },
+      "tender": {
+        "id": "2026_ERBBS_191502_1",
+        "title": "Repair and maintenance work of civil structures in PHPL Vizag",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Pipelines||PRRPL, Bhubaneswar||Technical Services",
+          "id": "IN-ORG-indianoil-pipelines-prrpl-bhubaneswar-te"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-10-05T00:00:00Z"
+        },
+        "description": "Repair and maintenance work of civil structures in PHPL Vizag"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERBBS_191502_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ERBBS_191502_1",
+          "url": "/files/b73ee5a600498d00b135354b6bb233da773343204a08c894b4c588b0551697d3.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShnKkyVyToTI058YjMdJa7w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b73ee5a600498d00b135354b6bb233da773343204a08c894b4c588b0551697d3",
+          "format": "text/plain",
+          "textUrl": "/files/b73ee5a600498d00b135354b6bb233da773343204a08c894b4c588b0551697d3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_ERBBS_191502_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShnKkyVyToTI058YjMdJa7w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_ERBBS_191502_1",
+    "tender": {
+      "id": "2026_ERBBS_191502_1",
+      "title": "Repair and maintenance work of civil structures in PHPL Vizag",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Pipelines||PRRPL, Bhubaneswar||Technical Services",
+        "id": "IN-ORG-indianoil-pipelines-prrpl-bhubaneswar-te"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-10-05T00:00:00Z"
+      },
+      "description": "Repair and maintenance work of civil structures in PHPL Vizag"
+    },
+    "buyer": {
+      "name": "IndianOil||Pipelines||PRRPL, Bhubaneswar||Technical Services",
+      "id": "IN-ORG-indianoil-pipelines-prrpl-bhubaneswar-te"
+    },
+    "date": "2026-09-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_ERBBS_191502_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ERBBS_191502_1",
+        "url": "/files/b73ee5a600498d00b135354b6bb233da773343204a08c894b4c588b0551697d3.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShnKkyVyToTI058YjMdJa7w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b73ee5a600498d00b135354b6bb233da773343204a08c894b4c588b0551697d3",
+        "format": "text/plain",
+        "textUrl": "/files/b73ee5a600498d00b135354b6bb233da773343204a08c894b4c588b0551697d3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_ERBBS_191502_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShnKkyVyToTI058YjMdJa7w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERBBS_191502_1",
+      "observedAt": "2026-10-05T04:08:48Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "925d26d5e6d289e79702568781c4a3e406f70e43c0c1860a6c3e85315c289171",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERBBS_191502_1-0001-record",
+          "sha256": "b73ee5a600498d00b135354b6bb233da773343204a08c894b4c588b0551697d3"
+        }
+      ],
+      "snapshotUrl": "/files/dcaef68f792210f8cbf367f036a0ca4520f333fed56fad44a6c781b9e73f2039.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-05T04:08:48Z",
+    "lastObserved": "2026-10-05T04:08:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
