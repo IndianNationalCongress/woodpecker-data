@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112296_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112296_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112296_1-0001",
+      "date": "2026-09-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112296_1",
+        "title": "PROCUMRENT OF LIMITORQUE MAKE ACTUATOR SPARES AT NTPC LARA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-06T00:00:00Z"
+        },
+        "description": "PROCUMRENT OF LIMITORQUE MAKE ACTUATOR SPARES AT NTPC LARA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112296_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112296_1",
+          "url": "/files/98a33985da6d8e2161f44cd83c975c6e8530763319501429e60ed03b88882611.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCeyq40xqUP6UYT1pOCKYvg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "98a33985da6d8e2161f44cd83c975c6e8530763319501429e60ed03b88882611",
+          "format": "text/plain",
+          "textUrl": "/files/98a33985da6d8e2161f44cd83c975c6e8530763319501429e60ed03b88882611.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112296_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCeyq40xqUP6UYT1pOCKYvg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112296_1",
+    "tender": {
+      "id": "2026_NTPC_112296_1",
+      "title": "PROCUMRENT OF LIMITORQUE MAKE ACTUATOR SPARES AT NTPC LARA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-06T00:00:00Z"
+      },
+      "description": "PROCUMRENT OF LIMITORQUE MAKE ACTUATOR SPARES AT NTPC LARA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112296_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112296_1",
+        "url": "/files/98a33985da6d8e2161f44cd83c975c6e8530763319501429e60ed03b88882611.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCeyq40xqUP6UYT1pOCKYvg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "98a33985da6d8e2161f44cd83c975c6e8530763319501429e60ed03b88882611",
+        "format": "text/plain",
+        "textUrl": "/files/98a33985da6d8e2161f44cd83c975c6e8530763319501429e60ed03b88882611.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112296_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCeyq40xqUP6UYT1pOCKYvg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112296_1",
+      "observedAt": "2026-10-06T04:40:12Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "6b11e912dec488349d4397ede13d9f5cd18744ca696887e2823ba78380136e34",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112296_1-0001-record",
+          "sha256": "98a33985da6d8e2161f44cd83c975c6e8530763319501429e60ed03b88882611"
+        }
+      ],
+      "snapshotUrl": "/files/6d2317d29e886ae0005811adc8a7b2daaa07d8f94bce6c90eda59150afd1fd29.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-06T04:40:12Z",
+    "lastObserved": "2026-10-06T04:40:12Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

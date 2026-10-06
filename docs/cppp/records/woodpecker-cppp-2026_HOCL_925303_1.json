@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_HOCL_925303_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_HOCL_925303_1",
+      "id": "woodpecker-cppp-2026_HOCL_925303_1-0001",
+      "date": "2026-09-08T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Hindustan Organic Chemicals Limited||Electrical Department - HOCL",
+        "id": "IN-ORG-hindustan-organic-chemicals-limited-elec"
+      },
+      "tender": {
+        "id": "2026_HOCL_925303_1",
+        "title": "AMC OF TOWNSHIP ELECTRICAL SYSTEMS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Hindustan Organic Chemicals Limited||Electrical Department - HOCL",
+          "id": "IN-ORG-hindustan-organic-chemicals-limited-elec"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-06T00:00:00Z"
+        },
+        "description": "AMC OF TOWNSHIP ELECTRICAL SYSTEMS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_HOCL_925303_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HOCL_925303_1",
+          "url": "/files/492b74740deadcd19bb50de093cb39ce327cef98695b64d50453031b20b44f21.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIlyG37LRAvvNoFKJBHTstQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "492b74740deadcd19bb50de093cb39ce327cef98695b64d50453031b20b44f21",
+          "format": "text/plain",
+          "textUrl": "/files/492b74740deadcd19bb50de093cb39ce327cef98695b64d50453031b20b44f21.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_HOCL_925303_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIlyG37LRAvvNoFKJBHTstQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_HOCL_925303_1",
+    "tender": {
+      "id": "2026_HOCL_925303_1",
+      "title": "AMC OF TOWNSHIP ELECTRICAL SYSTEMS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Hindustan Organic Chemicals Limited||Electrical Department - HOCL",
+        "id": "IN-ORG-hindustan-organic-chemicals-limited-elec"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-06T00:00:00Z"
+      },
+      "description": "AMC OF TOWNSHIP ELECTRICAL SYSTEMS"
+    },
+    "buyer": {
+      "name": "Hindustan Organic Chemicals Limited||Electrical Department - HOCL",
+      "id": "IN-ORG-hindustan-organic-chemicals-limited-elec"
+    },
+    "date": "2026-09-08T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_HOCL_925303_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HOCL_925303_1",
+        "url": "/files/492b74740deadcd19bb50de093cb39ce327cef98695b64d50453031b20b44f21.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIlyG37LRAvvNoFKJBHTstQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "492b74740deadcd19bb50de093cb39ce327cef98695b64d50453031b20b44f21",
+        "format": "text/plain",
+        "textUrl": "/files/492b74740deadcd19bb50de093cb39ce327cef98695b64d50453031b20b44f21.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_HOCL_925303_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SIlyG37LRAvvNoFKJBHTstQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_HOCL_925303_1",
+      "observedAt": "2026-10-06T03:19:04Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "b8f2e628e44843a29fac1384960e9b3417d9836f2556dd9f885d825ebf4d20b1",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_HOCL_925303_1-0001-record",
+          "sha256": "492b74740deadcd19bb50de093cb39ce327cef98695b64d50453031b20b44f21"
+        }
+      ],
+      "snapshotUrl": "/files/e48c0d1002ba79463ce8660d9bd3331fe83bbc1c0f4d50dab630f6dc09fdf04b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-06T03:19:04Z",
+    "lastObserved": "2026-10-06T03:19:04Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

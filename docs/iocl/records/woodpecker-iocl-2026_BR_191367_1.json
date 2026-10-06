@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_BR_191367_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_BR_191367_1",
+      "id": "woodpecker-iocl-2026_BR_191367_1-0001",
+      "date": "2026-09-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Barauni Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-barauni-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_BR_191367_1",
+        "title": "Procurement of DHDT Off-Gas (DOG) PSA adsorbent at IOCL Barauni Refinery.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Barauni Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-barauni-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-06T00:00:00Z"
+        },
+        "description": "Procurement of DHDT Off-Gas (DOG) PSA adsorbent at IOCL Barauni Refinery."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_BR_191367_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BR_191367_1",
+          "url": "/files/434254f279ce0db98c44a01b619b67ab899c76d9907e05e54dee04fd9d0f3ee4.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BhyfxGJAH8mCvlvl73C5ng%3D%3D",
+          "sourceAlive": true,
+          "sha256": "434254f279ce0db98c44a01b619b67ab899c76d9907e05e54dee04fd9d0f3ee4",
+          "format": "text/plain",
+          "textUrl": "/files/434254f279ce0db98c44a01b619b67ab899c76d9907e05e54dee04fd9d0f3ee4.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_BR_191367_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BhyfxGJAH8mCvlvl73C5ng%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_BR_191367_1",
+    "tender": {
+      "id": "2026_BR_191367_1",
+      "title": "Procurement of DHDT Off-Gas (DOG) PSA adsorbent at IOCL Barauni Refinery.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Barauni Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-barauni-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-06T00:00:00Z"
+      },
+      "description": "Procurement of DHDT Off-Gas (DOG) PSA adsorbent at IOCL Barauni Refinery."
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Barauni Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-barauni-refinery-ma"
+    },
+    "date": "2026-09-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_BR_191367_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BR_191367_1",
+        "url": "/files/434254f279ce0db98c44a01b619b67ab899c76d9907e05e54dee04fd9d0f3ee4.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BhyfxGJAH8mCvlvl73C5ng%3D%3D",
+        "sourceAlive": true,
+        "sha256": "434254f279ce0db98c44a01b619b67ab899c76d9907e05e54dee04fd9d0f3ee4",
+        "format": "text/plain",
+        "textUrl": "/files/434254f279ce0db98c44a01b619b67ab899c76d9907e05e54dee04fd9d0f3ee4.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_BR_191367_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BhyfxGJAH8mCvlvl73C5ng%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_BR_191367_1",
+      "observedAt": "2026-10-06T04:49:23Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "7b62f1228b3d02a36cdde34ce97d2a07b9f175befaf711e2ed1a75ffa6390d44",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_BR_191367_1-0001-record",
+          "sha256": "434254f279ce0db98c44a01b619b67ab899c76d9907e05e54dee04fd9d0f3ee4"
+        }
+      ],
+      "snapshotUrl": "/files/2f336f141008dfa847c0dc287bcc304159f25f49808cc8714567870d513d71aa.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-06T04:49:23Z",
+    "lastObserved": "2026-10-06T04:49:23Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
