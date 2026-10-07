@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_PDR_191442_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_PDR_191442_1",
+      "id": "woodpecker-iocl-2026_PDR_191442_1-0001",
+      "date": "2026-09-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Paradip Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-paradip-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_PDR_191442_1",
+        "title": "Procurement of TEL-B for IOCL Paradip Refinery",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Paradip Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-paradip-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-07T00:00:00Z"
+        },
+        "description": "Procurement of TEL-B for IOCL Paradip Refinery"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PDR_191442_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PDR_191442_1",
+          "url": "/files/9b66b4272dcbb6af95cfa354541360e4d18d90728334c13062128869df673149.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0WoNPRCJ4CSfkaVcDHojbg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9b66b4272dcbb6af95cfa354541360e4d18d90728334c13062128869df673149",
+          "format": "text/plain",
+          "textUrl": "/files/9b66b4272dcbb6af95cfa354541360e4d18d90728334c13062128869df673149.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_PDR_191442_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0WoNPRCJ4CSfkaVcDHojbg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_PDR_191442_1",
+    "tender": {
+      "id": "2026_PDR_191442_1",
+      "title": "Procurement of TEL-B for IOCL Paradip Refinery",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Paradip Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-paradip-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-07T00:00:00Z"
+      },
+      "description": "Procurement of TEL-B for IOCL Paradip Refinery"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Paradip Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-paradip-refinery-ma"
+    },
+    "date": "2026-09-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_PDR_191442_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PDR_191442_1",
+        "url": "/files/9b66b4272dcbb6af95cfa354541360e4d18d90728334c13062128869df673149.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0WoNPRCJ4CSfkaVcDHojbg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9b66b4272dcbb6af95cfa354541360e4d18d90728334c13062128869df673149",
+        "format": "text/plain",
+        "textUrl": "/files/9b66b4272dcbb6af95cfa354541360e4d18d90728334c13062128869df673149.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_PDR_191442_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0WoNPRCJ4CSfkaVcDHojbg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_PDR_191442_1",
+      "observedAt": "2026-10-07T04:25:21Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "ac9a006783ef05871af117597065053cd5dea0b1ff06187bd4bb33a68ba7622a",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PDR_191442_1-0001-record",
+          "sha256": "9b66b4272dcbb6af95cfa354541360e4d18d90728334c13062128869df673149"
+        }
+      ],
+      "snapshotUrl": "/files/766d1f5ab851b5b4af0926f85d7a7558d9f88e43e168821efebd4fc342212d72.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-07T04:25:21Z",
+    "lastObserved": "2026-10-07T04:25:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
