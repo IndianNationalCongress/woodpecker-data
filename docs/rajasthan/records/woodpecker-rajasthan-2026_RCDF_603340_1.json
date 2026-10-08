@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_RCDF_603340_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_RCDF_603340_1",
+      "id": "woodpecker-rajasthan-2026_RCDF_603340_1-0001",
+      "date": "2026-10-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "RCDF- MD||Cattle Feed Plant-Ajmer",
+        "id": "IN-ORG-rcdf-md-cattle-feed-plant-ajmer"
+      },
+      "tender": {
+        "id": "2026_RCDF_603340_1",
+        "title": "EMERGENCY PURCHASE OF DOMC",
+        "status": "active",
+        "procuringEntity": {
+          "name": "RCDF- MD||Cattle Feed Plant-Ajmer",
+          "id": "IN-ORG-rcdf-md-cattle-feed-plant-ajmer"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 4800000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-08T00:00:00Z"
+        },
+        "description": "EMERGENCY PURCHASE OF DOMC"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_RCDF_603340_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_RCDF_603340_1",
+          "url": "/files/9a44c7812260934698b1a2cd08f62fe0b36f91804240cdf2e9ce76d69f153208.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sa2oUD9omTdBfT7sPj8BfSQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9a44c7812260934698b1a2cd08f62fe0b36f91804240cdf2e9ce76d69f153208",
+          "format": "text/plain",
+          "textUrl": "/files/9a44c7812260934698b1a2cd08f62fe0b36f91804240cdf2e9ce76d69f153208.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_RCDF_603340_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sa2oUD9omTdBfT7sPj8BfSQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_RCDF_603340_1",
+    "tender": {
+      "id": "2026_RCDF_603340_1",
+      "title": "EMERGENCY PURCHASE OF DOMC",
+      "status": "active",
+      "procuringEntity": {
+        "name": "RCDF- MD||Cattle Feed Plant-Ajmer",
+        "id": "IN-ORG-rcdf-md-cattle-feed-plant-ajmer"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 4800000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-08T00:00:00Z"
+      },
+      "description": "EMERGENCY PURCHASE OF DOMC"
+    },
+    "buyer": {
+      "name": "RCDF- MD||Cattle Feed Plant-Ajmer",
+      "id": "IN-ORG-rcdf-md-cattle-feed-plant-ajmer"
+    },
+    "date": "2026-10-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_RCDF_603340_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_RCDF_603340_1",
+        "url": "/files/9a44c7812260934698b1a2cd08f62fe0b36f91804240cdf2e9ce76d69f153208.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sa2oUD9omTdBfT7sPj8BfSQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9a44c7812260934698b1a2cd08f62fe0b36f91804240cdf2e9ce76d69f153208",
+        "format": "text/plain",
+        "textUrl": "/files/9a44c7812260934698b1a2cd08f62fe0b36f91804240cdf2e9ce76d69f153208.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_RCDF_603340_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sa2oUD9omTdBfT7sPj8BfSQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_RCDF_603340_1",
+      "observedAt": "2026-10-08T04:24:30Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "b0a35c239d0d437b48db9d3703420146bc7d57d8d52a0e60d5a92d94bb6f0e4e",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_RCDF_603340_1-0001-record",
+          "sha256": "9a44c7812260934698b1a2cd08f62fe0b36f91804240cdf2e9ce76d69f153208"
+        }
+      ],
+      "snapshotUrl": "/files/156f7d23c54e9907aae81a2b7572478239cac84a3b0c4a8cb5f0b6adb49809b1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-08T04:24:30Z",
+    "lastObserved": "2026-10-08T04:24:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

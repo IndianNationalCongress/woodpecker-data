@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_HR_191623_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_HR_191623_1",
+      "id": "woodpecker-iocl-2026_HR_191623_1-0001",
+      "date": "2026-10-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+      },
+      "tender": {
+        "id": "2026_HR_191623_1",
+        "title": "Procurement of Spares of M/s Ruhrpumpen Gmbh make Hoist system and coke cutting system",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-08T00:00:00Z"
+        },
+        "description": "Procurement of Spares of M/s Ruhrpumpen Gmbh make Hoist system and coke cutting system"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_HR_191623_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HR_191623_1",
+          "url": "/files/286b04226ea45bcbe0e1faeebd4b33d2983f294ef53ae4a303f366cf154fd611.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SkzDPhzFGj8bOIrKHpESwAA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "286b04226ea45bcbe0e1faeebd4b33d2983f294ef53ae4a303f366cf154fd611",
+          "format": "text/plain",
+          "textUrl": "/files/286b04226ea45bcbe0e1faeebd4b33d2983f294ef53ae4a303f366cf154fd611.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_HR_191623_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SkzDPhzFGj8bOIrKHpESwAA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_HR_191623_1",
+    "tender": {
+      "id": "2026_HR_191623_1",
+      "title": "Procurement of Spares of M/s Ruhrpumpen Gmbh make Hoist system and coke cutting system",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-08T00:00:00Z"
+      },
+      "description": "Procurement of Spares of M/s Ruhrpumpen Gmbh make Hoist system and coke cutting system"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+    },
+    "date": "2026-10-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_HR_191623_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HR_191623_1",
+        "url": "/files/286b04226ea45bcbe0e1faeebd4b33d2983f294ef53ae4a303f366cf154fd611.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SkzDPhzFGj8bOIrKHpESwAA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "286b04226ea45bcbe0e1faeebd4b33d2983f294ef53ae4a303f366cf154fd611",
+        "format": "text/plain",
+        "textUrl": "/files/286b04226ea45bcbe0e1faeebd4b33d2983f294ef53ae4a303f366cf154fd611.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_HR_191623_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SkzDPhzFGj8bOIrKHpESwAA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_HR_191623_1",
+      "observedAt": "2026-10-08T04:38:48Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "491e9ce445693349d6718a8d0b06af3c60326439577643fb90614a88a044b591",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_HR_191623_1-0001-record",
+          "sha256": "286b04226ea45bcbe0e1faeebd4b33d2983f294ef53ae4a303f366cf154fd611"
+        }
+      ],
+      "snapshotUrl": "/files/8febbb09a0540434e9edd3441b20cbedc8e1e9249508a8601d6a8105f7827972.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-08T04:38:48Z",
+    "lastObserved": "2026-10-08T04:38:48Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

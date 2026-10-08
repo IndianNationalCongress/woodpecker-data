@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DSTBR_602112_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DSTBR_602112_1",
+      "id": "woodpecker-rajasthan-2026_DSTBR_602112_1-0001",
+      "date": "2026-09-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DISTRICT COLLECTOR BARAN||COLLECTOR",
+        "id": "IN-ORG-district-collector-baran-collector"
+      },
+      "tender": {
+        "id": "2026_DSTBR_602112_1",
+        "title": "TENT ARRANGEMENTS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DISTRICT COLLECTOR BARAN||COLLECTOR",
+          "id": "IN-ORG-district-collector-baran-collector"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 500000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-08T00:00:00Z"
+        },
+        "description": "TENT ARRANGEMENTS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DSTBR_602112_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DSTBR_602112_1",
+          "url": "/files/ce05900761ee70ac76f13ede88b9040c82a7264722397f4ddfe8bad4ce6e8295.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCQLMC86IUUrbp97eya5zMw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ce05900761ee70ac76f13ede88b9040c82a7264722397f4ddfe8bad4ce6e8295",
+          "format": "text/plain",
+          "textUrl": "/files/ce05900761ee70ac76f13ede88b9040c82a7264722397f4ddfe8bad4ce6e8295.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DSTBR_602112_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCQLMC86IUUrbp97eya5zMw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DSTBR_602112_1",
+    "tender": {
+      "id": "2026_DSTBR_602112_1",
+      "title": "TENT ARRANGEMENTS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DISTRICT COLLECTOR BARAN||COLLECTOR",
+        "id": "IN-ORG-district-collector-baran-collector"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 500000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-08T00:00:00Z"
+      },
+      "description": "TENT ARRANGEMENTS"
+    },
+    "buyer": {
+      "name": "DISTRICT COLLECTOR BARAN||COLLECTOR",
+      "id": "IN-ORG-district-collector-baran-collector"
+    },
+    "date": "2026-09-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DSTBR_602112_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DSTBR_602112_1",
+        "url": "/files/ce05900761ee70ac76f13ede88b9040c82a7264722397f4ddfe8bad4ce6e8295.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCQLMC86IUUrbp97eya5zMw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ce05900761ee70ac76f13ede88b9040c82a7264722397f4ddfe8bad4ce6e8295",
+        "format": "text/plain",
+        "textUrl": "/files/ce05900761ee70ac76f13ede88b9040c82a7264722397f4ddfe8bad4ce6e8295.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DSTBR_602112_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCQLMC86IUUrbp97eya5zMw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DSTBR_602112_1",
+      "observedAt": "2026-10-08T04:24:30Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "7d65a7a6f172eb505ef476cb34d08ec8f324233da59fcca4e5035acec3d61659",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DSTBR_602112_1-0001-record",
+          "sha256": "ce05900761ee70ac76f13ede88b9040c82a7264722397f4ddfe8bad4ce6e8295"
+        }
+      ],
+      "snapshotUrl": "/files/458f79cf9546a7d6ec49a3529dd406c19243244b048c61708ed854d926ea8d09.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-08T04:24:30Z",
+    "lastObserved": "2026-10-08T04:24:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
