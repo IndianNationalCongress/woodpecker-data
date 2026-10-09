@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_REFHQ_191498_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_191498_1",
+      "id": "woodpecker-iocl-2026_REFHQ_191498_1-0001",
+      "date": "2026-09-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Refineries HQ||Contracts",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-contr"
+      },
+      "tender": {
+        "id": "2026_REFHQ_191498_1",
+        "title": "SAP Max Attention Services of SAP Premium Engagement from Ms SAP India Pvt Ltd",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Refineries HQ||Contracts",
+          "id": "IN-ORG-indianoil-refineries-refineries-hq-contr"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-09T00:00:00Z"
+        },
+        "description": "SAP Max Attention Services of SAP Premium Engagement from Ms SAP India Pvt Ltd"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_191498_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_REFHQ_191498_1",
+          "url": "/files/f734d08460294bbd3f2a70f3f7f12dc0c389f5270fe758a384c3d0f83810ef78.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLv9IlIK7e0BCg3ualVmuJQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f734d08460294bbd3f2a70f3f7f12dc0c389f5270fe758a384c3d0f83810ef78",
+          "format": "text/plain",
+          "textUrl": "/files/f734d08460294bbd3f2a70f3f7f12dc0c389f5270fe758a384c3d0f83810ef78.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_191498_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLv9IlIK7e0BCg3ualVmuJQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_REFHQ_191498_1",
+    "tender": {
+      "id": "2026_REFHQ_191498_1",
+      "title": "SAP Max Attention Services of SAP Premium Engagement from Ms SAP India Pvt Ltd",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Refineries HQ||Contracts",
+        "id": "IN-ORG-indianoil-refineries-refineries-hq-contr"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-09T00:00:00Z"
+      },
+      "description": "SAP Max Attention Services of SAP Premium Engagement from Ms SAP India Pvt Ltd"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Refineries HQ||Contracts",
+      "id": "IN-ORG-indianoil-refineries-refineries-hq-contr"
+    },
+    "date": "2026-09-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_191498_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_REFHQ_191498_1",
+        "url": "/files/f734d08460294bbd3f2a70f3f7f12dc0c389f5270fe758a384c3d0f83810ef78.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLv9IlIK7e0BCg3ualVmuJQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f734d08460294bbd3f2a70f3f7f12dc0c389f5270fe758a384c3d0f83810ef78",
+        "format": "text/plain",
+        "textUrl": "/files/f734d08460294bbd3f2a70f3f7f12dc0c389f5270fe758a384c3d0f83810ef78.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_REFHQ_191498_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLv9IlIK7e0BCg3ualVmuJQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_REFHQ_191498_1",
+      "observedAt": "2026-10-09T04:38:14Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "84183439ce84327c177fc0569ef49806515dcee81e2146d12db4490e0cb30e29",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_REFHQ_191498_1-0001-record",
+          "sha256": "f734d08460294bbd3f2a70f3f7f12dc0c389f5270fe758a384c3d0f83810ef78"
+        }
+      ],
+      "snapshotUrl": "/files/a9c53febe5a08bb4ad1a3cc81fd5205af1a833f52d7b598537dd7728840259f5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-09T04:38:14Z",
+    "lastObserved": "2026-10-09T04:38:14Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

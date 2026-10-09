@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_FORES_602908_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_FORES_602908_1",
+      "id": "woodpecker-rajasthan-2026_FORES_602908_1-0001",
+      "date": "2026-10-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Forest - PCCF (HoFF)||APCCF-Development||CCF-AJMER||DCF-AJMER",
+        "id": "IN-ORG-forest-pccf-hoff-apccf-development-ccf-a"
+      },
+      "tender": {
+        "id": "2026_FORES_602908_1",
+        "title": "Advance work Kanas B",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Forest - PCCF (HoFF)||APCCF-Development||CCF-AJMER||DCF-AJMER",
+          "id": "IN-ORG-forest-pccf-hoff-apccf-development-ccf-a"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 523900,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-09T00:00:00Z"
+        },
+        "description": "Advance work Kanas B"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_FORES_602908_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_FORES_602908_1",
+          "url": "/files/e5a2b8c7b2c6e8e152ac954d33a1395e4d631172bc05b53a5adbe183ae57730b.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SV%2B3NK6Zqwy8y16NAyBXLgg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e5a2b8c7b2c6e8e152ac954d33a1395e4d631172bc05b53a5adbe183ae57730b",
+          "format": "text/plain",
+          "textUrl": "/files/e5a2b8c7b2c6e8e152ac954d33a1395e4d631172bc05b53a5adbe183ae57730b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_FORES_602908_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SV%2B3NK6Zqwy8y16NAyBXLgg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_FORES_602908_1",
+    "tender": {
+      "id": "2026_FORES_602908_1",
+      "title": "Advance work Kanas B",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Forest - PCCF (HoFF)||APCCF-Development||CCF-AJMER||DCF-AJMER",
+        "id": "IN-ORG-forest-pccf-hoff-apccf-development-ccf-a"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 523900,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-09T00:00:00Z"
+      },
+      "description": "Advance work Kanas B"
+    },
+    "buyer": {
+      "name": "Forest - PCCF (HoFF)||APCCF-Development||CCF-AJMER||DCF-AJMER",
+      "id": "IN-ORG-forest-pccf-hoff-apccf-development-ccf-a"
+    },
+    "date": "2026-10-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_FORES_602908_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_FORES_602908_1",
+        "url": "/files/e5a2b8c7b2c6e8e152ac954d33a1395e4d631172bc05b53a5adbe183ae57730b.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SV%2B3NK6Zqwy8y16NAyBXLgg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e5a2b8c7b2c6e8e152ac954d33a1395e4d631172bc05b53a5adbe183ae57730b",
+        "format": "text/plain",
+        "textUrl": "/files/e5a2b8c7b2c6e8e152ac954d33a1395e4d631172bc05b53a5adbe183ae57730b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_FORES_602908_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SV%2B3NK6Zqwy8y16NAyBXLgg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_FORES_602908_1",
+      "observedAt": "2026-10-09T04:24:18Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "c56e35923387db6854a22a5c30584519c2f1f86c99ddec84a5988ca9a4296d70",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_FORES_602908_1-0001-record",
+          "sha256": "e5a2b8c7b2c6e8e152ac954d33a1395e4d631172bc05b53a5adbe183ae57730b"
+        }
+      ],
+      "snapshotUrl": "/files/eaee97a79cfd90ae7187fafd65c7d7fcb96e0ea93fa10a35b706ae67180f2dea.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-09T04:24:18Z",
+    "lastObserved": "2026-10-09T04:24:18Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

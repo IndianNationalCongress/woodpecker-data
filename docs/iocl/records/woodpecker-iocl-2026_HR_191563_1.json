@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-iocl-2026_HR_191563_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_HR_191563_1",
+      "id": "woodpecker-iocl-2026_HR_191563_1-0001",
+      "date": "2026-09-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Haldia Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-haldia-refinery-con"
+      },
+      "tender": {
+        "id": "2026_HR_191563_1",
+        "title": "ARC for industrial painting works at Haldia Refinery",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Haldia Refinery||Contracts",
+          "id": "IN-ORG-indianoil-refineries-haldia-refinery-con"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 32251841,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-09T00:00:00Z"
+        },
+        "description": "ARC for industrial painting works at Haldia Refinery"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_HR_191563_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HR_191563_1",
+          "url": "/files/236f46536eaf18243d2fc6e4fcbd072ddbc283c5f333583dc6142e1ff9ebf94d.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdsrzOgkNhQgyjTNflTor5g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "236f46536eaf18243d2fc6e4fcbd072ddbc283c5f333583dc6142e1ff9ebf94d",
+          "format": "text/plain",
+          "textUrl": "/files/236f46536eaf18243d2fc6e4fcbd072ddbc283c5f333583dc6142e1ff9ebf94d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_HR_191563_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdsrzOgkNhQgyjTNflTor5g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_HR_191563_1",
+    "tender": {
+      "id": "2026_HR_191563_1",
+      "title": "ARC for industrial painting works at Haldia Refinery",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Haldia Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-haldia-refinery-con"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 32251841,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-09T00:00:00Z"
+      },
+      "description": "ARC for industrial painting works at Haldia Refinery"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Haldia Refinery||Contracts",
+      "id": "IN-ORG-indianoil-refineries-haldia-refinery-con"
+    },
+    "date": "2026-09-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_HR_191563_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HR_191563_1",
+        "url": "/files/236f46536eaf18243d2fc6e4fcbd072ddbc283c5f333583dc6142e1ff9ebf94d.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdsrzOgkNhQgyjTNflTor5g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "236f46536eaf18243d2fc6e4fcbd072ddbc283c5f333583dc6142e1ff9ebf94d",
+        "format": "text/plain",
+        "textUrl": "/files/236f46536eaf18243d2fc6e4fcbd072ddbc283c5f333583dc6142e1ff9ebf94d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_HR_191563_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdsrzOgkNhQgyjTNflTor5g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_HR_191563_1",
+      "observedAt": "2026-10-09T04:38:14Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "3208c70fb1e3c64e784d240e32d9d28ca7ff7b0e0a6bdedce003e9d00a5af2dc",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_HR_191563_1-0001-record",
+          "sha256": "236f46536eaf18243d2fc6e4fcbd072ddbc283c5f333583dc6142e1ff9ebf94d"
+        }
+      ],
+      "snapshotUrl": "/files/5f725d143e890478f6cf368d2cdedd76e81580eae068a3883e5e3bf31da4899a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-09T04:38:14Z",
+    "lastObserved": "2026-10-09T04:38:14Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

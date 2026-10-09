@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112218_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112218_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112218_1-0001",
+      "date": "2026-09-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112218_1",
+        "title": "PROCUREMENT OF FESTO SPARES FOR NTPC BARH STAGE 1",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-09T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF FESTO SPARES FOR NTPC BARH STAGE 1"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112218_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112218_1",
+          "url": "/files/5448d8a38b6f56380d6009fc3ad60c38dc091341c3c8767294ab4c423a2d233b.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyHRGe0Z37%2FBjtm0MQtQTRg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5448d8a38b6f56380d6009fc3ad60c38dc091341c3c8767294ab4c423a2d233b",
+          "format": "text/plain",
+          "textUrl": "/files/5448d8a38b6f56380d6009fc3ad60c38dc091341c3c8767294ab4c423a2d233b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112218_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyHRGe0Z37%2FBjtm0MQtQTRg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112218_1",
+    "tender": {
+      "id": "2026_NTPC_112218_1",
+      "title": "PROCUREMENT OF FESTO SPARES FOR NTPC BARH STAGE 1",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-09T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF FESTO SPARES FOR NTPC BARH STAGE 1"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112218_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112218_1",
+        "url": "/files/5448d8a38b6f56380d6009fc3ad60c38dc091341c3c8767294ab4c423a2d233b.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyHRGe0Z37%2FBjtm0MQtQTRg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5448d8a38b6f56380d6009fc3ad60c38dc091341c3c8767294ab4c423a2d233b",
+        "format": "text/plain",
+        "textUrl": "/files/5448d8a38b6f56380d6009fc3ad60c38dc091341c3c8767294ab4c423a2d233b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112218_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyHRGe0Z37%2FBjtm0MQtQTRg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112218_1",
+      "observedAt": "2026-10-09T04:29:25Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "725e4a5ca584296da63d8c42abb24ad6644cc2fdcf42d3252401acad4fd69d21",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112218_1-0001-record",
+          "sha256": "5448d8a38b6f56380d6009fc3ad60c38dc091341c3c8767294ab4c423a2d233b"
+        }
+      ],
+      "snapshotUrl": "/files/2826d31ca61aa5c6d1a68653b9049cd8fd8eba28304c9f30f29a7b1528df69fa.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-09T04:29:25Z",
+    "lastObserved": "2026-10-09T04:29:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

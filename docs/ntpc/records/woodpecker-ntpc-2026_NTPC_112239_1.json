@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112239_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112239_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112239_1-0001",
+      "date": "2026-09-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112239_1",
+        "title": "PROCUREMENT OF HYDROCOUPLING CAPITAL SPARES FOR STAGE I UNITS OF KORBA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-09T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF HYDROCOUPLING CAPITAL SPARES FOR STAGE I UNITS OF KORBA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112239_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112239_1",
+          "url": "/files/2afb4df17364e677635b3438483dec9970a53403f7f099851f130b29350eb8a3.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAsdZ3c5VBSDjFd8nT8Stdw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2afb4df17364e677635b3438483dec9970a53403f7f099851f130b29350eb8a3",
+          "format": "text/plain",
+          "textUrl": "/files/2afb4df17364e677635b3438483dec9970a53403f7f099851f130b29350eb8a3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112239_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAsdZ3c5VBSDjFd8nT8Stdw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112239_1",
+    "tender": {
+      "id": "2026_NTPC_112239_1",
+      "title": "PROCUREMENT OF HYDROCOUPLING CAPITAL SPARES FOR STAGE I UNITS OF KORBA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-09T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF HYDROCOUPLING CAPITAL SPARES FOR STAGE I UNITS OF KORBA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112239_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112239_1",
+        "url": "/files/2afb4df17364e677635b3438483dec9970a53403f7f099851f130b29350eb8a3.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAsdZ3c5VBSDjFd8nT8Stdw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2afb4df17364e677635b3438483dec9970a53403f7f099851f130b29350eb8a3",
+        "format": "text/plain",
+        "textUrl": "/files/2afb4df17364e677635b3438483dec9970a53403f7f099851f130b29350eb8a3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112239_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAsdZ3c5VBSDjFd8nT8Stdw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112239_1",
+      "observedAt": "2026-10-09T04:29:25Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "34dc87651276c3a0b1ab21be54aac7f2b868810ae3bf0d946095ddea035b7c39",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112239_1-0001-record",
+          "sha256": "2afb4df17364e677635b3438483dec9970a53403f7f099851f130b29350eb8a3"
+        }
+      ],
+      "snapshotUrl": "/files/9a61cb0ec2a30ce2866f35818606b7dbe4d0d59393c5a80c279879a8b4b78bc0.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-09T04:29:25Z",
+    "lastObserved": "2026-10-09T04:29:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

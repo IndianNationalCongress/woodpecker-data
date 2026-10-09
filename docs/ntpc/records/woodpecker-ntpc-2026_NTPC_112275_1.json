@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112275_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112275_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112275_1-0001",
+      "date": "2026-09-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112275_1",
+        "title": "Procurement of Acid Dosing Pumps of CLO2 Plant at NTPC Jhanor",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-09T00:00:00Z"
+        },
+        "description": "Procurement of Acid Dosing Pumps of CLO2 Plant at NTPC Jhanor"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112275_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112275_1",
+          "url": "/files/ee480acf4bd9233993ed1b6151a19bc0f6be21b07444dd9bff6f09e54887fbb0.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHfGP%2BDo58uxIBRsguosuAQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ee480acf4bd9233993ed1b6151a19bc0f6be21b07444dd9bff6f09e54887fbb0",
+          "format": "text/plain",
+          "textUrl": "/files/ee480acf4bd9233993ed1b6151a19bc0f6be21b07444dd9bff6f09e54887fbb0.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112275_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHfGP%2BDo58uxIBRsguosuAQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112275_1",
+    "tender": {
+      "id": "2026_NTPC_112275_1",
+      "title": "Procurement of Acid Dosing Pumps of CLO2 Plant at NTPC Jhanor",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-09T00:00:00Z"
+      },
+      "description": "Procurement of Acid Dosing Pumps of CLO2 Plant at NTPC Jhanor"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-09-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112275_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112275_1",
+        "url": "/files/ee480acf4bd9233993ed1b6151a19bc0f6be21b07444dd9bff6f09e54887fbb0.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHfGP%2BDo58uxIBRsguosuAQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ee480acf4bd9233993ed1b6151a19bc0f6be21b07444dd9bff6f09e54887fbb0",
+        "format": "text/plain",
+        "textUrl": "/files/ee480acf4bd9233993ed1b6151a19bc0f6be21b07444dd9bff6f09e54887fbb0.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112275_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SHfGP%2BDo58uxIBRsguosuAQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112275_1",
+      "observedAt": "2026-10-09T04:29:25Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "ac59b81c8e3734239207741a870e7917d25d0c9b990d91aec402e0c79fd62549",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112275_1-0001-record",
+          "sha256": "ee480acf4bd9233993ed1b6151a19bc0f6be21b07444dd9bff6f09e54887fbb0"
+        }
+      ],
+      "snapshotUrl": "/files/3b17831e2c9f6eb4e01d022832786e830e7ab05fa28dc1b8a7a563b631d9daad.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-09T04:29:25Z",
+    "lastObserved": "2026-10-09T04:29:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
