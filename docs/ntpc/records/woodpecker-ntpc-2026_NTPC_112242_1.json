@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112242_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112242_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112242_1-0001",
+      "date": "2026-09-29T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Eastern Region - II Headquarter||Bongaigaon Thermal Power Project",
+        "id": "IN-ORG-ntpc-limited-eastern-region-ii-headquart"
+      },
+      "tender": {
+        "id": "2026_NTPC_112242_1",
+        "title": "Deployment under Operation Assistance Contract for 1 year at BGTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Eastern Region - II Headquarter||Bongaigaon Thermal Power Project",
+          "id": "IN-ORG-ntpc-limited-eastern-region-ii-headquart"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-10T00:00:00Z"
+        },
+        "description": "Deployment under Operation Assistance Contract for 1 year at BGTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112242_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112242_1",
+          "url": "/files/0f392a55e1fb689970f4fbfc6930f8afd88530cf4e8c6a108c843ba4797eb803.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVc%2FBHT3%2Bs5v054ocDm1KRw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0f392a55e1fb689970f4fbfc6930f8afd88530cf4e8c6a108c843ba4797eb803",
+          "format": "text/plain",
+          "textUrl": "/files/0f392a55e1fb689970f4fbfc6930f8afd88530cf4e8c6a108c843ba4797eb803.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112242_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVc%2FBHT3%2Bs5v054ocDm1KRw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112242_1",
+    "tender": {
+      "id": "2026_NTPC_112242_1",
+      "title": "Deployment under Operation Assistance Contract for 1 year at BGTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Eastern Region - II Headquarter||Bongaigaon Thermal Power Project",
+        "id": "IN-ORG-ntpc-limited-eastern-region-ii-headquart"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-10T00:00:00Z"
+      },
+      "description": "Deployment under Operation Assistance Contract for 1 year at BGTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Eastern Region - II Headquarter||Bongaigaon Thermal Power Project",
+      "id": "IN-ORG-ntpc-limited-eastern-region-ii-headquart"
+    },
+    "date": "2026-09-29T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112242_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112242_1",
+        "url": "/files/0f392a55e1fb689970f4fbfc6930f8afd88530cf4e8c6a108c843ba4797eb803.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVc%2FBHT3%2Bs5v054ocDm1KRw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0f392a55e1fb689970f4fbfc6930f8afd88530cf4e8c6a108c843ba4797eb803",
+        "format": "text/plain",
+        "textUrl": "/files/0f392a55e1fb689970f4fbfc6930f8afd88530cf4e8c6a108c843ba4797eb803.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112242_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVc%2FBHT3%2Bs5v054ocDm1KRw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112242_1",
+      "observedAt": "2026-10-10T03:46:06Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "df1b77d1bd3ad68c8206f8b594b53b5982ef72cd7dac5705623fc09215b48525",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112242_1-0001-record",
+          "sha256": "0f392a55e1fb689970f4fbfc6930f8afd88530cf4e8c6a108c843ba4797eb803"
+        }
+      ],
+      "snapshotUrl": "/files/9330277064b857bf7daad73c65ff3d18beefae1fbbd0d29c49524e667486f26e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-10T03:46:06Z",
+    "lastObserved": "2026-10-10T03:46:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

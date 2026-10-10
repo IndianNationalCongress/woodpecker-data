@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112320_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112320_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112320_1-0001",
+      "date": "2026-10-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112320_1",
+        "title": "PROCUREMENT OF BLUESTAR ACOUTDOOR CONDENSING UNIT CONTROLLER CARDS FORNTPC NORTHKARANPURA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-10T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF BLUESTAR ACOUTDOOR CONDENSING UNIT CONTROLLER CARDS FORNTPC NORTHKARANPURA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112320_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112320_1",
+          "url": "/files/01dcf78e104bff360a559b939b9d3c484fb609cf257d60fb579894566ee18c11.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZ15qWGawNhrvHIpha%2BJ51w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "01dcf78e104bff360a559b939b9d3c484fb609cf257d60fb579894566ee18c11",
+          "format": "text/plain",
+          "textUrl": "/files/01dcf78e104bff360a559b939b9d3c484fb609cf257d60fb579894566ee18c11.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112320_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZ15qWGawNhrvHIpha%2BJ51w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112320_1",
+    "tender": {
+      "id": "2026_NTPC_112320_1",
+      "title": "PROCUREMENT OF BLUESTAR ACOUTDOOR CONDENSING UNIT CONTROLLER CARDS FORNTPC NORTHKARANPURA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-10T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF BLUESTAR ACOUTDOOR CONDENSING UNIT CONTROLLER CARDS FORNTPC NORTHKARANPURA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112320_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112320_1",
+        "url": "/files/01dcf78e104bff360a559b939b9d3c484fb609cf257d60fb579894566ee18c11.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZ15qWGawNhrvHIpha%2BJ51w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "01dcf78e104bff360a559b939b9d3c484fb609cf257d60fb579894566ee18c11",
+        "format": "text/plain",
+        "textUrl": "/files/01dcf78e104bff360a559b939b9d3c484fb609cf257d60fb579894566ee18c11.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112320_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SZ15qWGawNhrvHIpha%2BJ51w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112320_1",
+      "observedAt": "2026-10-10T03:46:06Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "fb9e164ae718cd4ec68ee0894289a6aef3745fce8a8121df2d49d8f048b3e293",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112320_1-0001-record",
+          "sha256": "01dcf78e104bff360a559b939b9d3c484fb609cf257d60fb579894566ee18c11"
+        }
+      ],
+      "snapshotUrl": "/files/0035457f231c418083138873c9c3402d4dcda57fd20d81790516a24115efd444.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-10T03:46:06Z",
+    "lastObserved": "2026-10-10T03:46:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
