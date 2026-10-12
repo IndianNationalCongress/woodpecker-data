@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_144902_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_144902_2",
+      "id": "woodpecker-himachal-2026_PWD_144902_2-0001",
+      "date": "2026-10-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_144902_2",
+        "title": "AMP Bharoli Kallan 002",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 462292,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-12T00:00:00Z"
+        },
+        "description": "AMP Bharoli Kallan 002"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_144902_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_144902_2",
+          "url": "/files/c89e95dd97da9944659332e86ecd04f2eb06f9002f0526386ff444eb4e6bd017.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2FlUgFJ%2FIc9s2EnNRsylkAw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c89e95dd97da9944659332e86ecd04f2eb06f9002f0526386ff444eb4e6bd017",
+          "format": "text/plain",
+          "textUrl": "/files/c89e95dd97da9944659332e86ecd04f2eb06f9002f0526386ff444eb4e6bd017.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_144902_2-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2FlUgFJ%2FIc9s2EnNRsylkAw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_144902_2",
+    "tender": {
+      "id": "2026_PWD_144902_2",
+      "title": "AMP Bharoli Kallan 002",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 462292,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-12T00:00:00Z"
+      },
+      "description": "AMP Bharoli Kallan 002"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-10-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_144902_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_144902_2",
+        "url": "/files/c89e95dd97da9944659332e86ecd04f2eb06f9002f0526386ff444eb4e6bd017.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2FlUgFJ%2FIc9s2EnNRsylkAw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c89e95dd97da9944659332e86ecd04f2eb06f9002f0526386ff444eb4e6bd017",
+        "format": "text/plain",
+        "textUrl": "/files/c89e95dd97da9944659332e86ecd04f2eb06f9002f0526386ff444eb4e6bd017.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_144902_2-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2FlUgFJ%2FIc9s2EnNRsylkAw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_144902_2",
+      "observedAt": "2026-10-12T03:28:25Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "4cbe3e2504f3bfd7fcd5f5c279a31c263130b39b3983ed0ebe37f84e7fb940b9",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_144902_2-0001-record",
+          "sha256": "c89e95dd97da9944659332e86ecd04f2eb06f9002f0526386ff444eb4e6bd017"
+        }
+      ],
+      "snapshotUrl": "/files/190f6d90d4943d9ee1ebdb4831d171b14f760cd6e014415e124d88f048ec078f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-12T03:28:25Z",
+    "lastObserved": "2026-10-12T03:28:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

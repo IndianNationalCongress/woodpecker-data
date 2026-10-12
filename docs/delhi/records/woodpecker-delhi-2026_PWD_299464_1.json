@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_PWD_299464_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_299464_1",
+      "id": "woodpecker-delhi-2026_PWD_299464_1-0001",
+      "date": "2026-10-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Public Works Department||CE/SE/M1-M15||EE/M152",
+        "id": "IN-ORG-public-works-department-ce-se-m1-m15-ee-"
+      },
+      "tender": {
+        "id": "2026_PWD_299464_1",
+        "title": "Providing earthing",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Public Works Department||CE/SE/M1-M15||EE/M152",
+          "id": "IN-ORG-public-works-department-ce-se-m1-m15-ee-"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 336480,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-12T00:00:00Z"
+        },
+        "description": "Providing earthing"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_299464_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_299464_1",
+          "url": "/files/20c0d7781c26afcd73002f57e2c56cecf2bba1b810163a339165d9d4b0090f5c.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuNQlVSKSEBfmJ2GpRC2PQg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "20c0d7781c26afcd73002f57e2c56cecf2bba1b810163a339165d9d4b0090f5c",
+          "format": "text/plain",
+          "textUrl": "/files/20c0d7781c26afcd73002f57e2c56cecf2bba1b810163a339165d9d4b0090f5c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_PWD_299464_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuNQlVSKSEBfmJ2GpRC2PQg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_PWD_299464_1",
+    "tender": {
+      "id": "2026_PWD_299464_1",
+      "title": "Providing earthing",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Public Works Department||CE/SE/M1-M15||EE/M152",
+        "id": "IN-ORG-public-works-department-ce-se-m1-m15-ee-"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 336480,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-12T00:00:00Z"
+      },
+      "description": "Providing earthing"
+    },
+    "buyer": {
+      "name": "Public Works Department||CE/SE/M1-M15||EE/M152",
+      "id": "IN-ORG-public-works-department-ce-se-m1-m15-ee-"
+    },
+    "date": "2026-10-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_PWD_299464_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_299464_1",
+        "url": "/files/20c0d7781c26afcd73002f57e2c56cecf2bba1b810163a339165d9d4b0090f5c.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuNQlVSKSEBfmJ2GpRC2PQg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "20c0d7781c26afcd73002f57e2c56cecf2bba1b810163a339165d9d4b0090f5c",
+        "format": "text/plain",
+        "textUrl": "/files/20c0d7781c26afcd73002f57e2c56cecf2bba1b810163a339165d9d4b0090f5c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_PWD_299464_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuNQlVSKSEBfmJ2GpRC2PQg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_299464_1",
+      "observedAt": "2026-10-12T04:00:54Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "e378fdb473caf65d05dccec0f54820b442902bed8045a1babda71b23ea52c58d",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_299464_1-0001-record",
+          "sha256": "20c0d7781c26afcd73002f57e2c56cecf2bba1b810163a339165d9d4b0090f5c"
+        }
+      ],
+      "snapshotUrl": "/files/ba3db4c0c5c95a08775fd0acf70ae5b526b0e7f7a699c0144407b06110bc7116.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-12T04:00:54Z",
+    "lastObserved": "2026-10-12T04:00:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

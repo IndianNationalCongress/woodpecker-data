@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_AOD_191555_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_AOD_191555_1",
+      "id": "woodpecker-iocl-2026_AOD_191555_1-0001",
+      "date": "2026-09-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||AOD Digboi||Materials",
+        "id": "IN-ORG-indianoil-refineries-aod-digboi-material"
+      },
+      "tender": {
+        "id": "2026_AOD_191555_1",
+        "title": "Procurement of Delta Valve Spares for TUD and BUD of DCU in Digboi Refinery",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||AOD Digboi||Materials",
+          "id": "IN-ORG-indianoil-refineries-aod-digboi-material"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-12T00:00:00Z"
+        },
+        "description": "Procurement of Delta Valve Spares for TUD and BUD of DCU in Digboi Refinery"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_AOD_191555_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_AOD_191555_1",
+          "url": "/files/7ec375d75fe601e2a74b09183989821d51dfc15eb1d9293282811182b7357ef4.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St5kjcbn%2BzNHVbNkvWL%2B2Vw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "7ec375d75fe601e2a74b09183989821d51dfc15eb1d9293282811182b7357ef4",
+          "format": "text/plain",
+          "textUrl": "/files/7ec375d75fe601e2a74b09183989821d51dfc15eb1d9293282811182b7357ef4.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_AOD_191555_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St5kjcbn%2BzNHVbNkvWL%2B2Vw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_AOD_191555_1",
+    "tender": {
+      "id": "2026_AOD_191555_1",
+      "title": "Procurement of Delta Valve Spares for TUD and BUD of DCU in Digboi Refinery",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||AOD Digboi||Materials",
+        "id": "IN-ORG-indianoil-refineries-aod-digboi-material"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-12T00:00:00Z"
+      },
+      "description": "Procurement of Delta Valve Spares for TUD and BUD of DCU in Digboi Refinery"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||AOD Digboi||Materials",
+      "id": "IN-ORG-indianoil-refineries-aod-digboi-material"
+    },
+    "date": "2026-09-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_AOD_191555_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_AOD_191555_1",
+        "url": "/files/7ec375d75fe601e2a74b09183989821d51dfc15eb1d9293282811182b7357ef4.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St5kjcbn%2BzNHVbNkvWL%2B2Vw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "7ec375d75fe601e2a74b09183989821d51dfc15eb1d9293282811182b7357ef4",
+        "format": "text/plain",
+        "textUrl": "/files/7ec375d75fe601e2a74b09183989821d51dfc15eb1d9293282811182b7357ef4.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_AOD_191555_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St5kjcbn%2BzNHVbNkvWL%2B2Vw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_AOD_191555_1",
+      "observedAt": "2026-10-12T04:33:04Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "d7124acc3ab1e3002fd5152739da91fc36d3690b8856f63fafad7ad76a0cd340",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_AOD_191555_1-0001-record",
+          "sha256": "7ec375d75fe601e2a74b09183989821d51dfc15eb1d9293282811182b7357ef4"
+        }
+      ],
+      "snapshotUrl": "/files/caab6fd0f0d4f7077e5399f0fa3c6a4df08cec78e46f00f5d78727f7d1618209.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-12T04:33:04Z",
+    "lastObserved": "2026-10-12T04:33:04Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

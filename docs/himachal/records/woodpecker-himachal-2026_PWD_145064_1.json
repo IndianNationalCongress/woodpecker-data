@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_145064_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_145064_1",
+      "id": "woodpecker-himachal-2026_PWD_145064_1-0001",
+      "date": "2026-10-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_145064_1",
+        "title": "P/L CC Pavement",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 290289,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-12T00:00:00Z"
+        },
+        "description": "P/L CC Pavement"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_145064_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_145064_1",
+          "url": "/files/c1cb625b801ba7864a934e82473a057a0f3db9ee7732fe5529a56ffc3621d1c3.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6TZG0ZGevOqq28p5KvATCw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c1cb625b801ba7864a934e82473a057a0f3db9ee7732fe5529a56ffc3621d1c3",
+          "format": "text/plain",
+          "textUrl": "/files/c1cb625b801ba7864a934e82473a057a0f3db9ee7732fe5529a56ffc3621d1c3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_145064_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6TZG0ZGevOqq28p5KvATCw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_145064_1",
+    "tender": {
+      "id": "2026_PWD_145064_1",
+      "title": "P/L CC Pavement",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 290289,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-12T00:00:00Z"
+      },
+      "description": "P/L CC Pavement"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-10-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_145064_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_145064_1",
+        "url": "/files/c1cb625b801ba7864a934e82473a057a0f3db9ee7732fe5529a56ffc3621d1c3.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6TZG0ZGevOqq28p5KvATCw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c1cb625b801ba7864a934e82473a057a0f3db9ee7732fe5529a56ffc3621d1c3",
+        "format": "text/plain",
+        "textUrl": "/files/c1cb625b801ba7864a934e82473a057a0f3db9ee7732fe5529a56ffc3621d1c3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_145064_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6TZG0ZGevOqq28p5KvATCw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_145064_1",
+      "observedAt": "2026-10-12T03:28:25Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "d773afd213699dc8329859bf9f923767312ba4489968b6d4e46038b0abf8b4b1",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_145064_1-0001-record",
+          "sha256": "c1cb625b801ba7864a934e82473a057a0f3db9ee7732fe5529a56ffc3621d1c3"
+        }
+      ],
+      "snapshotUrl": "/files/8cad9960c0d44cc125ebe55625814bdcbd9cf1247d1dbe86d61a2cf9dc8acbf2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-12T03:28:25Z",
+    "lastObserved": "2026-10-12T03:28:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

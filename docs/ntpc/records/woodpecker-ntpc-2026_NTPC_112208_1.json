@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112208_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112208_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112208_1-0001",
+      "date": "2026-09-26T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||Vendor Development Cell",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-vendo"
+      },
+      "tender": {
+        "id": "2026_NTPC_112208_1",
+        "title": "Annual Rate Contract for supply of LRB Mattress for NTPC Stations",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||Vendor Development Cell",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-vendo"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-12T00:00:00Z"
+        },
+        "description": "Annual Rate Contract for supply of LRB Mattress for NTPC Stations"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112208_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112208_1",
+          "url": "/files/49e93eaebcd3c9af097f5a78a983a219d12395a9193752697b9f95c1e40d25a8.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScgpJdLpU4Yls%2BkPTUhbnJg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "49e93eaebcd3c9af097f5a78a983a219d12395a9193752697b9f95c1e40d25a8",
+          "format": "text/plain",
+          "textUrl": "/files/49e93eaebcd3c9af097f5a78a983a219d12395a9193752697b9f95c1e40d25a8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112208_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScgpJdLpU4Yls%2BkPTUhbnJg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112208_1",
+    "tender": {
+      "id": "2026_NTPC_112208_1",
+      "title": "Annual Rate Contract for supply of LRB Mattress for NTPC Stations",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||Vendor Development Cell",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-vendo"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-12T00:00:00Z"
+      },
+      "description": "Annual Rate Contract for supply of LRB Mattress for NTPC Stations"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||Vendor Development Cell",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-vendo"
+    },
+    "date": "2026-09-26T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112208_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112208_1",
+        "url": "/files/49e93eaebcd3c9af097f5a78a983a219d12395a9193752697b9f95c1e40d25a8.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScgpJdLpU4Yls%2BkPTUhbnJg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "49e93eaebcd3c9af097f5a78a983a219d12395a9193752697b9f95c1e40d25a8",
+        "format": "text/plain",
+        "textUrl": "/files/49e93eaebcd3c9af097f5a78a983a219d12395a9193752697b9f95c1e40d25a8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112208_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScgpJdLpU4Yls%2BkPTUhbnJg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112208_1",
+      "observedAt": "2026-10-12T04:22:14Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5fe2984d208af565f52f905a0839f447769eaacecf0b172aa6beca28d6f4f26c",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112208_1-0001-record",
+          "sha256": "49e93eaebcd3c9af097f5a78a983a219d12395a9193752697b9f95c1e40d25a8"
+        }
+      ],
+      "snapshotUrl": "/files/c1c28d6147f976b378e88d3c889da6d8867c8c0eef4ef149a165c4b12b83d366.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-12T04:22:14Z",
+    "lastObserved": "2026-10-12T04:22:14Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_145064_10",
+  "id": "woodpecker-himachal-2026_PWD_145064_10-0001",
+  "date": "2026-10-06T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "PWD",
+    "id": "IN-ORG-pwd"
+  },
+  "tender": {
+    "id": "2026_PWD_145064_10",
+    "title": "P/L CC pavement.",
+    "status": "active",
+    "procuringEntity": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 418921,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-10-12T00:00:00Z"
+    },
+    "description": "P/L CC pavement."
+  },
+  "documents": [
+    {
+      "id": "woodpecker-himachal-2026_PWD_145064_10-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_PWD_145064_10",
+      "url": "/files/e6e2805ae90e0dcfa9078a87fa59d591a4145c3c74db5d7e6b4e6c06048eef41.txt",
+      "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjpRld1rgNpxAwyO6tdvpCw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "e6e2805ae90e0dcfa9078a87fa59d591a4145c3c74db5d7e6b4e6c06048eef41",
+      "format": "text/plain",
+      "textUrl": "/files/e6e2805ae90e0dcfa9078a87fa59d591a4145c3c74db5d7e6b4e6c06048eef41.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-himachal-2026_PWD_145064_10-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SjpRld1rgNpxAwyO6tdvpCw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

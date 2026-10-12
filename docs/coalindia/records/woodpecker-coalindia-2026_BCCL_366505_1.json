@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-coalindia-2026_BCCL_366505_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-coalindia-2026_BCCL_366505_1",
+      "id": "woodpecker-coalindia-2026_BCCL_366505_1-0001",
+      "date": "2026-10-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Coking Coal Limited||BCCL_CV AREA",
+        "id": "IN-ORG-bharat-coking-coal-limited-bccl-cv-area"
+      },
+      "tender": {
+        "id": "2026_BCCL_366505_1",
+        "title": "1487RPM MARATHON ELECTRIC MAKE SERIAL NUMBER 3F331006 OF DBOCP QUANTITY 01 NUMBER.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Coking Coal Limited||BCCL_CV AREA",
+          "id": "IN-ORG-bharat-coking-coal-limited-bccl-cv-area"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 366718,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-12T00:00:00Z"
+        },
+        "description": "1487RPM MARATHON ELECTRIC MAKE SERIAL NUMBER 3F331006 OF DBOCP QUANTITY 01 NUMBER."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-coalindia-2026_BCCL_366505_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BCCL_366505_1",
+          "url": "/files/c5073e0b823fee69b31e7f4a5f55deecff8eb619207f86528a6960648d29a519.txt",
+          "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SomViphR2BOheNSYVvqiDlw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c5073e0b823fee69b31e7f4a5f55deecff8eb619207f86528a6960648d29a519",
+          "format": "text/plain",
+          "textUrl": "/files/c5073e0b823fee69b31e7f4a5f55deecff8eb619207f86528a6960648d29a519.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-coalindia-2026_BCCL_366505_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SomViphR2BOheNSYVvqiDlw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-coalindia-2026_BCCL_366505_1",
+    "tender": {
+      "id": "2026_BCCL_366505_1",
+      "title": "1487RPM MARATHON ELECTRIC MAKE SERIAL NUMBER 3F331006 OF DBOCP QUANTITY 01 NUMBER.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Coking Coal Limited||BCCL_CV AREA",
+        "id": "IN-ORG-bharat-coking-coal-limited-bccl-cv-area"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 366718,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-12T00:00:00Z"
+      },
+      "description": "1487RPM MARATHON ELECTRIC MAKE SERIAL NUMBER 3F331006 OF DBOCP QUANTITY 01 NUMBER."
+    },
+    "buyer": {
+      "name": "Bharat Coking Coal Limited||BCCL_CV AREA",
+      "id": "IN-ORG-bharat-coking-coal-limited-bccl-cv-area"
+    },
+    "date": "2026-10-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-coalindia-2026_BCCL_366505_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BCCL_366505_1",
+        "url": "/files/c5073e0b823fee69b31e7f4a5f55deecff8eb619207f86528a6960648d29a519.txt",
+        "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SomViphR2BOheNSYVvqiDlw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c5073e0b823fee69b31e7f4a5f55deecff8eb619207f86528a6960648d29a519",
+        "format": "text/plain",
+        "textUrl": "/files/c5073e0b823fee69b31e7f4a5f55deecff8eb619207f86528a6960648d29a519.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-coalindia-2026_BCCL_366505_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SomViphR2BOheNSYVvqiDlw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-coalindia-2026_BCCL_366505_1",
+      "observedAt": "2026-10-12T04:31:50Z",
+      "witness": "woodpecker:coalindia",
+      "availability": "present",
+      "stateHash": "51038361d08135d39c066cb051fe634327025f96119fd8f07632c12a75a5f8c1",
+      "documents": [
+        {
+          "id": "woodpecker-coalindia-2026_BCCL_366505_1-0001-record",
+          "sha256": "c5073e0b823fee69b31e7f4a5f55deecff8eb619207f86528a6960648d29a519"
+        }
+      ],
+      "snapshotUrl": "/files/e534a6ebd11c660e1d7aa3637bcbbb1d783632e523512af0546f980f59495015.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-12T04:31:50Z",
+    "lastObserved": "2026-10-12T04:31:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
