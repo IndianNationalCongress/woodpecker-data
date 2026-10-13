@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-assam-2026_HFWD_54391_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-assam-2026_HFWD_54391_1",
+      "id": "woodpecker-assam-2026_HFWD_54391_1-0001",
+      "date": "2026-10-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Health and Family Welfare Department||Assam Medical Services Corporation Limited",
+        "id": "IN-ORG-health-and-family-welfare-department-ass"
+      },
+      "tender": {
+        "id": "2026_HFWD_54391_1",
+        "title": "Essential Drugs",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Health and Family Welfare Department||Assam Medical Services Corporation Limited",
+          "id": "IN-ORG-health-and-family-welfare-department-ass"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 225000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-13T00:00:00Z"
+        },
+        "description": "Essential Drugs"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_HFWD_54391_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HFWD_54391_1",
+          "url": "/files/d66518796dab0771084e1822f1d36f8a04a59cfce4524601d55710d98db27e1b.txt",
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SejBXK%2FPSG9aYPq5d2pUteg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d66518796dab0771084e1822f1d36f8a04a59cfce4524601d55710d98db27e1b",
+          "format": "text/plain",
+          "textUrl": "/files/d66518796dab0771084e1822f1d36f8a04a59cfce4524601d55710d98db27e1b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-assam-2026_HFWD_54391_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SejBXK%2FPSG9aYPq5d2pUteg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-assam-2026_HFWD_54391_1",
+    "tender": {
+      "id": "2026_HFWD_54391_1",
+      "title": "Essential Drugs",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Health and Family Welfare Department||Assam Medical Services Corporation Limited",
+        "id": "IN-ORG-health-and-family-welfare-department-ass"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 225000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-13T00:00:00Z"
+      },
+      "description": "Essential Drugs"
+    },
+    "buyer": {
+      "name": "Health and Family Welfare Department||Assam Medical Services Corporation Limited",
+      "id": "IN-ORG-health-and-family-welfare-department-ass"
+    },
+    "date": "2026-10-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-assam-2026_HFWD_54391_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HFWD_54391_1",
+        "url": "/files/d66518796dab0771084e1822f1d36f8a04a59cfce4524601d55710d98db27e1b.txt",
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SejBXK%2FPSG9aYPq5d2pUteg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d66518796dab0771084e1822f1d36f8a04a59cfce4524601d55710d98db27e1b",
+        "format": "text/plain",
+        "textUrl": "/files/d66518796dab0771084e1822f1d36f8a04a59cfce4524601d55710d98db27e1b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-assam-2026_HFWD_54391_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SejBXK%2FPSG9aYPq5d2pUteg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-assam-2026_HFWD_54391_1",
+      "observedAt": "2026-10-13T04:42:09Z",
+      "witness": "woodpecker:assam",
+      "availability": "present",
+      "stateHash": "a27e3ba207ee01531008d4ba5caea3620ba9e361c6fee1ac7eaaeb5f2f753ce5",
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_HFWD_54391_1-0001-record",
+          "sha256": "d66518796dab0771084e1822f1d36f8a04a59cfce4524601d55710d98db27e1b"
+        }
+      ],
+      "snapshotUrl": "/files/fa16892094f97b12a70d0a21e5025563a291a8618c179dd87d26f781ea6623a0.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-13T04:42:09Z",
+    "lastObserved": "2026-10-13T04:42:09Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

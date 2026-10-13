@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112433_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112433_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112433_1-0001",
+      "date": "2026-10-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112433_1",
+        "title": "Procurement of Vacuum Belt Filter Spares for FGD agt NTPC Kudgi",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-13T00:00:00Z"
+        },
+        "description": "Procurement of Vacuum Belt Filter Spares for FGD agt NTPC Kudgi"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112433_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112433_1",
+          "url": "/files/662c5f6280590c6acc700175c1d5bb32780bd8b443ca3a1db047a1f069a77011.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STgLnCB1DtLhTu1cJJsOT3w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "662c5f6280590c6acc700175c1d5bb32780bd8b443ca3a1db047a1f069a77011",
+          "format": "text/plain",
+          "textUrl": "/files/662c5f6280590c6acc700175c1d5bb32780bd8b443ca3a1db047a1f069a77011.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112433_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STgLnCB1DtLhTu1cJJsOT3w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112433_1",
+    "tender": {
+      "id": "2026_NTPC_112433_1",
+      "title": "Procurement of Vacuum Belt Filter Spares for FGD agt NTPC Kudgi",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-13T00:00:00Z"
+      },
+      "description": "Procurement of Vacuum Belt Filter Spares for FGD agt NTPC Kudgi"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112433_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112433_1",
+        "url": "/files/662c5f6280590c6acc700175c1d5bb32780bd8b443ca3a1db047a1f069a77011.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STgLnCB1DtLhTu1cJJsOT3w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "662c5f6280590c6acc700175c1d5bb32780bd8b443ca3a1db047a1f069a77011",
+        "format": "text/plain",
+        "textUrl": "/files/662c5f6280590c6acc700175c1d5bb32780bd8b443ca3a1db047a1f069a77011.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112433_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STgLnCB1DtLhTu1cJJsOT3w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112433_1",
+      "observedAt": "2026-10-13T05:33:47Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "12d58a4efd949520e4c9f1d21200b373d7b0a3c297e3044df6ca45415a8d30ed",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112433_1-0001-record",
+          "sha256": "662c5f6280590c6acc700175c1d5bb32780bd8b443ca3a1db047a1f069a77011"
+        }
+      ],
+      "snapshotUrl": "/files/99b368b1ed154d91f126b749239485293bcf72dd2103680156493709885e8414.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-13T05:33:47Z",
+    "lastObserved": "2026-10-13T05:33:47Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
