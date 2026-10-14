@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_DRDO_791877_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_DRDO_791877_1",
+      "id": "woodpecker-defence-2026_DRDO_791877_1-0001",
+      "date": "2026-09-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Defence Research and Development||Defence Research and Development Organisation||DFMM||Office of DG(ECS)||DLRL",
+        "id": "IN-ORG-department-of-defence-research-and-devel"
+      },
+      "tender": {
+        "id": "2026_DRDO_791877_1",
+        "title": "HOMODYNE RECEIVER Mk-II",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Defence Research and Development||Defence Research and Development Organisation||DFMM||Office of DG(ECS)||DLRL",
+          "id": "IN-ORG-department-of-defence-research-and-devel"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-14T00:00:00Z"
+        },
+        "description": "HOMODYNE RECEIVER Mk-II"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_DRDO_791877_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DRDO_791877_1",
+          "url": "/files/dcbfc579ba07adf8c26b4b2c19838ea27c480b9b2e0fb53796f057a77ec93ff4.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyqYD3xc3%2F2A8JksCZdZYEg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "dcbfc579ba07adf8c26b4b2c19838ea27c480b9b2e0fb53796f057a77ec93ff4",
+          "format": "text/plain",
+          "textUrl": "/files/dcbfc579ba07adf8c26b4b2c19838ea27c480b9b2e0fb53796f057a77ec93ff4.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_DRDO_791877_1",
+    "tender": {
+      "id": "2026_DRDO_791877_1",
+      "title": "HOMODYNE RECEIVER Mk-II",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Defence Research and Development||Defence Research and Development Organisation||DFMM||Office of DG(ECS)||DLRL",
+        "id": "IN-ORG-department-of-defence-research-and-devel"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-14T00:00:00Z"
+      },
+      "description": "HOMODYNE RECEIVER Mk-II"
+    },
+    "buyer": {
+      "name": "Department of Defence Research and Development||Defence Research and Development Organisation||DFMM||Office of DG(ECS)||DLRL",
+      "id": "IN-ORG-department-of-defence-research-and-devel"
+    },
+    "date": "2026-09-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_DRDO_791877_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DRDO_791877_1",
+        "url": "/files/dcbfc579ba07adf8c26b4b2c19838ea27c480b9b2e0fb53796f057a77ec93ff4.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyqYD3xc3%2F2A8JksCZdZYEg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "dcbfc579ba07adf8c26b4b2c19838ea27c480b9b2e0fb53796f057a77ec93ff4",
+        "format": "text/plain",
+        "textUrl": "/files/dcbfc579ba07adf8c26b4b2c19838ea27c480b9b2e0fb53796f057a77ec93ff4.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_DRDO_791877_1",
+      "observedAt": "2026-10-14T03:02:25Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "20848fef3f0bd79ea5280d84ebf2ea7c14cd75cc80e3c14030bb9d689e976735",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_DRDO_791877_1-0001-record",
+          "sha256": "dcbfc579ba07adf8c26b4b2c19838ea27c480b9b2e0fb53796f057a77ec93ff4"
+        }
+      ],
+      "snapshotUrl": "/files/3593d2fe3f5f47f683a73548cd66b3139b331b1c95bbf148525216dbe7744569.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-14T03:02:25Z",
+    "lastObserved": "2026-10-14T03:02:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

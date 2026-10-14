@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112350_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112350_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112350_1-0001",
+      "date": "2026-10-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112350_1",
+        "title": "AMC FOR SIMULATOR and PADO SYSTEM IN NTPC LARA",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-14T00:00:00Z"
+        },
+        "description": "AMC FOR SIMULATOR and PADO SYSTEM IN NTPC LARA"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112350_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112350_1",
+          "url": "/files/b33cada22aebaa552ee53e8c85555b6b0ce4d2162a157b4a636028cf9823b4cd.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Snn4spzyApYjmu2gGV%2BC5rg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b33cada22aebaa552ee53e8c85555b6b0ce4d2162a157b4a636028cf9823b4cd",
+          "format": "text/plain",
+          "textUrl": "/files/b33cada22aebaa552ee53e8c85555b6b0ce4d2162a157b4a636028cf9823b4cd.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112350_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Snn4spzyApYjmu2gGV%2BC5rg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112350_1",
+    "tender": {
+      "id": "2026_NTPC_112350_1",
+      "title": "AMC FOR SIMULATOR and PADO SYSTEM IN NTPC LARA",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-14T00:00:00Z"
+      },
+      "description": "AMC FOR SIMULATOR and PADO SYSTEM IN NTPC LARA"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112350_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112350_1",
+        "url": "/files/b33cada22aebaa552ee53e8c85555b6b0ce4d2162a157b4a636028cf9823b4cd.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Snn4spzyApYjmu2gGV%2BC5rg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b33cada22aebaa552ee53e8c85555b6b0ce4d2162a157b4a636028cf9823b4cd",
+        "format": "text/plain",
+        "textUrl": "/files/b33cada22aebaa552ee53e8c85555b6b0ce4d2162a157b4a636028cf9823b4cd.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112350_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Snn4spzyApYjmu2gGV%2BC5rg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112350_1",
+      "observedAt": "2026-10-14T03:43:17Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "51e91b91cc5d8b12e56850e034825b252fc9daf793ce1e00f9dec415c45216dd",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112350_1-0001-record",
+          "sha256": "b33cada22aebaa552ee53e8c85555b6b0ce4d2162a157b4a636028cf9823b4cd"
+        }
+      ],
+      "snapshotUrl": "/files/36aa28821e402c4cd42674d0239adf540222db9c363865c6f84d04c09bbe0c19.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-14T03:43:17Z",
+    "lastObserved": "2026-10-14T03:43:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

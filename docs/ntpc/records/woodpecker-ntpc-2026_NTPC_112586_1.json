@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112586_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112586_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112586_1-0001",
+      "date": "2026-10-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112586_1",
+        "title": "PROCUREMENT OF CEP RECIRCULATION AND DEAERATOR CONTROL VALVE SPARES FOR STI AT NTPC TSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-14T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF CEP RECIRCULATION AND DEAERATOR CONTROL VALVE SPARES FOR STI AT NTPC TSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112586_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112586_1",
+          "url": "/files/33f658a451920a692355fcc319783f34e51f941e65bc4153bf152bc82130bbb2.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdSAbI6w286V6qFRCTZ8v%2Fg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "33f658a451920a692355fcc319783f34e51f941e65bc4153bf152bc82130bbb2",
+          "format": "text/plain",
+          "textUrl": "/files/33f658a451920a692355fcc319783f34e51f941e65bc4153bf152bc82130bbb2.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112586_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdSAbI6w286V6qFRCTZ8v%2Fg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112586_1",
+    "tender": {
+      "id": "2026_NTPC_112586_1",
+      "title": "PROCUREMENT OF CEP RECIRCULATION AND DEAERATOR CONTROL VALVE SPARES FOR STI AT NTPC TSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-14T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF CEP RECIRCULATION AND DEAERATOR CONTROL VALVE SPARES FOR STI AT NTPC TSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112586_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112586_1",
+        "url": "/files/33f658a451920a692355fcc319783f34e51f941e65bc4153bf152bc82130bbb2.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdSAbI6w286V6qFRCTZ8v%2Fg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "33f658a451920a692355fcc319783f34e51f941e65bc4153bf152bc82130bbb2",
+        "format": "text/plain",
+        "textUrl": "/files/33f658a451920a692355fcc319783f34e51f941e65bc4153bf152bc82130bbb2.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112586_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SdSAbI6w286V6qFRCTZ8v%2Fg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112586_1",
+      "observedAt": "2026-10-14T03:43:17Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "fb7f181b3b57b9d00417415e795118a78047c0a4359101dae54af958160414fc",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112586_1-0001-record",
+          "sha256": "33f658a451920a692355fcc319783f34e51f941e65bc4153bf152bc82130bbb2"
+        }
+      ],
+      "snapshotUrl": "/files/1282b8d1df6b4355937466b4635efc5f776d365954f61f965e11d9850cd19a7b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-14T03:43:17Z",
+    "lastObserved": "2026-10-14T03:43:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
