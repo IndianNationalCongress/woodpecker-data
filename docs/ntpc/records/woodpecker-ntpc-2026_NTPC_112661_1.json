@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112661_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112661_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112661_1-0001",
+      "date": "2026-10-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112661_1",
+        "title": "Procurement of Rocker Arm assembly for ST-01 Generators for NTPC Korba",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-15T00:00:00Z"
+        },
+        "description": "Procurement of Rocker Arm assembly for ST-01 Generators for NTPC Korba"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112661_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112661_1",
+          "url": "/files/a1bdb56b2566ce2c84bed144621d158d78355d6a747eca34a1827c749a87d7d3.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScchkwVj8c3HW5LjO0bHG2w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a1bdb56b2566ce2c84bed144621d158d78355d6a747eca34a1827c749a87d7d3",
+          "format": "text/plain",
+          "textUrl": "/files/a1bdb56b2566ce2c84bed144621d158d78355d6a747eca34a1827c749a87d7d3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112661_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScchkwVj8c3HW5LjO0bHG2w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112661_1",
+    "tender": {
+      "id": "2026_NTPC_112661_1",
+      "title": "Procurement of Rocker Arm assembly for ST-01 Generators for NTPC Korba",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-15T00:00:00Z"
+      },
+      "description": "Procurement of Rocker Arm assembly for ST-01 Generators for NTPC Korba"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112661_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112661_1",
+        "url": "/files/a1bdb56b2566ce2c84bed144621d158d78355d6a747eca34a1827c749a87d7d3.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScchkwVj8c3HW5LjO0bHG2w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a1bdb56b2566ce2c84bed144621d158d78355d6a747eca34a1827c749a87d7d3",
+        "format": "text/plain",
+        "textUrl": "/files/a1bdb56b2566ce2c84bed144621d158d78355d6a747eca34a1827c749a87d7d3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112661_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScchkwVj8c3HW5LjO0bHG2w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112661_1",
+      "observedAt": "2026-10-15T03:25:23Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "45d73405516c86d273063d1ef029f547d6d1caf7c31a7c6b51d8a36879e83bac",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112661_1-0001-record",
+          "sha256": "a1bdb56b2566ce2c84bed144621d158d78355d6a747eca34a1827c749a87d7d3"
+        }
+      ],
+      "snapshotUrl": "/files/e0a95f70058adc5ab1eecbe072eeb7215801b8d4fa20f431786d48c675924834.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-15T03:25:23Z",
+    "lastObserved": "2026-10-15T03:25:23Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

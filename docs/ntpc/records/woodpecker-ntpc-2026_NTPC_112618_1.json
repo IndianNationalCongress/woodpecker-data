@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112618_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112618_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112618_1-0001",
+      "date": "2026-10-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112618_1",
+        "title": "Procurement of spares for BHEL Make HT Motors at NTPC Telangana STPP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-15T00:00:00Z"
+        },
+        "description": "Procurement of spares for BHEL Make HT Motors at NTPC Telangana STPP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112618_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112618_1",
+          "url": "/files/371972be477e37148205d153013eb9247fbd5dea18ba9091f5d8dd5252cfd547.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SF1KK%2FcSifr6Wqbsi3OlpYA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "371972be477e37148205d153013eb9247fbd5dea18ba9091f5d8dd5252cfd547",
+          "format": "text/plain",
+          "textUrl": "/files/371972be477e37148205d153013eb9247fbd5dea18ba9091f5d8dd5252cfd547.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112618_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SF1KK%2FcSifr6Wqbsi3OlpYA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112618_1",
+    "tender": {
+      "id": "2026_NTPC_112618_1",
+      "title": "Procurement of spares for BHEL Make HT Motors at NTPC Telangana STPP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-15T00:00:00Z"
+      },
+      "description": "Procurement of spares for BHEL Make HT Motors at NTPC Telangana STPP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112618_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112618_1",
+        "url": "/files/371972be477e37148205d153013eb9247fbd5dea18ba9091f5d8dd5252cfd547.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SF1KK%2FcSifr6Wqbsi3OlpYA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "371972be477e37148205d153013eb9247fbd5dea18ba9091f5d8dd5252cfd547",
+        "format": "text/plain",
+        "textUrl": "/files/371972be477e37148205d153013eb9247fbd5dea18ba9091f5d8dd5252cfd547.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112618_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SF1KK%2FcSifr6Wqbsi3OlpYA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112618_1",
+      "observedAt": "2026-10-15T03:25:23Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "d4f720cc33bc751628ac5bb6cdd3062f66d99a53849c7f8dcf2f2c63f64e5dbd",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112618_1-0001-record",
+          "sha256": "371972be477e37148205d153013eb9247fbd5dea18ba9091f5d8dd5252cfd547"
+        }
+      ],
+      "snapshotUrl": "/files/b0f4b99f826ef64864362314aa9f346a81c1e503575ef257d21c529ecfb40172.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-15T03:25:23Z",
+    "lastObserved": "2026-10-15T03:25:23Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

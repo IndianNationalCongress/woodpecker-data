@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_CEPWD_603773_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_CEPWD_603773_1",
+      "id": "woodpecker-rajasthan-2026_CEPWD_603773_1-0001",
+      "date": "2026-10-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD - CE AND AS||ACE - JAIPUR I||SE-CITY-JPR||EE-CITY-III",
+        "id": "IN-ORG-pwd-ce-and-as-ace-jaipur-i-se-city-jpr-e"
+      },
+      "tender": {
+        "id": "2026_CEPWD_603773_1",
+        "title": "As per NIT",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD - CE AND AS||ACE - JAIPUR I||SE-CITY-JPR||EE-CITY-III",
+          "id": "IN-ORG-pwd-ce-and-as-ace-jaipur-i-se-city-jpr-e"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 664000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-15T00:00:00Z"
+        },
+        "description": "As per NIT"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_CEPWD_603773_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_CEPWD_603773_1",
+          "url": "/files/f4296b9990ae5e60d059527b200158618f57ab28b031054b7f2caff491847e8a.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLlUJNUfdGFv7DZdJtT%2BDrA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f4296b9990ae5e60d059527b200158618f57ab28b031054b7f2caff491847e8a",
+          "format": "text/plain",
+          "textUrl": "/files/f4296b9990ae5e60d059527b200158618f57ab28b031054b7f2caff491847e8a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_CEPWD_603773_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLlUJNUfdGFv7DZdJtT%2BDrA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_CEPWD_603773_1",
+    "tender": {
+      "id": "2026_CEPWD_603773_1",
+      "title": "As per NIT",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD - CE AND AS||ACE - JAIPUR I||SE-CITY-JPR||EE-CITY-III",
+        "id": "IN-ORG-pwd-ce-and-as-ace-jaipur-i-se-city-jpr-e"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 664000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-15T00:00:00Z"
+      },
+      "description": "As per NIT"
+    },
+    "buyer": {
+      "name": "PWD - CE AND AS||ACE - JAIPUR I||SE-CITY-JPR||EE-CITY-III",
+      "id": "IN-ORG-pwd-ce-and-as-ace-jaipur-i-se-city-jpr-e"
+    },
+    "date": "2026-10-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_CEPWD_603773_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_CEPWD_603773_1",
+        "url": "/files/f4296b9990ae5e60d059527b200158618f57ab28b031054b7f2caff491847e8a.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLlUJNUfdGFv7DZdJtT%2BDrA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f4296b9990ae5e60d059527b200158618f57ab28b031054b7f2caff491847e8a",
+        "format": "text/plain",
+        "textUrl": "/files/f4296b9990ae5e60d059527b200158618f57ab28b031054b7f2caff491847e8a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_CEPWD_603773_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLlUJNUfdGFv7DZdJtT%2BDrA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_CEPWD_603773_1",
+      "observedAt": "2026-10-15T03:12:36Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "1f23d1ecdd79082ee9cc654729c65a7048462e0b2bf51b165805aed12aaeb7f5",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_CEPWD_603773_1-0001-record",
+          "sha256": "f4296b9990ae5e60d059527b200158618f57ab28b031054b7f2caff491847e8a"
+        }
+      ],
+      "snapshotUrl": "/files/6fb67ae96ad2bab7bf82b6a331ef1e94612419da21fab3d08f2a8cf6512d6426.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-15T03:12:36Z",
+    "lastObserved": "2026-10-15T03:12:36Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-haryana-2026_HBC_552201_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_552201_1",
+      "id": "woodpecker-haryana-2026_HBC_552201_1-0001",
+      "date": "2026-10-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Board Corporation||Haryana SugarFed||Karnal Coop. Sugar Mill",
+        "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+      },
+      "tender": {
+        "id": "2026_HBC_552201_1",
+        "title": "canebindingmaterial",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Board Corporation||Haryana SugarFed||Karnal Coop. Sugar Mill",
+          "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-15T00:00:00Z"
+        },
+        "description": "canebindingmaterial"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_552201_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HBC_552201_1",
+          "url": "/files/c9e12e3984afdfc1df3f348eee36ea11903e3a02b0314bd43dd0f222097c232e.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StT7%2B%2FLkWGZeHtP3MZLal%2Fw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c9e12e3984afdfc1df3f348eee36ea11903e3a02b0314bd43dd0f222097c232e",
+          "format": "text/plain",
+          "textUrl": "/files/c9e12e3984afdfc1df3f348eee36ea11903e3a02b0314bd43dd0f222097c232e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HBC_552201_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StT7%2B%2FLkWGZeHtP3MZLal%2Fw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HBC_552201_1",
+    "tender": {
+      "id": "2026_HBC_552201_1",
+      "title": "canebindingmaterial",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Board Corporation||Haryana SugarFed||Karnal Coop. Sugar Mill",
+        "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-15T00:00:00Z"
+      },
+      "description": "canebindingmaterial"
+    },
+    "buyer": {
+      "name": "Haryana Board Corporation||Haryana SugarFed||Karnal Coop. Sugar Mill",
+      "id": "IN-ORG-haryana-board-corporation-haryana-sugarf"
+    },
+    "date": "2026-10-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HBC_552201_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HBC_552201_1",
+        "url": "/files/c9e12e3984afdfc1df3f348eee36ea11903e3a02b0314bd43dd0f222097c232e.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StT7%2B%2FLkWGZeHtP3MZLal%2Fw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c9e12e3984afdfc1df3f348eee36ea11903e3a02b0314bd43dd0f222097c232e",
+        "format": "text/plain",
+        "textUrl": "/files/c9e12e3984afdfc1df3f348eee36ea11903e3a02b0314bd43dd0f222097c232e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HBC_552201_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=StT7%2B%2FLkWGZeHtP3MZLal%2Fw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_552201_1",
+      "observedAt": "2026-10-15T02:53:40Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "969db1eb83fd9b03ce0d60e81f032851dfdb0e683d11b7e2395960ded1d2f4b2",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_552201_1-0001-record",
+          "sha256": "c9e12e3984afdfc1df3f348eee36ea11903e3a02b0314bd43dd0f222097c232e"
+        }
+      ],
+      "snapshotUrl": "/files/85f158c175c2d6ac8c350a8097549a312077a9d8dbe399aedd9b9b760f833ee1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-15T02:53:40Z",
+    "lastObserved": "2026-10-15T02:53:40Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

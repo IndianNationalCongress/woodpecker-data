@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DAMJP_602341_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DAMJP_602341_1",
+      "id": "woodpecker-rajasthan-2026_DAMJP_602341_1-0001",
+      "date": "2026-09-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Directorate of Agriculture Marketing-Jaipur||Addtional Director",
+        "id": "IN-ORG-directorate-of-agriculture-marketing-jai"
+      },
+      "tender": {
+        "id": "2026_DAMJP_602341_1",
+        "title": "In KUMS Main Mandi Yard",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Directorate of Agriculture Marketing-Jaipur||Addtional Director",
+          "id": "IN-ORG-directorate-of-agriculture-marketing-jai"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 4600000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-15T00:00:00Z"
+        },
+        "description": "In KUMS Main Mandi Yard"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DAMJP_602341_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DAMJP_602341_1",
+          "url": "/files/246829e47d5379d7b859326dbb340a32be284e2f3d9395cb06848f0a21940a5c.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDsznF3syik3NEiTikM19LA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "246829e47d5379d7b859326dbb340a32be284e2f3d9395cb06848f0a21940a5c",
+          "format": "text/plain",
+          "textUrl": "/files/246829e47d5379d7b859326dbb340a32be284e2f3d9395cb06848f0a21940a5c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DAMJP_602341_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDsznF3syik3NEiTikM19LA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DAMJP_602341_1",
+    "tender": {
+      "id": "2026_DAMJP_602341_1",
+      "title": "In KUMS Main Mandi Yard",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Directorate of Agriculture Marketing-Jaipur||Addtional Director",
+        "id": "IN-ORG-directorate-of-agriculture-marketing-jai"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 4600000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-15T00:00:00Z"
+      },
+      "description": "In KUMS Main Mandi Yard"
+    },
+    "buyer": {
+      "name": "Directorate of Agriculture Marketing-Jaipur||Addtional Director",
+      "id": "IN-ORG-directorate-of-agriculture-marketing-jai"
+    },
+    "date": "2026-09-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DAMJP_602341_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DAMJP_602341_1",
+        "url": "/files/246829e47d5379d7b859326dbb340a32be284e2f3d9395cb06848f0a21940a5c.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDsznF3syik3NEiTikM19LA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "246829e47d5379d7b859326dbb340a32be284e2f3d9395cb06848f0a21940a5c",
+        "format": "text/plain",
+        "textUrl": "/files/246829e47d5379d7b859326dbb340a32be284e2f3d9395cb06848f0a21940a5c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DAMJP_602341_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDsznF3syik3NEiTikM19LA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DAMJP_602341_1",
+      "observedAt": "2026-10-15T03:12:36Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "16956be6b74da95aadb2135b271ddbb80dcbc63cdd7b6fef13843f9685a2e9da",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DAMJP_602341_1-0001-record",
+          "sha256": "246829e47d5379d7b859326dbb340a32be284e2f3d9395cb06848f0a21940a5c"
+        }
+      ],
+      "snapshotUrl": "/files/9706279cebb3ba4be5e5e7446e94b1550f03aca0a197468af37038af3faa6628.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-15T03:12:36Z",
+    "lastObserved": "2026-10-15T03:12:36Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

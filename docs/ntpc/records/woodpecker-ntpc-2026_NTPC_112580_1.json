@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112580_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112580_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112580_1-0001",
+      "date": "2026-10-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||DBF Headquarter||Faridabad Gas Power Station",
+        "id": "IN-ORG-ntpc-limited-dbf-headquarter-faridabad-g"
+      },
+      "tender": {
+        "id": "2026_NTPC_112580_1",
+        "title": "Procurement of Caustic Soda Lye for FGPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||DBF Headquarter||Faridabad Gas Power Station",
+          "id": "IN-ORG-ntpc-limited-dbf-headquarter-faridabad-g"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-15T00:00:00Z"
+        },
+        "description": "Procurement of Caustic Soda Lye for FGPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112580_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112580_1",
+          "url": "/files/264984b2b24a6f4cd3a07ed07b9e973572a83a67529d39216a666e646d727f31.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKrxdGnG2feVcCU2RBu0EOw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "264984b2b24a6f4cd3a07ed07b9e973572a83a67529d39216a666e646d727f31",
+          "format": "text/plain",
+          "textUrl": "/files/264984b2b24a6f4cd3a07ed07b9e973572a83a67529d39216a666e646d727f31.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112580_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKrxdGnG2feVcCU2RBu0EOw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112580_1",
+    "tender": {
+      "id": "2026_NTPC_112580_1",
+      "title": "Procurement of Caustic Soda Lye for FGPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||DBF Headquarter||Faridabad Gas Power Station",
+        "id": "IN-ORG-ntpc-limited-dbf-headquarter-faridabad-g"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-15T00:00:00Z"
+      },
+      "description": "Procurement of Caustic Soda Lye for FGPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||DBF Headquarter||Faridabad Gas Power Station",
+      "id": "IN-ORG-ntpc-limited-dbf-headquarter-faridabad-g"
+    },
+    "date": "2026-10-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112580_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112580_1",
+        "url": "/files/264984b2b24a6f4cd3a07ed07b9e973572a83a67529d39216a666e646d727f31.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKrxdGnG2feVcCU2RBu0EOw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "264984b2b24a6f4cd3a07ed07b9e973572a83a67529d39216a666e646d727f31",
+        "format": "text/plain",
+        "textUrl": "/files/264984b2b24a6f4cd3a07ed07b9e973572a83a67529d39216a666e646d727f31.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112580_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKrxdGnG2feVcCU2RBu0EOw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112580_1",
+      "observedAt": "2026-10-15T03:25:23Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "b9c539ca60c31b5574297bfefa6fba4b878b2baf6fb0af02107f4ac988099b64",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112580_1-0001-record",
+          "sha256": "264984b2b24a6f4cd3a07ed07b9e973572a83a67529d39216a666e646d727f31"
+        }
+      ],
+      "snapshotUrl": "/files/682320b5844718c6d9e7c710d140a017870fae21d16d00c39d46335ef0a5a737.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-15T03:25:23Z",
+    "lastObserved": "2026-10-15T03:25:23Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

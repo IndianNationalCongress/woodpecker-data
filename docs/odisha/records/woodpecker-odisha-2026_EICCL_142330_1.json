@@ -1,0 +1,154 @@
+{
+  "ocid": "woodpecker-odisha-2026_EICCL_142330_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-odisha-2026_EICCL_142330_1",
+      "id": "woodpecker-odisha-2026_EICCL_142330_1-0001",
+      "date": "2026-10-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "EIC-CIVIL||SERNB-CIRCLE-JEYPORE",
+        "id": "IN-ORG-eic-civil-sernb-circle-jeypore"
+      },
+      "tender": {
+        "id": "2026_EICCL_142330_1",
+        "title": "Civil Works",
+        "status": "active",
+        "procuringEntity": {
+          "name": "EIC-CIVIL||SERNB-CIRCLE-JEYPORE",
+          "id": "IN-ORG-eic-civil-sernb-circle-jeypore"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 25149926,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-15T00:00:00Z"
+        },
+        "description": "Civil Works"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_EICCL_142330_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_EICCL_142330_1",
+          "url": "/files/6e32aeea7c9df0aa39bebb6655a2009a23deb643c273e4e380dfb09ab01b22a4.txt",
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmGoXL%2F%2B%2FNFZ5QlqY%2BmmyCA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6e32aeea7c9df0aa39bebb6655a2009a23deb643c273e4e380dfb09ab01b22a4",
+          "format": "text/plain",
+          "textUrl": "/files/6e32aeea7c9df0aa39bebb6655a2009a23deb643c273e4e380dfb09ab01b22a4.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-odisha-2026_EICCL_142330_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_2.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmGoXL%2F%2B%2FNFZ5QlqY%2BmmyCA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        },
+        {
+          "id": "woodpecker-odisha-2026_EICCL_142330_1-0001-doc-2",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmGoXL%2F%2B%2FNFZ5QlqY%2BmmyCA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-odisha-2026_EICCL_142330_1",
+    "tender": {
+      "id": "2026_EICCL_142330_1",
+      "title": "Civil Works",
+      "status": "active",
+      "procuringEntity": {
+        "name": "EIC-CIVIL||SERNB-CIRCLE-JEYPORE",
+        "id": "IN-ORG-eic-civil-sernb-circle-jeypore"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 25149926,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-15T00:00:00Z"
+      },
+      "description": "Civil Works"
+    },
+    "buyer": {
+      "name": "EIC-CIVIL||SERNB-CIRCLE-JEYPORE",
+      "id": "IN-ORG-eic-civil-sernb-circle-jeypore"
+    },
+    "date": "2026-10-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-odisha-2026_EICCL_142330_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_EICCL_142330_1",
+        "url": "/files/6e32aeea7c9df0aa39bebb6655a2009a23deb643c273e4e380dfb09ab01b22a4.txt",
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmGoXL%2F%2B%2FNFZ5QlqY%2BmmyCA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6e32aeea7c9df0aa39bebb6655a2009a23deb643c273e4e380dfb09ab01b22a4",
+        "format": "text/plain",
+        "textUrl": "/files/6e32aeea7c9df0aa39bebb6655a2009a23deb643c273e4e380dfb09ab01b22a4.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-odisha-2026_EICCL_142330_1-0001-doc-2",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmGoXL%2F%2B%2FNFZ5QlqY%2BmmyCA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-odisha-2026_EICCL_142330_1",
+      "observedAt": "2026-10-15T02:10:26Z",
+      "witness": "woodpecker:odisha",
+      "availability": "present",
+      "stateHash": "4f19b7810996e0de7e17ea7d95cc2a4438850a17fe92167fe106f3f57c8d923e",
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_EICCL_142330_1-0001-record",
+          "sha256": "6e32aeea7c9df0aa39bebb6655a2009a23deb643c273e4e380dfb09ab01b22a4"
+        }
+      ],
+      "snapshotUrl": "/files/ff24d9896a874017d1054e35a35ba13d2c934b4e66c28be49a1a25f9ea244296.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-15T02:10:26Z",
+    "lastObserved": "2026-10-15T02:10:26Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
