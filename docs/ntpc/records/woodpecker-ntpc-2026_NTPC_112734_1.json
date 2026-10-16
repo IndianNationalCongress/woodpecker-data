@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112734_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112734_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112734_1-0001",
+      "date": "2026-10-14T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112734_1",
+        "title": "Procurement of Accumulator bladder for 500MW units of NTPC FSTPS.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-16T00:00:00Z"
+        },
+        "description": "Procurement of Accumulator bladder for 500MW units of NTPC FSTPS."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112734_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112734_1",
+          "url": "/files/82e28725843fd71563954d42bf0732456dc285c2beb37b9122453aed9736288a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzEMqriFUgh%2FFpSXzmtiFDQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "82e28725843fd71563954d42bf0732456dc285c2beb37b9122453aed9736288a",
+          "format": "text/plain",
+          "textUrl": "/files/82e28725843fd71563954d42bf0732456dc285c2beb37b9122453aed9736288a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112734_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzEMqriFUgh%2FFpSXzmtiFDQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112734_1",
+    "tender": {
+      "id": "2026_NTPC_112734_1",
+      "title": "Procurement of Accumulator bladder for 500MW units of NTPC FSTPS.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-16T00:00:00Z"
+      },
+      "description": "Procurement of Accumulator bladder for 500MW units of NTPC FSTPS."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-14T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112734_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112734_1",
+        "url": "/files/82e28725843fd71563954d42bf0732456dc285c2beb37b9122453aed9736288a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzEMqriFUgh%2FFpSXzmtiFDQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "82e28725843fd71563954d42bf0732456dc285c2beb37b9122453aed9736288a",
+        "format": "text/plain",
+        "textUrl": "/files/82e28725843fd71563954d42bf0732456dc285c2beb37b9122453aed9736288a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112734_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzEMqriFUgh%2FFpSXzmtiFDQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112734_1",
+      "observedAt": "2026-10-16T03:10:25Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "6a7562a46334cd8d099421e16c7a2d9637dcab9a4853e76e28cee989ece23f72",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112734_1-0001-record",
+          "sha256": "82e28725843fd71563954d42bf0732456dc285c2beb37b9122453aed9736288a"
+        }
+      ],
+      "snapshotUrl": "/files/f2fe78793a95213231848544b7761af9df675348c8751976f78a9823cb2f0539.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-16T03:10:25Z",
+    "lastObserved": "2026-10-16T03:10:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

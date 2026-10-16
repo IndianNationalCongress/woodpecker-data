@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-jammukashmir-2026_PWDJK_326075_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_PWDJK_326075_1",
+      "id": "woodpecker-jammukashmir-2026_PWDJK_326075_1-0001",
+      "date": "2026-09-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD||CE RandB Jammu||SE RandB South Jammu||EE RandB R.S Pura",
+        "id": "IN-ORG-pwd-ce-randb-jammu-se-randb-south-jammu-"
+      },
+      "tender": {
+        "id": "2026_PWDJK_326075_1",
+        "title": "BOQ",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD||CE RandB Jammu||SE RandB South Jammu||EE RandB R.S Pura",
+          "id": "IN-ORG-pwd-ce-randb-jammu-se-randb-south-jammu-"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 3345000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-16T00:00:00Z"
+        },
+        "description": "BOQ"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_PWDJK_326075_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWDJK_326075_1",
+          "url": "/files/3a66d86a7b6ad32fee88e81e6d0a8c27047886d228189d83352d7de5d13a5cf5.txt",
+          "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6O5sjvDVpHe%2BdDkmAQAa4w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3a66d86a7b6ad32fee88e81e6d0a8c27047886d228189d83352d7de5d13a5cf5",
+          "format": "text/plain",
+          "textUrl": "/files/3a66d86a7b6ad32fee88e81e6d0a8c27047886d228189d83352d7de5d13a5cf5.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-jammukashmir-2026_PWDJK_326075_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6O5sjvDVpHe%2BdDkmAQAa4w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jammukashmir-2026_PWDJK_326075_1",
+    "tender": {
+      "id": "2026_PWDJK_326075_1",
+      "title": "BOQ",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD||CE RandB Jammu||SE RandB South Jammu||EE RandB R.S Pura",
+        "id": "IN-ORG-pwd-ce-randb-jammu-se-randb-south-jammu-"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 3345000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-16T00:00:00Z"
+      },
+      "description": "BOQ"
+    },
+    "buyer": {
+      "name": "PWD||CE RandB Jammu||SE RandB South Jammu||EE RandB R.S Pura",
+      "id": "IN-ORG-pwd-ce-randb-jammu-se-randb-south-jammu-"
+    },
+    "date": "2026-09-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jammukashmir-2026_PWDJK_326075_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWDJK_326075_1",
+        "url": "/files/3a66d86a7b6ad32fee88e81e6d0a8c27047886d228189d83352d7de5d13a5cf5.txt",
+        "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6O5sjvDVpHe%2BdDkmAQAa4w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3a66d86a7b6ad32fee88e81e6d0a8c27047886d228189d83352d7de5d13a5cf5",
+        "format": "text/plain",
+        "textUrl": "/files/3a66d86a7b6ad32fee88e81e6d0a8c27047886d228189d83352d7de5d13a5cf5.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-jammukashmir-2026_PWDJK_326075_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://jktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S6O5sjvDVpHe%2BdDkmAQAa4w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jammukashmir-2026_PWDJK_326075_1",
+      "observedAt": "2026-10-16T02:53:09Z",
+      "witness": "woodpecker:jammukashmir",
+      "availability": "present",
+      "stateHash": "860d5ab01a76f8a0c19319e9a51477f6125ce745627c814042d9a8f985e8de11",
+      "documents": [
+        {
+          "id": "woodpecker-jammukashmir-2026_PWDJK_326075_1-0001-record",
+          "sha256": "3a66d86a7b6ad32fee88e81e6d0a8c27047886d228189d83352d7de5d13a5cf5"
+        }
+      ],
+      "snapshotUrl": "/files/faf0805fd4ba55f551cc8b6be077aa43b397be3e38a042b491c049fbc3329148.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-16T02:53:09Z",
+    "lastObserved": "2026-10-16T02:53:09Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_DREV_927676_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DREV_927676_1",
+      "id": "woodpecker-cppp-2026_DREV_927676_1-0001",
+      "date": "2026-09-25T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Revenue||Central Board of Excise and Customs||Directorate General of tax Payers, New Delhi",
+        "id": "IN-ORG-department-of-revenue-central-board-of-e"
+      },
+      "tender": {
+        "id": "2026_DREV_927676_1",
+        "title": "As per RFP document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Revenue||Central Board of Excise and Customs||Directorate General of tax Payers, New Delhi",
+          "id": "IN-ORG-department-of-revenue-central-board-of-e"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 25400000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-16T00:00:00Z"
+        },
+        "description": "As per RFP document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DREV_927676_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DREV_927676_1",
+          "url": "/files/c5de4c539829f067592a88c6272435ec733823c0e7938f1c0b37828ac83f753d.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sao80xFmD1ZUdri8K8UGSBw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c5de4c539829f067592a88c6272435ec733823c0e7938f1c0b37828ac83f753d",
+          "format": "text/plain",
+          "textUrl": "/files/c5de4c539829f067592a88c6272435ec733823c0e7938f1c0b37828ac83f753d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DREV_927676_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sao80xFmD1ZUdri8K8UGSBw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DREV_927676_1",
+    "tender": {
+      "id": "2026_DREV_927676_1",
+      "title": "As per RFP document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Revenue||Central Board of Excise and Customs||Directorate General of tax Payers, New Delhi",
+        "id": "IN-ORG-department-of-revenue-central-board-of-e"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 25400000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-16T00:00:00Z"
+      },
+      "description": "As per RFP document"
+    },
+    "buyer": {
+      "name": "Department of Revenue||Central Board of Excise and Customs||Directorate General of tax Payers, New Delhi",
+      "id": "IN-ORG-department-of-revenue-central-board-of-e"
+    },
+    "date": "2026-09-25T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DREV_927676_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DREV_927676_1",
+        "url": "/files/c5de4c539829f067592a88c6272435ec733823c0e7938f1c0b37828ac83f753d.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sao80xFmD1ZUdri8K8UGSBw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c5de4c539829f067592a88c6272435ec733823c0e7938f1c0b37828ac83f753d",
+        "format": "text/plain",
+        "textUrl": "/files/c5de4c539829f067592a88c6272435ec733823c0e7938f1c0b37828ac83f753d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DREV_927676_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sao80xFmD1ZUdri8K8UGSBw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DREV_927676_1",
+      "observedAt": "2026-10-16T01:40:56Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "db85c531206d69d2b5181e5226f8e75b4f527f3af19081ff28bf253696e33a8b",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DREV_927676_1-0001-record",
+          "sha256": "c5de4c539829f067592a88c6272435ec733823c0e7938f1c0b37828ac83f753d"
+        }
+      ],
+      "snapshotUrl": "/files/9f94598958e3f866df715468284a518da5c62d6875dbc061682e668682c82c19.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-16T01:40:56Z",
+    "lastObserved": "2026-10-16T01:40:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

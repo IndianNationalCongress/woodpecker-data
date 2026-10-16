@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112554_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112554_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112554_1-0001",
+      "date": "2026-10-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112554_1",
+        "title": "PROCUREMENT OF ABB MAKE SPARES FOR AGC SYSTEM OF NTPC Kawas",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-16T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF ABB MAKE SPARES FOR AGC SYSTEM OF NTPC Kawas"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112554_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112554_1",
+          "url": "/files/5f17daf36f19f3a8ffab6bceef414dfb670c2870f5c15ac3f9163cd779366b2f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKLqVdwAaznMP1lP%2F9Dy0eA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5f17daf36f19f3a8ffab6bceef414dfb670c2870f5c15ac3f9163cd779366b2f",
+          "format": "text/plain",
+          "textUrl": "/files/5f17daf36f19f3a8ffab6bceef414dfb670c2870f5c15ac3f9163cd779366b2f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112554_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKLqVdwAaznMP1lP%2F9Dy0eA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112554_1",
+    "tender": {
+      "id": "2026_NTPC_112554_1",
+      "title": "PROCUREMENT OF ABB MAKE SPARES FOR AGC SYSTEM OF NTPC Kawas",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-16T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF ABB MAKE SPARES FOR AGC SYSTEM OF NTPC Kawas"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112554_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112554_1",
+        "url": "/files/5f17daf36f19f3a8ffab6bceef414dfb670c2870f5c15ac3f9163cd779366b2f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKLqVdwAaznMP1lP%2F9Dy0eA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5f17daf36f19f3a8ffab6bceef414dfb670c2870f5c15ac3f9163cd779366b2f",
+        "format": "text/plain",
+        "textUrl": "/files/5f17daf36f19f3a8ffab6bceef414dfb670c2870f5c15ac3f9163cd779366b2f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112554_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SKLqVdwAaznMP1lP%2F9Dy0eA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112554_1",
+      "observedAt": "2026-10-16T03:10:25Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "fd5ef0edd59c31affdb43a890699fd082aa194a18e0f56917edf9c22c718c2b5",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112554_1-0001-record",
+          "sha256": "5f17daf36f19f3a8ffab6bceef414dfb670c2870f5c15ac3f9163cd779366b2f"
+        }
+      ],
+      "snapshotUrl": "/files/5b69cc55508726c83d95e55af9dbd21f301502bf755f1732043b512bef42f29e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-16T03:10:25Z",
+    "lastObserved": "2026-10-16T03:10:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

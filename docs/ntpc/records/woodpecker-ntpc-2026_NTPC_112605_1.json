@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112605_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112605_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112605_1-0001",
+      "date": "2026-10-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112605_1",
+        "title": "Procurement of spares for tripper rail clamp For NTPC Sipat",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-16T00:00:00Z"
+        },
+        "description": "Procurement of spares for tripper rail clamp For NTPC Sipat"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112605_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112605_1",
+          "url": "/files/9bf196b5746ad37996d84b2e016c98fdeb3efa201e0dc1b33c44a1b4e76cf55e.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOPj4FdUrOzqyaXsML4rTOA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9bf196b5746ad37996d84b2e016c98fdeb3efa201e0dc1b33c44a1b4e76cf55e",
+          "format": "text/plain",
+          "textUrl": "/files/9bf196b5746ad37996d84b2e016c98fdeb3efa201e0dc1b33c44a1b4e76cf55e.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112605_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOPj4FdUrOzqyaXsML4rTOA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112605_1",
+    "tender": {
+      "id": "2026_NTPC_112605_1",
+      "title": "Procurement of spares for tripper rail clamp For NTPC Sipat",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-16T00:00:00Z"
+      },
+      "description": "Procurement of spares for tripper rail clamp For NTPC Sipat"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112605_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112605_1",
+        "url": "/files/9bf196b5746ad37996d84b2e016c98fdeb3efa201e0dc1b33c44a1b4e76cf55e.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOPj4FdUrOzqyaXsML4rTOA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9bf196b5746ad37996d84b2e016c98fdeb3efa201e0dc1b33c44a1b4e76cf55e",
+        "format": "text/plain",
+        "textUrl": "/files/9bf196b5746ad37996d84b2e016c98fdeb3efa201e0dc1b33c44a1b4e76cf55e.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112605_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOPj4FdUrOzqyaXsML4rTOA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112605_1",
+      "observedAt": "2026-10-16T03:10:25Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "fe7ce31f326e0a76fcac12a5e581dc0513aa2f5d5841635ad2e39c8933a55d49",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112605_1-0001-record",
+          "sha256": "9bf196b5746ad37996d84b2e016c98fdeb3efa201e0dc1b33c44a1b4e76cf55e"
+        }
+      ],
+      "snapshotUrl": "/files/33a46c1e6612ed23e5ecb63d42050924473adaa202ea0a3e83c40398e874669f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-16T03:10:25Z",
+    "lastObserved": "2026-10-16T03:10:25Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

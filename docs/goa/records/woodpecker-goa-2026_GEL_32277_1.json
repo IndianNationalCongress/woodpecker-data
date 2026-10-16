@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-goa-2026_GEL_32277_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-goa-2026_GEL_32277_1",
+      "id": "woodpecker-goa-2026_GEL_32277_1-0001",
+      "date": "2026-10-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Goa Electronics Limited||Information Technology",
+        "id": "IN-ORG-goa-electronics-limited-information-tech"
+      },
+      "tender": {
+        "id": "2026_GEL_32277_1",
+        "title": "Limited Tender 14",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Goa Electronics Limited||Information Technology",
+          "id": "IN-ORG-goa-electronics-limited-information-tech"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-16T00:00:00Z"
+        },
+        "description": "Limited Tender 14"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_GEL_32277_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_GEL_32277_1",
+          "url": "/files/cbea6b07eba1b5b3d9a429fa3e1f64f3cc752d1cf0eb25d8be57c1fee9d382e8.txt",
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiL58Twk7gVp%2BaXun2u1gjg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cbea6b07eba1b5b3d9a429fa3e1f64f3cc752d1cf0eb25d8be57c1fee9d382e8",
+          "format": "text/plain",
+          "textUrl": "/files/cbea6b07eba1b5b3d9a429fa3e1f64f3cc752d1cf0eb25d8be57c1fee9d382e8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-goa-2026_GEL_32277_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiL58Twk7gVp%2BaXun2u1gjg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-goa-2026_GEL_32277_1",
+    "tender": {
+      "id": "2026_GEL_32277_1",
+      "title": "Limited Tender 14",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Goa Electronics Limited||Information Technology",
+        "id": "IN-ORG-goa-electronics-limited-information-tech"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-16T00:00:00Z"
+      },
+      "description": "Limited Tender 14"
+    },
+    "buyer": {
+      "name": "Goa Electronics Limited||Information Technology",
+      "id": "IN-ORG-goa-electronics-limited-information-tech"
+    },
+    "date": "2026-10-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-goa-2026_GEL_32277_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_GEL_32277_1",
+        "url": "/files/cbea6b07eba1b5b3d9a429fa3e1f64f3cc752d1cf0eb25d8be57c1fee9d382e8.txt",
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiL58Twk7gVp%2BaXun2u1gjg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cbea6b07eba1b5b3d9a429fa3e1f64f3cc752d1cf0eb25d8be57c1fee9d382e8",
+        "format": "text/plain",
+        "textUrl": "/files/cbea6b07eba1b5b3d9a429fa3e1f64f3cc752d1cf0eb25d8be57c1fee9d382e8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-goa-2026_GEL_32277_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.goa.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiL58Twk7gVp%2BaXun2u1gjg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-goa-2026_GEL_32277_1",
+      "observedAt": "2026-10-16T02:43:42Z",
+      "witness": "woodpecker:goa",
+      "availability": "present",
+      "stateHash": "a14c02f66b8824e83f820f93827dec936178d7ea6c98870fb2e646963dee4f7c",
+      "documents": [
+        {
+          "id": "woodpecker-goa-2026_GEL_32277_1-0001-record",
+          "sha256": "cbea6b07eba1b5b3d9a429fa3e1f64f3cc752d1cf0eb25d8be57c1fee9d382e8"
+        }
+      ],
+      "snapshotUrl": "/files/b943a2bd0f33d12be8c39448765be0e5c2661dafca54234653fa3ae75e2370ee.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-16T02:43:42Z",
+    "lastObserved": "2026-10-16T02:43:42Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
