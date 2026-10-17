@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-iocl-2026_HR_191652_1",
+  "id": "woodpecker-iocl-2026_HR_191652_1-0001",
+  "date": "2026-10-03T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "IndianOil||Refineries||Haldia Refinery||Contracts",
+    "id": "IN-ORG-indianoil-refineries-haldia-refinery-con"
+  },
+  "tender": {
+    "id": "2026_HR_191652_1",
+    "title": "Misc. Instrument Works for Duct Route, MCT, Cable Laying",
+    "status": "active",
+    "procuringEntity": {
+      "name": "IndianOil||Refineries||Haldia Refinery||Contracts",
+      "id": "IN-ORG-indianoil-refineries-haldia-refinery-con"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 16668733,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-10-17T00:00:00Z"
+    },
+    "description": "Misc. Instrument Works for Duct Route, MCT, Cable Laying"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-iocl-2026_HR_191652_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_HR_191652_1",
+      "url": "/files/b53c0d9f1cd9068d3873926d9013b2047d6fa0502cf497e4a9a9ff846d84b2ec.txt",
+      "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC0eyvDqq1vHnRnfoaOqb0g%3D%3D",
+      "sourceAlive": true,
+      "sha256": "b53c0d9f1cd9068d3873926d9013b2047d6fa0502cf497e4a9a9ff846d84b2ec",
+      "format": "text/plain",
+      "textUrl": "/files/b53c0d9f1cd9068d3873926d9013b2047d6fa0502cf497e4a9a9ff846d84b2ec.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-iocl-2026_HR_191652_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC0eyvDqq1vHnRnfoaOqb0g%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

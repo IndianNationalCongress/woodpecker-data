@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112774_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112774_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112774_1-0001",
+      "date": "2026-10-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112774_1",
+        "title": "Procurement of Mass Flow Transmitter s spare items AHP NTPC SOLAPUR",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-17T00:00:00Z"
+        },
+        "description": "Procurement of Mass Flow Transmitter s spare items AHP NTPC SOLAPUR"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112774_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112774_1",
+          "url": "/files/16fc20b602a3c855f0d01974eecf3e5eea6ab69526d6133adfba862f03fcd481.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShOWFyc%2B3J9eIFDloVr41ug%3D%3D",
+          "sourceAlive": true,
+          "sha256": "16fc20b602a3c855f0d01974eecf3e5eea6ab69526d6133adfba862f03fcd481",
+          "format": "text/plain",
+          "textUrl": "/files/16fc20b602a3c855f0d01974eecf3e5eea6ab69526d6133adfba862f03fcd481.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112774_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShOWFyc%2B3J9eIFDloVr41ug%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112774_1",
+    "tender": {
+      "id": "2026_NTPC_112774_1",
+      "title": "Procurement of Mass Flow Transmitter s spare items AHP NTPC SOLAPUR",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-17T00:00:00Z"
+      },
+      "description": "Procurement of Mass Flow Transmitter s spare items AHP NTPC SOLAPUR"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112774_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112774_1",
+        "url": "/files/16fc20b602a3c855f0d01974eecf3e5eea6ab69526d6133adfba862f03fcd481.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShOWFyc%2B3J9eIFDloVr41ug%3D%3D",
+        "sourceAlive": true,
+        "sha256": "16fc20b602a3c855f0d01974eecf3e5eea6ab69526d6133adfba862f03fcd481",
+        "format": "text/plain",
+        "textUrl": "/files/16fc20b602a3c855f0d01974eecf3e5eea6ab69526d6133adfba862f03fcd481.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112774_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ShOWFyc%2B3J9eIFDloVr41ug%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112774_1",
+      "observedAt": "2026-10-17T02:51:13Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "edb733e0660f166eb284c5d7a1117ca892588293edd745c923376949c108f1f0",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112774_1-0001-record",
+          "sha256": "16fc20b602a3c855f0d01974eecf3e5eea6ab69526d6133adfba862f03fcd481"
+        }
+      ],
+      "snapshotUrl": "/files/5b61deb348d443f585b7b673054f1cb17edb59cf4c75f7f2f72d5db6e022622a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-17T02:51:13Z",
+    "lastObserved": "2026-10-17T02:51:13Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
