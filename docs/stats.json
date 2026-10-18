@@ -1,25 +1,25 @@
 {
-  "generated": "2026-10-17T02:58:35Z",
-  "totalTenders": 344961,
+  "generated": "2026-10-18T01:28:52Z",
+  "totalTenders": 344984,
   "dateRange": {
     "from": "2012-03-09T00:00:00Z",
     "to": "2026-10-30T00:00:00Z"
   },
-  "totalValue": 2513322701893,
-  "withValue": 134503,
+  "totalValue": 2513394407640,
+  "withValue": 134523,
   "sources": 2139,
   "byCategory": {
     "works": {
-      "count": 159656,
-      "value": 2111169094541
+      "count": 159675,
+      "value": 2111192267288
     },
     "goods": {
       "count": 37268,
       "value": 201049874991
     },
     "services": {
-      "count": 16773,
-      "value": 201103732361
+      "count": 16777,
+      "value": 201152265361
     },
     "other": {
       "count": 131264,
@@ -48,8 +48,8 @@
     {
       "id": "coal-india",
       "label": "Coal India & subsidiaries",
-      "count": 18278,
-      "value": 14711670313
+      "count": 18280,
+      "value": 14715270088
     },
     {
       "id": "npcil",
@@ -72,8 +72,8 @@
     {
       "id": "org-pwd",
       "label": "Pwd",
-      "count": 8994,
-      "value": 37999459568
+      "count": 8995,
+      "value": 38008601540
     },
     {
       "id": "mod",
@@ -342,7 +342,7 @@
     {
       "id": "org-u-p-irrigation-department",
       "label": "U P Irrigation Department",
-      "count": 915,
+      "count": 918,
       "value": 1607276303
     },
     {
@@ -402,8 +402,8 @@
     {
       "id": "org-pwd-ce-as",
       "label": "Pwd Ce As",
-      "count": 718,
-      "value": 4080974701
+      "count": 726,
+      "value": 4089085701
     },
     {
       "id": "org-irrigation-department",
@@ -1218,8 +1218,8 @@
     {
       "id": "org-director-general-prisons-correctional-services",
       "label": "Director General Prisons Correctional Services",
-      "count": 159,
-      "value": 237965153
+      "count": 160,
+      "value": 238673153
     },
     {
       "id": "org-central-mine-planning-design-institute",
@@ -1636,6 +1636,12 @@
       "value": 354584307
     },
     {
+      "id": "org-rcdf-md",
+      "label": "Rcdf Md",
+      "count": 103,
+      "value": 1304321855
+    },
+    {
       "id": "org-dg-sashastra-seema-bal",
       "label": "Dg Sashastra Seema Bal",
       "count": 102,
@@ -1664,12 +1670,6 @@
       "label": "Indian Coast Guard",
       "count": 100,
       "value": 951040
-    },
-    {
-      "id": "org-rcdf-md",
-      "label": "Rcdf Md",
-      "count": 100,
-      "value": 1256496855
     },
     {
       "id": "org-navi-mumbai-municipal",
@@ -3034,6 +3034,12 @@
       "value": 10954000
     },
     {
+      "id": "org-chief-engineer-moradabad-zone-pwd-moradabad-up",
+      "label": "Chief Engineer Moradabad Zone Pwd Moradabad Up",
+      "count": 37,
+      "value": 301307000
+    },
+    {
       "id": "org-hp-horticultural-produce-marketing-processing",
       "label": "Hp Horticultural Produce Marketing Processing",
       "count": 36,
@@ -3218,12 +3224,6 @@
       "label": "Directorate Information Technology",
       "count": 33,
       "value": 0
-    },
-    {
-      "id": "org-chief-engineer-moradabad-zone-pwd-moradabad-up",
-      "label": "Chief Engineer Moradabad Zone Pwd Moradabad Up",
-      "count": 33,
-      "value": 300507000
     },
     {
       "id": "org-sundarban-affairs-department",
@@ -5224,6 +5224,12 @@
       "value": 41169000
     },
     {
+      "id": "org-member-secretary",
+      "label": "Member Secretary",
+      "count": 11,
+      "value": 107781491
+    },
+    {
       "id": "org-nagpur-metropolitan-region-development-authority",
       "label": "Nagpur Metropolitan Region Development Authority",
       "count": 11,
@@ -5468,12 +5474,6 @@
       "label": "Pwd Piu",
       "count": 10,
       "value": 548361952
-    },
-    {
-      "id": "org-member-secretary",
-      "label": "Member Secretary",
-      "count": 10,
-      "value": 106261491
     },
     {
       "id": "org-meghalaya-infrastructure-development-finance-world-bank-tenders",
@@ -12863,13 +12863,13 @@
     }
   ],
   "byValueBand": {
-    "lt1cr": 109157,
-    "1to10cr": 22261,
+    "lt1cr": 109176,
+    "1to10cr": 22262,
     "gt10cr": 3085,
-    "none": 210458
+    "none": 210461
   },
   "byStatus": {
-    "active": 158964,
+    "active": 158987,
     "completed": 8296,
     "cancelled": 4996,
     "unsuccessful": 542,
@@ -13000,8 +13000,8 @@
     "2026-06": 29597,
     "2026-07": 32782,
     "2026-08": 28885,
-    "2026-09": 30863,
-    "2026-10": 6929
+    "2026-09": 30864,
+    "2026-10": 6951
   },
   "byYear": {
     "2012": 15,
@@ -13018,7 +13018,7 @@
     "2023": 1,
     "2024": 2,
     "2025": 122,
-    "2026": 138584
+    "2026": 138607
   },
   "yearBuckets": {
     "2012": {
@@ -19695,21 +19695,21 @@
       }
     },
     "2026": {
-      "count": 138584,
-      "value": 1325062882492,
+      "count": 138607,
+      "value": 1325134588239,
       "archive": 0,
       "cat": {
         "works": [
-          106343,
-          1052837906824
+          106362,
+          1052861079571
         ],
         "goods": [
           19857,
           111735384635
         ],
         "services": [
-          12273,
-          160489591033
+          12277,
+          160538124033
         ],
         "other": [
           111,
@@ -19717,9 +19717,9 @@
         ]
       },
       "band": {
-        "none": 35828,
-        "lt1cr": 91492,
-        "1to10cr": 9756,
+        "none": 35831,
+        "lt1cr": 91511,
+        "1to10cr": 9757,
         "gt10cr": 1508
       },
       "src": {
@@ -20120,8 +20120,8 @@
           1185498000
         ],
         "coal-india": [
-          4582,
-          14711670313
+          4584,
+          14715270088
         ],
         "org-central-mine-planning-design-institute": [
           41,
@@ -21800,8 +21800,8 @@
           5140243
         ],
         "org-pwd": [
-          6916,
-          27818200881
+          6917,
+          27827342853
         ],
         "org-ropeway-rapid-transport-system-development": [
           10,
@@ -22912,8 +22912,8 @@
           0
         ],
         "org-director-general-prisons-correctional-services": [
-          159,
-          237965153
+          160,
+          238673153
         ],
         "org-madhya-pradesh-state-disaster-management-authority": [
           1,
@@ -23392,8 +23392,8 @@
           37080
         ],
         "org-member-secretary": [
-          10,
-          106261491
+          11,
+          107781491
         ],
         "org-collector-nagpur": [
           1,
@@ -24640,8 +24640,8 @@
           3834000
         ],
         "org-pwd-ce-as": [
-          718,
-          4080974701
+          726,
+          4089085701
         ],
         "org-child-rights-department": [
           2,
@@ -24864,8 +24864,8 @@
           157100000
         ],
         "org-rcdf-md": [
-          100,
-          1256496855
+          103,
+          1304321855
         ],
         "org-rajasthan-council-school-education": [
           35,
@@ -26208,8 +26208,8 @@
           276506000
         ],
         "org-chief-engineer-moradabad-zone-pwd-moradabad-up": [
-          33,
-          300507000
+          37,
+          301307000
         ],
         "org-cheif-engineer-meerut-zone-pwd-meerut": [
           70,
@@ -26496,7 +26496,7 @@
           8000000
         ],
         "org-u-p-irrigation-department": [
-          915,
+          918,
           1607276303
         ],
         "org-jhansi-development-authority-jhansi": [
