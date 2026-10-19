@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DLB_603572_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_603572_1",
+      "id": "woodpecker-rajasthan-2026_DLB_603572_1-0001",
+      "date": "2026-10-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DLB||Dy.DR-Jaipur||Commissioner-Dholpur",
+        "id": "IN-ORG-dlb-dy-dr-jaipur-commissioner-dholpur"
+      },
+      "tender": {
+        "id": "2026_DLB_603572_1",
+        "title": "awara pashu pakadkar vanya kshetra man swayam ke vahan se chodene ka karya",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DLB||Dy.DR-Jaipur||Commissioner-Dholpur",
+          "id": "IN-ORG-dlb-dy-dr-jaipur-commissioner-dholpur"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 1000000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-19T00:00:00Z"
+        },
+        "description": "awara pashu pakadkar vanya kshetra man swayam ke vahan se chodene ka karya"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_603572_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DLB_603572_1",
+          "url": "/files/90fae57accd21ca60de4109399544ca8cfd41c6cc25b18a61f326756f481b23c.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL60IiRUfnw%2FIPx0z6cUydw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "90fae57accd21ca60de4109399544ca8cfd41c6cc25b18a61f326756f481b23c",
+          "format": "text/plain",
+          "textUrl": "/files/90fae57accd21ca60de4109399544ca8cfd41c6cc25b18a61f326756f481b23c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_603572_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL60IiRUfnw%2FIPx0z6cUydw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DLB_603572_1",
+    "tender": {
+      "id": "2026_DLB_603572_1",
+      "title": "awara pashu pakadkar vanya kshetra man swayam ke vahan se chodene ka karya",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DLB||Dy.DR-Jaipur||Commissioner-Dholpur",
+        "id": "IN-ORG-dlb-dy-dr-jaipur-commissioner-dholpur"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 1000000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-19T00:00:00Z"
+      },
+      "description": "awara pashu pakadkar vanya kshetra man swayam ke vahan se chodene ka karya"
+    },
+    "buyer": {
+      "name": "DLB||Dy.DR-Jaipur||Commissioner-Dholpur",
+      "id": "IN-ORG-dlb-dy-dr-jaipur-commissioner-dholpur"
+    },
+    "date": "2026-10-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_603572_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DLB_603572_1",
+        "url": "/files/90fae57accd21ca60de4109399544ca8cfd41c6cc25b18a61f326756f481b23c.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL60IiRUfnw%2FIPx0z6cUydw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "90fae57accd21ca60de4109399544ca8cfd41c6cc25b18a61f326756f481b23c",
+        "format": "text/plain",
+        "textUrl": "/files/90fae57accd21ca60de4109399544ca8cfd41c6cc25b18a61f326756f481b23c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_603572_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SL60IiRUfnw%2FIPx0z6cUydw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_603572_1",
+      "observedAt": "2026-10-19T02:46:21Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "04cc2059a2e6cd54eb4b0eee28260c74a5c8d533af4a86f10fdb4dd4b1a10e2f",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_603572_1-0001-record",
+          "sha256": "90fae57accd21ca60de4109399544ca8cfd41c6cc25b18a61f326756f481b23c"
+        }
+      ],
+      "snapshotUrl": "/files/9b345945dc1967ee781558643bf29ee4f39e570d932ea5980c92a1454efc7390.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-19T02:46:21Z",
+    "lastObserved": "2026-10-19T02:46:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-westbengal-2026_MSMET_1046063_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-westbengal-2026_MSMET_1046063_1",
+      "id": "woodpecker-westbengal-2026_MSMET_1046063_1-0001",
+      "date": "2026-10-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "WBSIDCL||MARKETING DIVISION",
+        "id": "IN-ORG-wbsidcl-marketing-division"
+      },
+      "tender": {
+        "id": "2026_MSMET_1046063_1",
+        "title": "SUPPLY OF HOSPITAL FURNITURE AND EQUIPMENT",
+        "status": "active",
+        "procuringEntity": {
+          "name": "WBSIDCL||MARKETING DIVISION",
+          "id": "IN-ORG-wbsidcl-marketing-division"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 123000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-19T00:00:00Z"
+        },
+        "description": "SUPPLY OF HOSPITAL FURNITURE AND EQUIPMENT"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-westbengal-2026_MSMET_1046063_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MSMET_1046063_1",
+          "url": "/files/bb2462aa8f639b4975e14f9505fc9b830438fc98fd02c3424eef9b74d1434a00.txt",
+          "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqUgvpLXtSxXocAWpXS%2FH3A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "bb2462aa8f639b4975e14f9505fc9b830438fc98fd02c3424eef9b74d1434a00",
+          "format": "text/plain",
+          "textUrl": "/files/bb2462aa8f639b4975e14f9505fc9b830438fc98fd02c3424eef9b74d1434a00.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-westbengal-2026_MSMET_1046063_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqUgvpLXtSxXocAWpXS%2FH3A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-westbengal-2026_MSMET_1046063_1",
+    "tender": {
+      "id": "2026_MSMET_1046063_1",
+      "title": "SUPPLY OF HOSPITAL FURNITURE AND EQUIPMENT",
+      "status": "active",
+      "procuringEntity": {
+        "name": "WBSIDCL||MARKETING DIVISION",
+        "id": "IN-ORG-wbsidcl-marketing-division"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 123000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-19T00:00:00Z"
+      },
+      "description": "SUPPLY OF HOSPITAL FURNITURE AND EQUIPMENT"
+    },
+    "buyer": {
+      "name": "WBSIDCL||MARKETING DIVISION",
+      "id": "IN-ORG-wbsidcl-marketing-division"
+    },
+    "date": "2026-10-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-westbengal-2026_MSMET_1046063_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MSMET_1046063_1",
+        "url": "/files/bb2462aa8f639b4975e14f9505fc9b830438fc98fd02c3424eef9b74d1434a00.txt",
+        "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqUgvpLXtSxXocAWpXS%2FH3A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "bb2462aa8f639b4975e14f9505fc9b830438fc98fd02c3424eef9b74d1434a00",
+        "format": "text/plain",
+        "textUrl": "/files/bb2462aa8f639b4975e14f9505fc9b830438fc98fd02c3424eef9b74d1434a00.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-westbengal-2026_MSMET_1046063_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://wbtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqUgvpLXtSxXocAWpXS%2FH3A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-westbengal-2026_MSMET_1046063_1",
+      "observedAt": "2026-10-19T01:54:24Z",
+      "witness": "woodpecker:westbengal",
+      "availability": "present",
+      "stateHash": "b3048f642881d4cc15cc72afb96adf7c8ca4acbc1dce0336eb919f6f47be7bcd",
+      "documents": [
+        {
+          "id": "woodpecker-westbengal-2026_MSMET_1046063_1-0001-record",
+          "sha256": "bb2462aa8f639b4975e14f9505fc9b830438fc98fd02c3424eef9b74d1434a00"
+        }
+      ],
+      "snapshotUrl": "/files/ccd3afa19113003813260a6a43a7598e8db5c38970878dcf60436e300b24ceb6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-19T01:54:24Z",
+    "lastObserved": "2026-10-19T01:54:24Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

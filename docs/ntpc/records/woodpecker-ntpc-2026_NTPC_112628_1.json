@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112628_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112628_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112628_1-0001",
+      "date": "2026-10-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112628_1",
+        "title": "Procurement of Boiler amp CRH spares AT NTPC Vindhyachal",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-19T00:00:00Z"
+        },
+        "description": "Procurement of Boiler amp CRH spares AT NTPC Vindhyachal"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112628_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112628_1",
+          "url": "/files/59c94592d5c42fe321aedf55e29f18712e906f7b0cf170a2bb6a0755fbb4e6f6.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSwdk9uGar2pPSRfSV2qvJw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "59c94592d5c42fe321aedf55e29f18712e906f7b0cf170a2bb6a0755fbb4e6f6",
+          "format": "text/plain",
+          "textUrl": "/files/59c94592d5c42fe321aedf55e29f18712e906f7b0cf170a2bb6a0755fbb4e6f6.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112628_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSwdk9uGar2pPSRfSV2qvJw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112628_1",
+    "tender": {
+      "id": "2026_NTPC_112628_1",
+      "title": "Procurement of Boiler amp CRH spares AT NTPC Vindhyachal",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-19T00:00:00Z"
+      },
+      "description": "Procurement of Boiler amp CRH spares AT NTPC Vindhyachal"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112628_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112628_1",
+        "url": "/files/59c94592d5c42fe321aedf55e29f18712e906f7b0cf170a2bb6a0755fbb4e6f6.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSwdk9uGar2pPSRfSV2qvJw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "59c94592d5c42fe321aedf55e29f18712e906f7b0cf170a2bb6a0755fbb4e6f6",
+        "format": "text/plain",
+        "textUrl": "/files/59c94592d5c42fe321aedf55e29f18712e906f7b0cf170a2bb6a0755fbb4e6f6.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112628_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSwdk9uGar2pPSRfSV2qvJw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112628_1",
+      "observedAt": "2026-10-19T02:50:39Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "769881bc6be6ba4a7cb3cb924020f84753685f6cca658b08032c2577af19eb83",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112628_1-0001-record",
+          "sha256": "59c94592d5c42fe321aedf55e29f18712e906f7b0cf170a2bb6a0755fbb4e6f6"
+        }
+      ],
+      "snapshotUrl": "/files/791749573b8696424e17fc18b3288e5cf97ca9b6b007cacf180fee63e5319aae.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-19T02:50:39Z",
+    "lastObserved": "2026-10-19T02:50:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

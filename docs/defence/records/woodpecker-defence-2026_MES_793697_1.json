@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_793697_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_793697_1",
+      "id": "woodpecker-defence-2026_MES_793697_1-0001",
+      "date": "2026-10-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE NEW DELHI-MES||GE E/M (RR) HOSPITAL DELHI CNATT-MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "tender": {
+        "id": "2026_MES_793697_1",
+        "title": "Job work order",
+        "status": "active",
+        "procuringEntity": {
+          "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE NEW DELHI-MES||GE E/M (RR) HOSPITAL DELHI CNATT-MES",
+          "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-10-19T00:00:00Z"
+        },
+        "description": "Job work order"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_793697_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MES_793697_1",
+          "url": "/files/8678e2b743fddce85a080eff93b75c97a3fa77b357adf736b1c7070969954bc9.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SUEvS2meplyOcDg9%2BUwNVQA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "8678e2b743fddce85a080eff93b75c97a3fa77b357adf736b1c7070969954bc9",
+          "format": "text/plain",
+          "textUrl": "/files/8678e2b743fddce85a080eff93b75c97a3fa77b357adf736b1c7070969954bc9.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_MES_793697_1",
+    "tender": {
+      "id": "2026_MES_793697_1",
+      "title": "Job work order",
+      "status": "active",
+      "procuringEntity": {
+        "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE NEW DELHI-MES||GE E/M (RR) HOSPITAL DELHI CNATT-MES",
+        "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-10-19T00:00:00Z"
+      },
+      "description": "Job work order"
+    },
+    "buyer": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE WC and CE DELHI ZONE-MES||CWE NEW DELHI-MES||GE E/M (RR) HOSPITAL DELHI CNATT-MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "date": "2026-10-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_MES_793697_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MES_793697_1",
+        "url": "/files/8678e2b743fddce85a080eff93b75c97a3fa77b357adf736b1c7070969954bc9.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SUEvS2meplyOcDg9%2BUwNVQA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "8678e2b743fddce85a080eff93b75c97a3fa77b357adf736b1c7070969954bc9",
+        "format": "text/plain",
+        "textUrl": "/files/8678e2b743fddce85a080eff93b75c97a3fa77b357adf736b1c7070969954bc9.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_MES_793697_1",
+      "observedAt": "2026-10-19T02:14:56Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "4c9e1ca2ec8c2d156145b96521b60eeab997c1b210011c2236145c1232c428e1",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_MES_793697_1-0001-record",
+          "sha256": "8678e2b743fddce85a080eff93b75c97a3fa77b357adf736b1c7070969954bc9"
+        }
+      ],
+      "snapshotUrl": "/files/3492996050eee2416dfcf4e305952c4d667a9d2c605379585bcfdfa3ddf4ffb2.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-19T02:14:56Z",
+    "lastObserved": "2026-10-19T02:14:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
