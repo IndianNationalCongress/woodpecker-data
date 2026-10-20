@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-defence-2026_IAF_784906_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_IAF_784906_1",
+      "id": "woodpecker-defence-2026_IAF_784906_1-0001",
+      "date": "2026-08-20T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Indian Air Force",
+        "id": "IN-ORG-indian-air-force"
+      },
+      "tender": {
+        "id": "2026_IAF_784906_1",
+        "title": "PROCUREMENT OF SPARES FOR MIG-29 UPG AIRCRAFT",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Indian Air Force",
+          "id": "IN-ORG-indian-air-force"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-20T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF SPARES FOR MIG-29 UPG AIRCRAFT"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_IAF_784906_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IAF_784906_1",
+          "url": "/files/247a41060d50369c310588034fdbe37acddf6064d7b96815774fbda5f868c773.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S3juh4D14llHyuVM3M9KQlA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "247a41060d50369c310588034fdbe37acddf6064d7b96815774fbda5f868c773",
+          "format": "text/plain",
+          "textUrl": "/files/247a41060d50369c310588034fdbe37acddf6064d7b96815774fbda5f868c773.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-defence-2026_IAF_784906_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S3juh4D14llHyuVM3M9KQlA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_IAF_784906_1",
+    "tender": {
+      "id": "2026_IAF_784906_1",
+      "title": "PROCUREMENT OF SPARES FOR MIG-29 UPG AIRCRAFT",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Indian Air Force",
+        "id": "IN-ORG-indian-air-force"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-20T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF SPARES FOR MIG-29 UPG AIRCRAFT"
+    },
+    "buyer": {
+      "name": "Indian Air Force",
+      "id": "IN-ORG-indian-air-force"
+    },
+    "date": "2026-08-20T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_IAF_784906_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IAF_784906_1",
+        "url": "/files/247a41060d50369c310588034fdbe37acddf6064d7b96815774fbda5f868c773.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S3juh4D14llHyuVM3M9KQlA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "247a41060d50369c310588034fdbe37acddf6064d7b96815774fbda5f868c773",
+        "format": "text/plain",
+        "textUrl": "/files/247a41060d50369c310588034fdbe37acddf6064d7b96815774fbda5f868c773.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-defence-2026_IAF_784906_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S3juh4D14llHyuVM3M9KQlA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_IAF_784906_1",
+      "observedAt": "2026-10-20T02:43:45Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "d5aa7c72dfe72bcffc7ca0abf80f17282f263921681484aab89b85904651bc5c",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_IAF_784906_1-0001-record",
+          "sha256": "247a41060d50369c310588034fdbe37acddf6064d7b96815774fbda5f868c773"
+        }
+      ],
+      "snapshotUrl": "/files/1bb61b32e0799b92822a11825b93cf6b4fb5a439d28aad8369b5197b75068c4a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-20T02:43:45Z",
+    "lastObserved": "2026-10-20T02:43:45Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_AMU_930352_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_AMU_930352_1",
+      "id": "woodpecker-cppp-2026_AMU_930352_1-0001",
+      "date": "2026-10-14T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Aligarh Muslim University||Building Department||University Engineer",
+        "id": "IN-ORG-aligarh-muslim-university-building-depar"
+      },
+      "tender": {
+        "id": "2026_AMU_930352_1",
+        "title": "Construction of 12x12 Sq ft Room required including trench for HT Meeting HT Panel at Abdullah Hall",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Aligarh Muslim University||Building Department||University Engineer",
+          "id": "IN-ORG-aligarh-muslim-university-building-depar"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 423729,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-20T00:00:00Z"
+        },
+        "description": "Construction of 12x12 Sq ft Room required including trench for HT Meeting HT Panel at Abdullah Hall"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_AMU_930352_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_AMU_930352_1",
+          "url": "/files/828521cdba2126818d1d29f970a512ef3b937f74b8de1df0fdba42fbf17fe580.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SUaFue1adS%2FTetklqj5jHKA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "828521cdba2126818d1d29f970a512ef3b937f74b8de1df0fdba42fbf17fe580",
+          "format": "text/plain",
+          "textUrl": "/files/828521cdba2126818d1d29f970a512ef3b937f74b8de1df0fdba42fbf17fe580.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_AMU_930352_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SUaFue1adS%2FTetklqj5jHKA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_AMU_930352_1",
+    "tender": {
+      "id": "2026_AMU_930352_1",
+      "title": "Construction of 12x12 Sq ft Room required including trench for HT Meeting HT Panel at Abdullah Hall",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Aligarh Muslim University||Building Department||University Engineer",
+        "id": "IN-ORG-aligarh-muslim-university-building-depar"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 423729,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-20T00:00:00Z"
+      },
+      "description": "Construction of 12x12 Sq ft Room required including trench for HT Meeting HT Panel at Abdullah Hall"
+    },
+    "buyer": {
+      "name": "Aligarh Muslim University||Building Department||University Engineer",
+      "id": "IN-ORG-aligarh-muslim-university-building-depar"
+    },
+    "date": "2026-10-14T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_AMU_930352_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_AMU_930352_1",
+        "url": "/files/828521cdba2126818d1d29f970a512ef3b937f74b8de1df0fdba42fbf17fe580.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SUaFue1adS%2FTetklqj5jHKA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "828521cdba2126818d1d29f970a512ef3b937f74b8de1df0fdba42fbf17fe580",
+        "format": "text/plain",
+        "textUrl": "/files/828521cdba2126818d1d29f970a512ef3b937f74b8de1df0fdba42fbf17fe580.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_AMU_930352_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SUaFue1adS%2FTetklqj5jHKA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_AMU_930352_1",
+      "observedAt": "2026-10-20T02:06:06Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "b351f9ea1994b56c42ae26e4441f1f80eac2a60ad0a1e45fc15170547e45ae35",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_AMU_930352_1-0001-record",
+          "sha256": "828521cdba2126818d1d29f970a512ef3b937f74b8de1df0fdba42fbf17fe580"
+        }
+      ],
+      "snapshotUrl": "/files/4cab75b0f598584dccc63a412632afc14953ec0f39526c06597671ced89924e9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-20T02:06:06Z",
+    "lastObserved": "2026-10-20T02:06:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

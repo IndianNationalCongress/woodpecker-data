@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112737_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112737_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112737_1-0001",
+      "date": "2026-10-14T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112737_1",
+        "title": "Procurement of Service seal for MIV door at NTPC Koldam",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-20T00:00:00Z"
+        },
+        "description": "Procurement of Service seal for MIV door at NTPC Koldam"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112737_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112737_1",
+          "url": "/files/b6f4e96101cf6ad946264fdb3c75e59ce96ca371e2ebf26ac0edb8991b748d96.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDYPKZOPBPniKQblwnSUJ6A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b6f4e96101cf6ad946264fdb3c75e59ce96ca371e2ebf26ac0edb8991b748d96",
+          "format": "text/plain",
+          "textUrl": "/files/b6f4e96101cf6ad946264fdb3c75e59ce96ca371e2ebf26ac0edb8991b748d96.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112737_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDYPKZOPBPniKQblwnSUJ6A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112737_1",
+    "tender": {
+      "id": "2026_NTPC_112737_1",
+      "title": "Procurement of Service seal for MIV door at NTPC Koldam",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-20T00:00:00Z"
+      },
+      "description": "Procurement of Service seal for MIV door at NTPC Koldam"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-14T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112737_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112737_1",
+        "url": "/files/b6f4e96101cf6ad946264fdb3c75e59ce96ca371e2ebf26ac0edb8991b748d96.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDYPKZOPBPniKQblwnSUJ6A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b6f4e96101cf6ad946264fdb3c75e59ce96ca371e2ebf26ac0edb8991b748d96",
+        "format": "text/plain",
+        "textUrl": "/files/b6f4e96101cf6ad946264fdb3c75e59ce96ca371e2ebf26ac0edb8991b748d96.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112737_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDYPKZOPBPniKQblwnSUJ6A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112737_1",
+      "observedAt": "2026-10-20T03:23:21Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "24db633dacac5ab2425d16e97623f00e98c9a7deabbd0ad545db26b880fc482a",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112737_1-0001-record",
+          "sha256": "b6f4e96101cf6ad946264fdb3c75e59ce96ca371e2ebf26ac0edb8991b748d96"
+        }
+      ],
+      "snapshotUrl": "/files/705f4fad043ac040837a7d9a8dd3c78dcff7e2c636299547014cbe02c9b346fc.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-20T03:23:21Z",
+    "lastObserved": "2026-10-20T03:23:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
