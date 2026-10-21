@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112646_1",
+  "id": "woodpecker-ntpc-2026_NTPC_112646_1-0001",
+  "date": "2026-10-13T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "NTPC Limited||DBF Headquarter||National Capital Power Station, Dadri",
+    "id": "IN-ORG-ntpc-limited-dbf-headquarter-national-ca"
+  },
+  "tender": {
+    "id": "2026_NTPC_112646_1",
+    "title": "As per tender documents",
+    "status": "active",
+    "procuringEntity": {
+      "name": "NTPC Limited||DBF Headquarter||National Capital Power Station, Dadri",
+      "id": "IN-ORG-ntpc-limited-dbf-headquarter-national-ca"
+    },
+    "mainProcurementCategory": "services",
+    "tenderPeriod": {
+      "endDate": "2026-10-21T00:00:00Z"
+    },
+    "description": "As per tender documents"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_112646_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_NTPC_112646_1",
+      "url": "/files/811b412065248e219e407f944535b0df1d308c9c371d2d105e3228ac4473ecfe.txt",
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SV4HIskGlfLvY%2FVqle9G1zw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "811b412065248e219e407f944535b0df1d308c9c371d2d105e3228ac4473ecfe",
+      "format": "text/plain",
+      "textUrl": "/files/811b412065248e219e407f944535b0df1d308c9c371d2d105e3228ac4473ecfe.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-ntpc-2026_NTPC_112646_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SV4HIskGlfLvY%2FVqle9G1zw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
