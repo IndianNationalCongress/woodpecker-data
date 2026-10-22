@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112861_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112861_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112861_1-0001",
+      "date": "2026-10-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Northern Region Headquarter||Singrauli Super Thermal Power Station",
+        "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+      },
+      "tender": {
+        "id": "2026_NTPC_112861_1",
+        "title": "Material Handling Contract for Weighmentof Steel Stock for Physical Verification",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Northern Region Headquarter||Singrauli Super Thermal Power Station",
+          "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-22T00:00:00Z"
+        },
+        "description": "Material Handling Contract for Weighmentof Steel Stock for Physical Verification"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112861_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112861_1",
+          "url": "/files/b89cee444051219511dedd56ef4e05a6b63deb426cfa663d2bf6cdf681640f8f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SN0k%2FmuSPYvzGNdUDV%2Bne4w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b89cee444051219511dedd56ef4e05a6b63deb426cfa663d2bf6cdf681640f8f",
+          "format": "text/plain",
+          "textUrl": "/files/b89cee444051219511dedd56ef4e05a6b63deb426cfa663d2bf6cdf681640f8f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112861_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SN0k%2FmuSPYvzGNdUDV%2Bne4w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112861_1",
+    "tender": {
+      "id": "2026_NTPC_112861_1",
+      "title": "Material Handling Contract for Weighmentof Steel Stock for Physical Verification",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Northern Region Headquarter||Singrauli Super Thermal Power Station",
+        "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-22T00:00:00Z"
+      },
+      "description": "Material Handling Contract for Weighmentof Steel Stock for Physical Verification"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Northern Region Headquarter||Singrauli Super Thermal Power Station",
+      "id": "IN-ORG-ntpc-limited-northern-region-headquarter"
+    },
+    "date": "2026-10-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112861_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112861_1",
+        "url": "/files/b89cee444051219511dedd56ef4e05a6b63deb426cfa663d2bf6cdf681640f8f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SN0k%2FmuSPYvzGNdUDV%2Bne4w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b89cee444051219511dedd56ef4e05a6b63deb426cfa663d2bf6cdf681640f8f",
+        "format": "text/plain",
+        "textUrl": "/files/b89cee444051219511dedd56ef4e05a6b63deb426cfa663d2bf6cdf681640f8f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112861_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SN0k%2FmuSPYvzGNdUDV%2Bne4w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112861_1",
+      "observedAt": "2026-10-22T03:24:44Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "6d427b4828bd332e330c47e9d73f44e7a8d0e79acad869e1f340696c99b4f13f",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112861_1-0001-record",
+          "sha256": "b89cee444051219511dedd56ef4e05a6b63deb426cfa663d2bf6cdf681640f8f"
+        }
+      ],
+      "snapshotUrl": "/files/39eb1c624861f267aa9c0397b6b7d4efaacc2b79b8819c61f097dcd002a4d0ba.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-22T03:24:44Z",
+    "lastObserved": "2026-10-22T03:24:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

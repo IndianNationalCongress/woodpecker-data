@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112659_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112659_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112659_1-0001",
+      "date": "2026-10-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_112659_1",
+        "title": "Biennial contract for major civil maintenance work in township at NTPC Unchahar",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-10-22T00:00:00Z"
+        },
+        "description": "Biennial contract for major civil maintenance work in township at NTPC Unchahar"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112659_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112659_1",
+          "url": "/files/100fc1fee44790247ec3fd58dc103a88e13b7f8b7a24d5e1c1bd4a4705b81d5a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEbK9%2Fu40vW9TVaCzIwTLtQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "100fc1fee44790247ec3fd58dc103a88e13b7f8b7a24d5e1c1bd4a4705b81d5a",
+          "format": "text/plain",
+          "textUrl": "/files/100fc1fee44790247ec3fd58dc103a88e13b7f8b7a24d5e1c1bd4a4705b81d5a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112659_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEbK9%2Fu40vW9TVaCzIwTLtQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112659_1",
+    "tender": {
+      "id": "2026_NTPC_112659_1",
+      "title": "Biennial contract for major civil maintenance work in township at NTPC Unchahar",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-10-22T00:00:00Z"
+      },
+      "description": "Biennial contract for major civil maintenance work in township at NTPC Unchahar"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-10-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112659_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112659_1",
+        "url": "/files/100fc1fee44790247ec3fd58dc103a88e13b7f8b7a24d5e1c1bd4a4705b81d5a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEbK9%2Fu40vW9TVaCzIwTLtQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "100fc1fee44790247ec3fd58dc103a88e13b7f8b7a24d5e1c1bd4a4705b81d5a",
+        "format": "text/plain",
+        "textUrl": "/files/100fc1fee44790247ec3fd58dc103a88e13b7f8b7a24d5e1c1bd4a4705b81d5a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112659_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SEbK9%2Fu40vW9TVaCzIwTLtQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112659_1",
+      "observedAt": "2026-10-22T03:24:44Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "db932e89a175b72c0c7f7d5cc13faecd4430dfa61d45b58a53c2fd814cb9ae2d",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112659_1-0001-record",
+          "sha256": "100fc1fee44790247ec3fd58dc103a88e13b7f8b7a24d5e1c1bd4a4705b81d5a"
+        }
+      ],
+      "snapshotUrl": "/files/b5c100f2ad64032ddf805aa300898ad4b262663ce41d4992492a0e9582a9e8ec.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-22T03:24:44Z",
+    "lastObserved": "2026-10-22T03:24:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

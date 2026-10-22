@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_ITBP_928267_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_ITBP_928267_1",
+      "id": "woodpecker-cppp-2026_ITBP_928267_1-0001",
+      "date": "2026-09-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DG, Indo-Tibetan Border Police Force||IG, L and C ZONE,ITBP",
+        "id": "IN-ORG-dg-indo-tibetan-border-police-force-ig-l"
+      },
+      "tender": {
+        "id": "2026_ITBP_928267_1",
+        "title": "AS PE DOCUMENTS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DG, Indo-Tibetan Border Police Force||IG, L and C ZONE,ITBP",
+          "id": "IN-ORG-dg-indo-tibetan-border-police-force-ig-l"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 91015506,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-22T00:00:00Z"
+        },
+        "description": "AS PE DOCUMENTS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ITBP_928267_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ITBP_928267_1",
+          "url": "/files/44ff28ddad9fd11768257acb2abd89efd55bb698c120aa7ec13b17282234ad6a.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0E444DACz4wdJU%2FPrseCfg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "44ff28ddad9fd11768257acb2abd89efd55bb698c120aa7ec13b17282234ad6a",
+          "format": "text/plain",
+          "textUrl": "/files/44ff28ddad9fd11768257acb2abd89efd55bb698c120aa7ec13b17282234ad6a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_ITBP_928267_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0E444DACz4wdJU%2FPrseCfg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_ITBP_928267_1",
+    "tender": {
+      "id": "2026_ITBP_928267_1",
+      "title": "AS PE DOCUMENTS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DG, Indo-Tibetan Border Police Force||IG, L and C ZONE,ITBP",
+        "id": "IN-ORG-dg-indo-tibetan-border-police-force-ig-l"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 91015506,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-22T00:00:00Z"
+      },
+      "description": "AS PE DOCUMENTS"
+    },
+    "buyer": {
+      "name": "DG, Indo-Tibetan Border Police Force||IG, L and C ZONE,ITBP",
+      "id": "IN-ORG-dg-indo-tibetan-border-police-force-ig-l"
+    },
+    "date": "2026-09-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_ITBP_928267_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ITBP_928267_1",
+        "url": "/files/44ff28ddad9fd11768257acb2abd89efd55bb698c120aa7ec13b17282234ad6a.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0E444DACz4wdJU%2FPrseCfg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "44ff28ddad9fd11768257acb2abd89efd55bb698c120aa7ec13b17282234ad6a",
+        "format": "text/plain",
+        "textUrl": "/files/44ff28ddad9fd11768257acb2abd89efd55bb698c120aa7ec13b17282234ad6a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_ITBP_928267_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0E444DACz4wdJU%2FPrseCfg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_ITBP_928267_1",
+      "observedAt": "2026-10-22T01:48:10Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "23a78680dc4430121e7653b9dcea2e567e221830085f62d5ae586b96270e8906",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ITBP_928267_1-0001-record",
+          "sha256": "44ff28ddad9fd11768257acb2abd89efd55bb698c120aa7ec13b17282234ad6a"
+        }
+      ],
+      "snapshotUrl": "/files/751307482751e7346d9ecee3693a15d274360c21755f082c53a1d735340ac44b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-22T01:48:10Z",
+    "lastObserved": "2026-10-22T01:48:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
