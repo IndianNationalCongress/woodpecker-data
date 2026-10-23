@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_PWD_300105_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_300105_1",
+      "id": "woodpecker-delhi-2026_PWD_300105_1-0001",
+      "date": "2026-10-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Public Works Department||CE/SE/M3-M32||EE/M323",
+        "id": "IN-ORG-public-works-department-ce-se-m3-m32-ee-"
+      },
+      "tender": {
+        "id": "2026_PWD_300105_1",
+        "title": "Repair and Renovation of Horticulture Unit Environment Department at 11th Floor in MSO Building",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Public Works Department||CE/SE/M3-M32||EE/M323",
+          "id": "IN-ORG-public-works-department-ce-se-m3-m32-ee-"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1553584,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-23T00:00:00Z"
+        },
+        "description": "Repair and Renovation of Horticulture Unit Environment Department at 11th Floor in MSO Building"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_300105_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_300105_1",
+          "url": "/files/10f9628d3a6f4f9203fa91a7325b53c49105f04a7b796c21f2c6c39a3a45d6ae.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRcOGTw3CQNSBsNUg2efASw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "10f9628d3a6f4f9203fa91a7325b53c49105f04a7b796c21f2c6c39a3a45d6ae",
+          "format": "text/plain",
+          "textUrl": "/files/10f9628d3a6f4f9203fa91a7325b53c49105f04a7b796c21f2c6c39a3a45d6ae.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_PWD_300105_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRcOGTw3CQNSBsNUg2efASw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_PWD_300105_1",
+    "tender": {
+      "id": "2026_PWD_300105_1",
+      "title": "Repair and Renovation of Horticulture Unit Environment Department at 11th Floor in MSO Building",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Public Works Department||CE/SE/M3-M32||EE/M323",
+        "id": "IN-ORG-public-works-department-ce-se-m3-m32-ee-"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1553584,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-23T00:00:00Z"
+      },
+      "description": "Repair and Renovation of Horticulture Unit Environment Department at 11th Floor in MSO Building"
+    },
+    "buyer": {
+      "name": "Public Works Department||CE/SE/M3-M32||EE/M323",
+      "id": "IN-ORG-public-works-department-ce-se-m3-m32-ee-"
+    },
+    "date": "2026-10-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_PWD_300105_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_300105_1",
+        "url": "/files/10f9628d3a6f4f9203fa91a7325b53c49105f04a7b796c21f2c6c39a3a45d6ae.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRcOGTw3CQNSBsNUg2efASw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "10f9628d3a6f4f9203fa91a7325b53c49105f04a7b796c21f2c6c39a3a45d6ae",
+        "format": "text/plain",
+        "textUrl": "/files/10f9628d3a6f4f9203fa91a7325b53c49105f04a7b796c21f2c6c39a3a45d6ae.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_PWD_300105_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRcOGTw3CQNSBsNUg2efASw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_300105_1",
+      "observedAt": "2026-10-23T03:02:08Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "9fec1cac5298611a090750917d93ef02739adcb8b0fe4be4d1eac54a5ec7682b",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_300105_1-0001-record",
+          "sha256": "10f9628d3a6f4f9203fa91a7325b53c49105f04a7b796c21f2c6c39a3a45d6ae"
+        }
+      ],
+      "snapshotUrl": "/files/80f9440d9cc88f5f7ed17aacd9a29147702d8b4f230624c9c5af00c1fc89108e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-23T03:02:08Z",
+    "lastObserved": "2026-10-23T03:02:08Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_AIMSR_928762_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_AIMSR_928762_1",
+      "id": "woodpecker-cppp-2026_AIMSR_928762_1-0001",
+      "date": "2026-10-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "All India Institute of Medical Sciences-Rewari||Administration AIIMS Rewari||Engineering Department",
+        "id": "IN-ORG-all-india-institute-of-medical-sciences-"
+      },
+      "tender": {
+        "id": "2026_AIMSR_928762_1",
+        "title": "leasing of 10 shops/ unit at AIIMS Rewari for commercial purpose as per tender documents.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "All India Institute of Medical Sciences-Rewari||Administration AIIMS Rewari||Engineering Department",
+          "id": "IN-ORG-all-india-institute-of-medical-sciences-"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-23T00:00:00Z"
+        },
+        "description": "leasing of 10 shops/ unit at AIIMS Rewari for commercial purpose as per tender documents."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_AIMSR_928762_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_AIMSR_928762_1",
+          "url": "/files/b397193fc4f86ec5d6d25c91edc1345a8d399080a61ec95cc9abb9f010774613.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOnKzdM4AcYt3Er7zW61hBw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b397193fc4f86ec5d6d25c91edc1345a8d399080a61ec95cc9abb9f010774613",
+          "format": "text/plain",
+          "textUrl": "/files/b397193fc4f86ec5d6d25c91edc1345a8d399080a61ec95cc9abb9f010774613.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_AIMSR_928762_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOnKzdM4AcYt3Er7zW61hBw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_AIMSR_928762_1",
+    "tender": {
+      "id": "2026_AIMSR_928762_1",
+      "title": "leasing of 10 shops/ unit at AIIMS Rewari for commercial purpose as per tender documents.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "All India Institute of Medical Sciences-Rewari||Administration AIIMS Rewari||Engineering Department",
+        "id": "IN-ORG-all-india-institute-of-medical-sciences-"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-23T00:00:00Z"
+      },
+      "description": "leasing of 10 shops/ unit at AIIMS Rewari for commercial purpose as per tender documents."
+    },
+    "buyer": {
+      "name": "All India Institute of Medical Sciences-Rewari||Administration AIIMS Rewari||Engineering Department",
+      "id": "IN-ORG-all-india-institute-of-medical-sciences-"
+    },
+    "date": "2026-10-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_AIMSR_928762_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_AIMSR_928762_1",
+        "url": "/files/b397193fc4f86ec5d6d25c91edc1345a8d399080a61ec95cc9abb9f010774613.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOnKzdM4AcYt3Er7zW61hBw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b397193fc4f86ec5d6d25c91edc1345a8d399080a61ec95cc9abb9f010774613",
+        "format": "text/plain",
+        "textUrl": "/files/b397193fc4f86ec5d6d25c91edc1345a8d399080a61ec95cc9abb9f010774613.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_AIMSR_928762_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOnKzdM4AcYt3Er7zW61hBw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_AIMSR_928762_1",
+      "observedAt": "2026-10-23T01:50:46Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "b0918f08e5592843faa2012667af888bf730d2950b60be21ffb34962a5d9d88b",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_AIMSR_928762_1-0001-record",
+          "sha256": "b397193fc4f86ec5d6d25c91edc1345a8d399080a61ec95cc9abb9f010774613"
+        }
+      ],
+      "snapshotUrl": "/files/1085582a5f6ec9737e451826cd963140a961f11be49921efac559cf9f08e272f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-23T01:50:46Z",
+    "lastObserved": "2026-10-23T01:50:46Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

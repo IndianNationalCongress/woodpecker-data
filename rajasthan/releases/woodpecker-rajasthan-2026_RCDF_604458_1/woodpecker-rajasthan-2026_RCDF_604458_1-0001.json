@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_RCDF_604458_1",
+  "id": "woodpecker-rajasthan-2026_RCDF_604458_1-0001",
+  "date": "2026-10-21T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "RCDF- MD||METRO DAIRY PLANT",
+    "id": "IN-ORG-rcdf-md-metro-dairy-plant"
+  },
+  "tender": {
+    "id": "2026_RCDF_604458_1",
+    "title": "EMERGENCY PURCHASE DOMC",
+    "status": "active",
+    "procuringEntity": {
+      "name": "RCDF- MD||METRO DAIRY PLANT",
+      "id": "IN-ORG-rcdf-md-metro-dairy-plant"
+    },
+    "mainProcurementCategory": "services",
+    "value": {
+      "amount": 4950000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-10-23T00:00:00Z"
+    },
+    "description": "EMERGENCY PURCHASE DOMC"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-rajasthan-2026_RCDF_604458_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_RCDF_604458_1",
+      "url": "/files/80bc1c72e7251078a86e575916a773404698f3271e27387384dc0772bb93cda9.txt",
+      "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgzYLbTVhHhio4LrcljVwFw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "80bc1c72e7251078a86e575916a773404698f3271e27387384dc0772bb93cda9",
+      "format": "text/plain",
+      "textUrl": "/files/80bc1c72e7251078a86e575916a773404698f3271e27387384dc0772bb93cda9.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-rajasthan-2026_RCDF_604458_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgzYLbTVhHhio4LrcljVwFw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
