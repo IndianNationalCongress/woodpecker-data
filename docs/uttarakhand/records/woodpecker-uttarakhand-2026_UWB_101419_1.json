@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-uttarakhand-2026_UWB_101419_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_UWB_101419_1",
+      "id": "woodpecker-uttarakhand-2026_UWB_101419_1-0001",
+      "date": "2026-10-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "CEO (Uttarakhand Waqf Board)",
+        "id": "IN-ORG-ceo-uttarakhand-waqf-board"
+      },
+      "tender": {
+        "id": "2026_UWB_101419_1",
+        "title": "Two Wheeler Parking",
+        "status": "active",
+        "procuringEntity": {
+          "name": "CEO (Uttarakhand Waqf Board)",
+          "id": "IN-ORG-ceo-uttarakhand-waqf-board"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-24T00:00:00Z"
+        },
+        "description": "Two Wheeler Parking"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_UWB_101419_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_UWB_101419_1",
+          "url": "/files/863479b88de1ed609d0c04c19b6366912c29fc6ca651cbfb9c4a259174911483.txt",
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRHMq6IBTo64OWSQAbthTHA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "863479b88de1ed609d0c04c19b6366912c29fc6ca651cbfb9c4a259174911483",
+          "format": "text/plain",
+          "textUrl": "/files/863479b88de1ed609d0c04c19b6366912c29fc6ca651cbfb9c4a259174911483.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-uttarakhand-2026_UWB_101419_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRHMq6IBTo64OWSQAbthTHA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-uttarakhand-2026_UWB_101419_1",
+    "tender": {
+      "id": "2026_UWB_101419_1",
+      "title": "Two Wheeler Parking",
+      "status": "active",
+      "procuringEntity": {
+        "name": "CEO (Uttarakhand Waqf Board)",
+        "id": "IN-ORG-ceo-uttarakhand-waqf-board"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-24T00:00:00Z"
+      },
+      "description": "Two Wheeler Parking"
+    },
+    "buyer": {
+      "name": "CEO (Uttarakhand Waqf Board)",
+      "id": "IN-ORG-ceo-uttarakhand-waqf-board"
+    },
+    "date": "2026-10-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-uttarakhand-2026_UWB_101419_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_UWB_101419_1",
+        "url": "/files/863479b88de1ed609d0c04c19b6366912c29fc6ca651cbfb9c4a259174911483.txt",
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRHMq6IBTo64OWSQAbthTHA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "863479b88de1ed609d0c04c19b6366912c29fc6ca651cbfb9c4a259174911483",
+        "format": "text/plain",
+        "textUrl": "/files/863479b88de1ed609d0c04c19b6366912c29fc6ca651cbfb9c4a259174911483.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-uttarakhand-2026_UWB_101419_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRHMq6IBTo64OWSQAbthTHA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_UWB_101419_1",
+      "observedAt": "2026-10-24T02:23:59Z",
+      "witness": "woodpecker:uttarakhand",
+      "availability": "present",
+      "stateHash": "24ba6d9617ffa24bb8808c0e370c0b2a784507c450ab51e883dd022091205b28",
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_UWB_101419_1-0001-record",
+          "sha256": "863479b88de1ed609d0c04c19b6366912c29fc6ca651cbfb9c4a259174911483"
+        }
+      ],
+      "snapshotUrl": "/files/09b6bd95365c03da18e02dd5debeec8adad3cffab545827032a285b880db6988.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-24T02:23:59Z",
+    "lastObserved": "2026-10-24T02:23:59Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

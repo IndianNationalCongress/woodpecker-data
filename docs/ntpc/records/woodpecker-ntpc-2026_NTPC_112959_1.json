@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112959_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112959_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112959_1-0001",
+      "date": "2026-10-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112959_1",
+        "title": "Procurement of Spare parts of Lubricat",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-24T00:00:00Z"
+        },
+        "description": "Procurement of Spare parts of Lubricat"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112959_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112959_1",
+          "url": "/files/4afe8ddf9a9ca92d16fcc37bde5a298362b0113396e93df852b5bf344298a25a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sv1o1WtY3HA01DuilQv7cMg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4afe8ddf9a9ca92d16fcc37bde5a298362b0113396e93df852b5bf344298a25a",
+          "format": "text/plain",
+          "textUrl": "/files/4afe8ddf9a9ca92d16fcc37bde5a298362b0113396e93df852b5bf344298a25a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112959_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sv1o1WtY3HA01DuilQv7cMg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112959_1",
+    "tender": {
+      "id": "2026_NTPC_112959_1",
+      "title": "Procurement of Spare parts of Lubricat",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-24T00:00:00Z"
+      },
+      "description": "Procurement of Spare parts of Lubricat"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112959_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112959_1",
+        "url": "/files/4afe8ddf9a9ca92d16fcc37bde5a298362b0113396e93df852b5bf344298a25a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sv1o1WtY3HA01DuilQv7cMg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4afe8ddf9a9ca92d16fcc37bde5a298362b0113396e93df852b5bf344298a25a",
+        "format": "text/plain",
+        "textUrl": "/files/4afe8ddf9a9ca92d16fcc37bde5a298362b0113396e93df852b5bf344298a25a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112959_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sv1o1WtY3HA01DuilQv7cMg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112959_1",
+      "observedAt": "2026-10-24T02:54:49Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "ccb6f73a21d2ee6241d870a7b61855cdccfafab638cd278e4c319538140b5557",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112959_1-0001-record",
+          "sha256": "4afe8ddf9a9ca92d16fcc37bde5a298362b0113396e93df852b5bf344298a25a"
+        }
+      ],
+      "snapshotUrl": "/files/964d6ec02d17ffe2366fc85a0dd62e6db23d224c01d2c76591eaa55f65c0f78f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-24T02:54:49Z",
+    "lastObserved": "2026-10-24T02:54:49Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

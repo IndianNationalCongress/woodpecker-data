@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112704_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112704_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112704_1-0001",
+      "date": "2026-10-14T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_112704_1",
+        "title": "Painting of Overhead tank No 01 at township NTPC Barh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-10-24T00:00:00Z"
+        },
+        "description": "Painting of Overhead tank No 01 at township NTPC Barh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112704_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112704_1",
+          "url": "/files/ed3bad61e02793c04333748a417d518c7286c575f96d70ebc8186bb2c7266594.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7zAHaZnCOqtoh%2FiZ9obIhA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ed3bad61e02793c04333748a417d518c7286c575f96d70ebc8186bb2c7266594",
+          "format": "text/plain",
+          "textUrl": "/files/ed3bad61e02793c04333748a417d518c7286c575f96d70ebc8186bb2c7266594.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112704_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7zAHaZnCOqtoh%2FiZ9obIhA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112704_1",
+    "tender": {
+      "id": "2026_NTPC_112704_1",
+      "title": "Painting of Overhead tank No 01 at township NTPC Barh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-10-24T00:00:00Z"
+      },
+      "description": "Painting of Overhead tank No 01 at township NTPC Barh"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-10-14T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112704_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112704_1",
+        "url": "/files/ed3bad61e02793c04333748a417d518c7286c575f96d70ebc8186bb2c7266594.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7zAHaZnCOqtoh%2FiZ9obIhA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ed3bad61e02793c04333748a417d518c7286c575f96d70ebc8186bb2c7266594",
+        "format": "text/plain",
+        "textUrl": "/files/ed3bad61e02793c04333748a417d518c7286c575f96d70ebc8186bb2c7266594.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112704_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7zAHaZnCOqtoh%2FiZ9obIhA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112704_1",
+      "observedAt": "2026-10-24T02:54:49Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "06a61fce229e73a3b31eef3a73d600db85449c80b1647c95c44f8cd8c2e70ce1",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112704_1-0001-record",
+          "sha256": "ed3bad61e02793c04333748a417d518c7286c575f96d70ebc8186bb2c7266594"
+        }
+      ],
+      "snapshotUrl": "/files/befb58333b0e7ec73c479fdfc173cc3737b0712065b5560f01b56ce71fdcd7ab.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-24T02:54:49Z",
+    "lastObserved": "2026-10-24T02:54:49Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
