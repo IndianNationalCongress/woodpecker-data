@@ -1,25 +1,25 @@
 {
-  "generated": "2026-10-24T03:03:11Z",
-  "totalTenders": 351805,
+  "generated": "2026-10-25T01:33:57Z",
+  "totalTenders": 351845,
   "dateRange": {
     "from": "2012-03-09T00:00:00Z",
     "to": "2026-10-30T00:00:00Z"
   },
-  "totalValue": 2594585983426,
-  "withValue": 139544,
+  "totalValue": 2594755628833,
+  "withValue": 139580,
   "sources": 2174,
   "byCategory": {
     "works": {
-      "count": 164844,
-      "value": 2169496811720
+      "count": 164877,
+      "value": 2169612257127
     },
     "goods": {
-      "count": 38238,
+      "count": 38242,
       "value": 216972936742
     },
     "services": {
-      "count": 17459,
-      "value": 208116234964
+      "count": 17462,
+      "value": 208170434964
     },
     "other": {
       "count": 131264,
@@ -36,8 +36,8 @@
     {
       "id": "mes",
       "label": "Military Engineer Services",
-      "count": 31410,
-      "value": 38139982752
+      "count": 31411,
+      "value": 38144350752
     },
     {
       "id": "railways",
@@ -72,8 +72,8 @@
     {
       "id": "org-pwd",
       "label": "Pwd",
-      "count": 9407,
-      "value": 39584657418
+      "count": 9409,
+      "value": 39595973825
     },
     {
       "id": "mod",
@@ -264,8 +264,8 @@
     {
       "id": "org-dlb",
       "label": "Dlb",
-      "count": 1258,
-      "value": 7067727461
+      "count": 1259,
+      "value": 7068727461
     },
     {
       "id": "org-department-posts",
@@ -384,8 +384,8 @@
     {
       "id": "org-pwd-ce-as",
       "label": "Pwd Ce As",
-      "count": 805,
-      "value": 4294197857
+      "count": 834,
+      "value": 4392958857
     },
     {
       "id": "org-national-health-mission",
@@ -564,8 +564,8 @@
     {
       "id": "org-haudd",
       "label": "Haudd",
-      "count": 448,
-      "value": 8299529516
+      "count": 449,
+      "value": 8349529516
     },
     {
       "id": "org-madhya-pradesh-paschim-kshetra-vidyut-vitran",
@@ -1762,6 +1762,12 @@
       "value": 0
     },
     {
+      "id": "org-medical-health",
+      "label": "Medical Health",
+      "count": 98,
+      "value": 1383117630
+    },
+    {
       "id": "org-banaras-hindu-university",
       "label": "Banaras Hindu University",
       "count": 96,
@@ -1784,12 +1790,6 @@
       "label": "Kerala Electrical Allied Engineering",
       "count": 96,
       "value": 30221411
-    },
-    {
-      "id": "org-medical-health",
-      "label": "Medical Health",
-      "count": 96,
-      "value": 1378917630
     },
     {
       "id": "org-chief-engineer-pwd-faizabad-zone",
@@ -3376,6 +3376,12 @@
       "value": 22253242
     },
     {
+      "id": "org-maharashtra-medical-goods-procurement-authority-mumbai",
+      "label": "Maharashtra Medical Goods Procurement Authority Mumbai",
+      "count": 31,
+      "value": 0
+    },
+    {
       "id": "org-department-employment-training",
       "label": "Department Employment Training",
       "count": 31,
@@ -3578,12 +3584,6 @@
       "label": "Delhi Transco",
       "count": 27,
       "value": 25193016278
-    },
-    {
-      "id": "org-maharashtra-medical-goods-procurement-authority-mumbai",
-      "label": "Maharashtra Medical Goods Procurement Authority Mumbai",
-      "count": 27,
-      "value": 0
     },
     {
       "id": "org-maharashtra-state-cooperative-marketing-federation",
@@ -13073,13 +13073,13 @@
     }
   ],
   "byValueBand": {
-    "lt1cr": 113709,
-    "1to10cr": 22686,
+    "lt1cr": 113741,
+    "1to10cr": 22690,
     "gt10cr": 3149,
-    "none": 212261
+    "none": 212265
   },
   "byStatus": {
-    "active": 165808,
+    "active": 165848,
     "cancelled": 4996,
     "completed": 8296,
     "unsuccessful": 542,
@@ -13213,8 +13213,8 @@
     "2026-06": 29600,
     "2026-07": 32786,
     "2026-08": 28920,
-    "2026-09": 31880,
-    "2026-10": 12695
+    "2026-09": 31900,
+    "2026-10": 12715
   },
   "byYear": {
     "2012": 15,
@@ -13231,7 +13231,7 @@
     "2023": 3,
     "2024": 5,
     "2025": 123,
-    "2026": 145419
+    "2026": 145459
   },
   "yearBuckets": {
     "2012": {
@@ -19946,21 +19946,21 @@
       }
     },
     "2026": {
-      "count": 145419,
-      "value": 1406319184679,
+      "count": 145459,
+      "value": 1406488830086,
       "archive": 0,
       "cat": {
         "works": [
-          111523,
-          1111158644657
+          111556,
+          1111274090064
         ],
         "goods": [
-          20827,
+          20831,
           127658446386
         ],
         "services": [
-          12958,
-          167502093636
+          12961,
+          167556293636
         ],
         "other": [
           111,
@@ -19968,9 +19968,9 @@
         ]
       },
       "band": {
-        "none": 37630,
-        "lt1cr": 96036,
-        "1to10cr": 10181,
+        "none": 37634,
+        "lt1cr": 96068,
+        "1to10cr": 10185,
         "gt10cr": 1572
       },
       "src": {
@@ -21507,8 +21507,8 @@
           5675874548
         ],
         "mes": [
-          5960,
-          38120957456
+          5961,
+          38125325456
         ],
         "bro": [
           78,
@@ -22079,8 +22079,8 @@
           5140243
         ],
         "org-pwd": [
-          7329,
-          29403398731
+          7331,
+          29414715138
         ],
         "org-ropeway-rapid-transport-system-development": [
           10,
@@ -22147,8 +22147,8 @@
           290493
         ],
         "org-haudd": [
-          448,
-          8299529516
+          449,
+          8349529516
         ],
         "org-higher-education-department": [
           6,
@@ -23951,7 +23951,7 @@
           131473707
         ],
         "org-maharashtra-medical-goods-procurement-authority-mumbai": [
-          27,
+          31,
           0
         ],
         "org-maharashtra-metro-rail": [
@@ -24991,8 +24991,8 @@
           3834000
         ],
         "org-pwd-ce-as": [
-          805,
-          4294197857
+          834,
+          4392958857
         ],
         "org-child-rights-department": [
           2,
@@ -25023,8 +25023,8 @@
           0
         ],
         "org-dlb": [
-          1258,
-          7067727461
+          1259,
+          7068727461
         ],
         "org-department-minority-affairs": [
           5,
@@ -25155,8 +25155,8 @@
           4500000
         ],
         "org-medical-health": [
-          96,
-          1378917630
+          98,
+          1383117630
         ],
         "org-maharaja-ganga-singh-university-bikaner": [
           8,
