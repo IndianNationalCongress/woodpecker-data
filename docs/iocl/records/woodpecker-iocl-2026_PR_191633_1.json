@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_PR_191633_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_191633_1",
+      "id": "woodpecker-iocl-2026_PR_191633_1-0001",
+      "date": "2026-10-01T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_PR_191633_1",
+        "title": "Procurement of DE Condenser BAHX (17-E-9110)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-26T00:00:00Z"
+        },
+        "description": "Procurement of DE Condenser BAHX (17-E-9110)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_191633_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PR_191633_1",
+          "url": "/files/9be9452d23fd3c8ad3519707b2dfbdb6f6ffdb1a52a171237c2a554ff901a11f.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sh9fkEo5LE%2BsLJ7fVj6Nddw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "9be9452d23fd3c8ad3519707b2dfbdb6f6ffdb1a52a171237c2a554ff901a11f",
+          "format": "text/plain",
+          "textUrl": "/files/9be9452d23fd3c8ad3519707b2dfbdb6f6ffdb1a52a171237c2a554ff901a11f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_PR_191633_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sh9fkEo5LE%2BsLJ7fVj6Nddw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_PR_191633_1",
+    "tender": {
+      "id": "2026_PR_191633_1",
+      "title": "Procurement of DE Condenser BAHX (17-E-9110)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-26T00:00:00Z"
+      },
+      "description": "Procurement of DE Condenser BAHX (17-E-9110)"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+    },
+    "date": "2026-10-01T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_PR_191633_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PR_191633_1",
+        "url": "/files/9be9452d23fd3c8ad3519707b2dfbdb6f6ffdb1a52a171237c2a554ff901a11f.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sh9fkEo5LE%2BsLJ7fVj6Nddw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "9be9452d23fd3c8ad3519707b2dfbdb6f6ffdb1a52a171237c2a554ff901a11f",
+        "format": "text/plain",
+        "textUrl": "/files/9be9452d23fd3c8ad3519707b2dfbdb6f6ffdb1a52a171237c2a554ff901a11f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_PR_191633_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sh9fkEo5LE%2BsLJ7fVj6Nddw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_191633_1",
+      "observedAt": "2026-10-26T03:08:51Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "9193375a8a6394458dd4e1453a76d19e28ea12fbfebf5c4c47276d0cd3257d0b",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_191633_1-0001-record",
+          "sha256": "9be9452d23fd3c8ad3519707b2dfbdb6f6ffdb1a52a171237c2a554ff901a11f"
+        }
+      ],
+      "snapshotUrl": "/files/ba6f8b5e4b858f7011d23dab88647d44f170c1db4f6b58482e7c89c1269e4742.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-26T03:08:51Z",
+    "lastObserved": "2026-10-26T03:08:51Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-iocl-2026_JR_191747_1",
+  "id": "woodpecker-iocl-2026_JR_191747_1-0001",
+  "date": "2026-10-12T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+    "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+  },
+  "tender": {
+    "id": "2026_JR_191747_1",
+    "title": "Bently nevada spares",
+    "status": "active",
+    "procuringEntity": {
+      "name": "IndianOil||Refineries||Gujarat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-gujarat-refinery-ma"
+    },
+    "mainProcurementCategory": "goods",
+    "tenderPeriod": {
+      "endDate": "2026-10-26T00:00:00Z"
+    },
+    "description": "Bently nevada spares"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-iocl-2026_JR_191747_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_JR_191747_1",
+      "url": "/files/073c67188f67ab34ef87f85c9cb1cb42b8eb579eaa22f294cf3cbd1444ae196c.txt",
+      "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsKs6POjVHV5APtoEqozIqg%3D%3D",
+      "sourceAlive": true,
+      "sha256": "073c67188f67ab34ef87f85c9cb1cb42b8eb579eaa22f294cf3cbd1444ae196c",
+      "format": "text/plain",
+      "textUrl": "/files/073c67188f67ab34ef87f85c9cb1cb42b8eb579eaa22f294cf3cbd1444ae196c.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-iocl-2026_JR_191747_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SsKs6POjVHV5APtoEqozIqg%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
