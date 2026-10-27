@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112427_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112427_2",
+      "id": "woodpecker-ntpc-2026_NTPC_112427_2-0001",
+      "date": "2026-10-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112427_2",
+        "title": "PROCUREMENT OF EXIDE BATTERY CHARGER 220 VOLT AT EMD-CHP SSTPS",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-27T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF EXIDE BATTERY CHARGER 220 VOLT AT EMD-CHP SSTPS"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112427_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112427_2",
+          "url": "/files/c1f0a91d476878dee1abe49a256f241ac66626064a52fdc87a26a92eb083fafa.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SplS0I5Jp0CaoKY3Bn0GTRw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c1f0a91d476878dee1abe49a256f241ac66626064a52fdc87a26a92eb083fafa",
+          "format": "text/plain",
+          "textUrl": "/files/c1f0a91d476878dee1abe49a256f241ac66626064a52fdc87a26a92eb083fafa.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112427_2-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SplS0I5Jp0CaoKY3Bn0GTRw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112427_2",
+    "tender": {
+      "id": "2026_NTPC_112427_2",
+      "title": "PROCUREMENT OF EXIDE BATTERY CHARGER 220 VOLT AT EMD-CHP SSTPS",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-27T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF EXIDE BATTERY CHARGER 220 VOLT AT EMD-CHP SSTPS"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112427_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112427_2",
+        "url": "/files/c1f0a91d476878dee1abe49a256f241ac66626064a52fdc87a26a92eb083fafa.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SplS0I5Jp0CaoKY3Bn0GTRw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c1f0a91d476878dee1abe49a256f241ac66626064a52fdc87a26a92eb083fafa",
+        "format": "text/plain",
+        "textUrl": "/files/c1f0a91d476878dee1abe49a256f241ac66626064a52fdc87a26a92eb083fafa.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112427_2-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SplS0I5Jp0CaoKY3Bn0GTRw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112427_2",
+      "observedAt": "2026-10-27T04:01:53Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "abfa68cd09f3709be4e8dc40b23da1251eeb02a7a8f988318b2b968bd9c11c63",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112427_2-0001-record",
+          "sha256": "c1f0a91d476878dee1abe49a256f241ac66626064a52fdc87a26a92eb083fafa"
+        }
+      ],
+      "snapshotUrl": "/files/95a37f99c7aadd637443dbfe043ce89b86885ef816bef5a7347b7eb3435787df.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-27T04:01:53Z",
+    "lastObserved": "2026-10-27T04:01:53Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

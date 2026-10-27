@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-defence-2026_DRDO_793696_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-defence-2026_DRDO_793696_1",
+      "id": "woodpecker-defence-2026_DRDO_793696_1-0001",
+      "date": "2026-10-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Defence Research and Development||Defence Research and Development Organisation||DFMM||Office of DG(ECS)||DLRL",
+        "id": "IN-ORG-department-of-defence-research-and-devel"
+      },
+      "tender": {
+        "id": "2026_DRDO_793696_1",
+        "title": "MAN PORTABLE ELINT MODULES (MPEM) DEVELOPMENT, INTEGRATION AND QUALIFICATION",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Defence Research and Development||Defence Research and Development Organisation||DFMM||Office of DG(ECS)||DLRL",
+          "id": "IN-ORG-department-of-defence-research-and-devel"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-27T00:00:00Z"
+        },
+        "description": "MAN PORTABLE ELINT MODULES (MPEM) DEVELOPMENT, INTEGRATION AND QUALIFICATION"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_DRDO_793696_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DRDO_793696_1",
+          "url": "/files/f7668abfc53e17f9744a4bc45ecc6da96ce4a5c03ac61e1ebf479affa5565fbe.txt",
+          "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiaGIrgklFsCjl7gfctcadg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f7668abfc53e17f9744a4bc45ecc6da96ce4a5c03ac61e1ebf479affa5565fbe",
+          "format": "text/plain",
+          "textUrl": "/files/f7668abfc53e17f9744a4bc45ecc6da96ce4a5c03ac61e1ebf479affa5565fbe.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-defence-2026_DRDO_793696_1",
+    "tender": {
+      "id": "2026_DRDO_793696_1",
+      "title": "MAN PORTABLE ELINT MODULES (MPEM) DEVELOPMENT, INTEGRATION AND QUALIFICATION",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Defence Research and Development||Defence Research and Development Organisation||DFMM||Office of DG(ECS)||DLRL",
+        "id": "IN-ORG-department-of-defence-research-and-devel"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-27T00:00:00Z"
+      },
+      "description": "MAN PORTABLE ELINT MODULES (MPEM) DEVELOPMENT, INTEGRATION AND QUALIFICATION"
+    },
+    "buyer": {
+      "name": "Department of Defence Research and Development||Defence Research and Development Organisation||DFMM||Office of DG(ECS)||DLRL",
+      "id": "IN-ORG-department-of-defence-research-and-devel"
+    },
+    "date": "2026-10-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-defence-2026_DRDO_793696_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DRDO_793696_1",
+        "url": "/files/f7668abfc53e17f9744a4bc45ecc6da96ce4a5c03ac61e1ebf479affa5565fbe.txt",
+        "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SiaGIrgklFsCjl7gfctcadg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f7668abfc53e17f9744a4bc45ecc6da96ce4a5c03ac61e1ebf479affa5565fbe",
+        "format": "text/plain",
+        "textUrl": "/files/f7668abfc53e17f9744a4bc45ecc6da96ce4a5c03ac61e1ebf479affa5565fbe.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-defence-2026_DRDO_793696_1",
+      "observedAt": "2026-10-27T03:19:44Z",
+      "witness": "woodpecker:defence",
+      "availability": "present",
+      "stateHash": "ae36464efadf0e6a9bd828fe0d6564017734819204b62da51d834c1b948a4548",
+      "documents": [
+        {
+          "id": "woodpecker-defence-2026_DRDO_793696_1-0001-record",
+          "sha256": "f7668abfc53e17f9744a4bc45ecc6da96ce4a5c03ac61e1ebf479affa5565fbe"
+        }
+      ],
+      "snapshotUrl": "/files/7b42e5f361232d17627f6c682a8bc182d25ca272160e87282a836395bfe60134.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-27T03:19:44Z",
+    "lastObserved": "2026-10-27T03:19:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

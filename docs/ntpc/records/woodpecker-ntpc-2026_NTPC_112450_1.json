@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112450_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112450_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112450_1-0001",
+      "date": "2026-10-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112450_1",
+        "title": "ARC for Maintenance of Public Address System at Jhanor Gandhar",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-27T00:00:00Z"
+        },
+        "description": "ARC for Maintenance of Public Address System at Jhanor Gandhar"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112450_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112450_1",
+          "url": "/files/de0b3917a894abde245e0f85d08acab8b7b537cc523b4b0f7bc3e50c27e89bea.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S5o7He1XT1jsH9JMqNBCiJQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "de0b3917a894abde245e0f85d08acab8b7b537cc523b4b0f7bc3e50c27e89bea",
+          "format": "text/plain",
+          "textUrl": "/files/de0b3917a894abde245e0f85d08acab8b7b537cc523b4b0f7bc3e50c27e89bea.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112450_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S5o7He1XT1jsH9JMqNBCiJQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112450_1",
+    "tender": {
+      "id": "2026_NTPC_112450_1",
+      "title": "ARC for Maintenance of Public Address System at Jhanor Gandhar",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-27T00:00:00Z"
+      },
+      "description": "ARC for Maintenance of Public Address System at Jhanor Gandhar"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112450_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112450_1",
+        "url": "/files/de0b3917a894abde245e0f85d08acab8b7b537cc523b4b0f7bc3e50c27e89bea.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S5o7He1XT1jsH9JMqNBCiJQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "de0b3917a894abde245e0f85d08acab8b7b537cc523b4b0f7bc3e50c27e89bea",
+        "format": "text/plain",
+        "textUrl": "/files/de0b3917a894abde245e0f85d08acab8b7b537cc523b4b0f7bc3e50c27e89bea.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112450_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S5o7He1XT1jsH9JMqNBCiJQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112450_1",
+      "observedAt": "2026-10-27T04:01:53Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "bef53455e3995417f6069ee254eba48bb1c32ff2b81fbd8bddaceec02c59be19",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112450_1-0001-record",
+          "sha256": "de0b3917a894abde245e0f85d08acab8b7b537cc523b4b0f7bc3e50c27e89bea"
+        }
+      ],
+      "snapshotUrl": "/files/0d8f9ac6802a0e62ff7f4ea4c8f1e883592d907a9c12cfda377cdd73f459bc4e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-27T04:01:53Z",
+    "lastObserved": "2026-10-27T04:01:53Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
