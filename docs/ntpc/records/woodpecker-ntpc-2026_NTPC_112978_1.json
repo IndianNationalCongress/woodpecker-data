@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112978_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112978_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112978_1-0001",
+      "date": "2026-10-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112978_1",
+        "title": "Two Years Maintenance of IPS at MGR NTPC Dadri",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-28T00:00:00Z"
+        },
+        "description": "Two Years Maintenance of IPS at MGR NTPC Dadri"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112978_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112978_1",
+          "url": "/files/b4ac8b86f2546aa4372f37ae24a99d72ec227f749048f37a6ef631be6be959ef.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLmJmucSB0%2FlOcq%2F6JBbjOw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b4ac8b86f2546aa4372f37ae24a99d72ec227f749048f37a6ef631be6be959ef",
+          "format": "text/plain",
+          "textUrl": "/files/b4ac8b86f2546aa4372f37ae24a99d72ec227f749048f37a6ef631be6be959ef.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112978_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLmJmucSB0%2FlOcq%2F6JBbjOw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112978_1",
+    "tender": {
+      "id": "2026_NTPC_112978_1",
+      "title": "Two Years Maintenance of IPS at MGR NTPC Dadri",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-28T00:00:00Z"
+      },
+      "description": "Two Years Maintenance of IPS at MGR NTPC Dadri"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112978_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112978_1",
+        "url": "/files/b4ac8b86f2546aa4372f37ae24a99d72ec227f749048f37a6ef631be6be959ef.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLmJmucSB0%2FlOcq%2F6JBbjOw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b4ac8b86f2546aa4372f37ae24a99d72ec227f749048f37a6ef631be6be959ef",
+        "format": "text/plain",
+        "textUrl": "/files/b4ac8b86f2546aa4372f37ae24a99d72ec227f749048f37a6ef631be6be959ef.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112978_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLmJmucSB0%2FlOcq%2F6JBbjOw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112978_1",
+      "observedAt": "2026-10-28T04:16:09Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "a080bb3b46bcec5c0ca8009a540528a654cea6d21948b5e564578348e60acfa9",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112978_1-0001-record",
+          "sha256": "b4ac8b86f2546aa4372f37ae24a99d72ec227f749048f37a6ef631be6be959ef"
+        }
+      ],
+      "snapshotUrl": "/files/be2567af41179c8dd55fd253551be3853aab526f86b7484d468b3ed8e8fdb859.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-28T04:16:09Z",
+    "lastObserved": "2026-10-28T04:16:09Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

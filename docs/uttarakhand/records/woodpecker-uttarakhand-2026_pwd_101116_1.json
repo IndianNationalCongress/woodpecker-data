@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-uttarakhand-2026_pwd_101116_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_pwd_101116_1",
+      "id": "woodpecker-uttarakhand-2026_pwd_101116_1-0001",
+      "date": "2026-10-09T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD||4th Circle U.S. Nagar",
+        "id": "IN-ORG-pwd-4th-circle-u-s-nagar"
+      },
+      "tender": {
+        "id": "2026_pwd_101116_1",
+        "title": "As per BOQ",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD||4th Circle U.S. Nagar",
+          "id": "IN-ORG-pwd-4th-circle-u-s-nagar"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 8988973,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-28T00:00:00Z"
+        },
+        "description": "As per BOQ"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_101116_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_pwd_101116_1",
+          "url": "/files/abc787f152268cf4c8773fc24970c89568f7069377e6275335eba7b7662bb36d.txt",
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOSf44VwtdQsh8x3%2BbnZKiQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "abc787f152268cf4c8773fc24970c89568f7069377e6275335eba7b7662bb36d",
+          "format": "text/plain",
+          "textUrl": "/files/abc787f152268cf4c8773fc24970c89568f7069377e6275335eba7b7662bb36d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_101116_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOSf44VwtdQsh8x3%2BbnZKiQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-uttarakhand-2026_pwd_101116_1",
+    "tender": {
+      "id": "2026_pwd_101116_1",
+      "title": "As per BOQ",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD||4th Circle U.S. Nagar",
+        "id": "IN-ORG-pwd-4th-circle-u-s-nagar"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 8988973,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-28T00:00:00Z"
+      },
+      "description": "As per BOQ"
+    },
+    "buyer": {
+      "name": "PWD||4th Circle U.S. Nagar",
+      "id": "IN-ORG-pwd-4th-circle-u-s-nagar"
+    },
+    "date": "2026-10-09T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-uttarakhand-2026_pwd_101116_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_pwd_101116_1",
+        "url": "/files/abc787f152268cf4c8773fc24970c89568f7069377e6275335eba7b7662bb36d.txt",
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOSf44VwtdQsh8x3%2BbnZKiQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "abc787f152268cf4c8773fc24970c89568f7069377e6275335eba7b7662bb36d",
+        "format": "text/plain",
+        "textUrl": "/files/abc787f152268cf4c8773fc24970c89568f7069377e6275335eba7b7662bb36d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-uttarakhand-2026_pwd_101116_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://uktenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOSf44VwtdQsh8x3%2BbnZKiQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-uttarakhand-2026_pwd_101116_1",
+      "observedAt": "2026-10-28T03:18:02Z",
+      "witness": "woodpecker:uttarakhand",
+      "availability": "present",
+      "stateHash": "3e6fa5557c0acd7cfaf4c5a298b3d588d1328573a17c55019a83db6e533d3704",
+      "documents": [
+        {
+          "id": "woodpecker-uttarakhand-2026_pwd_101116_1-0001-record",
+          "sha256": "abc787f152268cf4c8773fc24970c89568f7069377e6275335eba7b7662bb36d"
+        }
+      ],
+      "snapshotUrl": "/files/3eeaff780e9492f95671222a474e0e2c0269b9b8a652a4eeac54a9160672e517.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-28T03:18:02Z",
+    "lastObserved": "2026-10-28T03:18:02Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

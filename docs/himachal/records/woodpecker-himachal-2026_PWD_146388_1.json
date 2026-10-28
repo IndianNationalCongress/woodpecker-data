@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_146388_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_146388_1",
+      "id": "woodpecker-himachal-2026_PWD_146388_1-0001",
+      "date": "2026-10-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_146388_1",
+        "title": "Prepration of Geotechnical Investigation Report of two nos bridges.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 467820,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-28T00:00:00Z"
+        },
+        "description": "Prepration of Geotechnical Investigation Report of two nos bridges."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_146388_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_146388_1",
+          "url": "/files/467c23ec424b756701454c83ff8086a554ee25d0e45e458ea5f738e197114c2c.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4Ir47gly9CaXj2s7qim8pA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "467c23ec424b756701454c83ff8086a554ee25d0e45e458ea5f738e197114c2c",
+          "format": "text/plain",
+          "textUrl": "/files/467c23ec424b756701454c83ff8086a554ee25d0e45e458ea5f738e197114c2c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_146388_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4Ir47gly9CaXj2s7qim8pA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_146388_1",
+    "tender": {
+      "id": "2026_PWD_146388_1",
+      "title": "Prepration of Geotechnical Investigation Report of two nos bridges.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 467820,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-28T00:00:00Z"
+      },
+      "description": "Prepration of Geotechnical Investigation Report of two nos bridges."
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-10-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_146388_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_146388_1",
+        "url": "/files/467c23ec424b756701454c83ff8086a554ee25d0e45e458ea5f738e197114c2c.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4Ir47gly9CaXj2s7qim8pA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "467c23ec424b756701454c83ff8086a554ee25d0e45e458ea5f738e197114c2c",
+        "format": "text/plain",
+        "textUrl": "/files/467c23ec424b756701454c83ff8086a554ee25d0e45e458ea5f738e197114c2c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_146388_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4Ir47gly9CaXj2s7qim8pA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_146388_1",
+      "observedAt": "2026-10-28T03:24:22Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "be32aba5fa52feb06bbe19209fb9e8697a85f04ca72bc0030712736cbeaae06d",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_146388_1-0001-record",
+          "sha256": "467c23ec424b756701454c83ff8086a554ee25d0e45e458ea5f738e197114c2c"
+        }
+      ],
+      "snapshotUrl": "/files/4a141e06f9e10f61d6038e7497d94c3a3db421428cec20fe02055bb2b095f3f5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-28T03:24:22Z",
+    "lastObserved": "2026-10-28T03:24:22Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
