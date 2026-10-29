@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112944_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112944_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112944_1-0001",
+      "date": "2026-10-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112944_1",
+        "title": "Procurement of Spares for Sempell Make Safety Valves at NTPC Solapur",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-29T00:00:00Z"
+        },
+        "description": "Procurement of Spares for Sempell Make Safety Valves at NTPC Solapur"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112944_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112944_1",
+          "url": "/files/a054e7bb8ae08c382a679bb00ec5eed2f5ad7dc5a5206ee1f05dd3feec0ff1c9.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBp4ID5ua13NzgsdH3fM55w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a054e7bb8ae08c382a679bb00ec5eed2f5ad7dc5a5206ee1f05dd3feec0ff1c9",
+          "format": "text/plain",
+          "textUrl": "/files/a054e7bb8ae08c382a679bb00ec5eed2f5ad7dc5a5206ee1f05dd3feec0ff1c9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112944_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBp4ID5ua13NzgsdH3fM55w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112944_1",
+    "tender": {
+      "id": "2026_NTPC_112944_1",
+      "title": "Procurement of Spares for Sempell Make Safety Valves at NTPC Solapur",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-29T00:00:00Z"
+      },
+      "description": "Procurement of Spares for Sempell Make Safety Valves at NTPC Solapur"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112944_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112944_1",
+        "url": "/files/a054e7bb8ae08c382a679bb00ec5eed2f5ad7dc5a5206ee1f05dd3feec0ff1c9.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBp4ID5ua13NzgsdH3fM55w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a054e7bb8ae08c382a679bb00ec5eed2f5ad7dc5a5206ee1f05dd3feec0ff1c9",
+        "format": "text/plain",
+        "textUrl": "/files/a054e7bb8ae08c382a679bb00ec5eed2f5ad7dc5a5206ee1f05dd3feec0ff1c9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112944_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBp4ID5ua13NzgsdH3fM55w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112944_1",
+      "observedAt": "2026-10-29T04:10:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "f9b2b399a47adc442cfef9004a7dd824b30445590f51f9137d11c6625355a289",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112944_1-0001-record",
+          "sha256": "a054e7bb8ae08c382a679bb00ec5eed2f5ad7dc5a5206ee1f05dd3feec0ff1c9"
+        }
+      ],
+      "snapshotUrl": "/files/41f2dda011b9f4da1a94c6c39356f9f248abed19386f50a79a876bc7089d537c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-29T04:10:01Z",
+    "lastObserved": "2026-10-29T04:10:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

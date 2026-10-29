@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112947_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112947_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112947_1-0001",
+      "date": "2026-10-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112947_1",
+        "title": "Biennial Maintenance service contract of 100 MT weigh bridge at ash dyke NTPC Ramagundam",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-10-29T00:00:00Z"
+        },
+        "description": "Biennial Maintenance service contract of 100 MT weigh bridge at ash dyke NTPC Ramagundam"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112947_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112947_1",
+          "url": "/files/8f78cc4541e968194152794004cfb98b98383ef88429e2cae11c1c2f349d6ab8.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STV35lfEamIpDv4BAmtOMYg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "8f78cc4541e968194152794004cfb98b98383ef88429e2cae11c1c2f349d6ab8",
+          "format": "text/plain",
+          "textUrl": "/files/8f78cc4541e968194152794004cfb98b98383ef88429e2cae11c1c2f349d6ab8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112947_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STV35lfEamIpDv4BAmtOMYg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112947_1",
+    "tender": {
+      "id": "2026_NTPC_112947_1",
+      "title": "Biennial Maintenance service contract of 100 MT weigh bridge at ash dyke NTPC Ramagundam",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-10-29T00:00:00Z"
+      },
+      "description": "Biennial Maintenance service contract of 100 MT weigh bridge at ash dyke NTPC Ramagundam"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112947_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112947_1",
+        "url": "/files/8f78cc4541e968194152794004cfb98b98383ef88429e2cae11c1c2f349d6ab8.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STV35lfEamIpDv4BAmtOMYg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "8f78cc4541e968194152794004cfb98b98383ef88429e2cae11c1c2f349d6ab8",
+        "format": "text/plain",
+        "textUrl": "/files/8f78cc4541e968194152794004cfb98b98383ef88429e2cae11c1c2f349d6ab8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112947_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STV35lfEamIpDv4BAmtOMYg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112947_1",
+      "observedAt": "2026-10-29T04:10:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "2fb779b046d70a8c55fd3b66bede650049417f96b0d320bbafca3060b71c2ff0",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112947_1-0001-record",
+          "sha256": "8f78cc4541e968194152794004cfb98b98383ef88429e2cae11c1c2f349d6ab8"
+        }
+      ],
+      "snapshotUrl": "/files/eb9e53020f4d9dabbbb8d3847c3e36d19913c2e250cdb4429c29e0d14f677f77.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-29T04:10:01Z",
+    "lastObserved": "2026-10-29T04:10:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

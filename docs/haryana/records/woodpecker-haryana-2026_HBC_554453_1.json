@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-haryana-2026_HBC_554453_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_554453_1",
+      "id": "woodpecker-haryana-2026_HBC_554453_1-0001",
+      "date": "2026-10-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Hissar",
+        "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+      },
+      "tender": {
+        "id": "2026_HBC_554453_1",
+        "title": "Construction of new control room building at 132 kV substation, HVPNL, Polysteel.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Hissar",
+          "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 11850360,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-29T00:00:00Z"
+        },
+        "description": "Construction of new control room building at 132 kV substation, HVPNL, Polysteel."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_554453_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HBC_554453_1",
+          "url": "/files/fd1a11a097462d65a35ae0bdbaad25a4d77d4c10a0cc3729b48720399ba6e778.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STHM0AVPbKyuUZW0RXXmpBQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "fd1a11a097462d65a35ae0bdbaad25a4d77d4c10a0cc3729b48720399ba6e778",
+          "format": "text/plain",
+          "textUrl": "/files/fd1a11a097462d65a35ae0bdbaad25a4d77d4c10a0cc3729b48720399ba6e778.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HBC_554453_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STHM0AVPbKyuUZW0RXXmpBQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HBC_554453_1",
+    "tender": {
+      "id": "2026_HBC_554453_1",
+      "title": "Construction of new control room building at 132 kV substation, HVPNL, Polysteel.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Hissar",
+        "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 11850360,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-29T00:00:00Z"
+      },
+      "description": "Construction of new control room building at 132 kV substation, HVPNL, Polysteel."
+    },
+    "buyer": {
+      "name": "Haryana Board Corporation||HVPNL||CE TS Hisar||XEN Civil Hissar",
+      "id": "IN-ORG-haryana-board-corporation-hvpnl-ce-ts-hi"
+    },
+    "date": "2026-10-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HBC_554453_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HBC_554453_1",
+        "url": "/files/fd1a11a097462d65a35ae0bdbaad25a4d77d4c10a0cc3729b48720399ba6e778.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STHM0AVPbKyuUZW0RXXmpBQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "fd1a11a097462d65a35ae0bdbaad25a4d77d4c10a0cc3729b48720399ba6e778",
+        "format": "text/plain",
+        "textUrl": "/files/fd1a11a097462d65a35ae0bdbaad25a4d77d4c10a0cc3729b48720399ba6e778.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HBC_554453_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=STHM0AVPbKyuUZW0RXXmpBQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HBC_554453_1",
+      "observedAt": "2026-10-29T03:47:50Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "e3fbd3a1a9f7a0285bb6cfdde795a8882e1d60493bc0d4cdd7b0f2d8df084b91",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HBC_554453_1-0001-record",
+          "sha256": "fd1a11a097462d65a35ae0bdbaad25a4d77d4c10a0cc3729b48720399ba6e778"
+        }
+      ],
+      "snapshotUrl": "/files/406fccbf55ea2ea0e2c7c8b0c5696aef101eb42c452b46c345789a544bb1da44.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-29T03:47:50Z",
+    "lastObserved": "2026-10-29T03:47:50Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

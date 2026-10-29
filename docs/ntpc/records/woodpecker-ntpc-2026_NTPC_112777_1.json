@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112777_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112777_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112777_1-0001",
+      "date": "2026-10-15T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112777_1",
+        "title": "Procuremnet of coupling for Mill XRP 1003 at NTPC Dadri",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-29T00:00:00Z"
+        },
+        "description": "Procuremnet of coupling for Mill XRP 1003 at NTPC Dadri"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112777_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112777_1",
+          "url": "/files/f131f86669bd6708667a1f1cd71808ceaa2f120442442ac654ad7d7bc26f692a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SotB1zngEcepMlegJ%2FsS4sA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f131f86669bd6708667a1f1cd71808ceaa2f120442442ac654ad7d7bc26f692a",
+          "format": "text/plain",
+          "textUrl": "/files/f131f86669bd6708667a1f1cd71808ceaa2f120442442ac654ad7d7bc26f692a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112777_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SotB1zngEcepMlegJ%2FsS4sA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112777_1",
+    "tender": {
+      "id": "2026_NTPC_112777_1",
+      "title": "Procuremnet of coupling for Mill XRP 1003 at NTPC Dadri",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-29T00:00:00Z"
+      },
+      "description": "Procuremnet of coupling for Mill XRP 1003 at NTPC Dadri"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-15T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112777_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112777_1",
+        "url": "/files/f131f86669bd6708667a1f1cd71808ceaa2f120442442ac654ad7d7bc26f692a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SotB1zngEcepMlegJ%2FsS4sA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f131f86669bd6708667a1f1cd71808ceaa2f120442442ac654ad7d7bc26f692a",
+        "format": "text/plain",
+        "textUrl": "/files/f131f86669bd6708667a1f1cd71808ceaa2f120442442ac654ad7d7bc26f692a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112777_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SotB1zngEcepMlegJ%2FsS4sA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112777_1",
+      "observedAt": "2026-10-29T04:10:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "b5b746e4fe4628eadea8d17bc51818d9d70af784950dac90f505cc81f4ef5165",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112777_1-0001-record",
+          "sha256": "f131f86669bd6708667a1f1cd71808ceaa2f120442442ac654ad7d7bc26f692a"
+        }
+      ],
+      "snapshotUrl": "/files/dc265d14bb0850ad642117138c8c6d5a28ab27c139044bd505f96f64037c301a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-29T04:10:01Z",
+    "lastObserved": "2026-10-29T04:10:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

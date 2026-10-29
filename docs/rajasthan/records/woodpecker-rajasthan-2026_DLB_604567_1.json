@@ -1,0 +1,154 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DLB_604567_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_604567_1",
+      "id": "woodpecker-rajasthan-2026_DLB_604567_1-0001",
+      "date": "2026-10-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DLB||Dy.DR-Jodhpur||EO-Falodi",
+        "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-falodi"
+      },
+      "tender": {
+        "id": "2026_DLB_604567_1",
+        "title": "Supply of electrical goods",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DLB||Dy.DR-Jodhpur||EO-Falodi",
+          "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-falodi"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 500000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-29T00:00:00Z"
+        },
+        "description": "Supply of electrical goods"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_604567_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DLB_604567_1",
+          "url": "/files/3bba2b8d6e6fae5f72846a5f93ea22abe21ea868489c3cb6880d977df3cc13a3.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOS8vtMtjSirWk8DZbboR9Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3bba2b8d6e6fae5f72846a5f93ea22abe21ea868489c3cb6880d977df3cc13a3",
+          "format": "text/plain",
+          "textUrl": "/files/3bba2b8d6e6fae5f72846a5f93ea22abe21ea868489c3cb6880d977df3cc13a3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_604567_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOS8vtMtjSirWk8DZbboR9Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_604567_1-0001-doc-2",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_2.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOS8vtMtjSirWk8DZbboR9Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DLB_604567_1",
+    "tender": {
+      "id": "2026_DLB_604567_1",
+      "title": "Supply of electrical goods",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DLB||Dy.DR-Jodhpur||EO-Falodi",
+        "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-falodi"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 500000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-29T00:00:00Z"
+      },
+      "description": "Supply of electrical goods"
+    },
+    "buyer": {
+      "name": "DLB||Dy.DR-Jodhpur||EO-Falodi",
+      "id": "IN-ORG-dlb-dy-dr-jodhpur-eo-falodi"
+    },
+    "date": "2026-10-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_604567_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DLB_604567_1",
+        "url": "/files/3bba2b8d6e6fae5f72846a5f93ea22abe21ea868489c3cb6880d977df3cc13a3.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOS8vtMtjSirWk8DZbboR9Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3bba2b8d6e6fae5f72846a5f93ea22abe21ea868489c3cb6880d977df3cc13a3",
+        "format": "text/plain",
+        "textUrl": "/files/3bba2b8d6e6fae5f72846a5f93ea22abe21ea868489c3cb6880d977df3cc13a3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_604567_1-0001-doc-2",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_2.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOS8vtMtjSirWk8DZbboR9Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_604567_1",
+      "observedAt": "2026-10-29T04:03:58Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "0e545dee768319d04d9a9ecd1a2282a4f90ba5e829c6b766edf3cb0c97a1a3c9",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_604567_1-0001-record",
+          "sha256": "3bba2b8d6e6fae5f72846a5f93ea22abe21ea868489c3cb6880d977df3cc13a3"
+        }
+      ],
+      "snapshotUrl": "/files/70de4c9f8a4b0d16c1b93187bcd4c6b5b58d807132c1cff5325439492ab25bce.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-29T04:03:58Z",
+    "lastObserved": "2026-10-29T04:03:58Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112842_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112842_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112842_1-0001",
+      "date": "2026-10-19T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_112842_1",
+        "title": "800064264 Procurement of 10 KVA UPS for NTPC Ramagundam",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-10-29T00:00:00Z"
+        },
+        "description": "800064264 Procurement of 10 KVA UPS for NTPC Ramagundam"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112842_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112842_1",
+          "url": "/files/52b7e3d15f046ab2abe872099df7b00e2b53e0887a0f23d8f46c296342857490.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwWVm8Lx0jcdATeRkaef9Xg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "52b7e3d15f046ab2abe872099df7b00e2b53e0887a0f23d8f46c296342857490",
+          "format": "text/plain",
+          "textUrl": "/files/52b7e3d15f046ab2abe872099df7b00e2b53e0887a0f23d8f46c296342857490.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112842_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwWVm8Lx0jcdATeRkaef9Xg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112842_1",
+    "tender": {
+      "id": "2026_NTPC_112842_1",
+      "title": "800064264 Procurement of 10 KVA UPS for NTPC Ramagundam",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-10-29T00:00:00Z"
+      },
+      "description": "800064264 Procurement of 10 KVA UPS for NTPC Ramagundam"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-10-19T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112842_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112842_1",
+        "url": "/files/52b7e3d15f046ab2abe872099df7b00e2b53e0887a0f23d8f46c296342857490.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwWVm8Lx0jcdATeRkaef9Xg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "52b7e3d15f046ab2abe872099df7b00e2b53e0887a0f23d8f46c296342857490",
+        "format": "text/plain",
+        "textUrl": "/files/52b7e3d15f046ab2abe872099df7b00e2b53e0887a0f23d8f46c296342857490.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112842_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SwWVm8Lx0jcdATeRkaef9Xg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112842_1",
+      "observedAt": "2026-10-29T04:10:01Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "a058b9e06c047786d30c06c44a8166aaf083ee209b49a8ea173f2247218a2e6a",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112842_1-0001-record",
+          "sha256": "52b7e3d15f046ab2abe872099df7b00e2b53e0887a0f23d8f46c296342857490"
+        }
+      ],
+      "snapshotUrl": "/files/1ab617a9bfba28ac399ec6ea0a111b047a89749404c63d2d9768287f37459152.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-29T04:10:01Z",
+    "lastObserved": "2026-10-29T04:10:01Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
