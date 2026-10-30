@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112850_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112850_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112850_1-0001",
+      "date": "2026-10-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112850_1",
+        "title": "PROCUREMENT OF BRAKES AND ITS SPARES FOR NTPC DADRI",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-30T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF BRAKES AND ITS SPARES FOR NTPC DADRI"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112850_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112850_1",
+          "url": "/files/8573e640476da19ff68c5f27e6cf8115c64336a8e9d9712f80d68bc7bc4ce30a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzkLG8P734HzxGLs3jBg%2BCw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "8573e640476da19ff68c5f27e6cf8115c64336a8e9d9712f80d68bc7bc4ce30a",
+          "format": "text/plain",
+          "textUrl": "/files/8573e640476da19ff68c5f27e6cf8115c64336a8e9d9712f80d68bc7bc4ce30a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112850_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzkLG8P734HzxGLs3jBg%2BCw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112850_1",
+    "tender": {
+      "id": "2026_NTPC_112850_1",
+      "title": "PROCUREMENT OF BRAKES AND ITS SPARES FOR NTPC DADRI",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-30T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF BRAKES AND ITS SPARES FOR NTPC DADRI"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112850_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112850_1",
+        "url": "/files/8573e640476da19ff68c5f27e6cf8115c64336a8e9d9712f80d68bc7bc4ce30a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzkLG8P734HzxGLs3jBg%2BCw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "8573e640476da19ff68c5f27e6cf8115c64336a8e9d9712f80d68bc7bc4ce30a",
+        "format": "text/plain",
+        "textUrl": "/files/8573e640476da19ff68c5f27e6cf8115c64336a8e9d9712f80d68bc7bc4ce30a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112850_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzkLG8P734HzxGLs3jBg%2BCw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112850_1",
+      "observedAt": "2026-10-30T04:18:57Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "4e33f576b608ea034bf584ae0f585b7f5aa062da23f2b70786a0bea92a983d5e",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112850_1-0001-record",
+          "sha256": "8573e640476da19ff68c5f27e6cf8115c64336a8e9d9712f80d68bc7bc4ce30a"
+        }
+      ],
+      "snapshotUrl": "/files/a1d27ddb49840a3fa103a5dab6391df2dda75da3ad74fcca552ae4f739249875.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-30T04:18:57Z",
+    "lastObserved": "2026-10-30T04:18:57Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

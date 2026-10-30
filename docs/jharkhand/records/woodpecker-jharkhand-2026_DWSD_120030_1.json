@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-jharkhand-2026_DWSD_120030_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-jharkhand-2026_DWSD_120030_1",
+      "id": "woodpecker-jharkhand-2026_DWSD_120030_1-0001",
+      "date": "2026-10-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DWSD EinC||DWSD CE DUMKA||DWSD SE Dhanbad||DWSD EE Chas",
+        "id": "IN-ORG-dwsd-einc-dwsd-ce-dumka-dwsd-se-dhanbad-"
+      },
+      "tender": {
+        "id": "2026_DWSD_120030_1",
+        "title": "construction of 3 Nos hydt with sockpit",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DWSD EinC||DWSD CE DUMKA||DWSD SE Dhanbad||DWSD EE Chas",
+          "id": "IN-ORG-dwsd-einc-dwsd-ce-dumka-dwsd-se-dhanbad-"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 647667,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-30T00:00:00Z"
+        },
+        "description": "construction of 3 Nos hydt with sockpit"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jharkhand-2026_DWSD_120030_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DWSD_120030_1",
+          "url": "/files/af19f795dec14ce41e7ca33f1f8a99c71179179fad1e8844cfa7fe823575168f.txt",
+          "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyKlRzOBKxfrqEGIwyNjL9w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "af19f795dec14ce41e7ca33f1f8a99c71179179fad1e8844cfa7fe823575168f",
+          "format": "text/plain",
+          "textUrl": "/files/af19f795dec14ce41e7ca33f1f8a99c71179179fad1e8844cfa7fe823575168f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-jharkhand-2026_DWSD_120030_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyKlRzOBKxfrqEGIwyNjL9w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jharkhand-2026_DWSD_120030_1",
+    "tender": {
+      "id": "2026_DWSD_120030_1",
+      "title": "construction of 3 Nos hydt with sockpit",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DWSD EinC||DWSD CE DUMKA||DWSD SE Dhanbad||DWSD EE Chas",
+        "id": "IN-ORG-dwsd-einc-dwsd-ce-dumka-dwsd-se-dhanbad-"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 647667,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-30T00:00:00Z"
+      },
+      "description": "construction of 3 Nos hydt with sockpit"
+    },
+    "buyer": {
+      "name": "DWSD EinC||DWSD CE DUMKA||DWSD SE Dhanbad||DWSD EE Chas",
+      "id": "IN-ORG-dwsd-einc-dwsd-ce-dumka-dwsd-se-dhanbad-"
+    },
+    "date": "2026-10-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jharkhand-2026_DWSD_120030_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DWSD_120030_1",
+        "url": "/files/af19f795dec14ce41e7ca33f1f8a99c71179179fad1e8844cfa7fe823575168f.txt",
+        "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyKlRzOBKxfrqEGIwyNjL9w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "af19f795dec14ce41e7ca33f1f8a99c71179179fad1e8844cfa7fe823575168f",
+        "format": "text/plain",
+        "textUrl": "/files/af19f795dec14ce41e7ca33f1f8a99c71179179fad1e8844cfa7fe823575168f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-jharkhand-2026_DWSD_120030_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SyKlRzOBKxfrqEGIwyNjL9w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jharkhand-2026_DWSD_120030_1",
+      "observedAt": "2026-10-30T03:32:58Z",
+      "witness": "woodpecker:jharkhand",
+      "availability": "present",
+      "stateHash": "be2aa09676e6ff23abde9115928204098027adaca46ff0afe7445c8e3d3333ad",
+      "documents": [
+        {
+          "id": "woodpecker-jharkhand-2026_DWSD_120030_1-0001-record",
+          "sha256": "af19f795dec14ce41e7ca33f1f8a99c71179179fad1e8844cfa7fe823575168f"
+        }
+      ],
+      "snapshotUrl": "/files/a0c4332172b781e3cd59ca62b21b8b0cf158ce4d89b82f391ceeef727861df69.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-30T03:32:58Z",
+    "lastObserved": "2026-10-30T03:32:58Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
