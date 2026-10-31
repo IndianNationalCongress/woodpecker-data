@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112933_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112933_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112933_1-0001",
+      "date": "2026-10-22T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_112933_1",
+        "title": "Procurement of IGV Gear Box for ID Fan Stage III",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-10-31T00:00:00Z"
+        },
+        "description": "Procurement of IGV Gear Box for ID Fan Stage III"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112933_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112933_1",
+          "url": "/files/c2eb090c8be43f36485fbd9862e871898a7d80491d248eb5728d5e784ebfd5c4.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxzlcbfKXf%2BEMfOsNaz01uA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c2eb090c8be43f36485fbd9862e871898a7d80491d248eb5728d5e784ebfd5c4",
+          "format": "text/plain",
+          "textUrl": "/files/c2eb090c8be43f36485fbd9862e871898a7d80491d248eb5728d5e784ebfd5c4.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112933_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxzlcbfKXf%2BEMfOsNaz01uA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112933_1",
+    "tender": {
+      "id": "2026_NTPC_112933_1",
+      "title": "Procurement of IGV Gear Box for ID Fan Stage III",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-10-31T00:00:00Z"
+      },
+      "description": "Procurement of IGV Gear Box for ID Fan Stage III"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-22T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112933_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112933_1",
+        "url": "/files/c2eb090c8be43f36485fbd9862e871898a7d80491d248eb5728d5e784ebfd5c4.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxzlcbfKXf%2BEMfOsNaz01uA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c2eb090c8be43f36485fbd9862e871898a7d80491d248eb5728d5e784ebfd5c4",
+        "format": "text/plain",
+        "textUrl": "/files/c2eb090c8be43f36485fbd9862e871898a7d80491d248eb5728d5e784ebfd5c4.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112933_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxzlcbfKXf%2BEMfOsNaz01uA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112933_1",
+      "observedAt": "2026-10-31T04:03:40Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "e78780d3e94ffd75a2eedc5f892644daabd0be4614eda69b6f2c3ff71684dfd2",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112933_1-0001-record",
+          "sha256": "c2eb090c8be43f36485fbd9862e871898a7d80491d248eb5728d5e784ebfd5c4"
+        }
+      ],
+      "snapshotUrl": "/files/f2fd4e970e01140d0effac8b52a76a4c48f094620d8a9190f6c41ec9057c1564.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-31T04:03:40Z",
+    "lastObserved": "2026-10-31T04:03:40Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

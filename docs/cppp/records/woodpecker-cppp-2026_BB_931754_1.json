@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_BB_931754_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_BB_931754_1",
+      "id": "woodpecker-cppp-2026_BB_931754_1-0001",
+      "date": "2026-10-26T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Brahmaputra Board||Executive Engineer-Roing Division - BB",
+        "id": "IN-ORG-brahmaputra-board-executive-engineer-roi"
+      },
+      "tender": {
+        "id": "2026_BB_931754_1",
+        "title": "Provisioning of Labour",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Brahmaputra Board||Executive Engineer-Roing Division - BB",
+          "id": "IN-ORG-brahmaputra-board-executive-engineer-roi"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-10-31T00:00:00Z"
+        },
+        "description": "Provisioning of Labour"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_BB_931754_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BB_931754_1",
+          "url": "/files/e4f234f6bff65f4c0b04121c595512c8a26ef7d8308a55707052d23947ba5576.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0YEuQtKixIYXaLyQewgyfA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e4f234f6bff65f4c0b04121c595512c8a26ef7d8308a55707052d23947ba5576",
+          "format": "text/plain",
+          "textUrl": "/files/e4f234f6bff65f4c0b04121c595512c8a26ef7d8308a55707052d23947ba5576.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_BB_931754_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0YEuQtKixIYXaLyQewgyfA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_BB_931754_1",
+    "tender": {
+      "id": "2026_BB_931754_1",
+      "title": "Provisioning of Labour",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Brahmaputra Board||Executive Engineer-Roing Division - BB",
+        "id": "IN-ORG-brahmaputra-board-executive-engineer-roi"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-10-31T00:00:00Z"
+      },
+      "description": "Provisioning of Labour"
+    },
+    "buyer": {
+      "name": "Brahmaputra Board||Executive Engineer-Roing Division - BB",
+      "id": "IN-ORG-brahmaputra-board-executive-engineer-roi"
+    },
+    "date": "2026-10-26T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_BB_931754_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BB_931754_1",
+        "url": "/files/e4f234f6bff65f4c0b04121c595512c8a26ef7d8308a55707052d23947ba5576.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0YEuQtKixIYXaLyQewgyfA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e4f234f6bff65f4c0b04121c595512c8a26ef7d8308a55707052d23947ba5576",
+        "format": "text/plain",
+        "textUrl": "/files/e4f234f6bff65f4c0b04121c595512c8a26ef7d8308a55707052d23947ba5576.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_BB_931754_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S0YEuQtKixIYXaLyQewgyfA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_BB_931754_1",
+      "observedAt": "2026-10-31T02:44:15Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "d15295de52c0e700be732ad0fc660f55fa684c184e222e3ba3b7d89e790adedb",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_BB_931754_1-0001-record",
+          "sha256": "e4f234f6bff65f4c0b04121c595512c8a26ef7d8308a55707052d23947ba5576"
+        }
+      ],
+      "snapshotUrl": "/files/a158283588940bff2f02c8055aefb90fb0a982ea3d9b7cb621e0ac26d555963b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-31T02:44:15Z",
+    "lastObserved": "2026-10-31T02:44:15Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

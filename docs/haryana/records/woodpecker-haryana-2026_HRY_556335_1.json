@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-haryana-2026_HRY_556335_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HRY_556335_1",
+      "id": "woodpecker-haryana-2026_HRY_556335_1-0001",
+      "date": "2026-10-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Government||Urban Local Bodies||MC Sohna",
+        "id": "IN-ORG-haryana-government-urban-local-bodies-mc"
+      },
+      "tender": {
+        "id": "2026_HRY_556335_1",
+        "title": "Const of Room in General Choupal in Ward no 20 MC Sohna D-Plan(Recall)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Government||Urban Local Bodies||MC Sohna",
+          "id": "IN-ORG-haryana-government-urban-local-bodies-mc"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 999729,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-10-31T00:00:00Z"
+        },
+        "description": "Const of Room in General Choupal in Ward no 20 MC Sohna D-Plan(Recall)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HRY_556335_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HRY_556335_1",
+          "url": "/files/58f2d5491a7d524edca0c8418a1ae3f1e9b8769c6d9b909b8b015a5f67c85ca0.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVsoUo3H9Wvjp3mKH3O1X0w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "58f2d5491a7d524edca0c8418a1ae3f1e9b8769c6d9b909b8b015a5f67c85ca0",
+          "format": "text/plain",
+          "textUrl": "/files/58f2d5491a7d524edca0c8418a1ae3f1e9b8769c6d9b909b8b015a5f67c85ca0.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HRY_556335_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVsoUo3H9Wvjp3mKH3O1X0w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HRY_556335_1",
+    "tender": {
+      "id": "2026_HRY_556335_1",
+      "title": "Const of Room in General Choupal in Ward no 20 MC Sohna D-Plan(Recall)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Government||Urban Local Bodies||MC Sohna",
+        "id": "IN-ORG-haryana-government-urban-local-bodies-mc"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 999729,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-10-31T00:00:00Z"
+      },
+      "description": "Const of Room in General Choupal in Ward no 20 MC Sohna D-Plan(Recall)"
+    },
+    "buyer": {
+      "name": "Haryana Government||Urban Local Bodies||MC Sohna",
+      "id": "IN-ORG-haryana-government-urban-local-bodies-mc"
+    },
+    "date": "2026-10-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HRY_556335_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HRY_556335_1",
+        "url": "/files/58f2d5491a7d524edca0c8418a1ae3f1e9b8769c6d9b909b8b015a5f67c85ca0.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVsoUo3H9Wvjp3mKH3O1X0w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "58f2d5491a7d524edca0c8418a1ae3f1e9b8769c6d9b909b8b015a5f67c85ca0",
+        "format": "text/plain",
+        "textUrl": "/files/58f2d5491a7d524edca0c8418a1ae3f1e9b8769c6d9b909b8b015a5f67c85ca0.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HRY_556335_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SVsoUo3H9Wvjp3mKH3O1X0w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HRY_556335_1",
+      "observedAt": "2026-10-31T03:51:57Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "721b130c4a3d7ee299e9963bd0d065a6958cc4e768ff73f01149280cae7dead7",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HRY_556335_1-0001-record",
+          "sha256": "58f2d5491a7d524edca0c8418a1ae3f1e9b8769c6d9b909b8b015a5f67c85ca0"
+        }
+      ],
+      "snapshotUrl": "/files/c0463c447b42980b6518ecdc525e9c2878fbfa5e28b977e5523e1229a17fb949.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-10-31T03:51:57Z",
+    "lastObserved": "2026-10-31T03:51:57Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
