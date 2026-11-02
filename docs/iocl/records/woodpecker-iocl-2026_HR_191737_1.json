@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_HR_191737_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_HR_191737_1",
+      "id": "woodpecker-iocl-2026_HR_191737_1-0001",
+      "date": "2026-10-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+      },
+      "tender": {
+        "id": "2026_HR_191737_1",
+        "title": "Supply of RTJ Gaskets",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-02T00:00:00Z"
+        },
+        "description": "Supply of RTJ Gaskets"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_HR_191737_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HR_191737_1",
+          "url": "/files/5bf42aa5c078a1d5805735ec3d078d3aa240f9a1413059e3f1ffc0243c1315e2.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzDaSzIhUDvFv%2BW%2F2mveN7A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5bf42aa5c078a1d5805735ec3d078d3aa240f9a1413059e3f1ffc0243c1315e2",
+          "format": "text/plain",
+          "textUrl": "/files/5bf42aa5c078a1d5805735ec3d078d3aa240f9a1413059e3f1ffc0243c1315e2.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_HR_191737_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzDaSzIhUDvFv%2BW%2F2mveN7A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_HR_191737_1",
+    "tender": {
+      "id": "2026_HR_191737_1",
+      "title": "Supply of RTJ Gaskets",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-02T00:00:00Z"
+      },
+      "description": "Supply of RTJ Gaskets"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+    },
+    "date": "2026-10-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_HR_191737_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HR_191737_1",
+        "url": "/files/5bf42aa5c078a1d5805735ec3d078d3aa240f9a1413059e3f1ffc0243c1315e2.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzDaSzIhUDvFv%2BW%2F2mveN7A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5bf42aa5c078a1d5805735ec3d078d3aa240f9a1413059e3f1ffc0243c1315e2",
+        "format": "text/plain",
+        "textUrl": "/files/5bf42aa5c078a1d5805735ec3d078d3aa240f9a1413059e3f1ffc0243c1315e2.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_HR_191737_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SzDaSzIhUDvFv%2BW%2F2mveN7A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_HR_191737_1",
+      "observedAt": "2026-11-02T04:27:44Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "a1181a1eedd662421c967cd867e3ed11d65ac4325ad84e44f85f2d2cb1fd5fbc",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_HR_191737_1-0001-record",
+          "sha256": "5bf42aa5c078a1d5805735ec3d078d3aa240f9a1413059e3f1ffc0243c1315e2"
+        }
+      ],
+      "snapshotUrl": "/files/5c5186bd40c57c01fc678eb98fb5060ec48ea8000d6d5309d1bc4f58e387bb21.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-02T04:27:44Z",
+    "lastObserved": "2026-11-02T04:27:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

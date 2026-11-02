@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_PR_191893_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_191893_1",
+      "id": "woodpecker-iocl-2026_PR_191893_1-0001",
+      "date": "2026-10-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "tender": {
+        "id": "2026_PR_191893_1",
+        "title": "Procurement of Floor and Wall Burner Tiles",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-02T00:00:00Z"
+        },
+        "description": "Procurement of Floor and Wall Burner Tiles"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_191893_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PR_191893_1",
+          "url": "/files/42b4683d787353484544d0570ca64d6e317d779813289c770fa1b78d14185c82.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCCNbh%2B0MfHEX0hM544rVIw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "42b4683d787353484544d0570ca64d6e317d779813289c770fa1b78d14185c82",
+          "format": "text/plain",
+          "textUrl": "/files/42b4683d787353484544d0570ca64d6e317d779813289c770fa1b78d14185c82.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_PR_191893_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCCNbh%2B0MfHEX0hM544rVIw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_PR_191893_1",
+    "tender": {
+      "id": "2026_PR_191893_1",
+      "title": "Procurement of Floor and Wall Burner Tiles",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-02T00:00:00Z"
+      },
+      "description": "Procurement of Floor and Wall Burner Tiles"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Panipat Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-panipat-refinery-ma"
+    },
+    "date": "2026-10-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_PR_191893_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PR_191893_1",
+        "url": "/files/42b4683d787353484544d0570ca64d6e317d779813289c770fa1b78d14185c82.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCCNbh%2B0MfHEX0hM544rVIw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "42b4683d787353484544d0570ca64d6e317d779813289c770fa1b78d14185c82",
+        "format": "text/plain",
+        "textUrl": "/files/42b4683d787353484544d0570ca64d6e317d779813289c770fa1b78d14185c82.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_PR_191893_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCCNbh%2B0MfHEX0hM544rVIw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_PR_191893_1",
+      "observedAt": "2026-11-02T04:27:44Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "22d56d5fc50958d62105ccd3a0d3b8100264dd80023761af7da0b827d2a5dbf6",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_PR_191893_1-0001-record",
+          "sha256": "42b4683d787353484544d0570ca64d6e317d779813289c770fa1b78d14185c82"
+        }
+      ],
+      "snapshotUrl": "/files/c2f05f1c6dcdeeee1467a9c250b5dadca3e895654ed425420e9609e2978a9a15.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-02T04:27:44Z",
+    "lastObserved": "2026-11-02T04:27:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

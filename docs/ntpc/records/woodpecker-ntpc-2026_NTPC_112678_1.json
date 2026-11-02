@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112678_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112678_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112678_1-0001",
+      "date": "2026-10-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "tender": {
+        "id": "2026_NTPC_112678_1",
+        "title": "As per SOW",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-11-02T00:00:00Z"
+        },
+        "description": "As per SOW"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112678_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112678_1",
+          "url": "/files/c4b37de41834da7bfbe08bec1d9ecaa1c0111919eae55c516296aa15f75e69e4.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCXA14cmHvZZDgSQejGQHug%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c4b37de41834da7bfbe08bec1d9ecaa1c0111919eae55c516296aa15f75e69e4",
+          "format": "text/plain",
+          "textUrl": "/files/c4b37de41834da7bfbe08bec1d9ecaa1c0111919eae55c516296aa15f75e69e4.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112678_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCXA14cmHvZZDgSQejGQHug%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112678_1",
+    "tender": {
+      "id": "2026_NTPC_112678_1",
+      "title": "As per SOW",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-11-02T00:00:00Z"
+      },
+      "description": "As per SOW"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+    },
+    "date": "2026-10-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112678_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112678_1",
+        "url": "/files/c4b37de41834da7bfbe08bec1d9ecaa1c0111919eae55c516296aa15f75e69e4.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCXA14cmHvZZDgSQejGQHug%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c4b37de41834da7bfbe08bec1d9ecaa1c0111919eae55c516296aa15f75e69e4",
+        "format": "text/plain",
+        "textUrl": "/files/c4b37de41834da7bfbe08bec1d9ecaa1c0111919eae55c516296aa15f75e69e4.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112678_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SCXA14cmHvZZDgSQejGQHug%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112678_1",
+      "observedAt": "2026-11-02T04:17:24Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "b96e1f578c489edfc66952ecb284aa7102c19ce3d36b5589159418e6ddb1b288",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112678_1-0001-record",
+          "sha256": "c4b37de41834da7bfbe08bec1d9ecaa1c0111919eae55c516296aa15f75e69e4"
+        }
+      ],
+      "snapshotUrl": "/files/f64d53b7f7c7d42445a6ff4d57834672541ba3316dd6f490c0d6758f2a719c54.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-02T04:17:24Z",
+    "lastObserved": "2026-11-02T04:17:24Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
