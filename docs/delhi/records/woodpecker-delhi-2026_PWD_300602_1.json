@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_PWD_300602_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_300602_1",
+      "id": "woodpecker-delhi-2026_PWD_300602_1-0001",
+      "date": "2026-10-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Public Works Department||CE/SE/M2-M25||EE/M252",
+        "id": "IN-ORG-public-works-department-ce-se-m2-m25-ee-"
+      },
+      "tender": {
+        "id": "2026_PWD_300602_1",
+        "title": "SITC of Desert Cooler at various locations in District Court, Sector-10, Dwarka, New Delhi.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Public Works Department||CE/SE/M2-M25||EE/M252",
+          "id": "IN-ORG-public-works-department-ce-se-m2-m25-ee-"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 190615,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-03T00:00:00Z"
+        },
+        "description": "SITC of Desert Cooler at various locations in District Court, Sector-10, Dwarka, New Delhi."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_300602_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_300602_1",
+          "url": "/files/c8b7cc1cb337dbec4ac26d37d568f1e130a9c6d5d99a16b2981bb8267e0131cc.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBJZCKb2fV8RSpOcgEFK9kw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c8b7cc1cb337dbec4ac26d37d568f1e130a9c6d5d99a16b2981bb8267e0131cc",
+          "format": "text/plain",
+          "textUrl": "/files/c8b7cc1cb337dbec4ac26d37d568f1e130a9c6d5d99a16b2981bb8267e0131cc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_PWD_300602_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBJZCKb2fV8RSpOcgEFK9kw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_PWD_300602_1",
+    "tender": {
+      "id": "2026_PWD_300602_1",
+      "title": "SITC of Desert Cooler at various locations in District Court, Sector-10, Dwarka, New Delhi.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Public Works Department||CE/SE/M2-M25||EE/M252",
+        "id": "IN-ORG-public-works-department-ce-se-m2-m25-ee-"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 190615,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-03T00:00:00Z"
+      },
+      "description": "SITC of Desert Cooler at various locations in District Court, Sector-10, Dwarka, New Delhi."
+    },
+    "buyer": {
+      "name": "Public Works Department||CE/SE/M2-M25||EE/M252",
+      "id": "IN-ORG-public-works-department-ce-se-m2-m25-ee-"
+    },
+    "date": "2026-10-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_PWD_300602_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_300602_1",
+        "url": "/files/c8b7cc1cb337dbec4ac26d37d568f1e130a9c6d5d99a16b2981bb8267e0131cc.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBJZCKb2fV8RSpOcgEFK9kw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c8b7cc1cb337dbec4ac26d37d568f1e130a9c6d5d99a16b2981bb8267e0131cc",
+        "format": "text/plain",
+        "textUrl": "/files/c8b7cc1cb337dbec4ac26d37d568f1e130a9c6d5d99a16b2981bb8267e0131cc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_PWD_300602_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SBJZCKb2fV8RSpOcgEFK9kw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_300602_1",
+      "observedAt": "2026-11-03T05:15:54Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "7ee6002411b956452d5c30683408582e25ebcef4d74e211395c49dfa798218a2",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_300602_1-0001-record",
+          "sha256": "c8b7cc1cb337dbec4ac26d37d568f1e130a9c6d5d99a16b2981bb8267e0131cc"
+        }
+      ],
+      "snapshotUrl": "/files/f2a8648c941f8b027c3e96197bc74e2a7fb3c5f264b23bb1860a3e492ac1edba.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-03T05:15:54Z",
+    "lastObserved": "2026-11-03T05:15:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
