@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113082_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113082_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113082_1-0001",
+      "date": "2026-10-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113082_1",
+        "title": "Procurement of spare Handwheel Assembly for HORA make actuator NorthKaranpura",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-04T00:00:00Z"
+        },
+        "description": "Procurement of spare Handwheel Assembly for HORA make actuator NorthKaranpura"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113082_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113082_1",
+          "url": "/files/c7addc5bb68e425d6e27a994d8ed5a1a181ddaf41b9709ea92a53edf0323a76f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmR%2BGoflTUzNx88ljuMfWVQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c7addc5bb68e425d6e27a994d8ed5a1a181ddaf41b9709ea92a53edf0323a76f",
+          "format": "text/plain",
+          "textUrl": "/files/c7addc5bb68e425d6e27a994d8ed5a1a181ddaf41b9709ea92a53edf0323a76f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113082_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmR%2BGoflTUzNx88ljuMfWVQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113082_1",
+    "tender": {
+      "id": "2026_NTPC_113082_1",
+      "title": "Procurement of spare Handwheel Assembly for HORA make actuator NorthKaranpura",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-04T00:00:00Z"
+      },
+      "description": "Procurement of spare Handwheel Assembly for HORA make actuator NorthKaranpura"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113082_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113082_1",
+        "url": "/files/c7addc5bb68e425d6e27a994d8ed5a1a181ddaf41b9709ea92a53edf0323a76f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmR%2BGoflTUzNx88ljuMfWVQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c7addc5bb68e425d6e27a994d8ed5a1a181ddaf41b9709ea92a53edf0323a76f",
+        "format": "text/plain",
+        "textUrl": "/files/c7addc5bb68e425d6e27a994d8ed5a1a181ddaf41b9709ea92a53edf0323a76f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113082_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmR%2BGoflTUzNx88ljuMfWVQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113082_1",
+      "observedAt": "2026-11-04T04:44:56Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5d347df13d69dad90e794b975c5f0a596d4ba55b2a008bf81447bf24f0129d21",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113082_1-0001-record",
+          "sha256": "c7addc5bb68e425d6e27a994d8ed5a1a181ddaf41b9709ea92a53edf0323a76f"
+        }
+      ],
+      "snapshotUrl": "/files/16e273240737c7d388e2d9c0ba11b26e8587571efc010b117b5d6af76cbf204e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-04T04:44:56Z",
+    "lastObserved": "2026-11-04T04:44:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

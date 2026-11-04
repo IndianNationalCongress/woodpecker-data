@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_DLB_604720_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_604720_1",
+      "id": "woodpecker-rajasthan-2026_DLB_604720_1-0001",
+      "date": "2026-10-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DLB||Dy.DR-Jaipur||CEO-Jaipur",
+        "id": "IN-ORG-dlb-dy-dr-jaipur-ceo-jaipur"
+      },
+      "tender": {
+        "id": "2026_DLB_604720_1",
+        "title": "Construction work of a side wall and laying of tiles at Olympia Park in Ward No. 12.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DLB||Dy.DR-Jaipur||CEO-Jaipur",
+          "id": "IN-ORG-dlb-dy-dr-jaipur-ceo-jaipur"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 2300000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-04T00:00:00Z"
+        },
+        "description": "Construction work of a side wall and laying of tiles at Olympia Park in Ward No. 12."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_604720_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DLB_604720_1",
+          "url": "/files/e4c7f0b88a18669f338de08a6d500b877f86d6e396db9172ec76229067e4a6e7.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Si%2BNIcXWRujwLB9uESqbWyg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e4c7f0b88a18669f338de08a6d500b877f86d6e396db9172ec76229067e4a6e7",
+          "format": "text/plain",
+          "textUrl": "/files/e4c7f0b88a18669f338de08a6d500b877f86d6e396db9172ec76229067e4a6e7.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_604720_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Si%2BNIcXWRujwLB9uESqbWyg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_DLB_604720_1",
+    "tender": {
+      "id": "2026_DLB_604720_1",
+      "title": "Construction work of a side wall and laying of tiles at Olympia Park in Ward No. 12.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DLB||Dy.DR-Jaipur||CEO-Jaipur",
+        "id": "IN-ORG-dlb-dy-dr-jaipur-ceo-jaipur"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 2300000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-04T00:00:00Z"
+      },
+      "description": "Construction work of a side wall and laying of tiles at Olympia Park in Ward No. 12."
+    },
+    "buyer": {
+      "name": "DLB||Dy.DR-Jaipur||CEO-Jaipur",
+      "id": "IN-ORG-dlb-dy-dr-jaipur-ceo-jaipur"
+    },
+    "date": "2026-10-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_604720_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DLB_604720_1",
+        "url": "/files/e4c7f0b88a18669f338de08a6d500b877f86d6e396db9172ec76229067e4a6e7.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Si%2BNIcXWRujwLB9uESqbWyg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e4c7f0b88a18669f338de08a6d500b877f86d6e396db9172ec76229067e4a6e7",
+        "format": "text/plain",
+        "textUrl": "/files/e4c7f0b88a18669f338de08a6d500b877f86d6e396db9172ec76229067e4a6e7.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_DLB_604720_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Si%2BNIcXWRujwLB9uESqbWyg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_DLB_604720_1",
+      "observedAt": "2026-11-04T04:39:31Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "db22b8eafcea291cf68a963492be6adf2c14af867d6bfd89db63e325479350c0",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_DLB_604720_1-0001-record",
+          "sha256": "e4c7f0b88a18669f338de08a6d500b877f86d6e396db9172ec76229067e4a6e7"
+        }
+      ],
+      "snapshotUrl": "/files/e83f6c831fd904c9cae5c88c16ebc8f1349421e8a7fc69f79dbbfaed9fa77630.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-04T04:39:31Z",
+    "lastObserved": "2026-11-04T04:39:31Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

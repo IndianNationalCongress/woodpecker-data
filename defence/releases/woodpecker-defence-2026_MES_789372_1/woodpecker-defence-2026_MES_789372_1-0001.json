@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-defence-2026_MES_789372_1",
+  "id": "woodpecker-defence-2026_MES_789372_1-0001",
+  "date": "2026-10-07T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SILIGURI ZONE - MES||CWE BINNAGURI - MES||GE (S) BINNAGURI - MES",
+    "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+  },
+  "tender": {
+    "id": "2026_MES_789372_1",
+    "title": "As per tender docus",
+    "status": "active",
+    "procuringEntity": {
+      "name": "E-IN-C BRANCH - MILITARY ENGINEER SERVICES||CE EC AND CE SILIGURI ZONE - MES||CWE BINNAGURI - MES||GE (S) BINNAGURI - MES",
+      "id": "IN-ORG-e-in-c-branch-military-engineer-services"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 3524000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-11-04T00:00:00Z"
+    },
+    "description": "As per tender docus"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-defence-2026_MES_789372_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_MES_789372_1",
+      "url": "/files/422f0fa5af7b1877b0724a5b64d126928dbee4956e0265124c91eaaf00c1aaac.txt",
+      "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S1WGs%2BZ5Jo5BXhopl50tu1w%3D%3D",
+      "sourceAlive": true,
+      "sha256": "422f0fa5af7b1877b0724a5b64d126928dbee4956e0265124c91eaaf00c1aaac",
+      "format": "text/plain",
+      "textUrl": "/files/422f0fa5af7b1877b0724a5b64d126928dbee4956e0265124c91eaaf00c1aaac.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-defence-2026_MES_789372_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://defproc.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S1WGs%2BZ5Jo5BXhopl50tu1w%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
