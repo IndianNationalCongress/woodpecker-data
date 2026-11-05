@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-coalindia-2026_BCCL_367570_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-coalindia-2026_BCCL_367570_1",
+      "id": "woodpecker-coalindia-2026_BCCL_367570_1-0001",
+      "date": "2026-10-26T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Coking Coal Limited||BCCL_WWZ",
+        "id": "IN-ORG-bharat-coking-coal-limited-bccl-wwz"
+      },
+      "tender": {
+        "id": "2026_BCCL_367570_1",
+        "title": "Construction / maintenance of Buildings",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Coking Coal Limited||BCCL_WWZ",
+          "id": "IN-ORG-bharat-coking-coal-limited-bccl-wwz"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 860621,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-05T00:00:00Z"
+        },
+        "description": "Construction / maintenance of Buildings"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-coalindia-2026_BCCL_367570_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BCCL_367570_1",
+          "url": "/files/ae70f16ccd9b53ead23f635758050010381cda000e1151c62da82e4b5083f1f7.txt",
+          "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfBzco45vSKmJXaxkbro4qQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "ae70f16ccd9b53ead23f635758050010381cda000e1151c62da82e4b5083f1f7",
+          "format": "text/plain",
+          "textUrl": "/files/ae70f16ccd9b53ead23f635758050010381cda000e1151c62da82e4b5083f1f7.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-coalindia-2026_BCCL_367570_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfBzco45vSKmJXaxkbro4qQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-coalindia-2026_BCCL_367570_1",
+    "tender": {
+      "id": "2026_BCCL_367570_1",
+      "title": "Construction / maintenance of Buildings",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Coking Coal Limited||BCCL_WWZ",
+        "id": "IN-ORG-bharat-coking-coal-limited-bccl-wwz"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 860621,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-05T00:00:00Z"
+      },
+      "description": "Construction / maintenance of Buildings"
+    },
+    "buyer": {
+      "name": "Bharat Coking Coal Limited||BCCL_WWZ",
+      "id": "IN-ORG-bharat-coking-coal-limited-bccl-wwz"
+    },
+    "date": "2026-10-26T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-coalindia-2026_BCCL_367570_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BCCL_367570_1",
+        "url": "/files/ae70f16ccd9b53ead23f635758050010381cda000e1151c62da82e4b5083f1f7.txt",
+        "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfBzco45vSKmJXaxkbro4qQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "ae70f16ccd9b53ead23f635758050010381cda000e1151c62da82e4b5083f1f7",
+        "format": "text/plain",
+        "textUrl": "/files/ae70f16ccd9b53ead23f635758050010381cda000e1151c62da82e4b5083f1f7.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-coalindia-2026_BCCL_367570_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://coalindiatenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SfBzco45vSKmJXaxkbro4qQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-coalindia-2026_BCCL_367570_1",
+      "observedAt": "2026-11-05T05:28:26Z",
+      "witness": "woodpecker:coalindia",
+      "availability": "present",
+      "stateHash": "fd82c9da6219eb4aba979cdb05d692a5dd44a88da3efeaa705f50c85ae964c26",
+      "documents": [
+        {
+          "id": "woodpecker-coalindia-2026_BCCL_367570_1-0001-record",
+          "sha256": "ae70f16ccd9b53ead23f635758050010381cda000e1151c62da82e4b5083f1f7"
+        }
+      ],
+      "snapshotUrl": "/files/370746450b2c999d15a35455d5df400d25b7182ed3dde70507bd7677b3df59a4.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-05T05:28:26Z",
+    "lastObserved": "2026-11-05T05:28:26Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

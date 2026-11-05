@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113178_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113178_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113178_1-0001",
+      "date": "2026-11-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113178_1",
+        "title": "Procurement of Cooling fans for ICT and ST at NTPC Tanda",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-05T00:00:00Z"
+        },
+        "description": "Procurement of Cooling fans for ICT and ST at NTPC Tanda"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113178_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113178_1",
+          "url": "/files/41d2ea0ca7f8cbf63c4445fac2cfcadae56441f25ea5420a036a59cfe95b51c2.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SkL%2F3LW5CIz%2FnMnzHQWIP5g%3D%3D",
+          "sourceAlive": true,
+          "sha256": "41d2ea0ca7f8cbf63c4445fac2cfcadae56441f25ea5420a036a59cfe95b51c2",
+          "format": "text/plain",
+          "textUrl": "/files/41d2ea0ca7f8cbf63c4445fac2cfcadae56441f25ea5420a036a59cfe95b51c2.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113178_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SkL%2F3LW5CIz%2FnMnzHQWIP5g%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113178_1",
+    "tender": {
+      "id": "2026_NTPC_113178_1",
+      "title": "Procurement of Cooling fans for ICT and ST at NTPC Tanda",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-05T00:00:00Z"
+      },
+      "description": "Procurement of Cooling fans for ICT and ST at NTPC Tanda"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113178_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113178_1",
+        "url": "/files/41d2ea0ca7f8cbf63c4445fac2cfcadae56441f25ea5420a036a59cfe95b51c2.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SkL%2F3LW5CIz%2FnMnzHQWIP5g%3D%3D",
+        "sourceAlive": true,
+        "sha256": "41d2ea0ca7f8cbf63c4445fac2cfcadae56441f25ea5420a036a59cfe95b51c2",
+        "format": "text/plain",
+        "textUrl": "/files/41d2ea0ca7f8cbf63c4445fac2cfcadae56441f25ea5420a036a59cfe95b51c2.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113178_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SkL%2F3LW5CIz%2FnMnzHQWIP5g%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113178_1",
+      "observedAt": "2026-11-05T05:23:39Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "33e0144a1af72c2c173500f7cf325e3b320787db50d88061c92f33655b433729",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113178_1-0001-record",
+          "sha256": "41d2ea0ca7f8cbf63c4445fac2cfcadae56441f25ea5420a036a59cfe95b51c2"
+        }
+      ],
+      "snapshotUrl": "/files/b4865a42bf4e00aa54040ace78fa0061591d2adfe99fd55e4bd01baaf735aaca.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-05T05:23:39Z",
+    "lastObserved": "2026-11-05T05:23:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

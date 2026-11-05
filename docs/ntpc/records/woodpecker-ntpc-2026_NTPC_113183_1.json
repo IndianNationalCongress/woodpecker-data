@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113183_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113183_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113183_1-0001",
+      "date": "2026-11-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113183_1",
+        "title": "Procurement of Agitator Gear Boxes for ST-1 FGD of NTPC Sipat.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-05T00:00:00Z"
+        },
+        "description": "Procurement of Agitator Gear Boxes for ST-1 FGD of NTPC Sipat."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113183_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113183_1",
+          "url": "/files/576b54c536de378f579979cd0da7b183c97ffdcf18ed8ede53ce68b014a4bfb0.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7MezWGTB0a5EXM49icZsdA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "576b54c536de378f579979cd0da7b183c97ffdcf18ed8ede53ce68b014a4bfb0",
+          "format": "text/plain",
+          "textUrl": "/files/576b54c536de378f579979cd0da7b183c97ffdcf18ed8ede53ce68b014a4bfb0.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113183_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7MezWGTB0a5EXM49icZsdA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113183_1",
+    "tender": {
+      "id": "2026_NTPC_113183_1",
+      "title": "Procurement of Agitator Gear Boxes for ST-1 FGD of NTPC Sipat.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-05T00:00:00Z"
+      },
+      "description": "Procurement of Agitator Gear Boxes for ST-1 FGD of NTPC Sipat."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113183_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113183_1",
+        "url": "/files/576b54c536de378f579979cd0da7b183c97ffdcf18ed8ede53ce68b014a4bfb0.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7MezWGTB0a5EXM49icZsdA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "576b54c536de378f579979cd0da7b183c97ffdcf18ed8ede53ce68b014a4bfb0",
+        "format": "text/plain",
+        "textUrl": "/files/576b54c536de378f579979cd0da7b183c97ffdcf18ed8ede53ce68b014a4bfb0.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113183_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S7MezWGTB0a5EXM49icZsdA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113183_1",
+      "observedAt": "2026-11-05T05:23:39Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "54e9614221566e1742ec7943dd3d5cf85e0acaf1cbb2ca0cdc078db12712660f",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113183_1-0001-record",
+          "sha256": "576b54c536de378f579979cd0da7b183c97ffdcf18ed8ede53ce68b014a4bfb0"
+        }
+      ],
+      "snapshotUrl": "/files/8cf4add278ee645ebe1dfe0dfd74cb296d3d6fad3e68a8628bbeb570680ed512.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-05T05:23:39Z",
+    "lastObserved": "2026-11-05T05:23:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

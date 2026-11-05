@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113220_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113220_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113220_1-0001",
+      "date": "2026-11-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113220_1",
+        "title": "PROCUREMENT OF VIBROSYSTM MAKE CARDS MODULES SPARES AND CONNECTORS FORNTPC KOLDAM",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-05T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF VIBROSYSTM MAKE CARDS MODULES SPARES AND CONNECTORS FORNTPC KOLDAM"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113220_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113220_1",
+          "url": "/files/27496fd5751beabab334cbb13ec11de79568c1577b8d3bc80e7cafb2dac132f6.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4vpCk4FbIREUcKXrDBytzw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "27496fd5751beabab334cbb13ec11de79568c1577b8d3bc80e7cafb2dac132f6",
+          "format": "text/plain",
+          "textUrl": "/files/27496fd5751beabab334cbb13ec11de79568c1577b8d3bc80e7cafb2dac132f6.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113220_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4vpCk4FbIREUcKXrDBytzw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113220_1",
+    "tender": {
+      "id": "2026_NTPC_113220_1",
+      "title": "PROCUREMENT OF VIBROSYSTM MAKE CARDS MODULES SPARES AND CONNECTORS FORNTPC KOLDAM",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-05T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF VIBROSYSTM MAKE CARDS MODULES SPARES AND CONNECTORS FORNTPC KOLDAM"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113220_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113220_1",
+        "url": "/files/27496fd5751beabab334cbb13ec11de79568c1577b8d3bc80e7cafb2dac132f6.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4vpCk4FbIREUcKXrDBytzw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "27496fd5751beabab334cbb13ec11de79568c1577b8d3bc80e7cafb2dac132f6",
+        "format": "text/plain",
+        "textUrl": "/files/27496fd5751beabab334cbb13ec11de79568c1577b8d3bc80e7cafb2dac132f6.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113220_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S4vpCk4FbIREUcKXrDBytzw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113220_1",
+      "observedAt": "2026-11-05T05:23:39Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "3d615c1869f9d3a66974dc0bfc51e5940a7dafa45ed82d6a62ee556d4a3b791d",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113220_1-0001-record",
+          "sha256": "27496fd5751beabab334cbb13ec11de79568c1577b8d3bc80e7cafb2dac132f6"
+        }
+      ],
+      "snapshotUrl": "/files/99e0d5e8e816cf9b37e36d5026c8b09caa5393d3fa1ecc43470e29324a263a46.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-05T05:23:39Z",
+    "lastObserved": "2026-11-05T05:23:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

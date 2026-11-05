@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113006_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113006_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113006_1-0001",
+      "date": "2026-10-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113006_1",
+        "title": "Procurement of Euroflex Make coupling for TMD NTPC North Karanpura",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-05T00:00:00Z"
+        },
+        "description": "Procurement of Euroflex Make coupling for TMD NTPC North Karanpura"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113006_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113006_1",
+          "url": "/files/68cc5b15bc41816bc8803535da7212fa90244538b3c3705af2f8f0651e71cc6c.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SI%2F3uhTelgdnagtuR%2F%2BGQ7Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "68cc5b15bc41816bc8803535da7212fa90244538b3c3705af2f8f0651e71cc6c",
+          "format": "text/plain",
+          "textUrl": "/files/68cc5b15bc41816bc8803535da7212fa90244538b3c3705af2f8f0651e71cc6c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113006_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SI%2F3uhTelgdnagtuR%2F%2BGQ7Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113006_1",
+    "tender": {
+      "id": "2026_NTPC_113006_1",
+      "title": "Procurement of Euroflex Make coupling for TMD NTPC North Karanpura",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-05T00:00:00Z"
+      },
+      "description": "Procurement of Euroflex Make coupling for TMD NTPC North Karanpura"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-10-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113006_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113006_1",
+        "url": "/files/68cc5b15bc41816bc8803535da7212fa90244538b3c3705af2f8f0651e71cc6c.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SI%2F3uhTelgdnagtuR%2F%2BGQ7Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "68cc5b15bc41816bc8803535da7212fa90244538b3c3705af2f8f0651e71cc6c",
+        "format": "text/plain",
+        "textUrl": "/files/68cc5b15bc41816bc8803535da7212fa90244538b3c3705af2f8f0651e71cc6c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113006_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SI%2F3uhTelgdnagtuR%2F%2BGQ7Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113006_1",
+      "observedAt": "2026-11-05T05:23:39Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "31dcf7c2aa8c198e6eec4ecfc0b93280c3d2029bb963876ec7932afaf3cb82be",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113006_1-0001-record",
+          "sha256": "68cc5b15bc41816bc8803535da7212fa90244538b3c3705af2f8f0651e71cc6c"
+        }
+      ],
+      "snapshotUrl": "/files/637ae45e4cccd79b08620ef89a805e223c5ef94ff30153e8ce3cc9c6c6525b58.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-05T05:23:39Z",
+    "lastObserved": "2026-11-05T05:23:39Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

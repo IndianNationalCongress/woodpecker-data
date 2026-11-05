@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-madhyapradesh-2026_EXCIS_546780_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-madhyapradesh-2026_EXCIS_546780_1",
+      "id": "woodpecker-madhyapradesh-2026_EXCIS_546780_1-0001",
+      "date": "2026-10-31T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Excise Department||District Excise Office Betul",
+        "id": "IN-ORG-excise-department-district-excise-office"
+      },
+      "tender": {
+        "id": "2026_EXCIS_546780_1",
+        "title": "Vechicle 1",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Excise Department||District Excise Office Betul",
+          "id": "IN-ORG-excise-department-district-excise-office"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 42000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-05T00:00:00Z"
+        },
+        "description": "Vechicle 1"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-madhyapradesh-2026_EXCIS_546780_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_EXCIS_546780_1",
+          "url": "/files/91f52c7bb83d6e7c3a82ff25ea6df9f3d0bffed957b965cc7ce472ea08ad33f9.txt",
+          "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2q6iClDTq3GJODng1UJy8Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "91f52c7bb83d6e7c3a82ff25ea6df9f3d0bffed957b965cc7ce472ea08ad33f9",
+          "format": "text/plain",
+          "textUrl": "/files/91f52c7bb83d6e7c3a82ff25ea6df9f3d0bffed957b965cc7ce472ea08ad33f9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-madhyapradesh-2026_EXCIS_546780_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2q6iClDTq3GJODng1UJy8Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-madhyapradesh-2026_EXCIS_546780_1",
+    "tender": {
+      "id": "2026_EXCIS_546780_1",
+      "title": "Vechicle 1",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Excise Department||District Excise Office Betul",
+        "id": "IN-ORG-excise-department-district-excise-office"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 42000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-05T00:00:00Z"
+      },
+      "description": "Vechicle 1"
+    },
+    "buyer": {
+      "name": "Excise Department||District Excise Office Betul",
+      "id": "IN-ORG-excise-department-district-excise-office"
+    },
+    "date": "2026-10-31T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-madhyapradesh-2026_EXCIS_546780_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_EXCIS_546780_1",
+        "url": "/files/91f52c7bb83d6e7c3a82ff25ea6df9f3d0bffed957b965cc7ce472ea08ad33f9.txt",
+        "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2q6iClDTq3GJODng1UJy8Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "91f52c7bb83d6e7c3a82ff25ea6df9f3d0bffed957b965cc7ce472ea08ad33f9",
+        "format": "text/plain",
+        "textUrl": "/files/91f52c7bb83d6e7c3a82ff25ea6df9f3d0bffed957b965cc7ce472ea08ad33f9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-madhyapradesh-2026_EXCIS_546780_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2q6iClDTq3GJODng1UJy8Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-madhyapradesh-2026_EXCIS_546780_1",
+      "observedAt": "2026-11-05T04:03:46Z",
+      "witness": "woodpecker:madhyapradesh",
+      "availability": "present",
+      "stateHash": "36270617b7e5dfe472d63866bf513c90a17b37bc70fb1814e0c8df94e34c1633",
+      "documents": [
+        {
+          "id": "woodpecker-madhyapradesh-2026_EXCIS_546780_1-0001-record",
+          "sha256": "91f52c7bb83d6e7c3a82ff25ea6df9f3d0bffed957b965cc7ce472ea08ad33f9"
+        }
+      ],
+      "snapshotUrl": "/files/528b01f7e10777179fe33a70fe1698c575adf27d74f71ee9565ee64f5f8bbca1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-05T04:03:46Z",
+    "lastObserved": "2026-11-05T04:03:46Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
