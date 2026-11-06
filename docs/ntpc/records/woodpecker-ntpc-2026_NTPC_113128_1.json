@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113128_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113128_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113128_1-0001",
+      "date": "2026-10-30T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||DBF Headquarter||National Capital Power Station, Dadri",
+        "id": "IN-ORG-ntpc-limited-dbf-headquarter-national-ca"
+      },
+      "tender": {
+        "id": "2026_NTPC_113128_1",
+        "title": "As per Tender Document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||DBF Headquarter||National Capital Power Station, Dadri",
+          "id": "IN-ORG-ntpc-limited-dbf-headquarter-national-ca"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-11-06T00:00:00Z"
+        },
+        "description": "As per Tender Document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113128_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113128_1",
+          "url": "/files/2641f903e0bad508dae4eb4cb3a853b3dd7649c84c2ade03a1056a1f71fdd41d.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvPPxGj9zj0eaiEX2MNsOng%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2641f903e0bad508dae4eb4cb3a853b3dd7649c84c2ade03a1056a1f71fdd41d",
+          "format": "text/plain",
+          "textUrl": "/files/2641f903e0bad508dae4eb4cb3a853b3dd7649c84c2ade03a1056a1f71fdd41d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113128_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvPPxGj9zj0eaiEX2MNsOng%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113128_1",
+    "tender": {
+      "id": "2026_NTPC_113128_1",
+      "title": "As per Tender Document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||DBF Headquarter||National Capital Power Station, Dadri",
+        "id": "IN-ORG-ntpc-limited-dbf-headquarter-national-ca"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-11-06T00:00:00Z"
+      },
+      "description": "As per Tender Document"
+    },
+    "buyer": {
+      "name": "NTPC Limited||DBF Headquarter||National Capital Power Station, Dadri",
+      "id": "IN-ORG-ntpc-limited-dbf-headquarter-national-ca"
+    },
+    "date": "2026-10-30T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113128_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113128_1",
+        "url": "/files/2641f903e0bad508dae4eb4cb3a853b3dd7649c84c2ade03a1056a1f71fdd41d.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvPPxGj9zj0eaiEX2MNsOng%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2641f903e0bad508dae4eb4cb3a853b3dd7649c84c2ade03a1056a1f71fdd41d",
+        "format": "text/plain",
+        "textUrl": "/files/2641f903e0bad508dae4eb4cb3a853b3dd7649c84c2ade03a1056a1f71fdd41d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113128_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SvPPxGj9zj0eaiEX2MNsOng%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113128_1",
+      "observedAt": "2026-11-06T05:06:56Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "ac12f2a0e2a9bc215f110cc38c3bf3277bd2261b6c969b89a7991e1dba422ad8",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113128_1-0001-record",
+          "sha256": "2641f903e0bad508dae4eb4cb3a853b3dd7649c84c2ade03a1056a1f71fdd41d"
+        }
+      ],
+      "snapshotUrl": "/files/6f48499da1e26ca733dc3f4c455f8ddd7a2ad4cabd3044933c553eb190329161.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-06T05:06:56Z",
+    "lastObserved": "2026-11-06T05:06:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
