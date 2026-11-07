@@ -1,0 +1,154 @@
+{
+  "ocid": "woodpecker-odisha-2026_ORULB_144173_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-odisha-2026_ORULB_144173_2",
+      "id": "woodpecker-odisha-2026_ORULB_144173_2-0001",
+      "date": "2026-10-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Municipal Bodies||Balangir Municipality",
+        "id": "IN-ORG-municipal-bodies-balangir-municipality"
+      },
+      "tender": {
+        "id": "2026_ORULB_144173_2",
+        "title": "Road Work",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Municipal Bodies||Balangir Municipality",
+          "id": "IN-ORG-municipal-bodies-balangir-municipality"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 843884,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-07T00:00:00Z"
+        },
+        "description": "Road Work"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_ORULB_144173_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ORULB_144173_2",
+          "url": "/files/affcc93bf986485229b61f967c567030afcf2943005bb3444a50105d6d21a3bc.txt",
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU4cjYZlYATDqezGdkr65dQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "affcc93bf986485229b61f967c567030afcf2943005bb3444a50105d6d21a3bc",
+          "format": "text/plain",
+          "textUrl": "/files/affcc93bf986485229b61f967c567030afcf2943005bb3444a50105d6d21a3bc.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-odisha-2026_ORULB_144173_2-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU4cjYZlYATDqezGdkr65dQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        },
+        {
+          "id": "woodpecker-odisha-2026_ORULB_144173_2-0001-doc-2",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_2.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU4cjYZlYATDqezGdkr65dQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-odisha-2026_ORULB_144173_2",
+    "tender": {
+      "id": "2026_ORULB_144173_2",
+      "title": "Road Work",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Municipal Bodies||Balangir Municipality",
+        "id": "IN-ORG-municipal-bodies-balangir-municipality"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 843884,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-07T00:00:00Z"
+      },
+      "description": "Road Work"
+    },
+    "buyer": {
+      "name": "Municipal Bodies||Balangir Municipality",
+      "id": "IN-ORG-municipal-bodies-balangir-municipality"
+    },
+    "date": "2026-10-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-odisha-2026_ORULB_144173_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ORULB_144173_2",
+        "url": "/files/affcc93bf986485229b61f967c567030afcf2943005bb3444a50105d6d21a3bc.txt",
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU4cjYZlYATDqezGdkr65dQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "affcc93bf986485229b61f967c567030afcf2943005bb3444a50105d6d21a3bc",
+        "format": "text/plain",
+        "textUrl": "/files/affcc93bf986485229b61f967c567030afcf2943005bb3444a50105d6d21a3bc.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-odisha-2026_ORULB_144173_2-0001-doc-2",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_2.pdf",
+        "url": null,
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU4cjYZlYATDqezGdkr65dQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-odisha-2026_ORULB_144173_2",
+      "observedAt": "2026-11-07T03:25:09Z",
+      "witness": "woodpecker:odisha",
+      "availability": "present",
+      "stateHash": "3628053df2091eacea4533f15724b744ede63e2a30efecc73facced99e65a504",
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_ORULB_144173_2-0001-record",
+          "sha256": "affcc93bf986485229b61f967c567030afcf2943005bb3444a50105d6d21a3bc"
+        }
+      ],
+      "snapshotUrl": "/files/062b458db5f4d3492381b48b1640560d7cf10fe680d7ebc15cee3dccb1597c99.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-07T03:25:09Z",
+    "lastObserved": "2026-11-07T03:25:09Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
