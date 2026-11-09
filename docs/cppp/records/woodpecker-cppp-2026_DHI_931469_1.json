@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_DHI_931469_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DHI_931469_1",
+      "id": "woodpecker-cppp-2026_DHI_931469_1-0001",
+      "date": "2026-10-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Heavy Industry||NEPA Limited-MHIPE",
+        "id": "IN-ORG-department-of-heavy-industry-nepa-limite"
+      },
+      "tender": {
+        "id": "2026_DHI_931469_1",
+        "title": "Procurement of line shaft and line coupling",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Heavy Industry||NEPA Limited-MHIPE",
+          "id": "IN-ORG-department-of-heavy-industry-nepa-limite"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-09T00:00:00Z"
+        },
+        "description": "Procurement of line shaft and line coupling"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DHI_931469_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DHI_931469_1",
+          "url": "/files/57a53178169fb1b0bc3a54ae6348bf79859d160d0b689b0bf367be624475fdc5.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SODzZRiaYgEHJYzCXvrFdqg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "57a53178169fb1b0bc3a54ae6348bf79859d160d0b689b0bf367be624475fdc5",
+          "format": "text/plain",
+          "textUrl": "/files/57a53178169fb1b0bc3a54ae6348bf79859d160d0b689b0bf367be624475fdc5.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DHI_931469_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SODzZRiaYgEHJYzCXvrFdqg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DHI_931469_1",
+    "tender": {
+      "id": "2026_DHI_931469_1",
+      "title": "Procurement of line shaft and line coupling",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Heavy Industry||NEPA Limited-MHIPE",
+        "id": "IN-ORG-department-of-heavy-industry-nepa-limite"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-09T00:00:00Z"
+      },
+      "description": "Procurement of line shaft and line coupling"
+    },
+    "buyer": {
+      "name": "Department of Heavy Industry||NEPA Limited-MHIPE",
+      "id": "IN-ORG-department-of-heavy-industry-nepa-limite"
+    },
+    "date": "2026-10-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DHI_931469_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DHI_931469_1",
+        "url": "/files/57a53178169fb1b0bc3a54ae6348bf79859d160d0b689b0bf367be624475fdc5.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SODzZRiaYgEHJYzCXvrFdqg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "57a53178169fb1b0bc3a54ae6348bf79859d160d0b689b0bf367be624475fdc5",
+        "format": "text/plain",
+        "textUrl": "/files/57a53178169fb1b0bc3a54ae6348bf79859d160d0b689b0bf367be624475fdc5.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DHI_931469_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SODzZRiaYgEHJYzCXvrFdqg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DHI_931469_1",
+      "observedAt": "2026-11-09T02:59:38Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "3054c6b9fca8b97cc4218fc56d96073458d08af1713ff0d88270808602328ac6",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DHI_931469_1-0001-record",
+          "sha256": "57a53178169fb1b0bc3a54ae6348bf79859d160d0b689b0bf367be624475fdc5"
+        }
+      ],
+      "snapshotUrl": "/files/eff43003157e3beb02f663744d3c9c4a59e9dacc9bc328698609f742b50f37b3.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-09T02:59:38Z",
+    "lastObserved": "2026-11-09T02:59:38Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

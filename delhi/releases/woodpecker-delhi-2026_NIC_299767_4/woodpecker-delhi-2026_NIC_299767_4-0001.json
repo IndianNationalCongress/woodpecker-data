@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-delhi-2026_NIC_299767_4",
+  "id": "woodpecker-delhi-2026_NIC_299767_4-0001",
+  "date": "2026-11-04T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "NIC",
+    "id": "IN-ORG-nic"
+  },
+  "tender": {
+    "id": "2026_NIC_299767_4",
+    "title": "Ver.24/ 04/11/2026 /Test Online PG NEFT/RTGS",
+    "status": "active",
+    "procuringEntity": {
+      "name": "NIC",
+      "id": "IN-ORG-nic"
+    },
+    "mainProcurementCategory": "services",
+    "tenderPeriod": {
+      "endDate": "2026-11-09T00:00:00Z"
+    },
+    "description": "Ver.24/ 04/11/2026 /Test Online PG NEFT/RTGS"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-delhi-2026_NIC_299767_4-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_NIC_299767_4",
+      "url": "/files/72c0b7960c71b351c8738fb9a359df50c25eb595c8f9ade0ab7ba402c121d3d9.txt",
+      "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnWIvkDwGZKR1cvSkHq6Inw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "72c0b7960c71b351c8738fb9a359df50c25eb595c8f9ade0ab7ba402c121d3d9",
+      "format": "text/plain",
+      "textUrl": "/files/72c0b7960c71b351c8738fb9a359df50c25eb595c8f9ade0ab7ba402c121d3d9.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-delhi-2026_NIC_299767_4-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnWIvkDwGZKR1cvSkHq6Inw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

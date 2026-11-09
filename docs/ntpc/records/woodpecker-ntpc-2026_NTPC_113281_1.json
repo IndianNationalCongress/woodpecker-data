@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113281_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113281_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113281_1-0001",
+      "date": "2026-11-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113281_1",
+        "title": "Procurement of Exciter Diode Fuses for 500MW Generator",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-09T00:00:00Z"
+        },
+        "description": "Procurement of Exciter Diode Fuses for 500MW Generator"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113281_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113281_1",
+          "url": "/files/c2e79c47f42d48a6877f95cbb7edf0e3937085ab4a4ef0735d79f204c7d55d14.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYc09JvL2YZZ8W7Eo2ama4w%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c2e79c47f42d48a6877f95cbb7edf0e3937085ab4a4ef0735d79f204c7d55d14",
+          "format": "text/plain",
+          "textUrl": "/files/c2e79c47f42d48a6877f95cbb7edf0e3937085ab4a4ef0735d79f204c7d55d14.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113281_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYc09JvL2YZZ8W7Eo2ama4w%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113281_1",
+    "tender": {
+      "id": "2026_NTPC_113281_1",
+      "title": "Procurement of Exciter Diode Fuses for 500MW Generator",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-09T00:00:00Z"
+      },
+      "description": "Procurement of Exciter Diode Fuses for 500MW Generator"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113281_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113281_1",
+        "url": "/files/c2e79c47f42d48a6877f95cbb7edf0e3937085ab4a4ef0735d79f204c7d55d14.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYc09JvL2YZZ8W7Eo2ama4w%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c2e79c47f42d48a6877f95cbb7edf0e3937085ab4a4ef0735d79f204c7d55d14",
+        "format": "text/plain",
+        "textUrl": "/files/c2e79c47f42d48a6877f95cbb7edf0e3937085ab4a4ef0735d79f204c7d55d14.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113281_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYc09JvL2YZZ8W7Eo2ama4w%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113281_1",
+      "observedAt": "2026-11-09T04:18:05Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "f8824802fdb4741f30c76918dfd1d65a4ed98724a8e7ad8eaf60e5efce334a9d",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113281_1-0001-record",
+          "sha256": "c2e79c47f42d48a6877f95cbb7edf0e3937085ab4a4ef0735d79f204c7d55d14"
+        }
+      ],
+      "snapshotUrl": "/files/8d26cbad75d4e97fdcd10787a552052cceb78dba74dae5a9749aeb5fc9b2c73b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-09T04:18:05Z",
+    "lastObserved": "2026-11-09T04:18:05Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

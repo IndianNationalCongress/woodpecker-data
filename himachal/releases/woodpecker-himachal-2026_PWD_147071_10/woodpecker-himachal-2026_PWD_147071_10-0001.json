@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_147071_10",
+  "id": "woodpecker-himachal-2026_PWD_147071_10-0001",
+  "date": "2026-11-01T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "PWD",
+    "id": "IN-ORG-pwd"
+  },
+  "tender": {
+    "id": "2026_PWD_147071_10",
+    "title": "Bharoli road 10",
+    "status": "active",
+    "procuringEntity": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 560340,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-11-09T00:00:00Z"
+    },
+    "description": "Bharoli road 10"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-himachal-2026_PWD_147071_10-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_PWD_147071_10",
+      "url": "/files/48824e836aec4f1955ecdceaafb2cb7a037033cb1a6569a1fba9bfe5748736b3.txt",
+      "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnoHJ0pJPDkW1V%2BgISLNuDw%3D%3D",
+      "sourceAlive": true,
+      "sha256": "48824e836aec4f1955ecdceaafb2cb7a037033cb1a6569a1fba9bfe5748736b3",
+      "format": "text/plain",
+      "textUrl": "/files/48824e836aec4f1955ecdceaafb2cb7a037033cb1a6569a1fba9bfe5748736b3.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-himachal-2026_PWD_147071_10-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnoHJ0pJPDkW1V%2BgISLNuDw%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}
