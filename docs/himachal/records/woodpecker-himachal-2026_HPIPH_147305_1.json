@@ -1,0 +1,110 @@
+{
+  "ocid": "woodpecker-himachal-2026_HPIPH_147305_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_HPIPH_147305_1",
+      "id": "woodpecker-himachal-2026_HPIPH_147305_1-0001",
+      "date": "2026-11-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "HP Irrigation and Public Health||Hamirpur Circle,Irrigation and Public Health,HP||Sujanpur",
+        "id": "IN-ORG-hp-irrigation-and-public-health-hamirpur"
+      },
+      "tender": {
+        "id": "2026_HPIPH_147305_1",
+        "title": "Restoration of rain damages",
+        "status": "active",
+        "procuringEntity": {
+          "name": "HP Irrigation and Public Health||Hamirpur Circle,Irrigation and Public Health,HP||Sujanpur",
+          "id": "IN-ORG-hp-irrigation-and-public-health-hamirpur"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-11-10T00:00:00Z"
+        },
+        "description": "Restoration of rain damages"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_HPIPH_147305_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HPIPH_147305_1",
+          "url": "/files/bfd03908e1379f9aedbb1556f803e1b52e8fbf8b3948be83b9ae5815e9c2be6e.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2HqrXKfAGp3TNlYzMDapgw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "bfd03908e1379f9aedbb1556f803e1b52e8fbf8b3948be83b9ae5815e9c2be6e",
+          "format": "text/plain",
+          "textUrl": "/files/bfd03908e1379f9aedbb1556f803e1b52e8fbf8b3948be83b9ae5815e9c2be6e.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_HPIPH_147305_1",
+    "tender": {
+      "id": "2026_HPIPH_147305_1",
+      "title": "Restoration of rain damages",
+      "status": "active",
+      "procuringEntity": {
+        "name": "HP Irrigation and Public Health||Hamirpur Circle,Irrigation and Public Health,HP||Sujanpur",
+        "id": "IN-ORG-hp-irrigation-and-public-health-hamirpur"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-11-10T00:00:00Z"
+      },
+      "description": "Restoration of rain damages"
+    },
+    "buyer": {
+      "name": "HP Irrigation and Public Health||Hamirpur Circle,Irrigation and Public Health,HP||Sujanpur",
+      "id": "IN-ORG-hp-irrigation-and-public-health-hamirpur"
+    },
+    "date": "2026-11-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_HPIPH_147305_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HPIPH_147305_1",
+        "url": "/files/bfd03908e1379f9aedbb1556f803e1b52e8fbf8b3948be83b9ae5815e9c2be6e.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S2HqrXKfAGp3TNlYzMDapgw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "bfd03908e1379f9aedbb1556f803e1b52e8fbf8b3948be83b9ae5815e9c2be6e",
+        "format": "text/plain",
+        "textUrl": "/files/bfd03908e1379f9aedbb1556f803e1b52e8fbf8b3948be83b9ae5815e9c2be6e.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_HPIPH_147305_1",
+      "observedAt": "2026-11-10T05:33:10Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "590f42ddd0050689cade42c635c3dee6370f96b7281715a2b56937db6b15eeab",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_HPIPH_147305_1-0001-record",
+          "sha256": "bfd03908e1379f9aedbb1556f803e1b52e8fbf8b3948be83b9ae5815e9c2be6e"
+        }
+      ],
+      "snapshotUrl": "/files/ea743c9c70653f653f4301180f5127692084c11cf38b8ef48b65606e12e37e64.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-10T05:33:10Z",
+    "lastObserved": "2026-11-10T05:33:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

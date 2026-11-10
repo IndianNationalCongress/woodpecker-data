@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_MANIT_930687_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_MANIT_930687_1",
+      "id": "woodpecker-cppp-2026_MANIT_930687_1-0001",
+      "date": "2026-10-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Maulana Azad National Institute of Technology||Centre Stores and Purchase - MANIT",
+        "id": "IN-ORG-maulana-azad-national-institute-of-techn"
+      },
+      "tender": {
+        "id": "2026_MANIT_930687_1",
+        "title": "Supply of USRP N 310.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Maulana Azad National Institute of Technology||Centre Stores and Purchase - MANIT",
+          "id": "IN-ORG-maulana-azad-national-institute-of-techn"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 2400000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-10T00:00:00Z"
+        },
+        "description": "Supply of USRP N 310."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_MANIT_930687_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_MANIT_930687_1",
+          "url": "/files/aa5d4e0db33241348bdf778e033fb69c743d19b5a7f198f4057985f0575a08aa.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGdwNm4JD2N2Nzcc0fo41kg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "aa5d4e0db33241348bdf778e033fb69c743d19b5a7f198f4057985f0575a08aa",
+          "format": "text/plain",
+          "textUrl": "/files/aa5d4e0db33241348bdf778e033fb69c743d19b5a7f198f4057985f0575a08aa.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_MANIT_930687_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGdwNm4JD2N2Nzcc0fo41kg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_MANIT_930687_1",
+    "tender": {
+      "id": "2026_MANIT_930687_1",
+      "title": "Supply of USRP N 310.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Maulana Azad National Institute of Technology||Centre Stores and Purchase - MANIT",
+        "id": "IN-ORG-maulana-azad-national-institute-of-techn"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 2400000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-10T00:00:00Z"
+      },
+      "description": "Supply of USRP N 310."
+    },
+    "buyer": {
+      "name": "Maulana Azad National Institute of Technology||Centre Stores and Purchase - MANIT",
+      "id": "IN-ORG-maulana-azad-national-institute-of-techn"
+    },
+    "date": "2026-10-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_MANIT_930687_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_MANIT_930687_1",
+        "url": "/files/aa5d4e0db33241348bdf778e033fb69c743d19b5a7f198f4057985f0575a08aa.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGdwNm4JD2N2Nzcc0fo41kg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "aa5d4e0db33241348bdf778e033fb69c743d19b5a7f198f4057985f0575a08aa",
+        "format": "text/plain",
+        "textUrl": "/files/aa5d4e0db33241348bdf778e033fb69c743d19b5a7f198f4057985f0575a08aa.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_MANIT_930687_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SGdwNm4JD2N2Nzcc0fo41kg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_MANIT_930687_1",
+      "observedAt": "2026-11-10T04:49:55Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "80c5c38b2a6f73840b5a14d9f597d31041ea2eb55b77cf8f5219ecdf2d37b37c",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_MANIT_930687_1-0001-record",
+          "sha256": "aa5d4e0db33241348bdf778e033fb69c743d19b5a7f198f4057985f0575a08aa"
+        }
+      ],
+      "snapshotUrl": "/files/9aa6c505af79e4adc5d91904ac44a8467a1ea57d6b4ed23a1e477d57b8e157fd.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-10T04:49:55Z",
+    "lastObserved": "2026-11-10T04:49:55Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

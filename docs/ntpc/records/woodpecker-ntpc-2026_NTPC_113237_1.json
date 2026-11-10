@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113237_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113237_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113237_1-0001",
+      "date": "2026-11-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113237_1",
+        "title": "Biennial Maintenance contract for CTM and UTM at NTPC Unchahar",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-11-10T00:00:00Z"
+        },
+        "description": "Biennial Maintenance contract for CTM and UTM at NTPC Unchahar"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113237_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113237_1",
+          "url": "/files/3a85653447b7e9bbaf8b542459788c8c46423a482025fe60c77243185cfc76f5.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St38iOkOvr9%2BU%2Br5MNPxlqQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "3a85653447b7e9bbaf8b542459788c8c46423a482025fe60c77243185cfc76f5",
+          "format": "text/plain",
+          "textUrl": "/files/3a85653447b7e9bbaf8b542459788c8c46423a482025fe60c77243185cfc76f5.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113237_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St38iOkOvr9%2BU%2Br5MNPxlqQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113237_1",
+    "tender": {
+      "id": "2026_NTPC_113237_1",
+      "title": "Biennial Maintenance contract for CTM and UTM at NTPC Unchahar",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-11-10T00:00:00Z"
+      },
+      "description": "Biennial Maintenance contract for CTM and UTM at NTPC Unchahar"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113237_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113237_1",
+        "url": "/files/3a85653447b7e9bbaf8b542459788c8c46423a482025fe60c77243185cfc76f5.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St38iOkOvr9%2BU%2Br5MNPxlqQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "3a85653447b7e9bbaf8b542459788c8c46423a482025fe60c77243185cfc76f5",
+        "format": "text/plain",
+        "textUrl": "/files/3a85653447b7e9bbaf8b542459788c8c46423a482025fe60c77243185cfc76f5.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113237_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St38iOkOvr9%2BU%2Br5MNPxlqQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113237_1",
+      "observedAt": "2026-11-10T06:22:56Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "aeff8f60cf7e1203b747ce0698a65bc85b8ceab9520063135ee3721a012c0ffc",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113237_1-0001-record",
+          "sha256": "3a85653447b7e9bbaf8b542459788c8c46423a482025fe60c77243185cfc76f5"
+        }
+      ],
+      "snapshotUrl": "/files/2d9a1f77c537c0cd5f2c401d34c4f12629dda49a584a9967170ec2204b9829e9.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-10T06:22:56Z",
+    "lastObserved": "2026-11-10T06:22:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

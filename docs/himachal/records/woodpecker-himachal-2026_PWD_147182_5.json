@@ -1,0 +1,118 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_147182_5",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147182_5",
+      "id": "woodpecker-himachal-2026_PWD_147182_5-0001",
+      "date": "2026-11-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_147182_5",
+        "title": "SH C/O R/Wall at RD 1/345 to 1/363, 1/401.40 to 1/406.40 and 1/358 to 1/367.80",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 571670,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-10T00:00:00Z"
+        },
+        "description": "SH C/O R/Wall at RD 1/345 to 1/363, 1/401.40 to 1/406.40 and 1/358 to 1/367.80"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147182_5-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_147182_5",
+          "url": "/files/2ac2ce669d78df7d7c8de04730662975e24088d0b0913fe4e3e6fb0a16203d0b.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRxev0CB0GiZZYIy31ZhL0Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2ac2ce669d78df7d7c8de04730662975e24088d0b0913fe4e3e6fb0a16203d0b",
+          "format": "text/plain",
+          "textUrl": "/files/2ac2ce669d78df7d7c8de04730662975e24088d0b0913fe4e3e6fb0a16203d0b.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_147182_5",
+    "tender": {
+      "id": "2026_PWD_147182_5",
+      "title": "SH C/O R/Wall at RD 1/345 to 1/363, 1/401.40 to 1/406.40 and 1/358 to 1/367.80",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 571670,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-10T00:00:00Z"
+      },
+      "description": "SH C/O R/Wall at RD 1/345 to 1/363, 1/401.40 to 1/406.40 and 1/358 to 1/367.80"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-11-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_147182_5-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_147182_5",
+        "url": "/files/2ac2ce669d78df7d7c8de04730662975e24088d0b0913fe4e3e6fb0a16203d0b.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SRxev0CB0GiZZYIy31ZhL0Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2ac2ce669d78df7d7c8de04730662975e24088d0b0913fe4e3e6fb0a16203d0b",
+        "format": "text/plain",
+        "textUrl": "/files/2ac2ce669d78df7d7c8de04730662975e24088d0b0913fe4e3e6fb0a16203d0b.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147182_5",
+      "observedAt": "2026-11-10T05:33:10Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "69e0a7e0dbbbb861a96a5f1ca8f9316e3778380f55a11fd044aad3aad3467c57",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147182_5-0001-record",
+          "sha256": "2ac2ce669d78df7d7c8de04730662975e24088d0b0913fe4e3e6fb0a16203d0b"
+        }
+      ],
+      "snapshotUrl": "/files/8747667f709a8ce6dcb3d037803485186c4990367c69b40c026abce42108ea0f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-10T05:33:10Z",
+    "lastObserved": "2026-11-10T05:33:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

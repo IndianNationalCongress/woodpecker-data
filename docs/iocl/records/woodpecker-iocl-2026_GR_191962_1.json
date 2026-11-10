@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_GR_191962_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_GR_191962_1",
+      "id": "woodpecker-iocl-2026_GR_191962_1-0001",
+      "date": "2026-11-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+      },
+      "tender": {
+        "id": "2026_GR_191962_1",
+        "title": "PROCUREMENT OF HPU PUMP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+          "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-10T00:00:00Z"
+        },
+        "description": "PROCUREMENT OF HPU PUMP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_GR_191962_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_GR_191962_1",
+          "url": "/files/5df0bdb29e1cc73d050e533fba517f1eda57c5bbfed548b18a61c5c91717736f.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAYLPaXwLo5d20h3tNLe2kw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5df0bdb29e1cc73d050e533fba517f1eda57c5bbfed548b18a61c5c91717736f",
+          "format": "text/plain",
+          "textUrl": "/files/5df0bdb29e1cc73d050e533fba517f1eda57c5bbfed548b18a61c5c91717736f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_GR_191962_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAYLPaXwLo5d20h3tNLe2kw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_GR_191962_1",
+    "tender": {
+      "id": "2026_GR_191962_1",
+      "title": "PROCUREMENT OF HPU PUMP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-10T00:00:00Z"
+      },
+      "description": "PROCUREMENT OF HPU PUMP"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+      "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+    },
+    "date": "2026-11-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_GR_191962_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_GR_191962_1",
+        "url": "/files/5df0bdb29e1cc73d050e533fba517f1eda57c5bbfed548b18a61c5c91717736f.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAYLPaXwLo5d20h3tNLe2kw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5df0bdb29e1cc73d050e533fba517f1eda57c5bbfed548b18a61c5c91717736f",
+        "format": "text/plain",
+        "textUrl": "/files/5df0bdb29e1cc73d050e533fba517f1eda57c5bbfed548b18a61c5c91717736f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_GR_191962_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAYLPaXwLo5d20h3tNLe2kw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_GR_191962_1",
+      "observedAt": "2026-11-10T06:28:34Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "d3edf78de3e6a5099266df7c9ac7986ae3ecb60a6ae98e00363d80d710e6daac",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_GR_191962_1-0001-record",
+          "sha256": "5df0bdb29e1cc73d050e533fba517f1eda57c5bbfed548b18a61c5c91717736f"
+        }
+      ],
+      "snapshotUrl": "/files/97b784e4583aa362ebe8b8b212876d778c76d7d4c07c4aa26d937bba9719d7d8.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-10T06:28:34Z",
+    "lastObserved": "2026-11-10T06:28:34Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "ocid": "woodpecker-himachal-2026_HPIPH_147088_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_HPIPH_147088_1",
+      "id": "woodpecker-himachal-2026_HPIPH_147088_1-0001",
+      "date": "2026-11-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "HP Irrigation and Public Health||Hamirpur Circle,Irrigation and Public Health,HP||Sujanpur",
+        "id": "IN-ORG-hp-irrigation-and-public-health-hamirpur"
+      },
+      "tender": {
+        "id": "2026_HPIPH_147088_1",
+        "title": "Restoration of rain damages of Sewerage Scheme to Sujanpur",
+        "status": "active",
+        "procuringEntity": {
+          "name": "HP Irrigation and Public Health||Hamirpur Circle,Irrigation and Public Health,HP||Sujanpur",
+          "id": "IN-ORG-hp-irrigation-and-public-health-hamirpur"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 176282,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-10T00:00:00Z"
+        },
+        "description": "Restoration of rain damages of Sewerage Scheme to Sujanpur"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_HPIPH_147088_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HPIPH_147088_1",
+          "url": "/files/b3202e43d76baacbbda50f1394bcf241e8dd0f63f03601094ccfc8d5cfba48f2.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgWbtzSjO5k4uLea6Q%2BgH1Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b3202e43d76baacbbda50f1394bcf241e8dd0f63f03601094ccfc8d5cfba48f2",
+          "format": "text/plain",
+          "textUrl": "/files/b3202e43d76baacbbda50f1394bcf241e8dd0f63f03601094ccfc8d5cfba48f2.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_HPIPH_147088_1",
+    "tender": {
+      "id": "2026_HPIPH_147088_1",
+      "title": "Restoration of rain damages of Sewerage Scheme to Sujanpur",
+      "status": "active",
+      "procuringEntity": {
+        "name": "HP Irrigation and Public Health||Hamirpur Circle,Irrigation and Public Health,HP||Sujanpur",
+        "id": "IN-ORG-hp-irrigation-and-public-health-hamirpur"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 176282,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-10T00:00:00Z"
+      },
+      "description": "Restoration of rain damages of Sewerage Scheme to Sujanpur"
+    },
+    "buyer": {
+      "name": "HP Irrigation and Public Health||Hamirpur Circle,Irrigation and Public Health,HP||Sujanpur",
+      "id": "IN-ORG-hp-irrigation-and-public-health-hamirpur"
+    },
+    "date": "2026-11-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_HPIPH_147088_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HPIPH_147088_1",
+        "url": "/files/b3202e43d76baacbbda50f1394bcf241e8dd0f63f03601094ccfc8d5cfba48f2.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SgWbtzSjO5k4uLea6Q%2BgH1Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b3202e43d76baacbbda50f1394bcf241e8dd0f63f03601094ccfc8d5cfba48f2",
+        "format": "text/plain",
+        "textUrl": "/files/b3202e43d76baacbbda50f1394bcf241e8dd0f63f03601094ccfc8d5cfba48f2.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_HPIPH_147088_1",
+      "observedAt": "2026-11-10T05:33:10Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "adf9800acdd37ead25086a4b1a10485fd04b14fefe47558cbbfb49661b90a44e",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_HPIPH_147088_1-0001-record",
+          "sha256": "b3202e43d76baacbbda50f1394bcf241e8dd0f63f03601094ccfc8d5cfba48f2"
+        }
+      ],
+      "snapshotUrl": "/files/a5bb271fdbb02142eac4a3885ab174563ff5b1d13a8b819010eb4b4a99cb7a29.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-10T05:33:10Z",
+    "lastObserved": "2026-11-10T05:33:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
