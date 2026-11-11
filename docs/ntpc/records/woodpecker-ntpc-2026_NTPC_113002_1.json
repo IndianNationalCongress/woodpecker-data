@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113002_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113002_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113002_1-0001",
+      "date": "2026-10-28T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_113002_1",
+        "title": "200156028 CONTRACT FOR AIR SEALING APPLICATION IN BOILER AT NTPC BARAUNI FOR UNIT 8 and 9 NTPC BARAUNI",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-11-11T00:00:00Z"
+        },
+        "description": "200156028 CONTRACT FOR AIR SEALING APPLICATION IN BOILER AT NTPC BARAUNI FOR UNIT 8 and 9 NTPC BARAUNI"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113002_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113002_1",
+          "url": "/files/05fdd827ce711ed3accb4df21789c5e69ba0915e6bba7d6754d435db07d0bcd9.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Skb6eDrBD%2FDl96O7cg8%2Bk%2Fw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "05fdd827ce711ed3accb4df21789c5e69ba0915e6bba7d6754d435db07d0bcd9",
+          "format": "text/plain",
+          "textUrl": "/files/05fdd827ce711ed3accb4df21789c5e69ba0915e6bba7d6754d435db07d0bcd9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113002_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Skb6eDrBD%2FDl96O7cg8%2Bk%2Fw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113002_1",
+    "tender": {
+      "id": "2026_NTPC_113002_1",
+      "title": "200156028 CONTRACT FOR AIR SEALING APPLICATION IN BOILER AT NTPC BARAUNI FOR UNIT 8 and 9 NTPC BARAUNI",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-11-11T00:00:00Z"
+      },
+      "description": "200156028 CONTRACT FOR AIR SEALING APPLICATION IN BOILER AT NTPC BARAUNI FOR UNIT 8 and 9 NTPC BARAUNI"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-10-28T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113002_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113002_1",
+        "url": "/files/05fdd827ce711ed3accb4df21789c5e69ba0915e6bba7d6754d435db07d0bcd9.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Skb6eDrBD%2FDl96O7cg8%2Bk%2Fw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "05fdd827ce711ed3accb4df21789c5e69ba0915e6bba7d6754d435db07d0bcd9",
+        "format": "text/plain",
+        "textUrl": "/files/05fdd827ce711ed3accb4df21789c5e69ba0915e6bba7d6754d435db07d0bcd9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113002_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Skb6eDrBD%2FDl96O7cg8%2Bk%2Fw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113002_1",
+      "observedAt": "2026-11-11T04:12:54Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5bd7e4e23fcae777373686d5ac12001a892bca987bbc1651029fea7a6c56f5ac",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113002_1-0001-record",
+          "sha256": "05fdd827ce711ed3accb4df21789c5e69ba0915e6bba7d6754d435db07d0bcd9"
+        }
+      ],
+      "snapshotUrl": "/files/605f0ac3418b3f8882184175884e79fa54f2b87b2ad101527d75a7fd88af81bf.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-11T04:12:54Z",
+    "lastObserved": "2026-11-11T04:12:54Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

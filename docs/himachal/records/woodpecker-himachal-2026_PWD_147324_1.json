@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_147324_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147324_1",
+      "id": "woodpecker-himachal-2026_PWD_147324_1-0001",
+      "date": "2026-11-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_147324_1",
+        "title": "Repair Construction work on Bathoh Neri road",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 891884,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-11T00:00:00Z"
+        },
+        "description": "Repair Construction work on Bathoh Neri road"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147324_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_147324_1",
+          "url": "/files/4ea119bd79a481b132133a27aac3d74ae1b790050d526ea8b657b9871cefcdda.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU3pVcTNco%2BKqlpXopPE55A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4ea119bd79a481b132133a27aac3d74ae1b790050d526ea8b657b9871cefcdda",
+          "format": "text/plain",
+          "textUrl": "/files/4ea119bd79a481b132133a27aac3d74ae1b790050d526ea8b657b9871cefcdda.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_147324_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU3pVcTNco%2BKqlpXopPE55A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_147324_1",
+    "tender": {
+      "id": "2026_PWD_147324_1",
+      "title": "Repair Construction work on Bathoh Neri road",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 891884,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-11T00:00:00Z"
+      },
+      "description": "Repair Construction work on Bathoh Neri road"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-11-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_147324_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_147324_1",
+        "url": "/files/4ea119bd79a481b132133a27aac3d74ae1b790050d526ea8b657b9871cefcdda.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU3pVcTNco%2BKqlpXopPE55A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4ea119bd79a481b132133a27aac3d74ae1b790050d526ea8b657b9871cefcdda",
+        "format": "text/plain",
+        "textUrl": "/files/4ea119bd79a481b132133a27aac3d74ae1b790050d526ea8b657b9871cefcdda.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_147324_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SU3pVcTNco%2BKqlpXopPE55A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147324_1",
+      "observedAt": "2026-11-11T03:38:51Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "7fad382a842576652e00beb4e4b73fef6c30d385052ff4483e47fce4e4a6647a",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147324_1-0001-record",
+          "sha256": "4ea119bd79a481b132133a27aac3d74ae1b790050d526ea8b657b9871cefcdda"
+        }
+      ],
+      "snapshotUrl": "/files/2b134a477b0e3db1892650d874c6a4274eb7b71abc78c5a5565fe4131d435fd8.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-11T03:38:51Z",
+    "lastObserved": "2026-11-11T03:38:51Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
