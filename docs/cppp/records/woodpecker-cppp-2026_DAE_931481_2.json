@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_DAE_931481_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DAE_931481_2",
+      "id": "woodpecker-cppp-2026_DAE_931481_2-0001",
+      "date": "2026-11-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Department of Atomic Energy||Tata Institute of Fundamental Research-Colaba-Mumbai-Purchase Dept-TIFR-DAE||TIFR(HQ)-Mumbai-TIFR-DAE",
+        "id": "IN-ORG-department-of-atomic-energy-tata-institu"
+      },
+      "tender": {
+        "id": "2026_DAE_931481_2",
+        "title": "304SS MicroFlex Raw Cable and other items",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Department of Atomic Energy||Tata Institute of Fundamental Research-Colaba-Mumbai-Purchase Dept-TIFR-DAE||TIFR(HQ)-Mumbai-TIFR-DAE",
+          "id": "IN-ORG-department-of-atomic-energy-tata-institu"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 843648,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-12T00:00:00Z"
+        },
+        "description": "304SS MicroFlex Raw Cable and other items"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DAE_931481_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DAE_931481_2",
+          "url": "/files/5a95243a9f1120025ac8778ffe86235b104d0dbbb38c10821fe2d292265d7753.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrRHECoZasnFuZIA0gW%2F0rA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5a95243a9f1120025ac8778ffe86235b104d0dbbb38c10821fe2d292265d7753",
+          "format": "text/plain",
+          "textUrl": "/files/5a95243a9f1120025ac8778ffe86235b104d0dbbb38c10821fe2d292265d7753.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DAE_931481_2-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrRHECoZasnFuZIA0gW%2F0rA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DAE_931481_2",
+    "tender": {
+      "id": "2026_DAE_931481_2",
+      "title": "304SS MicroFlex Raw Cable and other items",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Department of Atomic Energy||Tata Institute of Fundamental Research-Colaba-Mumbai-Purchase Dept-TIFR-DAE||TIFR(HQ)-Mumbai-TIFR-DAE",
+        "id": "IN-ORG-department-of-atomic-energy-tata-institu"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 843648,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-12T00:00:00Z"
+      },
+      "description": "304SS MicroFlex Raw Cable and other items"
+    },
+    "buyer": {
+      "name": "Department of Atomic Energy||Tata Institute of Fundamental Research-Colaba-Mumbai-Purchase Dept-TIFR-DAE||TIFR(HQ)-Mumbai-TIFR-DAE",
+      "id": "IN-ORG-department-of-atomic-energy-tata-institu"
+    },
+    "date": "2026-11-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DAE_931481_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DAE_931481_2",
+        "url": "/files/5a95243a9f1120025ac8778ffe86235b104d0dbbb38c10821fe2d292265d7753.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrRHECoZasnFuZIA0gW%2F0rA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5a95243a9f1120025ac8778ffe86235b104d0dbbb38c10821fe2d292265d7753",
+        "format": "text/plain",
+        "textUrl": "/files/5a95243a9f1120025ac8778ffe86235b104d0dbbb38c10821fe2d292265d7753.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DAE_931481_2-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrRHECoZasnFuZIA0gW%2F0rA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DAE_931481_2",
+      "observedAt": "2026-11-12T04:07:56Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "fa376c08cab128d26be1ab9ea4f1b8ec73c7615f6d21c6a2ca4dc15e7b5b8abd",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DAE_931481_2-0001-record",
+          "sha256": "5a95243a9f1120025ac8778ffe86235b104d0dbbb38c10821fe2d292265d7753"
+        }
+      ],
+      "snapshotUrl": "/files/211ae74814410f7005f066be5b42b0801a4921110c09717a1be98c6c96b8552f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-12T04:07:56Z",
+    "lastObserved": "2026-11-12T04:07:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

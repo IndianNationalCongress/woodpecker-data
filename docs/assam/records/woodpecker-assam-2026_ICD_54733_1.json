@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-assam-2026_ICD_54733_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-assam-2026_ICD_54733_1",
+      "id": "woodpecker-assam-2026_ICD_54733_1-0001",
+      "date": "2026-11-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Industries and Commerce Department||DNP Limited",
+        "id": "IN-ORG-industries-and-commerce-department-dnp-l"
+      },
+      "tender": {
+        "id": "2026_ICD_54733_1",
+        "title": "Group Mediclaim Policy for DNPL employees and their dependents.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Industries and Commerce Department||DNP Limited",
+          "id": "IN-ORG-industries-and-commerce-department-dnp-l"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-11-12T00:00:00Z"
+        },
+        "description": "Group Mediclaim Policy for DNPL employees and their dependents."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_ICD_54733_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ICD_54733_1",
+          "url": "/files/2292f0de88b8d205a77ac422da88ab4e9058a349ec3663f071f410715390b042.txt",
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMNEZ3vJ9pfGa4rulvO8rqA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2292f0de88b8d205a77ac422da88ab4e9058a349ec3663f071f410715390b042",
+          "format": "text/plain",
+          "textUrl": "/files/2292f0de88b8d205a77ac422da88ab4e9058a349ec3663f071f410715390b042.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-assam-2026_ICD_54733_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMNEZ3vJ9pfGa4rulvO8rqA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-assam-2026_ICD_54733_1",
+    "tender": {
+      "id": "2026_ICD_54733_1",
+      "title": "Group Mediclaim Policy for DNPL employees and their dependents.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Industries and Commerce Department||DNP Limited",
+        "id": "IN-ORG-industries-and-commerce-department-dnp-l"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-11-12T00:00:00Z"
+      },
+      "description": "Group Mediclaim Policy for DNPL employees and their dependents."
+    },
+    "buyer": {
+      "name": "Industries and Commerce Department||DNP Limited",
+      "id": "IN-ORG-industries-and-commerce-department-dnp-l"
+    },
+    "date": "2026-11-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-assam-2026_ICD_54733_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ICD_54733_1",
+        "url": "/files/2292f0de88b8d205a77ac422da88ab4e9058a349ec3663f071f410715390b042.txt",
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMNEZ3vJ9pfGa4rulvO8rqA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2292f0de88b8d205a77ac422da88ab4e9058a349ec3663f071f410715390b042",
+        "format": "text/plain",
+        "textUrl": "/files/2292f0de88b8d205a77ac422da88ab4e9058a349ec3663f071f410715390b042.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-assam-2026_ICD_54733_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://assamtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMNEZ3vJ9pfGa4rulvO8rqA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-assam-2026_ICD_54733_1",
+      "observedAt": "2026-11-12T04:58:37Z",
+      "witness": "woodpecker:assam",
+      "availability": "present",
+      "stateHash": "8021618c4ec5941a0776473c60a9901186d5bc8af59452453bd33b2c3dac6a02",
+      "documents": [
+        {
+          "id": "woodpecker-assam-2026_ICD_54733_1-0001-record",
+          "sha256": "2292f0de88b8d205a77ac422da88ab4e9058a349ec3663f071f410715390b042"
+        }
+      ],
+      "snapshotUrl": "/files/2527f074ed17437b8646379f9dba983d0d0844143a9026f15b7cd50d8cc51269.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-12T04:58:37Z",
+    "lastObserved": "2026-11-12T04:58:37Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_ITDMK_930789_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_ITDMK_930789_1",
+      "id": "woodpecker-cppp-2026_ITDMK_930789_1-0001",
+      "date": "2026-10-16T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Indian Institute Of Information Technology Design and Manufacturing Kurnool",
+        "id": "IN-ORG-indian-institute-of-information-technolo"
+      },
+      "tender": {
+        "id": "2026_ITDMK_930789_1",
+        "title": "X Ray CT Scan",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Indian Institute Of Information Technology Design and Manufacturing Kurnool",
+          "id": "IN-ORG-indian-institute-of-information-technolo"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-12T00:00:00Z"
+        },
+        "description": "X Ray CT Scan"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ITDMK_930789_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ITDMK_930789_1",
+          "url": "/files/5f676fd46c006d75b8bbf18bdba0b1ca7c5a30e7e479052acae482ca4e20272f.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDzR2oE%2BeOYY9t6laHXkkZw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5f676fd46c006d75b8bbf18bdba0b1ca7c5a30e7e479052acae482ca4e20272f",
+          "format": "text/plain",
+          "textUrl": "/files/5f676fd46c006d75b8bbf18bdba0b1ca7c5a30e7e479052acae482ca4e20272f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_ITDMK_930789_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDzR2oE%2BeOYY9t6laHXkkZw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_ITDMK_930789_1",
+    "tender": {
+      "id": "2026_ITDMK_930789_1",
+      "title": "X Ray CT Scan",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Indian Institute Of Information Technology Design and Manufacturing Kurnool",
+        "id": "IN-ORG-indian-institute-of-information-technolo"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-12T00:00:00Z"
+      },
+      "description": "X Ray CT Scan"
+    },
+    "buyer": {
+      "name": "Indian Institute Of Information Technology Design and Manufacturing Kurnool",
+      "id": "IN-ORG-indian-institute-of-information-technolo"
+    },
+    "date": "2026-10-16T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_ITDMK_930789_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ITDMK_930789_1",
+        "url": "/files/5f676fd46c006d75b8bbf18bdba0b1ca7c5a30e7e479052acae482ca4e20272f.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDzR2oE%2BeOYY9t6laHXkkZw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5f676fd46c006d75b8bbf18bdba0b1ca7c5a30e7e479052acae482ca4e20272f",
+        "format": "text/plain",
+        "textUrl": "/files/5f676fd46c006d75b8bbf18bdba0b1ca7c5a30e7e479052acae482ca4e20272f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_ITDMK_930789_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SDzR2oE%2BeOYY9t6laHXkkZw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_ITDMK_930789_1",
+      "observedAt": "2026-11-12T04:07:56Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "92c0a866472a36b5ac96650790006de9aab36ba5c1af09695522c4bc1bf2543b",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_ITDMK_930789_1-0001-record",
+          "sha256": "5f676fd46c006d75b8bbf18bdba0b1ca7c5a30e7e479052acae482ca4e20272f"
+        }
+      ],
+      "snapshotUrl": "/files/8f35cc3e81e90ef15fa002e0d9f32096f90d1a61074851084b01b3659707ba1d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-12T04:07:56Z",
+    "lastObserved": "2026-11-12T04:07:56Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

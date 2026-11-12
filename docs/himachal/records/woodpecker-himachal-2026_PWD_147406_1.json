@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_147406_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147406_1",
+      "id": "woodpecker-himachal-2026_PWD_147406_1-0001",
+      "date": "2026-11-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_147406_1",
+        "title": "C/o link road vill Kutheran 08",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 936045,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-12T00:00:00Z"
+        },
+        "description": "C/o link road vill Kutheran 08"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147406_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_147406_1",
+          "url": "/files/1bea3441af7ba4b02956d11c9aad9b412874dda87855780daa75c5a775bb3f95.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm5qQ3F4vl%2F4N42hgd%2FMgNw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1bea3441af7ba4b02956d11c9aad9b412874dda87855780daa75c5a775bb3f95",
+          "format": "text/plain",
+          "textUrl": "/files/1bea3441af7ba4b02956d11c9aad9b412874dda87855780daa75c5a775bb3f95.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_147406_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm5qQ3F4vl%2F4N42hgd%2FMgNw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_147406_1",
+    "tender": {
+      "id": "2026_PWD_147406_1",
+      "title": "C/o link road vill Kutheran 08",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 936045,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-12T00:00:00Z"
+      },
+      "description": "C/o link road vill Kutheran 08"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-11-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_147406_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_147406_1",
+        "url": "/files/1bea3441af7ba4b02956d11c9aad9b412874dda87855780daa75c5a775bb3f95.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm5qQ3F4vl%2F4N42hgd%2FMgNw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1bea3441af7ba4b02956d11c9aad9b412874dda87855780daa75c5a775bb3f95",
+        "format": "text/plain",
+        "textUrl": "/files/1bea3441af7ba4b02956d11c9aad9b412874dda87855780daa75c5a775bb3f95.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_147406_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm5qQ3F4vl%2F4N42hgd%2FMgNw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147406_1",
+      "observedAt": "2026-11-12T04:56:22Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "b20e13e8a190d1949be0b0f6d1f596c72311c5048daa2f705e2568faa4abbfac",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147406_1-0001-record",
+          "sha256": "1bea3441af7ba4b02956d11c9aad9b412874dda87855780daa75c5a775bb3f95"
+        }
+      ],
+      "snapshotUrl": "/files/b496b3065d7a2a94c5e2a60bd4a4c9a485d8498d99950a94ed5179056852d01a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-12T04:56:22Z",
+    "lastObserved": "2026-11-12T04:56:22Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

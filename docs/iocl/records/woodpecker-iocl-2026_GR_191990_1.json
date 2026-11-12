@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_GR_191990_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_GR_191990_1",
+      "id": "woodpecker-iocl-2026_GR_191990_1-0001",
+      "date": "2026-11-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+      },
+      "tender": {
+        "id": "2026_GR_191990_1",
+        "title": "HPU manifold spares",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+          "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-12T00:00:00Z"
+        },
+        "description": "HPU manifold spares"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_GR_191990_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_GR_191990_1",
+          "url": "/files/f96aa08711552d4a3cbbed9f792212466f4146e70fed369ecd96063223b4d052.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScjvdI9CdiI7Es%2BepFvu8jw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "f96aa08711552d4a3cbbed9f792212466f4146e70fed369ecd96063223b4d052",
+          "format": "text/plain",
+          "textUrl": "/files/f96aa08711552d4a3cbbed9f792212466f4146e70fed369ecd96063223b4d052.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_GR_191990_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScjvdI9CdiI7Es%2BepFvu8jw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_GR_191990_1",
+    "tender": {
+      "id": "2026_GR_191990_1",
+      "title": "HPU manifold spares",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+        "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-12T00:00:00Z"
+      },
+      "description": "HPU manifold spares"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Guwahati Refinery||Contracts",
+      "id": "IN-ORG-indianoil-refineries-guwahati-refinery-c"
+    },
+    "date": "2026-11-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_GR_191990_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_GR_191990_1",
+        "url": "/files/f96aa08711552d4a3cbbed9f792212466f4146e70fed369ecd96063223b4d052.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScjvdI9CdiI7Es%2BepFvu8jw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "f96aa08711552d4a3cbbed9f792212466f4146e70fed369ecd96063223b4d052",
+        "format": "text/plain",
+        "textUrl": "/files/f96aa08711552d4a3cbbed9f792212466f4146e70fed369ecd96063223b4d052.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_GR_191990_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=ScjvdI9CdiI7Es%2BepFvu8jw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_GR_191990_1",
+      "observedAt": "2026-11-12T05:51:06Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "8856b2d2a3b3ad48218075ce00975fc26af3e5e62f2b2f39e3933ca0b61cf56c",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_GR_191990_1-0001-record",
+          "sha256": "f96aa08711552d4a3cbbed9f792212466f4146e70fed369ecd96063223b4d052"
+        }
+      ],
+      "snapshotUrl": "/files/34808c272a2ede6ccab1016478925707bc35ba6ee09ca98a46242b5f0ec6a92a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-12T05:51:06Z",
+    "lastObserved": "2026-11-12T05:51:06Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
