@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113297_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113297_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113297_1-0001",
+      "date": "2026-11-04T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113297_1",
+        "title": "Procurement of spares for HOWDEN make DE ID fan system for NTPC LARA CHP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-13T00:00:00Z"
+        },
+        "description": "Procurement of spares for HOWDEN make DE ID fan system for NTPC LARA CHP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113297_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113297_1",
+          "url": "/files/6851169c9582584127562143a0f57253b441d803018a8af71b1ef898d77670ab.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLnCvD7jsNBIFRw%2BRBJTfbg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "6851169c9582584127562143a0f57253b441d803018a8af71b1ef898d77670ab",
+          "format": "text/plain",
+          "textUrl": "/files/6851169c9582584127562143a0f57253b441d803018a8af71b1ef898d77670ab.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113297_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLnCvD7jsNBIFRw%2BRBJTfbg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113297_1",
+    "tender": {
+      "id": "2026_NTPC_113297_1",
+      "title": "Procurement of spares for HOWDEN make DE ID fan system for NTPC LARA CHP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-13T00:00:00Z"
+      },
+      "description": "Procurement of spares for HOWDEN make DE ID fan system for NTPC LARA CHP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-04T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113297_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113297_1",
+        "url": "/files/6851169c9582584127562143a0f57253b441d803018a8af71b1ef898d77670ab.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLnCvD7jsNBIFRw%2BRBJTfbg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "6851169c9582584127562143a0f57253b441d803018a8af71b1ef898d77670ab",
+        "format": "text/plain",
+        "textUrl": "/files/6851169c9582584127562143a0f57253b441d803018a8af71b1ef898d77670ab.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113297_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SLnCvD7jsNBIFRw%2BRBJTfbg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113297_1",
+      "observedAt": "2026-11-13T05:03:21Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "9955f02d9bce411727946f17098bbe6de535cc371f4b5c18b122d01da7afa336",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113297_1-0001-record",
+          "sha256": "6851169c9582584127562143a0f57253b441d803018a8af71b1ef898d77670ab"
+        }
+      ],
+      "snapshotUrl": "/files/a62aacdc233ab3f02f0d9a89be77b019a74d864d9f4378aa2c7a5d28815b0c2f.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-13T05:03:21Z",
+    "lastObserved": "2026-11-13T05:03:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

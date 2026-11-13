@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_112908_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112908_1",
+      "id": "woodpecker-ntpc-2026_NTPC_112908_1-0001",
+      "date": "2026-10-21T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "tender": {
+        "id": "2026_NTPC_112908_1",
+        "title": "Bulk Proc of 12 V battery",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-13T00:00:00Z"
+        },
+        "description": "Bulk Proc of 12 V battery"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112908_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_112908_1",
+          "url": "/files/870892f192973b372c07318d94811fe7a6ec999e53f3ce839386551ffdded37b.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm1eaiihS6f4UWuTB4yXEHg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "870892f192973b372c07318d94811fe7a6ec999e53f3ce839386551ffdded37b",
+          "format": "text/plain",
+          "textUrl": "/files/870892f192973b372c07318d94811fe7a6ec999e53f3ce839386551ffdded37b.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112908_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm1eaiihS6f4UWuTB4yXEHg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_112908_1",
+    "tender": {
+      "id": "2026_NTPC_112908_1",
+      "title": "Bulk Proc of 12 V battery",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-13T00:00:00Z"
+      },
+      "description": "Bulk Proc of 12 V battery"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-1",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-1"
+    },
+    "date": "2026-10-21T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112908_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_112908_1",
+        "url": "/files/870892f192973b372c07318d94811fe7a6ec999e53f3ce839386551ffdded37b.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm1eaiihS6f4UWuTB4yXEHg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "870892f192973b372c07318d94811fe7a6ec999e53f3ce839386551ffdded37b",
+        "format": "text/plain",
+        "textUrl": "/files/870892f192973b372c07318d94811fe7a6ec999e53f3ce839386551ffdded37b.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_112908_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sm1eaiihS6f4UWuTB4yXEHg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_112908_1",
+      "observedAt": "2026-11-13T05:03:21Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "5c4370ce964bdcbbca41d4a1fc787e129084117bb53ac22edd889d0a77580e77",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_112908_1-0001-record",
+          "sha256": "870892f192973b372c07318d94811fe7a6ec999e53f3ce839386551ffdded37b"
+        }
+      ],
+      "snapshotUrl": "/files/815bbdf9d73bcbd161326147308be31640556556d91163551dd27a1d4df0e5e5.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-13T05:03:21Z",
+    "lastObserved": "2026-11-13T05:03:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

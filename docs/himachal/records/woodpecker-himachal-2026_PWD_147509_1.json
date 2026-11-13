@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_147509_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147509_1",
+      "id": "woodpecker-himachal-2026_PWD_147509_1-0001",
+      "date": "2026-11-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_147509_1",
+        "title": "Link road Lower Bala",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1706092,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-13T00:00:00Z"
+        },
+        "description": "Link road Lower Bala"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147509_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_147509_1",
+          "url": "/files/0c36081bfe8e42c7acd2ae72c9fa5620b5f1621716f3965b946569659ab552e8.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss66d85KSFxrtUL2UhzNtLw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0c36081bfe8e42c7acd2ae72c9fa5620b5f1621716f3965b946569659ab552e8",
+          "format": "text/plain",
+          "textUrl": "/files/0c36081bfe8e42c7acd2ae72c9fa5620b5f1621716f3965b946569659ab552e8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-himachal-2026_PWD_147509_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss66d85KSFxrtUL2UhzNtLw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_147509_1",
+    "tender": {
+      "id": "2026_PWD_147509_1",
+      "title": "Link road Lower Bala",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1706092,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-13T00:00:00Z"
+      },
+      "description": "Link road Lower Bala"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-11-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_147509_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_147509_1",
+        "url": "/files/0c36081bfe8e42c7acd2ae72c9fa5620b5f1621716f3965b946569659ab552e8.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss66d85KSFxrtUL2UhzNtLw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0c36081bfe8e42c7acd2ae72c9fa5620b5f1621716f3965b946569659ab552e8",
+        "format": "text/plain",
+        "textUrl": "/files/0c36081bfe8e42c7acd2ae72c9fa5620b5f1621716f3965b946569659ab552e8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-himachal-2026_PWD_147509_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Ss66d85KSFxrtUL2UhzNtLw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147509_1",
+      "observedAt": "2026-11-13T04:24:10Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "11b97168b93bd93ca4c53224098abd8b770279bda4dda5d492bba381b885cbdb",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147509_1-0001-record",
+          "sha256": "0c36081bfe8e42c7acd2ae72c9fa5620b5f1621716f3965b946569659ab552e8"
+        }
+      ],
+      "snapshotUrl": "/files/e02f268d274fb3bdcf6edbb36b59bb6c5741d0016014b1a2018bc9f464e80eda.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-13T04:24:10Z",
+    "lastObserved": "2026-11-13T04:24:10Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
