@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113201_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113201_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113201_1-0001",
+      "date": "2026-11-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "tender": {
+        "id": "2026_NTPC_113201_1",
+        "title": "400055060-Development of Ground, Associated Civil and Horticulture Works and Construction of Underground Water Storage Tank at NTPC, ER-1 HQ, Patna",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+        },
+        "mainProcurementCategory": "works",
+        "tenderPeriod": {
+          "endDate": "2026-11-14T00:00:00Z"
+        },
+        "description": "400055060-Development of Ground, Associated Civil and Horticulture Works and Construction of Underground Water Storage Tank at NTPC, ER-1 HQ, Patna"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113201_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113201_1",
+          "url": "/files/2ff2c92d8c722bca760f98474027b9e3a167f0e38bf92a85e99c9e4ea7e8ce7c.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbNnrD1pwJxzPeYCt1Jp%2BDA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2ff2c92d8c722bca760f98474027b9e3a167f0e38bf92a85e99c9e4ea7e8ce7c",
+          "format": "text/plain",
+          "textUrl": "/files/2ff2c92d8c722bca760f98474027b9e3a167f0e38bf92a85e99c9e4ea7e8ce7c.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113201_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbNnrD1pwJxzPeYCt1Jp%2BDA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113201_1",
+    "tender": {
+      "id": "2026_NTPC_113201_1",
+      "title": "400055060-Development of Ground, Associated Civil and Horticulture Works and Construction of Underground Water Storage Tank at NTPC, ER-1 HQ, Patna",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+      },
+      "mainProcurementCategory": "works",
+      "tenderPeriod": {
+        "endDate": "2026-11-14T00:00:00Z"
+      },
+      "description": "400055060-Development of Ground, Associated Civil and Horticulture Works and Construction of Underground Water Storage Tank at NTPC, ER-1 HQ, Patna"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-2",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-2"
+    },
+    "date": "2026-11-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113201_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113201_1",
+        "url": "/files/2ff2c92d8c722bca760f98474027b9e3a167f0e38bf92a85e99c9e4ea7e8ce7c.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbNnrD1pwJxzPeYCt1Jp%2BDA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2ff2c92d8c722bca760f98474027b9e3a167f0e38bf92a85e99c9e4ea7e8ce7c",
+        "format": "text/plain",
+        "textUrl": "/files/2ff2c92d8c722bca760f98474027b9e3a167f0e38bf92a85e99c9e4ea7e8ce7c.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113201_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SbNnrD1pwJxzPeYCt1Jp%2BDA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113201_1",
+      "observedAt": "2026-11-14T04:36:57Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "52b24d13873433bc0f0ced0d533526138904d7aff786295a24fe62a313ec6352",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113201_1-0001-record",
+          "sha256": "2ff2c92d8c722bca760f98474027b9e3a167f0e38bf92a85e99c9e4ea7e8ce7c"
+        }
+      ],
+      "snapshotUrl": "/files/c3a035e315bad013c578081c407ad4569361cf64f8185dedadc2949bc491ed1b.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-14T04:36:57Z",
+    "lastObserved": "2026-11-14T04:36:57Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

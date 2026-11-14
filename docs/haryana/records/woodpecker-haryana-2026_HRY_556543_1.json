@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-haryana-2026_HRY_556543_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-haryana-2026_HRY_556543_1",
+      "id": "woodpecker-haryana-2026_HRY_556543_1-0001",
+      "date": "2026-10-27T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Haryana Government||Health||Civil Surgeon Panchkula",
+        "id": "IN-ORG-haryana-government-health-civil-surgeon-"
+      },
+      "tender": {
+        "id": "2026_HRY_556543_1",
+        "title": "Parking Services",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Haryana Government||Health||Civil Surgeon Panchkula",
+          "id": "IN-ORG-haryana-government-health-civil-surgeon-"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-11-14T00:00:00Z"
+        },
+        "description": "Parking Services"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HRY_556543_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HRY_556543_1",
+          "url": "/files/e51580641c511ce6d20015430eab9d2e7516295c016fd75cf2b579484f8bee11.txt",
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sfp37ZssTxfRN2LIvEuqJGA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e51580641c511ce6d20015430eab9d2e7516295c016fd75cf2b579484f8bee11",
+          "format": "text/plain",
+          "textUrl": "/files/e51580641c511ce6d20015430eab9d2e7516295c016fd75cf2b579484f8bee11.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-haryana-2026_HRY_556543_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sfp37ZssTxfRN2LIvEuqJGA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-haryana-2026_HRY_556543_1",
+    "tender": {
+      "id": "2026_HRY_556543_1",
+      "title": "Parking Services",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Haryana Government||Health||Civil Surgeon Panchkula",
+        "id": "IN-ORG-haryana-government-health-civil-surgeon-"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-11-14T00:00:00Z"
+      },
+      "description": "Parking Services"
+    },
+    "buyer": {
+      "name": "Haryana Government||Health||Civil Surgeon Panchkula",
+      "id": "IN-ORG-haryana-government-health-civil-surgeon-"
+    },
+    "date": "2026-10-27T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-haryana-2026_HRY_556543_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HRY_556543_1",
+        "url": "/files/e51580641c511ce6d20015430eab9d2e7516295c016fd75cf2b579484f8bee11.txt",
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sfp37ZssTxfRN2LIvEuqJGA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e51580641c511ce6d20015430eab9d2e7516295c016fd75cf2b579484f8bee11",
+        "format": "text/plain",
+        "textUrl": "/files/e51580641c511ce6d20015430eab9d2e7516295c016fd75cf2b579484f8bee11.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-haryana-2026_HRY_556543_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://etenders.hry.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sfp37ZssTxfRN2LIvEuqJGA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-haryana-2026_HRY_556543_1",
+      "observedAt": "2026-11-14T04:27:17Z",
+      "witness": "woodpecker:haryana",
+      "availability": "present",
+      "stateHash": "06db84ed8c38c87ae41757e02e068cd3867060b9c5af81829b1f9eb9565ecf4f",
+      "documents": [
+        {
+          "id": "woodpecker-haryana-2026_HRY_556543_1-0001-record",
+          "sha256": "e51580641c511ce6d20015430eab9d2e7516295c016fd75cf2b579484f8bee11"
+        }
+      ],
+      "snapshotUrl": "/files/99bbe6173ce62c156200f6dddbe41190103f124afa661d0bb4c66bd95e510333.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-14T04:27:17Z",
+    "lastObserved": "2026-11-14T04:27:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
