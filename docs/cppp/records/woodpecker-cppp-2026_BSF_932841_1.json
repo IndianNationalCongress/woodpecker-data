@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_BSF_932841_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_BSF_932841_1",
+      "id": "woodpecker-cppp-2026_BSF_932841_1-0001",
+      "date": "2026-11-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "DG,BSF,MHA||South Bengal(Kolkata),BSF,MHA",
+        "id": "IN-ORG-dg-bsf-mha-south-bengal-kolkata-bsf-mha"
+      },
+      "tender": {
+        "id": "2026_BSF_932841_1",
+        "title": "Electrical Works",
+        "status": "active",
+        "procuringEntity": {
+          "name": "DG,BSF,MHA||South Bengal(Kolkata),BSF,MHA",
+          "id": "IN-ORG-dg-bsf-mha-south-bengal-kolkata-bsf-mha"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 598589,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-16T00:00:00Z"
+        },
+        "description": "Electrical Works"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_BSF_932841_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BSF_932841_1",
+          "url": "/files/e39b1301227c47f91b2034377f2cbef160f610183a4ca235cc6ef6e0a4884fe9.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSZDcdAWzBK%2BGtAbcN3qcrg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "e39b1301227c47f91b2034377f2cbef160f610183a4ca235cc6ef6e0a4884fe9",
+          "format": "text/plain",
+          "textUrl": "/files/e39b1301227c47f91b2034377f2cbef160f610183a4ca235cc6ef6e0a4884fe9.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_BSF_932841_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSZDcdAWzBK%2BGtAbcN3qcrg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_BSF_932841_1",
+    "tender": {
+      "id": "2026_BSF_932841_1",
+      "title": "Electrical Works",
+      "status": "active",
+      "procuringEntity": {
+        "name": "DG,BSF,MHA||South Bengal(Kolkata),BSF,MHA",
+        "id": "IN-ORG-dg-bsf-mha-south-bengal-kolkata-bsf-mha"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 598589,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-16T00:00:00Z"
+      },
+      "description": "Electrical Works"
+    },
+    "buyer": {
+      "name": "DG,BSF,MHA||South Bengal(Kolkata),BSF,MHA",
+      "id": "IN-ORG-dg-bsf-mha-south-bengal-kolkata-bsf-mha"
+    },
+    "date": "2026-11-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_BSF_932841_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BSF_932841_1",
+        "url": "/files/e39b1301227c47f91b2034377f2cbef160f610183a4ca235cc6ef6e0a4884fe9.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSZDcdAWzBK%2BGtAbcN3qcrg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "e39b1301227c47f91b2034377f2cbef160f610183a4ca235cc6ef6e0a4884fe9",
+        "format": "text/plain",
+        "textUrl": "/files/e39b1301227c47f91b2034377f2cbef160f610183a4ca235cc6ef6e0a4884fe9.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_BSF_932841_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSZDcdAWzBK%2BGtAbcN3qcrg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_BSF_932841_1",
+      "observedAt": "2026-11-16T03:03:21Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "732c399690704373ab792d2a7ea525bc53c2aea3c7a7a76e6c9ba4638b82a9d2",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_BSF_932841_1-0001-record",
+          "sha256": "e39b1301227c47f91b2034377f2cbef160f610183a4ca235cc6ef6e0a4884fe9"
+        }
+      ],
+      "snapshotUrl": "/files/5b9bf3c3fbb5713d02aa89f3e2cbd9ceb5f0a2295a65550db51e6db12b52d021.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-16T03:03:21Z",
+    "lastObserved": "2026-11-16T03:03:21Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-iocl-2026_HR_192020_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_HR_192020_1",
+      "id": "woodpecker-iocl-2026_HR_192020_1-0001",
+      "date": "2026-11-05T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+      },
+      "tender": {
+        "id": "2026_HR_192020_1",
+        "title": "SUPPLY OF FILTER",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+          "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-16T00:00:00Z"
+        },
+        "description": "SUPPLY OF FILTER"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_HR_192020_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_HR_192020_1",
+          "url": "/files/2c9d32a4ea58606cbe58e96c773d2567cc490e555f8fc874beb171e3a47f1e60.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaAvXAsJme1NlUGVk6cq8pg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "2c9d32a4ea58606cbe58e96c773d2567cc490e555f8fc874beb171e3a47f1e60",
+          "format": "text/plain",
+          "textUrl": "/files/2c9d32a4ea58606cbe58e96c773d2567cc490e555f8fc874beb171e3a47f1e60.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_HR_192020_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaAvXAsJme1NlUGVk6cq8pg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_HR_192020_1",
+    "tender": {
+      "id": "2026_HR_192020_1",
+      "title": "SUPPLY OF FILTER",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+        "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-16T00:00:00Z"
+      },
+      "description": "SUPPLY OF FILTER"
+    },
+    "buyer": {
+      "name": "IndianOil||Refineries||Haldia Refinery||Materials",
+      "id": "IN-ORG-indianoil-refineries-haldia-refinery-mat"
+    },
+    "date": "2026-11-05T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_HR_192020_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_HR_192020_1",
+        "url": "/files/2c9d32a4ea58606cbe58e96c773d2567cc490e555f8fc874beb171e3a47f1e60.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaAvXAsJme1NlUGVk6cq8pg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "2c9d32a4ea58606cbe58e96c773d2567cc490e555f8fc874beb171e3a47f1e60",
+        "format": "text/plain",
+        "textUrl": "/files/2c9d32a4ea58606cbe58e96c773d2567cc490e555f8fc874beb171e3a47f1e60.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_HR_192020_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaAvXAsJme1NlUGVk6cq8pg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_HR_192020_1",
+      "observedAt": "2026-11-16T04:40:33Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "35edc03d94530311bb8301ec12794a3ed0a4f1b5e677c30fd27d7dbc41ad992b",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_HR_192020_1-0001-record",
+          "sha256": "2c9d32a4ea58606cbe58e96c773d2567cc490e555f8fc874beb171e3a47f1e60"
+        }
+      ],
+      "snapshotUrl": "/files/9c578a2d534cb6e269cbe2bdd91ca473da046151a565c5d0ea7226af8d9d086d.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-16T04:40:33Z",
+    "lastObserved": "2026-11-16T04:40:33Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
