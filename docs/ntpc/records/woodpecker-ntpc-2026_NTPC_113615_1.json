@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113615_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113615_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113615_1-0001",
+      "date": "2026-11-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113615_1",
+        "title": "Procurement of Truck Tippler spares for FGD area",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-17T00:00:00Z"
+        },
+        "description": "Procurement of Truck Tippler spares for FGD area"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113615_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113615_1",
+          "url": "/files/4e11e6a6b58fef7f3364d191ef052fa7a251f52da92454e302311d2679e00379.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXpef%2FlVZ8r58pLBStjg%2Fwg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "4e11e6a6b58fef7f3364d191ef052fa7a251f52da92454e302311d2679e00379",
+          "format": "text/plain",
+          "textUrl": "/files/4e11e6a6b58fef7f3364d191ef052fa7a251f52da92454e302311d2679e00379.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113615_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXpef%2FlVZ8r58pLBStjg%2Fwg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113615_1",
+    "tender": {
+      "id": "2026_NTPC_113615_1",
+      "title": "Procurement of Truck Tippler spares for FGD area",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-17T00:00:00Z"
+      },
+      "description": "Procurement of Truck Tippler spares for FGD area"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113615_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113615_1",
+        "url": "/files/4e11e6a6b58fef7f3364d191ef052fa7a251f52da92454e302311d2679e00379.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXpef%2FlVZ8r58pLBStjg%2Fwg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "4e11e6a6b58fef7f3364d191ef052fa7a251f52da92454e302311d2679e00379",
+        "format": "text/plain",
+        "textUrl": "/files/4e11e6a6b58fef7f3364d191ef052fa7a251f52da92454e302311d2679e00379.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113615_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SXpef%2FlVZ8r58pLBStjg%2Fwg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113615_1",
+      "observedAt": "2026-11-17T06:53:20Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "77542ea79b5ffe04eb7018ca3736c9d97bba4cb15e532663f18a5523bb2790ec",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113615_1-0001-record",
+          "sha256": "4e11e6a6b58fef7f3364d191ef052fa7a251f52da92454e302311d2679e00379"
+        }
+      ],
+      "snapshotUrl": "/files/1619e66817cad9cf03eb22badfb08a9143acd1729f133d8a2ca0389205ceab19.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-17T06:53:20Z",
+    "lastObserved": "2026-11-17T06:53:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

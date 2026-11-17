@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113498_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113498_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113498_1-0001",
+      "date": "2026-11-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113498_1",
+        "title": "BMC of Boiler Goods Lift Unit 1 at NTPC Rihand",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-11-17T00:00:00Z"
+        },
+        "description": "BMC of Boiler Goods Lift Unit 1 at NTPC Rihand"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113498_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113498_1",
+          "url": "/files/35e58057d66033517798e004e0638976bf8ad18a04948f823ef85356c1c16287.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St77H%2FJ%2F7PlIxz2UZPDtYTg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "35e58057d66033517798e004e0638976bf8ad18a04948f823ef85356c1c16287",
+          "format": "text/plain",
+          "textUrl": "/files/35e58057d66033517798e004e0638976bf8ad18a04948f823ef85356c1c16287.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113498_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St77H%2FJ%2F7PlIxz2UZPDtYTg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113498_1",
+    "tender": {
+      "id": "2026_NTPC_113498_1",
+      "title": "BMC of Boiler Goods Lift Unit 1 at NTPC Rihand",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-11-17T00:00:00Z"
+      },
+      "description": "BMC of Boiler Goods Lift Unit 1 at NTPC Rihand"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113498_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113498_1",
+        "url": "/files/35e58057d66033517798e004e0638976bf8ad18a04948f823ef85356c1c16287.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St77H%2FJ%2F7PlIxz2UZPDtYTg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "35e58057d66033517798e004e0638976bf8ad18a04948f823ef85356c1c16287",
+        "format": "text/plain",
+        "textUrl": "/files/35e58057d66033517798e004e0638976bf8ad18a04948f823ef85356c1c16287.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113498_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=St77H%2FJ%2F7PlIxz2UZPDtYTg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113498_1",
+      "observedAt": "2026-11-17T06:53:20Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "eec5a0f890064811c2bbd2da352df8310d66a0ab44b2e61bca0cf15466432906",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113498_1-0001-record",
+          "sha256": "35e58057d66033517798e004e0638976bf8ad18a04948f823ef85356c1c16287"
+        }
+      ],
+      "snapshotUrl": "/files/78482914ffbfb81f3543921ba26ab11ed6b31d80fe56b0ed50b33c281d490d90.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-17T06:53:20Z",
+    "lastObserved": "2026-11-17T06:53:20Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
