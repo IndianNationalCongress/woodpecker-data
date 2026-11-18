@@ -1,0 +1,118 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_147624_2",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147624_2",
+      "id": "woodpecker-himachal-2026_PWD_147624_2-0001",
+      "date": "2026-11-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_147624_2",
+        "title": "(SH- P/L30mm thick Bituminous Concrete laying with paver finisher in km. 1/000 to 2/000)",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1528423,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-18T00:00:00Z"
+        },
+        "description": "(SH- P/L30mm thick Bituminous Concrete laying with paver finisher in km. 1/000 to 2/000)"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147624_2-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_147624_2",
+          "url": "/files/fd6f9dcb1978b7d105ea75d041e7548a6f5e39c160fcf017f59cc9e6c75f77f6.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWgCBYVeXy5rXjy9Ak7da2A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "fd6f9dcb1978b7d105ea75d041e7548a6f5e39c160fcf017f59cc9e6c75f77f6",
+          "format": "text/plain",
+          "textUrl": "/files/fd6f9dcb1978b7d105ea75d041e7548a6f5e39c160fcf017f59cc9e6c75f77f6.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_147624_2",
+    "tender": {
+      "id": "2026_PWD_147624_2",
+      "title": "(SH- P/L30mm thick Bituminous Concrete laying with paver finisher in km. 1/000 to 2/000)",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1528423,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-18T00:00:00Z"
+      },
+      "description": "(SH- P/L30mm thick Bituminous Concrete laying with paver finisher in km. 1/000 to 2/000)"
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-11-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_147624_2-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_147624_2",
+        "url": "/files/fd6f9dcb1978b7d105ea75d041e7548a6f5e39c160fcf017f59cc9e6c75f77f6.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SWgCBYVeXy5rXjy9Ak7da2A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "fd6f9dcb1978b7d105ea75d041e7548a6f5e39c160fcf017f59cc9e6c75f77f6",
+        "format": "text/plain",
+        "textUrl": "/files/fd6f9dcb1978b7d105ea75d041e7548a6f5e39c160fcf017f59cc9e6c75f77f6.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147624_2",
+      "observedAt": "2026-11-18T05:34:17Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "a99106164f494b12fdb493c3dd4ade7d6f8856f03d8a58d798d81050c886a0a2",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147624_2-0001-record",
+          "sha256": "fd6f9dcb1978b7d105ea75d041e7548a6f5e39c160fcf017f59cc9e6c75f77f6"
+        }
+      ],
+      "snapshotUrl": "/files/88b831998a0de71f3fa1cdf67157f3a872908e97c78319acf4c04c5be8108137.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-18T05:34:17Z",
+    "lastObserved": "2026-11-18T05:34:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

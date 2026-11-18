@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-jharkhand-2026_IPRD_120810_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-jharkhand-2026_IPRD_120810_1",
+      "id": "woodpecker-jharkhand-2026_IPRD_120810_1-0001",
+      "date": "2026-11-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Information and Public Relations",
+        "id": "IN-ORG-information-and-public-relations"
+      },
+      "tender": {
+        "id": "2026_IPRD_120810_1",
+        "title": "RETENDER_EMPANELEMNT OF AGENCIES",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Information and Public Relations",
+          "id": "IN-ORG-information-and-public-relations"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-11-18T00:00:00Z"
+        },
+        "description": "RETENDER_EMPANELEMNT OF AGENCIES"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-jharkhand-2026_IPRD_120810_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_IPRD_120810_1",
+          "url": "/files/20e789c53faff6c1e50139a6e00c660acee05916084c679029e9950aed20f321.txt",
+          "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSd4nj2p%2BOyO7Ji1ihgWrHQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "20e789c53faff6c1e50139a6e00c660acee05916084c679029e9950aed20f321",
+          "format": "text/plain",
+          "textUrl": "/files/20e789c53faff6c1e50139a6e00c660acee05916084c679029e9950aed20f321.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-jharkhand-2026_IPRD_120810_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSd4nj2p%2BOyO7Ji1ihgWrHQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-jharkhand-2026_IPRD_120810_1",
+    "tender": {
+      "id": "2026_IPRD_120810_1",
+      "title": "RETENDER_EMPANELEMNT OF AGENCIES",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Information and Public Relations",
+        "id": "IN-ORG-information-and-public-relations"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-11-18T00:00:00Z"
+      },
+      "description": "RETENDER_EMPANELEMNT OF AGENCIES"
+    },
+    "buyer": {
+      "name": "Information and Public Relations",
+      "id": "IN-ORG-information-and-public-relations"
+    },
+    "date": "2026-11-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-jharkhand-2026_IPRD_120810_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_IPRD_120810_1",
+        "url": "/files/20e789c53faff6c1e50139a6e00c660acee05916084c679029e9950aed20f321.txt",
+        "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSd4nj2p%2BOyO7Ji1ihgWrHQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "20e789c53faff6c1e50139a6e00c660acee05916084c679029e9950aed20f321",
+        "format": "text/plain",
+        "textUrl": "/files/20e789c53faff6c1e50139a6e00c660acee05916084c679029e9950aed20f321.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-jharkhand-2026_IPRD_120810_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://jharkhandtenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SSd4nj2p%2BOyO7Ji1ihgWrHQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-jharkhand-2026_IPRD_120810_1",
+      "observedAt": "2026-11-18T05:25:46Z",
+      "witness": "woodpecker:jharkhand",
+      "availability": "present",
+      "stateHash": "38fefc3f64d1fd24184ef7aac0f16dece4c7016d62938721356077f324ff20c6",
+      "documents": [
+        {
+          "id": "woodpecker-jharkhand-2026_IPRD_120810_1-0001-record",
+          "sha256": "20e789c53faff6c1e50139a6e00c660acee05916084c679029e9950aed20f321"
+        }
+      ],
+      "snapshotUrl": "/files/db7c9ca6d482b3ca13611b71d821be3efd0fa42f1dce83241486c4c587c94c35.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-18T05:25:46Z",
+    "lastObserved": "2026-11-18T05:25:46Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

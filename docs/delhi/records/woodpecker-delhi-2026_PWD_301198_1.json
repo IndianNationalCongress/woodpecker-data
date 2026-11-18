@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-delhi-2026_PWD_301198_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_301198_1",
+      "id": "woodpecker-delhi-2026_PWD_301198_1-0001",
+      "date": "2026-11-10T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Public Works Department||CE/SE/B2-B24||EE/B242(N)",
+        "id": "IN-ORG-public-works-department-ce-se-b2-b24-ee-"
+      },
+      "tender": {
+        "id": "2026_PWD_301198_1",
+        "title": "Fire and Electric Works",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Public Works Department||CE/SE/B2-B24||EE/B242(N)",
+          "id": "IN-ORG-public-works-department-ce-se-b2-b24-ee-"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1111971,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-18T00:00:00Z"
+        },
+        "description": "Fire and Electric Works"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_301198_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_301198_1",
+          "url": "/files/096788b691fb93476815267bea360382b7250aec95862a3143b5b0465cd828a8.txt",
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqP3BUB4ULRffHybm8sAxYQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "096788b691fb93476815267bea360382b7250aec95862a3143b5b0465cd828a8",
+          "format": "text/plain",
+          "textUrl": "/files/096788b691fb93476815267bea360382b7250aec95862a3143b5b0465cd828a8.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-delhi-2026_PWD_301198_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqP3BUB4ULRffHybm8sAxYQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-delhi-2026_PWD_301198_1",
+    "tender": {
+      "id": "2026_PWD_301198_1",
+      "title": "Fire and Electric Works",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Public Works Department||CE/SE/B2-B24||EE/B242(N)",
+        "id": "IN-ORG-public-works-department-ce-se-b2-b24-ee-"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1111971,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-18T00:00:00Z"
+      },
+      "description": "Fire and Electric Works"
+    },
+    "buyer": {
+      "name": "Public Works Department||CE/SE/B2-B24||EE/B242(N)",
+      "id": "IN-ORG-public-works-department-ce-se-b2-b24-ee-"
+    },
+    "date": "2026-11-10T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-delhi-2026_PWD_301198_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_301198_1",
+        "url": "/files/096788b691fb93476815267bea360382b7250aec95862a3143b5b0465cd828a8.txt",
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqP3BUB4ULRffHybm8sAxYQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "096788b691fb93476815267bea360382b7250aec95862a3143b5b0465cd828a8",
+        "format": "text/plain",
+        "textUrl": "/files/096788b691fb93476815267bea360382b7250aec95862a3143b5b0465cd828a8.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-delhi-2026_PWD_301198_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://govtprocurement.delhi.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SqP3BUB4ULRffHybm8sAxYQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-delhi-2026_PWD_301198_1",
+      "observedAt": "2026-11-18T06:05:44Z",
+      "witness": "woodpecker:delhi",
+      "availability": "present",
+      "stateHash": "cf9fc8cc19c9ab03a254b80f7f9c1b55a06cf04bcb0dbd4cdcc20e8a1eabf9c9",
+      "documents": [
+        {
+          "id": "woodpecker-delhi-2026_PWD_301198_1-0001-record",
+          "sha256": "096788b691fb93476815267bea360382b7250aec95862a3143b5b0465cd828a8"
+        }
+      ],
+      "snapshotUrl": "/files/76623a343cc7cf81ba046673784d61ccb0b3bfd383c8b95bcc1e537fb3b96afe.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-18T06:05:44Z",
+    "lastObserved": "2026-11-18T06:05:44Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

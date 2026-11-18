@@ -1,0 +1,118 @@
+{
+  "ocid": "woodpecker-himachal-2026_PWD_147696_8",
+  "releases": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147696_8",
+      "id": "woodpecker-himachal-2026_PWD_147696_8-0001",
+      "date": "2026-11-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "tender": {
+        "id": "2026_PWD_147696_8",
+        "title": "Providing and laying 25 mm thick Bituminous concrete for patch work at various RDs) (Under PDNA-2025).",
+        "status": "active",
+        "procuringEntity": {
+          "name": "PWD",
+          "id": "IN-ORG-pwd"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1060613,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-18T00:00:00Z"
+        },
+        "description": "Providing and laying 25 mm thick Bituminous concrete for patch work at various RDs) (Under PDNA-2025)."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147696_8-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_PWD_147696_8",
+          "url": "/files/950d08418ab9a190eb0869d2c443c7aa44940269bbd0e78e6c270a38dd1655eb.txt",
+          "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaMn2fPspA15J9bcb3bT2Yw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "950d08418ab9a190eb0869d2c443c7aa44940269bbd0e78e6c270a38dd1655eb",
+          "format": "text/plain",
+          "textUrl": "/files/950d08418ab9a190eb0869d2c443c7aa44940269bbd0e78e6c270a38dd1655eb.txt",
+          "extractionMethod": "raw"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-himachal-2026_PWD_147696_8",
+    "tender": {
+      "id": "2026_PWD_147696_8",
+      "title": "Providing and laying 25 mm thick Bituminous concrete for patch work at various RDs) (Under PDNA-2025).",
+      "status": "active",
+      "procuringEntity": {
+        "name": "PWD",
+        "id": "IN-ORG-pwd"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1060613,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-18T00:00:00Z"
+      },
+      "description": "Providing and laying 25 mm thick Bituminous concrete for patch work at various RDs) (Under PDNA-2025)."
+    },
+    "buyer": {
+      "name": "PWD",
+      "id": "IN-ORG-pwd"
+    },
+    "date": "2026-11-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-himachal-2026_PWD_147696_8-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_PWD_147696_8",
+        "url": "/files/950d08418ab9a190eb0869d2c443c7aa44940269bbd0e78e6c270a38dd1655eb.txt",
+        "sourceUrl": "https://hptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SaMn2fPspA15J9bcb3bT2Yw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "950d08418ab9a190eb0869d2c443c7aa44940269bbd0e78e6c270a38dd1655eb",
+        "format": "text/plain",
+        "textUrl": "/files/950d08418ab9a190eb0869d2c443c7aa44940269bbd0e78e6c270a38dd1655eb.txt",
+        "extractionMethod": "raw"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-himachal-2026_PWD_147696_8",
+      "observedAt": "2026-11-18T05:34:17Z",
+      "witness": "woodpecker:himachal",
+      "availability": "present",
+      "stateHash": "752acef38e7a9411866cdd8c2b6fc6c49dc142b8c31be9c6f46ed45c3414c06b",
+      "documents": [
+        {
+          "id": "woodpecker-himachal-2026_PWD_147696_8-0001-record",
+          "sha256": "950d08418ab9a190eb0869d2c443c7aa44940269bbd0e78e6c270a38dd1655eb"
+        }
+      ],
+      "snapshotUrl": "/files/724a908c871f1e82c31468a4b7729844452216ba0c2185824a508b8752a056a1.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-18T05:34:17Z",
+    "lastObserved": "2026-11-18T05:34:17Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

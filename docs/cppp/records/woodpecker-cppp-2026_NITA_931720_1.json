@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_NITA_931720_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_NITA_931720_1",
+      "id": "woodpecker-cppp-2026_NITA_931720_1-0001",
+      "date": "2026-10-26T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "National Institute of Technology Agartala||Purchase Section - NIT Agartala",
+        "id": "IN-ORG-national-institute-of-technology-agartal"
+      },
+      "tender": {
+        "id": "2026_NITA_931720_1",
+        "title": "As per tender document",
+        "status": "active",
+        "procuringEntity": {
+          "name": "National Institute of Technology Agartala||Purchase Section - NIT Agartala",
+          "id": "IN-ORG-national-institute-of-technology-agartal"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-18T00:00:00Z"
+        },
+        "description": "As per tender document"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NITA_931720_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NITA_931720_1",
+          "url": "/files/bc5b8e4d68a5da83402bf15a95603face78b95ecf7336b8d0d794ab5b46d0f48.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmxgK7v1C%2BBcc5mpf46oIqA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "bc5b8e4d68a5da83402bf15a95603face78b95ecf7336b8d0d794ab5b46d0f48",
+          "format": "text/plain",
+          "textUrl": "/files/bc5b8e4d68a5da83402bf15a95603face78b95ecf7336b8d0d794ab5b46d0f48.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_NITA_931720_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmxgK7v1C%2BBcc5mpf46oIqA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_NITA_931720_1",
+    "tender": {
+      "id": "2026_NITA_931720_1",
+      "title": "As per tender document",
+      "status": "active",
+      "procuringEntity": {
+        "name": "National Institute of Technology Agartala||Purchase Section - NIT Agartala",
+        "id": "IN-ORG-national-institute-of-technology-agartal"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-18T00:00:00Z"
+      },
+      "description": "As per tender document"
+    },
+    "buyer": {
+      "name": "National Institute of Technology Agartala||Purchase Section - NIT Agartala",
+      "id": "IN-ORG-national-institute-of-technology-agartal"
+    },
+    "date": "2026-10-26T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_NITA_931720_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NITA_931720_1",
+        "url": "/files/bc5b8e4d68a5da83402bf15a95603face78b95ecf7336b8d0d794ab5b46d0f48.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmxgK7v1C%2BBcc5mpf46oIqA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "bc5b8e4d68a5da83402bf15a95603face78b95ecf7336b8d0d794ab5b46d0f48",
+        "format": "text/plain",
+        "textUrl": "/files/bc5b8e4d68a5da83402bf15a95603face78b95ecf7336b8d0d794ab5b46d0f48.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_NITA_931720_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SmxgK7v1C%2BBcc5mpf46oIqA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_NITA_931720_1",
+      "observedAt": "2026-11-18T04:45:30Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "ce40b8571bcbb6089bb9cd9a4d7bace9a5f5fa6c7ced043741a01bf4c82391f5",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NITA_931720_1-0001-record",
+          "sha256": "bc5b8e4d68a5da83402bf15a95603face78b95ecf7336b8d0d794ab5b46d0f48"
+        }
+      ],
+      "snapshotUrl": "/files/e714e5ca77c3144058c5a860bd285e027367f9dd7792307300f00344ed3f8078.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-18T04:45:30Z",
+    "lastObserved": "2026-11-18T04:45:30Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
