@@ -1,0 +1,57 @@
+{
+  "ocid": "woodpecker-cppp-2026_NIOT_930437_1",
+  "id": "woodpecker-cppp-2026_NIOT_930437_1-0001",
+  "date": "2026-10-15T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "National Institute of Ocean Technology||Stores and Purchase - NIOT",
+    "id": "IN-ORG-national-institute-of-ocean-technology-s"
+  },
+  "tender": {
+    "id": "2026_NIOT_930437_1",
+    "title": "As per Tender Document",
+    "status": "active",
+    "procuringEntity": {
+      "name": "National Institute of Ocean Technology||Stores and Purchase - NIOT",
+      "id": "IN-ORG-national-institute-of-ocean-technology-s"
+    },
+    "mainProcurementCategory": "works",
+    "value": {
+      "amount": 18900000,
+      "currency": "INR"
+    },
+    "tenderPeriod": {
+      "endDate": "2026-11-19T00:00:00Z"
+    },
+    "description": "As per Tender Document"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-cppp-2026_NIOT_930437_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_NIOT_930437_1",
+      "url": "/files/ac9a2335cfe59ce1a01bb90f9abb84ae146977ec39bf032e023ab3eda0591a0b.txt",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrDvH%2Fs56%2Fer4THratVvJLg%3D%3D",
+      "sourceAlive": true,
+      "sha256": "ac9a2335cfe59ce1a01bb90f9abb84ae146977ec39bf032e023ab3eda0591a0b",
+      "format": "text/plain",
+      "textUrl": "/files/ac9a2335cfe59ce1a01bb90f9abb84ae146977ec39bf032e023ab3eda0591a0b.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-cppp-2026_NIOT_930437_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SrDvH%2Fs56%2Fer4THratVvJLg%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

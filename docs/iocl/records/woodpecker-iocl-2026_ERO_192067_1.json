@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-iocl-2026_ERO_192067_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERO_192067_1",
+      "id": "woodpecker-iocl-2026_ERO_192067_1-0001",
+      "date": "2026-11-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "IndianOil||Marketing||Eastern Region Office||Contract Cell",
+        "id": "IN-ORG-indianoil-marketing-eastern-region-offic"
+      },
+      "tender": {
+        "id": "2026_ERO_192067_1",
+        "title": "Raze and Rebuild of A site RO Ms Ambika Petroleum Sarfuddinpur NH 27 Block Bochaha Muzaffarpur under Muzaffarpur DO under BSO",
+        "status": "active",
+        "procuringEntity": {
+          "name": "IndianOil||Marketing||Eastern Region Office||Contract Cell",
+          "id": "IN-ORG-indianoil-marketing-eastern-region-offic"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 7499980,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-19T00:00:00Z"
+        },
+        "description": "Raze and Rebuild of A site RO Ms Ambika Petroleum Sarfuddinpur NH 27 Block Bochaha Muzaffarpur under Muzaffarpur DO under BSO"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERO_192067_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_ERO_192067_1",
+          "url": "/files/153808c158746daa463c99ea28cde5cedacb19f0f9495e9adcd38953fc2ffd5d.txt",
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxE7tkIkPV2ut14XIIQdxRg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "153808c158746daa463c99ea28cde5cedacb19f0f9495e9adcd38953fc2ffd5d",
+          "format": "text/plain",
+          "textUrl": "/files/153808c158746daa463c99ea28cde5cedacb19f0f9495e9adcd38953fc2ffd5d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-iocl-2026_ERO_192067_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxE7tkIkPV2ut14XIIQdxRg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-iocl-2026_ERO_192067_1",
+    "tender": {
+      "id": "2026_ERO_192067_1",
+      "title": "Raze and Rebuild of A site RO Ms Ambika Petroleum Sarfuddinpur NH 27 Block Bochaha Muzaffarpur under Muzaffarpur DO under BSO",
+      "status": "active",
+      "procuringEntity": {
+        "name": "IndianOil||Marketing||Eastern Region Office||Contract Cell",
+        "id": "IN-ORG-indianoil-marketing-eastern-region-offic"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 7499980,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-19T00:00:00Z"
+      },
+      "description": "Raze and Rebuild of A site RO Ms Ambika Petroleum Sarfuddinpur NH 27 Block Bochaha Muzaffarpur under Muzaffarpur DO under BSO"
+    },
+    "buyer": {
+      "name": "IndianOil||Marketing||Eastern Region Office||Contract Cell",
+      "id": "IN-ORG-indianoil-marketing-eastern-region-offic"
+    },
+    "date": "2026-11-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-iocl-2026_ERO_192067_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_ERO_192067_1",
+        "url": "/files/153808c158746daa463c99ea28cde5cedacb19f0f9495e9adcd38953fc2ffd5d.txt",
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxE7tkIkPV2ut14XIIQdxRg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "153808c158746daa463c99ea28cde5cedacb19f0f9495e9adcd38953fc2ffd5d",
+        "format": "text/plain",
+        "textUrl": "/files/153808c158746daa463c99ea28cde5cedacb19f0f9495e9adcd38953fc2ffd5d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-iocl-2026_ERO_192067_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://iocletenders.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SxE7tkIkPV2ut14XIIQdxRg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-iocl-2026_ERO_192067_1",
+      "observedAt": "2026-11-19T06:09:24Z",
+      "witness": "woodpecker:iocl",
+      "availability": "present",
+      "stateHash": "94d4868698c5803cbdd9b27d6022af0f3d0a80db90e7fdccca8d07db8bb38f25",
+      "documents": [
+        {
+          "id": "woodpecker-iocl-2026_ERO_192067_1-0001-record",
+          "sha256": "153808c158746daa463c99ea28cde5cedacb19f0f9495e9adcd38953fc2ffd5d"
+        }
+      ],
+      "snapshotUrl": "/files/4942553f5a5451035b16525fc9b3c8f552f242817d929cac6725ae88e0161b8a.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-19T06:09:24Z",
+    "lastObserved": "2026-11-19T06:09:24Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113530_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113530_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113530_1-0001",
+      "date": "2026-11-12T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113530_1",
+        "title": "Procurement and Installation of Tower ACs 3 Ton for Admin Building",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-19T00:00:00Z"
+        },
+        "description": "Procurement and Installation of Tower ACs 3 Ton for Admin Building"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113530_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113530_1",
+          "url": "/files/0fc52946c25d48a81e30512d110a3dc710b34243d01032002cc0138498c1d73a.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SO%2F3ia2Lj7omrKB3vx4rqMw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0fc52946c25d48a81e30512d110a3dc710b34243d01032002cc0138498c1d73a",
+          "format": "text/plain",
+          "textUrl": "/files/0fc52946c25d48a81e30512d110a3dc710b34243d01032002cc0138498c1d73a.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113530_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SO%2F3ia2Lj7omrKB3vx4rqMw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113530_1",
+    "tender": {
+      "id": "2026_NTPC_113530_1",
+      "title": "Procurement and Installation of Tower ACs 3 Ton for Admin Building",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-19T00:00:00Z"
+      },
+      "description": "Procurement and Installation of Tower ACs 3 Ton for Admin Building"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-12T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113530_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113530_1",
+        "url": "/files/0fc52946c25d48a81e30512d110a3dc710b34243d01032002cc0138498c1d73a.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SO%2F3ia2Lj7omrKB3vx4rqMw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0fc52946c25d48a81e30512d110a3dc710b34243d01032002cc0138498c1d73a",
+        "format": "text/plain",
+        "textUrl": "/files/0fc52946c25d48a81e30512d110a3dc710b34243d01032002cc0138498c1d73a.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113530_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SO%2F3ia2Lj7omrKB3vx4rqMw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113530_1",
+      "observedAt": "2026-11-19T06:04:32Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "93c6c04dd5fb47a7ccbd0ed4600e1b0c60cc475f0773496ed03b30a84a4d29cb",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113530_1-0001-record",
+          "sha256": "0fc52946c25d48a81e30512d110a3dc710b34243d01032002cc0138498c1d73a"
+        }
+      ],
+      "snapshotUrl": "/files/1cd18df389e57d0fb41259fed6e9441f910404b514765811915b17c2db6bc731.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-19T06:04:32Z",
+    "lastObserved": "2026-11-19T06:04:32Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

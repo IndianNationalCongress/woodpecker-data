@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-rajasthan-2026_RMSCL_603319_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_RMSCL_603319_1",
+      "id": "woodpecker-rajasthan-2026_RMSCL_603319_1-0001",
+      "date": "2026-10-06T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "RMSCL- MD||ED - Procurement",
+        "id": "IN-ORG-rmscl-md-ed-procurement"
+      },
+      "tender": {
+        "id": "2026_RMSCL_603319_1",
+        "title": "Elisa Reader and Washer",
+        "status": "active",
+        "procuringEntity": {
+          "name": "RMSCL- MD||ED - Procurement",
+          "id": "IN-ORG-rmscl-md-ed-procurement"
+        },
+        "mainProcurementCategory": "goods",
+        "value": {
+          "amount": 3600000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-19T00:00:00Z"
+        },
+        "description": "Elisa Reader and Washer"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_RMSCL_603319_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_RMSCL_603319_1",
+          "url": "/files/cc5cf1e7feb925b39cfa4b5402b6683310018a4dea63ecf06303374b17157f56.txt",
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BOswyyTVozHqQBZCY3mGpg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cc5cf1e7feb925b39cfa4b5402b6683310018a4dea63ecf06303374b17157f56",
+          "format": "text/plain",
+          "textUrl": "/files/cc5cf1e7feb925b39cfa4b5402b6683310018a4dea63ecf06303374b17157f56.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-rajasthan-2026_RMSCL_603319_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BOswyyTVozHqQBZCY3mGpg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-rajasthan-2026_RMSCL_603319_1",
+    "tender": {
+      "id": "2026_RMSCL_603319_1",
+      "title": "Elisa Reader and Washer",
+      "status": "active",
+      "procuringEntity": {
+        "name": "RMSCL- MD||ED - Procurement",
+        "id": "IN-ORG-rmscl-md-ed-procurement"
+      },
+      "mainProcurementCategory": "goods",
+      "value": {
+        "amount": 3600000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-19T00:00:00Z"
+      },
+      "description": "Elisa Reader and Washer"
+    },
+    "buyer": {
+      "name": "RMSCL- MD||ED - Procurement",
+      "id": "IN-ORG-rmscl-md-ed-procurement"
+    },
+    "date": "2026-10-06T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-rajasthan-2026_RMSCL_603319_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_RMSCL_603319_1",
+        "url": "/files/cc5cf1e7feb925b39cfa4b5402b6683310018a4dea63ecf06303374b17157f56.txt",
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BOswyyTVozHqQBZCY3mGpg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cc5cf1e7feb925b39cfa4b5402b6683310018a4dea63ecf06303374b17157f56",
+        "format": "text/plain",
+        "textUrl": "/files/cc5cf1e7feb925b39cfa4b5402b6683310018a4dea63ecf06303374b17157f56.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-rajasthan-2026_RMSCL_603319_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eproc.rajasthan.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S%2BOswyyTVozHqQBZCY3mGpg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-rajasthan-2026_RMSCL_603319_1",
+      "observedAt": "2026-11-19T05:58:09Z",
+      "witness": "woodpecker:rajasthan",
+      "availability": "present",
+      "stateHash": "79194f110cc3d19240477cf9b8b36389e945b8f9a2430dc2a54d9ead3e70e80d",
+      "documents": [
+        {
+          "id": "woodpecker-rajasthan-2026_RMSCL_603319_1-0001-record",
+          "sha256": "cc5cf1e7feb925b39cfa4b5402b6683310018a4dea63ecf06303374b17157f56"
+        }
+      ],
+      "snapshotUrl": "/files/7619da52518187a46c34409346e20b45a392ee1b801eeea325ad9a8cea51d707.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-19T05:58:09Z",
+    "lastObserved": "2026-11-19T05:58:09Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
