@@ -1,0 +1,53 @@
+{
+  "ocid": "woodpecker-cppp-2026_IPPB_933410_1",
+  "id": "woodpecker-cppp-2026_IPPB_933410_1-0001",
+  "date": "2026-11-06T00:00:00Z",
+  "tag": [
+    "tender"
+  ],
+  "initiationType": "tender",
+  "buyer": {
+    "name": "India Post Payments Bank Ltd",
+    "id": "IN-ORG-india-post-payments-bank-ltd"
+  },
+  "tender": {
+    "id": "2026_IPPB_933410_1",
+    "title": "As per Tender document",
+    "status": "active",
+    "procuringEntity": {
+      "name": "India Post Payments Bank Ltd",
+      "id": "IN-ORG-india-post-payments-bank-ltd"
+    },
+    "mainProcurementCategory": "goods",
+    "tenderPeriod": {
+      "endDate": "2026-11-20T00:00:00Z"
+    },
+    "description": "As per Tender document"
+  },
+  "documents": [
+    {
+      "id": "woodpecker-cppp-2026_IPPB_933410_1-0001-record",
+      "documentType": "tenderNotice",
+      "title": "Captured tender record (text) — 2026_IPPB_933410_1",
+      "url": "/files/d335edc60fa9c5c6b7fd78ea9765b4500cf50a9ad0704739578607461943b839.txt",
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SUqMMnzgpmDOm6Z6jdFFW2A%3D%3D",
+      "sourceAlive": true,
+      "sha256": "d335edc60fa9c5c6b7fd78ea9765b4500cf50a9ad0704739578607461943b839",
+      "format": "text/plain",
+      "textUrl": "/files/d335edc60fa9c5c6b7fd78ea9765b4500cf50a9ad0704739578607461943b839.txt",
+      "extractionMethod": "raw"
+    },
+    {
+      "id": "woodpecker-cppp-2026_IPPB_933410_1-0001-doc-1",
+      "documentType": "biddingDocuments",
+      "title": "Tendernotice_1.pdf",
+      "url": null,
+      "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SUqMMnzgpmDOm6Z6jdFFW2A%3D%3D",
+      "sourceAlive": false,
+      "sha256": null,
+      "format": "application/pdf",
+      "textUrl": null,
+      "extractionMethod": "none"
+    }
+  ]
+}

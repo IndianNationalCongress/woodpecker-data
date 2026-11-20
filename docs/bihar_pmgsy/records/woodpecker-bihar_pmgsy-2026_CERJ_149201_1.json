@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1",
+      "id": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1-0001",
+      "date": "2026-08-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Rajasthan||SE-PMGSY-RJ",
+        "id": "IN-ORG-rajasthan-se-pmgsy-rj"
+      },
+      "tender": {
+        "id": "2026_CERJ_149201_1",
+        "title": "RJ-04-P4-04",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Rajasthan||SE-PMGSY-RJ",
+          "id": "IN-ORG-rajasthan-se-pmgsy-rj"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 16727000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-20T00:00:00Z"
+        },
+        "description": "RJ-04-P4-04"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_CERJ_149201_1",
+          "url": "/files/c9fa803ce45ec616c3c9c2fc499531f15c59053c8efd09e2669f16aae2ba8113.txt",
+          "sourceUrl": "https://pmgsytendersbih.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYyvnuc7VWlmjHFC67cgsqw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "c9fa803ce45ec616c3c9c2fc499531f15c59053c8efd09e2669f16aae2ba8113",
+          "format": "text/plain",
+          "textUrl": "/files/c9fa803ce45ec616c3c9c2fc499531f15c59053c8efd09e2669f16aae2ba8113.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://pmgsytendersbih.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYyvnuc7VWlmjHFC67cgsqw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1",
+    "tender": {
+      "id": "2026_CERJ_149201_1",
+      "title": "RJ-04-P4-04",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Rajasthan||SE-PMGSY-RJ",
+        "id": "IN-ORG-rajasthan-se-pmgsy-rj"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 16727000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-20T00:00:00Z"
+      },
+      "description": "RJ-04-P4-04"
+    },
+    "buyer": {
+      "name": "Rajasthan||SE-PMGSY-RJ",
+      "id": "IN-ORG-rajasthan-se-pmgsy-rj"
+    },
+    "date": "2026-08-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_CERJ_149201_1",
+        "url": "/files/c9fa803ce45ec616c3c9c2fc499531f15c59053c8efd09e2669f16aae2ba8113.txt",
+        "sourceUrl": "https://pmgsytendersbih.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYyvnuc7VWlmjHFC67cgsqw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "c9fa803ce45ec616c3c9c2fc499531f15c59053c8efd09e2669f16aae2ba8113",
+        "format": "text/plain",
+        "textUrl": "/files/c9fa803ce45ec616c3c9c2fc499531f15c59053c8efd09e2669f16aae2ba8113.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://pmgsytendersbih.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SYyvnuc7VWlmjHFC67cgsqw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1",
+      "observedAt": "2026-11-20T05:37:31Z",
+      "witness": "woodpecker:bihar_pmgsy",
+      "availability": "present",
+      "stateHash": "3741f7faf67d53877f06abd2ae15e72723c26e0823e64331f43aa5d5092cbede",
+      "documents": [
+        {
+          "id": "woodpecker-bihar_pmgsy-2026_CERJ_149201_1-0001-record",
+          "sha256": "c9fa803ce45ec616c3c9c2fc499531f15c59053c8efd09e2669f16aae2ba8113"
+        }
+      ],
+      "snapshotUrl": "/files/cbc93abcfb32f0e2ff6deb9470c276a03ea1b434f9f4f660aa5a7a02e6554835.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-20T05:37:31Z",
+    "lastObserved": "2026-11-20T05:37:31Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
