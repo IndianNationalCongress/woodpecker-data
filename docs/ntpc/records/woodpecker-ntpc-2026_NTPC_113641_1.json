@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113641_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113641_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113641_1-0001",
+      "date": "2026-11-14T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113641_1",
+        "title": "Biennial AMC OF ROCKWELL PLCS AT NKSTPP",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-11-21T00:00:00Z"
+        },
+        "description": "Biennial AMC OF ROCKWELL PLCS AT NKSTPP"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113641_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113641_1",
+          "url": "/files/d0e3e3b38081be836990594f49febc9cb633ffeeae578872c259c4a58ad8211f.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOjhVwfN8oHiA4mtOazQ55Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "d0e3e3b38081be836990594f49febc9cb633ffeeae578872c259c4a58ad8211f",
+          "format": "text/plain",
+          "textUrl": "/files/d0e3e3b38081be836990594f49febc9cb633ffeeae578872c259c4a58ad8211f.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113641_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOjhVwfN8oHiA4mtOazQ55Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113641_1",
+    "tender": {
+      "id": "2026_NTPC_113641_1",
+      "title": "Biennial AMC OF ROCKWELL PLCS AT NKSTPP",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-11-21T00:00:00Z"
+      },
+      "description": "Biennial AMC OF ROCKWELL PLCS AT NKSTPP"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-14T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113641_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113641_1",
+        "url": "/files/d0e3e3b38081be836990594f49febc9cb633ffeeae578872c259c4a58ad8211f.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOjhVwfN8oHiA4mtOazQ55Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "d0e3e3b38081be836990594f49febc9cb633ffeeae578872c259c4a58ad8211f",
+        "format": "text/plain",
+        "textUrl": "/files/d0e3e3b38081be836990594f49febc9cb633ffeeae578872c259c4a58ad8211f.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113641_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SOjhVwfN8oHiA4mtOazQ55Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113641_1",
+      "observedAt": "2026-11-21T05:33:00Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "095d9e5270497745c3540d1ac12317bebdec52a7c2332a2eab20e1a4c5fefca9",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113641_1-0001-record",
+          "sha256": "d0e3e3b38081be836990594f49febc9cb633ffeeae578872c259c4a58ad8211f"
+        }
+      ],
+      "snapshotUrl": "/files/26036d1461cc01c973d69b7aff64942c03722bb827caf775baeab38fdebd4959.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-21T05:33:00Z",
+    "lastObserved": "2026-11-21T05:33:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

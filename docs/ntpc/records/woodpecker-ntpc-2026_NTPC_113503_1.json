@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113503_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113503_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113503_1-0001",
+      "date": "2026-11-11T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113503_1",
+        "title": "Procurement of spares for Vaccum pump stage II and III of NTPC Farakka",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-21T00:00:00Z"
+        },
+        "description": "Procurement of spares for Vaccum pump stage II and III of NTPC Farakka"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113503_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113503_1",
+          "url": "/files/33a65902cf5fc0c86e71ffecbbbdf757edf29aba34580ded2f5f8d8d8746d317.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnfTBlx%2BePgdrVkCYbeB52Q%3D%3D",
+          "sourceAlive": true,
+          "sha256": "33a65902cf5fc0c86e71ffecbbbdf757edf29aba34580ded2f5f8d8d8746d317",
+          "format": "text/plain",
+          "textUrl": "/files/33a65902cf5fc0c86e71ffecbbbdf757edf29aba34580ded2f5f8d8d8746d317.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113503_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnfTBlx%2BePgdrVkCYbeB52Q%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113503_1",
+    "tender": {
+      "id": "2026_NTPC_113503_1",
+      "title": "Procurement of spares for Vaccum pump stage II and III of NTPC Farakka",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-21T00:00:00Z"
+      },
+      "description": "Procurement of spares for Vaccum pump stage II and III of NTPC Farakka"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-11T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113503_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113503_1",
+        "url": "/files/33a65902cf5fc0c86e71ffecbbbdf757edf29aba34580ded2f5f8d8d8746d317.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnfTBlx%2BePgdrVkCYbeB52Q%3D%3D",
+        "sourceAlive": true,
+        "sha256": "33a65902cf5fc0c86e71ffecbbbdf757edf29aba34580ded2f5f8d8d8746d317",
+        "format": "text/plain",
+        "textUrl": "/files/33a65902cf5fc0c86e71ffecbbbdf757edf29aba34580ded2f5f8d8d8746d317.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113503_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SnfTBlx%2BePgdrVkCYbeB52Q%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113503_1",
+      "observedAt": "2026-11-21T05:33:00Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "4f4cd2e741a6e36c7409a53e9b02faa9546f29a4a60af17f0597a7133e25a811",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113503_1-0001-record",
+          "sha256": "33a65902cf5fc0c86e71ffecbbbdf757edf29aba34580ded2f5f8d8d8746d317"
+        }
+      ],
+      "snapshotUrl": "/files/d7dbac27abcfb127627070ea396ad896f3e998a37e70be4c4f039b792423489e.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-21T05:33:00Z",
+    "lastObserved": "2026-11-21T05:33:00Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

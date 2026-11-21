@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-odisha-2026_OMC_145561_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-odisha-2026_OMC_145561_1",
+      "id": "woodpecker-odisha-2026_OMC_145561_1-0001",
+      "date": "2026-11-07T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Orissa Mining Corporation",
+        "id": "IN-ORG-orissa-mining-corporation"
+      },
+      "tender": {
+        "id": "2026_OMC_145561_1",
+        "title": "Supply of Electric Kettle",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Orissa Mining Corporation",
+          "id": "IN-ORG-orissa-mining-corporation"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-21T00:00:00Z"
+        },
+        "description": "Supply of Electric Kettle"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_OMC_145561_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_OMC_145561_1",
+          "url": "/files/1d1f5dee019b93c6b167735b4341af55cd4c33a32a6c4177163f8a4e1e61d916.txt",
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMzfN0qpJhkRCLwTISsA0eg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "1d1f5dee019b93c6b167735b4341af55cd4c33a32a6c4177163f8a4e1e61d916",
+          "format": "text/plain",
+          "textUrl": "/files/1d1f5dee019b93c6b167735b4341af55cd4c33a32a6c4177163f8a4e1e61d916.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-odisha-2026_OMC_145561_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMzfN0qpJhkRCLwTISsA0eg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-odisha-2026_OMC_145561_1",
+    "tender": {
+      "id": "2026_OMC_145561_1",
+      "title": "Supply of Electric Kettle",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Orissa Mining Corporation",
+        "id": "IN-ORG-orissa-mining-corporation"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-21T00:00:00Z"
+      },
+      "description": "Supply of Electric Kettle"
+    },
+    "buyer": {
+      "name": "Orissa Mining Corporation",
+      "id": "IN-ORG-orissa-mining-corporation"
+    },
+    "date": "2026-11-07T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-odisha-2026_OMC_145561_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_OMC_145561_1",
+        "url": "/files/1d1f5dee019b93c6b167735b4341af55cd4c33a32a6c4177163f8a4e1e61d916.txt",
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMzfN0qpJhkRCLwTISsA0eg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "1d1f5dee019b93c6b167735b4341af55cd4c33a32a6c4177163f8a4e1e61d916",
+        "format": "text/plain",
+        "textUrl": "/files/1d1f5dee019b93c6b167735b4341af55cd4c33a32a6c4177163f8a4e1e61d916.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-odisha-2026_OMC_145561_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://tendersodisha.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SMzfN0qpJhkRCLwTISsA0eg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-odisha-2026_OMC_145561_1",
+      "observedAt": "2026-11-21T04:37:16Z",
+      "witness": "woodpecker:odisha",
+      "availability": "present",
+      "stateHash": "5a8eaa3385113c7fce031e064634660bd74a36fecb298ad025d622b69ff061a1",
+      "documents": [
+        {
+          "id": "woodpecker-odisha-2026_OMC_145561_1-0001-record",
+          "sha256": "1d1f5dee019b93c6b167735b4341af55cd4c33a32a6c4177163f8a4e1e61d916"
+        }
+      ],
+      "snapshotUrl": "/files/fe840449f91f9ab39cb4ddb7fbde36f7c15d75e689871fbfa1f619b7b0661c63.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-21T04:37:16Z",
+    "lastObserved": "2026-11-21T04:37:16Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
