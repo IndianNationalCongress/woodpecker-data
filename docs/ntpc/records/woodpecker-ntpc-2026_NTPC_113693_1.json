@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113693_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113693_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113693_1-0001",
+      "date": "2026-11-17T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113693_1",
+        "title": "Procurement of Rexroth hydraulic components for NTPC Bongaigaon",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-23T00:00:00Z"
+        },
+        "description": "Procurement of Rexroth hydraulic components for NTPC Bongaigaon"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113693_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113693_1",
+          "url": "/files/b33f1fd42d635e0599fd39df74353a007a2f4b5abd4b97c4ce7420c89a364752.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9r%2FBIM02VT4NK5ojc%2FAoOQ%3D%3D",
+          "sourceAlive": true,
+          "sha256": "b33f1fd42d635e0599fd39df74353a007a2f4b5abd4b97c4ce7420c89a364752",
+          "format": "text/plain",
+          "textUrl": "/files/b33f1fd42d635e0599fd39df74353a007a2f4b5abd4b97c4ce7420c89a364752.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113693_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9r%2FBIM02VT4NK5ojc%2FAoOQ%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113693_1",
+    "tender": {
+      "id": "2026_NTPC_113693_1",
+      "title": "Procurement of Rexroth hydraulic components for NTPC Bongaigaon",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-23T00:00:00Z"
+      },
+      "description": "Procurement of Rexroth hydraulic components for NTPC Bongaigaon"
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-17T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113693_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113693_1",
+        "url": "/files/b33f1fd42d635e0599fd39df74353a007a2f4b5abd4b97c4ce7420c89a364752.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9r%2FBIM02VT4NK5ojc%2FAoOQ%3D%3D",
+        "sourceAlive": true,
+        "sha256": "b33f1fd42d635e0599fd39df74353a007a2f4b5abd4b97c4ce7420c89a364752",
+        "format": "text/plain",
+        "textUrl": "/files/b33f1fd42d635e0599fd39df74353a007a2f4b5abd4b97c4ce7420c89a364752.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113693_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=S9r%2FBIM02VT4NK5ojc%2FAoOQ%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113693_1",
+      "observedAt": "2026-11-23T05:39:33Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "931b69955e1fc6c042f0ac26552985923537d4c9f2bb2084e9e8c8e560cd0edc",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113693_1-0001-record",
+          "sha256": "b33f1fd42d635e0599fd39df74353a007a2f4b5abd4b97c4ce7420c89a364752"
+        }
+      ],
+      "snapshotUrl": "/files/1e4938ad6a57b70fb5462eb31ea7a8669cd96abf43ec9e1f61c7feb2d3d93c85.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-23T05:39:33Z",
+    "lastObserved": "2026-11-23T05:39:33Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
