@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-cppp-2026_DU_932672_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DU_932672_1",
+      "id": "woodpecker-cppp-2026_DU_932672_1-0001",
+      "date": "2026-11-02T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Delhi University||Central Office - DU||General Branch - DU",
+        "id": "IN-ORG-delhi-university-central-office-du-gener"
+      },
+      "tender": {
+        "id": "2026_DU_932672_1",
+        "title": "Online tender for photocopy services at UDSC",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Delhi University||Central Office - DU||General Branch - DU",
+          "id": "IN-ORG-delhi-university-central-office-du-gener"
+        },
+        "mainProcurementCategory": "services",
+        "tenderPeriod": {
+          "endDate": "2026-11-24T00:00:00Z"
+        },
+        "description": "Online tender for photocopy services at UDSC"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DU_932672_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DU_932672_1",
+          "url": "/files/66abe931046524d908f15592b2dda5bb8c2ef3c47daef2fb30b443282e9acf24.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAA9i0NLR61CEDvNc2jls3A%3D%3D",
+          "sourceAlive": true,
+          "sha256": "66abe931046524d908f15592b2dda5bb8c2ef3c47daef2fb30b443282e9acf24",
+          "format": "text/plain",
+          "textUrl": "/files/66abe931046524d908f15592b2dda5bb8c2ef3c47daef2fb30b443282e9acf24.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DU_932672_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAA9i0NLR61CEDvNc2jls3A%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DU_932672_1",
+    "tender": {
+      "id": "2026_DU_932672_1",
+      "title": "Online tender for photocopy services at UDSC",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Delhi University||Central Office - DU||General Branch - DU",
+        "id": "IN-ORG-delhi-university-central-office-du-gener"
+      },
+      "mainProcurementCategory": "services",
+      "tenderPeriod": {
+        "endDate": "2026-11-24T00:00:00Z"
+      },
+      "description": "Online tender for photocopy services at UDSC"
+    },
+    "buyer": {
+      "name": "Delhi University||Central Office - DU||General Branch - DU",
+      "id": "IN-ORG-delhi-university-central-office-du-gener"
+    },
+    "date": "2026-11-02T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DU_932672_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DU_932672_1",
+        "url": "/files/66abe931046524d908f15592b2dda5bb8c2ef3c47daef2fb30b443282e9acf24.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAA9i0NLR61CEDvNc2jls3A%3D%3D",
+        "sourceAlive": true,
+        "sha256": "66abe931046524d908f15592b2dda5bb8c2ef3c47daef2fb30b443282e9acf24",
+        "format": "text/plain",
+        "textUrl": "/files/66abe931046524d908f15592b2dda5bb8c2ef3c47daef2fb30b443282e9acf24.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DU_932672_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAA9i0NLR61CEDvNc2jls3A%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DU_932672_1",
+      "observedAt": "2026-11-24T07:08:18Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "154ae8890e33dc6dd178a261a498ad802cdfd07f1e1903cea59614b4f31412da",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DU_932672_1-0001-record",
+          "sha256": "66abe931046524d908f15592b2dda5bb8c2ef3c47daef2fb30b443282e9acf24"
+        }
+      ],
+      "snapshotUrl": "/files/63729810f85c66cdfde5b6b0a498d9da910e4a0119cddb60c0046631038e1237.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-24T07:08:18Z",
+    "lastObserved": "2026-11-24T07:08:18Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

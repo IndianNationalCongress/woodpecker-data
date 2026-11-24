@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_NHPC_932865_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_NHPC_932865_1",
+      "id": "woodpecker-cppp-2026_NHPC_932865_1-0001",
+      "date": "2026-11-03T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NHPC Limited||Nimoo Bazgo Power Station-NHPC",
+        "id": "IN-ORG-nhpc-limited-nimoo-bazgo-power-station-n"
+      },
+      "tender": {
+        "id": "2026_NHPC_932865_1",
+        "title": "Work for repair/replacement of street lights at Nimoo Bazgo Power Station, NHPC LTD. alchi, Leh",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NHPC Limited||Nimoo Bazgo Power Station-NHPC",
+          "id": "IN-ORG-nhpc-limited-nimoo-bazgo-power-station-n"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 1268500,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-24T00:00:00Z"
+        },
+        "description": "Work for repair/replacement of street lights at Nimoo Bazgo Power Station, NHPC LTD. alchi, Leh"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NHPC_932865_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NHPC_932865_1",
+          "url": "/files/5618256ea116ce9ca5d2b5f6e23e4ec65a1a7e17c820f69724f88465d54223e3.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQ5ES6F9QutNFb6geEMK%2FnA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "5618256ea116ce9ca5d2b5f6e23e4ec65a1a7e17c820f69724f88465d54223e3",
+          "format": "text/plain",
+          "textUrl": "/files/5618256ea116ce9ca5d2b5f6e23e4ec65a1a7e17c820f69724f88465d54223e3.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_NHPC_932865_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQ5ES6F9QutNFb6geEMK%2FnA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_NHPC_932865_1",
+    "tender": {
+      "id": "2026_NHPC_932865_1",
+      "title": "Work for repair/replacement of street lights at Nimoo Bazgo Power Station, NHPC LTD. alchi, Leh",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NHPC Limited||Nimoo Bazgo Power Station-NHPC",
+        "id": "IN-ORG-nhpc-limited-nimoo-bazgo-power-station-n"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 1268500,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-24T00:00:00Z"
+      },
+      "description": "Work for repair/replacement of street lights at Nimoo Bazgo Power Station, NHPC LTD. alchi, Leh"
+    },
+    "buyer": {
+      "name": "NHPC Limited||Nimoo Bazgo Power Station-NHPC",
+      "id": "IN-ORG-nhpc-limited-nimoo-bazgo-power-station-n"
+    },
+    "date": "2026-11-03T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_NHPC_932865_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NHPC_932865_1",
+        "url": "/files/5618256ea116ce9ca5d2b5f6e23e4ec65a1a7e17c820f69724f88465d54223e3.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQ5ES6F9QutNFb6geEMK%2FnA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "5618256ea116ce9ca5d2b5f6e23e4ec65a1a7e17c820f69724f88465d54223e3",
+        "format": "text/plain",
+        "textUrl": "/files/5618256ea116ce9ca5d2b5f6e23e4ec65a1a7e17c820f69724f88465d54223e3.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_NHPC_932865_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SQ5ES6F9QutNFb6geEMK%2FnA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_NHPC_932865_1",
+      "observedAt": "2026-11-24T07:08:18Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "af84b6fcaf317788e461658b7b17d1cf25e0fabbd6c00042a6f6effe4e6c5555",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_NHPC_932865_1-0001-record",
+          "sha256": "5618256ea116ce9ca5d2b5f6e23e4ec65a1a7e17c820f69724f88465d54223e3"
+        }
+      ],
+      "snapshotUrl": "/files/77f88986576ba71e799008bd3a98fc80a9c879438e26d021f81cc64b6312fda6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-24T07:08:18Z",
+    "lastObserved": "2026-11-24T07:08:18Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

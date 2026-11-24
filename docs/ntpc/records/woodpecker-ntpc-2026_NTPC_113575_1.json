@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-ntpc-2026_NTPC_113575_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113575_1",
+      "id": "woodpecker-ntpc-2026_NTPC_113575_1-0001",
+      "date": "2026-11-13T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "tender": {
+        "id": "2026_NTPC_113575_1",
+        "title": "Procurement for lock assembly of HPOLV HPCV and HPSV at NTPC TANDA.",
+        "status": "active",
+        "procuringEntity": {
+          "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+          "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-24T00:00:00Z"
+        },
+        "description": "Procurement for lock assembly of HPOLV HPCV and HPSV at NTPC TANDA."
+      },
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113575_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_NTPC_113575_1",
+          "url": "/files/0185c02972c25bc524641efd24781e63f3a2864129ab0e5fdcf598528d61ce6d.txt",
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC6UU51IN9d8LJ2YFl86Uog%3D%3D",
+          "sourceAlive": true,
+          "sha256": "0185c02972c25bc524641efd24781e63f3a2864129ab0e5fdcf598528d61ce6d",
+          "format": "text/plain",
+          "textUrl": "/files/0185c02972c25bc524641efd24781e63f3a2864129ab0e5fdcf598528d61ce6d.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113575_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC6UU51IN9d8LJ2YFl86Uog%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-ntpc-2026_NTPC_113575_1",
+    "tender": {
+      "id": "2026_NTPC_113575_1",
+      "title": "Procurement for lock assembly of HPOLV HPCV and HPSV at NTPC TANDA.",
+      "status": "active",
+      "procuringEntity": {
+        "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+        "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-24T00:00:00Z"
+      },
+      "description": "Procurement for lock assembly of HPOLV HPCV and HPSV at NTPC TANDA."
+    },
+    "buyer": {
+      "name": "NTPC Limited||Corporate Centre||USSC||CPG-3",
+      "id": "IN-ORG-ntpc-limited-corporate-centre-ussc-cpg-3"
+    },
+    "date": "2026-11-13T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113575_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_NTPC_113575_1",
+        "url": "/files/0185c02972c25bc524641efd24781e63f3a2864129ab0e5fdcf598528d61ce6d.txt",
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC6UU51IN9d8LJ2YFl86Uog%3D%3D",
+        "sourceAlive": true,
+        "sha256": "0185c02972c25bc524641efd24781e63f3a2864129ab0e5fdcf598528d61ce6d",
+        "format": "text/plain",
+        "textUrl": "/files/0185c02972c25bc524641efd24781e63f3a2864129ab0e5fdcf598528d61ce6d.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-ntpc-2026_NTPC_113575_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurentpc.nic.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SC6UU51IN9d8LJ2YFl86Uog%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-ntpc-2026_NTPC_113575_1",
+      "observedAt": "2026-11-24T08:21:52Z",
+      "witness": "woodpecker:ntpc",
+      "availability": "present",
+      "stateHash": "117ae7b517bf4f0f7fbbec2b10367562a14c8d5c47f05349f84f4ad437e25aed",
+      "documents": [
+        {
+          "id": "woodpecker-ntpc-2026_NTPC_113575_1-0001-record",
+          "sha256": "0185c02972c25bc524641efd24781e63f3a2864129ab0e5fdcf598528d61ce6d"
+        }
+      ],
+      "snapshotUrl": "/files/1c7a309c2549d0bff8ec07da9d2191d37225b6a620204fc236c5912165efc108.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-24T08:21:52Z",
+    "lastObserved": "2026-11-24T08:21:52Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
