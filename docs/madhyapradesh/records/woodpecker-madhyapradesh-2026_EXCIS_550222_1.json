@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-madhyapradesh-2026_EXCIS_550222_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-madhyapradesh-2026_EXCIS_550222_1",
+      "id": "woodpecker-madhyapradesh-2026_EXCIS_550222_1-0001",
+      "date": "2026-11-18T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Excise Department||District Excise Office Sidhi",
+        "id": "IN-ORG-excise-department-district-excise-office"
+      },
+      "tender": {
+        "id": "2026_EXCIS_550222_1",
+        "title": "Vehicle Contract 2",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Excise Department||District Excise Office Sidhi",
+          "id": "IN-ORG-excise-department-district-excise-office"
+        },
+        "mainProcurementCategory": "services",
+        "value": {
+          "amount": 42000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-25T00:00:00Z"
+        },
+        "description": "Vehicle Contract 2"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-madhyapradesh-2026_EXCIS_550222_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_EXCIS_550222_1",
+          "url": "/files/cfefd6822c8e8e3a8f02bf436eb2b795687a0df768a4258c923ae4b3171313a6.txt",
+          "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuX9s0vXyskIrPGucoPvZcg%3D%3D",
+          "sourceAlive": true,
+          "sha256": "cfefd6822c8e8e3a8f02bf436eb2b795687a0df768a4258c923ae4b3171313a6",
+          "format": "text/plain",
+          "textUrl": "/files/cfefd6822c8e8e3a8f02bf436eb2b795687a0df768a4258c923ae4b3171313a6.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-madhyapradesh-2026_EXCIS_550222_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuX9s0vXyskIrPGucoPvZcg%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-madhyapradesh-2026_EXCIS_550222_1",
+    "tender": {
+      "id": "2026_EXCIS_550222_1",
+      "title": "Vehicle Contract 2",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Excise Department||District Excise Office Sidhi",
+        "id": "IN-ORG-excise-department-district-excise-office"
+      },
+      "mainProcurementCategory": "services",
+      "value": {
+        "amount": 42000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-25T00:00:00Z"
+      },
+      "description": "Vehicle Contract 2"
+    },
+    "buyer": {
+      "name": "Excise Department||District Excise Office Sidhi",
+      "id": "IN-ORG-excise-department-district-excise-office"
+    },
+    "date": "2026-11-18T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-madhyapradesh-2026_EXCIS_550222_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_EXCIS_550222_1",
+        "url": "/files/cfefd6822c8e8e3a8f02bf436eb2b795687a0df768a4258c923ae4b3171313a6.txt",
+        "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuX9s0vXyskIrPGucoPvZcg%3D%3D",
+        "sourceAlive": true,
+        "sha256": "cfefd6822c8e8e3a8f02bf436eb2b795687a0df768a4258c923ae4b3171313a6",
+        "format": "text/plain",
+        "textUrl": "/files/cfefd6822c8e8e3a8f02bf436eb2b795687a0df768a4258c923ae4b3171313a6.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-madhyapradesh-2026_EXCIS_550222_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://mptenders.gov.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SuX9s0vXyskIrPGucoPvZcg%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-madhyapradesh-2026_EXCIS_550222_1",
+      "observedAt": "2026-11-25T05:52:46Z",
+      "witness": "woodpecker:madhyapradesh",
+      "availability": "present",
+      "stateHash": "931f33e50667fb49afac590010b2107783bde8f8a5480851b57cfc8536856357",
+      "documents": [
+        {
+          "id": "woodpecker-madhyapradesh-2026_EXCIS_550222_1-0001-record",
+          "sha256": "cfefd6822c8e8e3a8f02bf436eb2b795687a0df768a4258c923ae4b3171313a6"
+        }
+      ],
+      "snapshotUrl": "/files/6e3cb75cb7e8b668162d80d33a3be41e96f8d3c9f37c37a651822f3021d11c0c.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-25T05:52:46Z",
+    "lastObserved": "2026-11-25T05:52:46Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}

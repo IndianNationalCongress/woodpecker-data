@@ -1,0 +1,142 @@
+{
+  "ocid": "woodpecker-cppp-2026_DCSEM_931487_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-cppp-2026_DCSEM_931487_1",
+      "id": "woodpecker-cppp-2026_DCSEM_931487_1-0001",
+      "date": "2026-10-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Directorate of Construction Services and Estate Management||QSB - DCSEM",
+        "id": "IN-ORG-directorate-of-construction-services-and"
+      },
+      "tender": {
+        "id": "2026_DCSEM_931487_1",
+        "title": "Building work/ Building maintenance work/ Building renovation work",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Directorate of Construction Services and Estate Management||QSB - DCSEM",
+          "id": "IN-ORG-directorate-of-construction-services-and"
+        },
+        "mainProcurementCategory": "works",
+        "value": {
+          "amount": 4200000,
+          "currency": "INR"
+        },
+        "tenderPeriod": {
+          "endDate": "2026-11-25T00:00:00Z"
+        },
+        "description": "Building work/ Building maintenance work/ Building renovation work"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DCSEM_931487_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_DCSEM_931487_1",
+          "url": "/files/a2f4a5dbbe7281d1b8ff6cea6c721acc6851af571e0ac0137e7f79405e989c95.txt",
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sfos5amg1%2F7vROY0qGDRuxw%3D%3D",
+          "sourceAlive": true,
+          "sha256": "a2f4a5dbbe7281d1b8ff6cea6c721acc6851af571e0ac0137e7f79405e989c95",
+          "format": "text/plain",
+          "textUrl": "/files/a2f4a5dbbe7281d1b8ff6cea6c721acc6851af571e0ac0137e7f79405e989c95.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-cppp-2026_DCSEM_931487_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sfos5amg1%2F7vROY0qGDRuxw%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-cppp-2026_DCSEM_931487_1",
+    "tender": {
+      "id": "2026_DCSEM_931487_1",
+      "title": "Building work/ Building maintenance work/ Building renovation work",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Directorate of Construction Services and Estate Management||QSB - DCSEM",
+        "id": "IN-ORG-directorate-of-construction-services-and"
+      },
+      "mainProcurementCategory": "works",
+      "value": {
+        "amount": 4200000,
+        "currency": "INR"
+      },
+      "tenderPeriod": {
+        "endDate": "2026-11-25T00:00:00Z"
+      },
+      "description": "Building work/ Building maintenance work/ Building renovation work"
+    },
+    "buyer": {
+      "name": "Directorate of Construction Services and Estate Management||QSB - DCSEM",
+      "id": "IN-ORG-directorate-of-construction-services-and"
+    },
+    "date": "2026-10-23T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-cppp-2026_DCSEM_931487_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_DCSEM_931487_1",
+        "url": "/files/a2f4a5dbbe7281d1b8ff6cea6c721acc6851af571e0ac0137e7f79405e989c95.txt",
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sfos5amg1%2F7vROY0qGDRuxw%3D%3D",
+        "sourceAlive": true,
+        "sha256": "a2f4a5dbbe7281d1b8ff6cea6c721acc6851af571e0ac0137e7f79405e989c95",
+        "format": "text/plain",
+        "textUrl": "/files/a2f4a5dbbe7281d1b8ff6cea6c721acc6851af571e0ac0137e7f79405e989c95.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-cppp-2026_DCSEM_931487_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocure.gov.in/eprocure/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=Sfos5amg1%2F7vROY0qGDRuxw%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-cppp-2026_DCSEM_931487_1",
+      "observedAt": "2026-11-25T05:42:03Z",
+      "witness": "woodpecker:cppp",
+      "availability": "present",
+      "stateHash": "08a0f4e8adc8ef245dc8568f150e69eb0c3f7e3da3de4e6582c7b09ee0d89623",
+      "documents": [
+        {
+          "id": "woodpecker-cppp-2026_DCSEM_931487_1-0001-record",
+          "sha256": "a2f4a5dbbe7281d1b8ff6cea6c721acc6851af571e0ac0137e7f79405e989c95"
+        }
+      ],
+      "snapshotUrl": "/files/813257a7121f6e5e4bbddb99f226b6b85f3ccee634471c7974fe3a46f50f3ad6.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-25T05:42:03Z",
+    "lastObserved": "2026-11-25T05:42:03Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
