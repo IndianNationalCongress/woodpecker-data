@@ -1,0 +1,134 @@
+{
+  "ocid": "woodpecker-bhel-2026_BHEL_67309_1",
+  "releases": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_67309_1",
+      "id": "woodpecker-bhel-2026_BHEL_67309_1-0001",
+      "date": "2026-11-24T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "name": "Bharat Heavy Electricals Limited||EPD - Bangalore||MM||COMMON SECTION",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-epd-ban"
+      },
+      "tender": {
+        "id": "2026_BHEL_67309_1",
+        "title": "Procurement of spares for SCADA at 50MW Mahagenco site",
+        "status": "active",
+        "procuringEntity": {
+          "name": "Bharat Heavy Electricals Limited||EPD - Bangalore||MM||COMMON SECTION",
+          "id": "IN-ORG-bharat-heavy-electricals-limited-epd-ban"
+        },
+        "mainProcurementCategory": "goods",
+        "tenderPeriod": {
+          "endDate": "2026-11-27T00:00:00Z"
+        },
+        "description": "Procurement of spares for SCADA at 50MW Mahagenco site"
+      },
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_67309_1-0001-record",
+          "documentType": "tenderNotice",
+          "title": "Captured tender record (text) — 2026_BHEL_67309_1",
+          "url": "/files/73c2ef08ebc065f5b1decb3ed8d8f270fe73aa6f33aa842be604bd39110d1840.txt",
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAnTsOkFiu8130t2RgumVPA%3D%3D",
+          "sourceAlive": true,
+          "sha256": "73c2ef08ebc065f5b1decb3ed8d8f270fe73aa6f33aa842be604bd39110d1840",
+          "format": "text/plain",
+          "textUrl": "/files/73c2ef08ebc065f5b1decb3ed8d8f270fe73aa6f33aa842be604bd39110d1840.txt",
+          "extractionMethod": "raw"
+        },
+        {
+          "id": "woodpecker-bhel-2026_BHEL_67309_1-0001-doc-1",
+          "documentType": "biddingDocuments",
+          "title": "Tendernotice_1.pdf",
+          "url": null,
+          "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAnTsOkFiu8130t2RgumVPA%3D%3D",
+          "sourceAlive": false,
+          "sha256": null,
+          "format": "application/pdf",
+          "textUrl": null,
+          "extractionMethod": "none"
+        }
+      ]
+    }
+  ],
+  "compiledRelease": {
+    "ocid": "woodpecker-bhel-2026_BHEL_67309_1",
+    "tender": {
+      "id": "2026_BHEL_67309_1",
+      "title": "Procurement of spares for SCADA at 50MW Mahagenco site",
+      "status": "active",
+      "procuringEntity": {
+        "name": "Bharat Heavy Electricals Limited||EPD - Bangalore||MM||COMMON SECTION",
+        "id": "IN-ORG-bharat-heavy-electricals-limited-epd-ban"
+      },
+      "mainProcurementCategory": "goods",
+      "tenderPeriod": {
+        "endDate": "2026-11-27T00:00:00Z"
+      },
+      "description": "Procurement of spares for SCADA at 50MW Mahagenco site"
+    },
+    "buyer": {
+      "name": "Bharat Heavy Electricals Limited||EPD - Bangalore||MM||COMMON SECTION",
+      "id": "IN-ORG-bharat-heavy-electricals-limited-epd-ban"
+    },
+    "date": "2026-11-24T00:00:00Z",
+    "tag": [
+      "compiled"
+    ],
+    "documents": [
+      {
+        "id": "woodpecker-bhel-2026_BHEL_67309_1-0001-record",
+        "documentType": "tenderNotice",
+        "title": "Captured tender record (text) — 2026_BHEL_67309_1",
+        "url": "/files/73c2ef08ebc065f5b1decb3ed8d8f270fe73aa6f33aa842be604bd39110d1840.txt",
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAnTsOkFiu8130t2RgumVPA%3D%3D",
+        "sourceAlive": true,
+        "sha256": "73c2ef08ebc065f5b1decb3ed8d8f270fe73aa6f33aa842be604bd39110d1840",
+        "format": "text/plain",
+        "textUrl": "/files/73c2ef08ebc065f5b1decb3ed8d8f270fe73aa6f33aa842be604bd39110d1840.txt",
+        "extractionMethod": "raw"
+      },
+      {
+        "id": "woodpecker-bhel-2026_BHEL_67309_1-0001-doc-1",
+        "documentType": "biddingDocuments",
+        "title": "Tendernotice_1.pdf",
+        "url": null,
+        "sourceUrl": "https://eprocurebhel.co.in/nicgep/app?component=%24DirectLink&page=FrontEndListTendersbyDate&service=direct&session=T&sp=SAnTsOkFiu8130t2RgumVPA%3D%3D",
+        "sourceAlive": false,
+        "sha256": null,
+        "format": "application/pdf",
+        "textUrl": null,
+        "extractionMethod": "none"
+      }
+    ]
+  },
+  "amendments": [],
+  "observations": [
+    {
+      "ocid": "woodpecker-bhel-2026_BHEL_67309_1",
+      "observedAt": "2026-11-27T05:46:26Z",
+      "witness": "woodpecker:bhel",
+      "availability": "present",
+      "stateHash": "fe66d37c13d550f308c6e7a91b92d18e3dcaa31685ce82be96e5698a49af0354",
+      "documents": [
+        {
+          "id": "woodpecker-bhel-2026_BHEL_67309_1-0001-record",
+          "sha256": "73c2ef08ebc065f5b1decb3ed8d8f270fe73aa6f33aa842be604bd39110d1840"
+        }
+      ],
+      "snapshotUrl": "/files/a5a9bde37440c60b70355f5217aa8cc7ad2ffdce015b291b9e4471384e01ecec.json",
+      "undeclaredChange": false
+    }
+  ],
+  "observedSummary": {
+    "count": 1,
+    "firstObserved": "2026-11-27T05:46:26Z",
+    "lastObserved": "2026-11-27T05:46:26Z",
+    "undeclaredChangeCount": 0,
+    "pulled": false
+  }
+}
